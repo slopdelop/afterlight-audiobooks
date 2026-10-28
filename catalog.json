@@ -20,6 +20,14 @@
           "src": "audio/hollow-throne/chapter-06.mp3",
           "duration": 1190.86,
           "transcript": "text/hollow-throne/chapter-06.json"
+        },
+        {
+          "id": "hollow-throne-07",
+          "number": 7,
+          "title": "The Day the Death Star Died",
+          "src": "audio/hollow-throne/chapter-07.mp3",
+          "duration": 1508.06,
+          "transcript": "text/hollow-throne/chapter-07.json"
         }
       ]
     }

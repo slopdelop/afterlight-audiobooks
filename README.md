@@ -78,13 +78,13 @@ Old application-shell caches are cleaned up after activation. IndexedDB audio an
 
 ## Read / Listen (MVP 2)
 
-Chapter 6 includes its original text with 462 paragraph cues. Open **Read chapter** from the player: audio pauses and the current paragraph is highlighted and brought into view. Scroll normally to read; the paragraph near the upper part of the screen becomes your saved reading place. **Listen** resumes there, or tap any paragraph to play its audio. **Play audio** stays in the reader for read-along playback; Follow audio can be switched off when browsing. The Aa control changes text size.
+Chapters 6 and 7 include synchronized reading text in conventional book paragraphs. Chapter 6 has 220 display paragraphs and Chapter 7 has 229; short consecutive narrative fragments are grouped without changing the audio. Open **Read chapter** from the player: audio pauses and the current paragraph is highlighted and brought into view. Scroll normally to read; the paragraph near the upper part of the screen becomes your saved reading place. **Listen** resumes there, or tap any paragraph to play its audio. **Play audio** stays in the reader for read-along playback; Follow audio can be switched off when browsing. The Aa control changes text size.
 
 Reading and audio share the existing per-chapter progress, which is retained across reloads and progress backups. Returning from the library in reading mode offers Continue reading. Updates do not interrupt an active reading view; an explicitly requested update restores that view afterward. Paragraph text is cached with the application, so reading works offline even without a downloaded MP3. Offline listening still requires a downloaded audio file.
 
-The text retains the author's paragraphs, quotation marks and supplied pronunciation spellings. Cues combine exact synthesis-segment boundaries with local Whisper word alignment inside longer narration segments. Seven unmatched boundaries were interpolated; synchronization is paragraph-level and approximate, not word-by-word highlighting.
+The reader uses normal Star Wars spellings, retains quotation marks and dialogue turns, and groups related narrative sentences into paragraphs. Scene breaks remain visible. Pronunciation hints are confined to the spoken production script. Cues combine exact synthesis-segment boundaries with local Whisper word alignment inside longer narration segments. Seven unmatched boundaries were interpolated; synchronization is paragraph-level and approximate, not word-by-word highlighting.
 
-To add synchronized text to a later chapter, place a JSON file under `text/<book-id>/chapter-XX.json` and set that chapter's `transcript` catalog property to the relative path. The build automatically includes text files in its release hash and offline cache. Audio-only chapters still work and simply have no Read button. A text file has this shape:
+To add synchronized text to a later chapter, place a JSON file under `text/<book-id>/chapter-XX.json` and set that chapter's `transcript` catalog property to the relative path, or pass `--transcript path/to/chapter-XX.json` to `tools/add_chapter.py`. The build automatically includes text files in its release hash and offline cache. Audio-only chapters still work and simply have no Read button. A text file has this shape:
 
 ```json
 {

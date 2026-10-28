@@ -26,14 +26,13 @@ Public publication of the app and Chapter 6 MP3 was explicitly approved. The rep
 - Live-site startup QA found and fixed a navigation race: initial metadata loading no longer overrides a user who has already opened the player.
 
 
-## Paragraph reader (MVP 2)
+## Paragraph reader and Chapter 7
 
-- Source mapping checked every non-whitespace chapter character (apart from Markdown heading markers). Reader text preserves all 462 original paragraphs, including quoted dialogue and narrator tags in the same paragraph.
-- 51 multi-paragraph audio segments aligned using offline Whisper word timestamps. 213 paragraph starts use synthesis segment boundaries, 242 use matched word timestamps, and 7 are interpolated.
-- Added paragraph boundary, malformed transcript, complete chapter text and legacy backup/reading progress tests; all 14 tests pass.
-- Browser: audio at 30 seconds opened paragraph 7, including its dialogue tag. Tapping paragraph 101 sought to 291.92 seconds and began playback.
-- Manual scrolling updated the reading place. Leaving for the library and reopening the app restored the location shown in Continue reading; Listen resumed from the same paragraph.
-- Stopped the local server and removed the MP3 download: the app reopened offline with all 462 paragraphs at the saved reading place.
-- Reader mode defers automatic updates; an explicit update preserves the reading location and font-size preference.
-
-- MVP2 public upload was blocked by automatic approval review: public publication of the full chapter text and timing data requires explicit authorization beyond the earlier app/MP3 approval. The reader is complete locally; the public site remains on MVP1 until approved.
+- All 17 tests pass, including complete chapter-text hashes, ordered paragraph cues, legacy progress/backups, Chapter 6-to-7 navigation and actual Chapter 7 MP3 duration/sleep truncation.
+- Chapter 6 reading text now uses 220 conventional paragraphs rather than 462 sentence fragments. Original cue IDs and audio positions are retained; pronunciation spellings are restored to normal names in the reader.
+- Chapter 7 is 25:08 (1508.06 seconds), with 235 checked audio clips and the existing Peter Yearsley narrator reference plus six fixed character voices. Local transcription checks covered every clip; the suspect extra-word take was regenerated and matches its script. This is automated audio QA, not a full human listening review.
+- Chapter 7 has 229 book paragraphs and seven visible scene breaks. 210 paragraph starts use segment boundaries, 15 use local Whisper word alignment and four are interpolated. Synchronization remains approximate at paragraph level.
+- Source checks retain every chapter character apart from formatting/scene markers and the Chapter 6 pronunciation-spelling cleanup. The attachment preamble and trailing editing note are excluded from Chapter 7.
+- Browser: both chapters appear in the catalog. Tapping Chapter 7 paragraph 4 sought to 10.8 seconds and started native audio. Opening Read paused audio at the matching paragraph. Reload restored Continue reading at 26 seconds; reopening returned to paragraph 4.
+- The reader was checked at a 390 × 844 viewport: prose wraps as multi-sentence book paragraphs, dialogue turns stay separate, and scene ornaments remain visible.
+- Existing offline-reader and update lifecycle checks remain applicable: text is cached with the shell, MP3 downloads are explicit, and updates preserve progress/bookmarks/downloads. Physical iPhone behavior still requires device testing.

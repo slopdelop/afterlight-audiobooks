@@ -1,0 +1,1847 @@
+{
+  "version": 1,
+  "chapterId": "hollow-throne-07",
+  "duration": 1508.06,
+  "alignment": "Book paragraphs use synthesis segment boundaries and local Whisper word alignment; unmatched starts are interpolated.",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Chapter Seven: The Day the Death Star Died",
+      "start": 0.0,
+      "timing": "segment",
+      "kind": "title",
+      "end": 3.56
+    },
+    {
+      "id": "p0002",
+      "text": "Palpatine Flashback II — Imperial Palace, Coruscant",
+      "start": 3.56,
+      "timing": "word-aligned",
+      "kind": "title",
+      "end": 8.2
+    },
+    {
+      "id": "p0003",
+      "text": "Immediately after the Battle of Yavin",
+      "start": 8.2,
+      "timing": "word-aligned",
+      "kind": "title",
+      "end": 10.6
+    },
+    {
+      "id": "p0004",
+      "text": "The Emperor was halfway through his breakfast when a trillion credits disappeared. He did not know it yet. At that precise moment, Palpatine was examining a report concerning agricultural taxation in the Mid Rim. He had discovered, to his considerable irritation, that three provincial governors had been independently collecting revenue from the same shipping corridor. Ordinarily, such corruption would have pleased him. A corrupt official was easily controlled, and a frightened one even more so.",
+      "start": 10.6,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 41.06
+    },
+    {
+      "id": "p0005",
+      "text": "But these particular governors were stealing from him. He marked their names for investigation. Then he took another sip of tea. Across the room, a communications terminal chimed. Palpatine ignored it. The terminal chimed again. He frowned. Very few people possessed permission to contact his private residence directly. Of those who did, most understood that an interruption at this hour was likely to be their final professional achievement. The third chime sounded. He reached toward the terminal.",
+      "start": 41.06,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 74.34
+    },
+    {
+      "id": "p0006",
+      "text": "\"Yes?\"",
+      "start": 74.34,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 75.5
+    },
+    {
+      "id": "p0007",
+      "text": "The hologram that appeared was not the one he expected. Mas Amedda, his Grand Vizier, stood rigidly in the projection. His blue face had taken on an unpleasant grayish tint.",
+      "start": 75.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 88.77
+    },
+    {
+      "id": "p0008",
+      "text": "\"Your Majesty.\"",
+      "start": 88.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 89.61
+    },
+    {
+      "id": "p0009",
+      "text": "\"Ah. An emergency, I presume.\"",
+      "start": 89.61,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 92.99
+    },
+    {
+      "id": "p0010",
+      "text": "\"Yes, Majesty.\"",
+      "start": 92.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 94.14
+    },
+    {
+      "id": "p0011",
+      "text": "\"Then you had better tell me what it is.\"",
+      "start": 94.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 96.82
+    },
+    {
+      "id": "p0012",
+      "text": "Amedda swallowed.",
+      "start": 96.82,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 98.64
+    },
+    {
+      "id": "p0013",
+      "text": "\"We have lost contact with the battle station.\"",
+      "start": 98.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 101.27
+    },
+    {
+      "id": "p0014",
+      "text": "Palpatine set down his cup.",
+      "start": 101.27,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 103.31
+    },
+    {
+      "id": "p0015",
+      "text": "\"Explain.\"",
+      "start": 103.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 104.84
+    },
+    {
+      "id": "p0016",
+      "text": "\"The Death Star, Majesty. Its communications have ceased.\"",
+      "start": 104.84,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 108.3
+    },
+    {
+      "id": "p0017",
+      "text": "\"Communications failures are not uncommon.\"",
+      "start": 108.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 111.58
+    },
+    {
+      "id": "p0018",
+      "text": "\"All communications.\"",
+      "start": 111.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 113.12
+    },
+    {
+      "id": "p0019",
+      "text": "\"Then contact Tarkin's command ship.\"",
+      "start": 113.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 116.01
+    },
+    {
+      "id": "p0020",
+      "text": "\"There is no response.\"",
+      "start": 116.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 117.4
+    },
+    {
+      "id": "p0021",
+      "text": "\"The escort vessels?\"",
+      "start": 117.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 119.6
+    },
+    {
+      "id": "p0022",
+      "text": "\"No response.\"",
+      "start": 119.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 120.44
+    },
+    {
+      "id": "p0023",
+      "text": "Palpatine said nothing. Amedda looked down at something outside the hologram.",
+      "start": 120.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 127.64
+    },
+    {
+      "id": "p0024",
+      "text": "\"Majesty, we have received a report from a long-range monitoring station. There was an enormous energy discharge in the Yavin system.\"",
+      "start": 127.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 136.09
+    },
+    {
+      "id": "p0025",
+      "text": "\"How enormous?\"",
+      "start": 136.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 138.03
+    },
+    {
+      "id": "p0026",
+      "text": "The Grand Vizier hesitated.",
+      "start": 138.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 140.07
+    },
+    {
+      "id": "p0027",
+      "text": "\"Comparable to the destruction of a small moon.\"",
+      "start": 140.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 142.83
+    },
+    {
+      "id": "p0028",
+      "text": "The Emperor's fingers tightened around the arm of his chair. For several seconds, the room was completely silent. Then he spoke.",
+      "start": 142.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 151.38
+    },
+    {
+      "id": "p0029",
+      "text": "\"Bring me the recording.\"",
+      "start": 151.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 153.2
+    },
+    {
+      "id": "p0030",
+      "text": "The image was poor. A distant Imperial monitoring probe had been observing the Yavin system from well outside the battle zone. Its final transmission showed the Death Star moving into position around the gas giant. The vast sphere filled the center of the hologram. Its superlaser was preparing to fire. Then— A brilliant flash. A rapidly expanding cloud of debris. And nothing. The image ended. Palpatine watched it again. Then a third time.",
+      "start": 153.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 181.77
+    },
+    {
+      "id": "p0031",
+      "text": "He did not shout. He did not overturn the table. He simply sat very still. The Death Star was gone. Grand Moff Tarkin was dead. An investment of nearly two decades had been reduced to an expanding cloud of metal and vapor. Hundreds of thousands of Imperial personnel had vanished in an instant. And the greatest weapon ever constructed had failed during its first major engagement with the Rebel Alliance. Palpatine considered the implications. Then he reached for his tea.",
+      "start": 181.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 211.65
+    },
+    {
+      "id": "p0032",
+      "text": "It had gone cold. He stared at the cup. A small crack appeared in the porcelain. Then another. The cup shattered in his hand. Tea spilled across the polished table. Amedda flinched. Palpatine looked down at the fragments.",
+      "start": 211.65,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 227.3
+    },
+    {
+      "id": "p0033",
+      "text": "\"How disappointing.\"",
+      "start": 227.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 229.17
+    },
+    {
+      "id": "p0034",
+      "text": "His voice was barely audible.",
+      "start": 229.17,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 231.08
+    },
+    {
+      "id": "p0035",
+      "text": "\"Majesty, we are still attempting to confirm—\"",
+      "start": 231.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 234.03
+    },
+    {
+      "id": "p0036",
+      "text": "\"Do not insult me.\"",
+      "start": 234.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 236.59
+    },
+    {
+      "id": "p0037",
+      "text": "The Grand Vizier fell silent.",
+      "start": 236.59,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 238.81
+    },
+    {
+      "id": "p0038",
+      "text": "\"The station has been destroyed. Tarkin has failed. The Rebels have accomplished what every military assessment assured me was impossible.\"",
+      "start": 238.81,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 247.89
+    },
+    {
+      "id": "p0039",
+      "text": "Palpatine rose slowly.",
+      "start": 247.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 249.86
+    },
+    {
+      "id": "p0040",
+      "text": "\"Have we identified the cause?\"",
+      "start": 249.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 252.29
+    },
+    {
+      "id": "p0041",
+      "text": "\"Not yet.\"",
+      "start": 252.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 253.1
+    },
+    {
+      "id": "p0042",
+      "text": "\"Then find it.\"",
+      "start": 253.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 254.87
+    },
+    {
+      "id": "p0043",
+      "text": "\"Yes, Majesty.\"",
+      "start": 254.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 255.87
+    },
+    {
+      "id": "p0044",
+      "text": "\"And summon the military council.\"",
+      "start": 255.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 258.31
+    },
+    {
+      "id": "p0045",
+      "text": "Amedda bowed.",
+      "start": 258.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 260.2
+    },
+    {
+      "id": "p0046",
+      "text": "\"Immediately.\"",
+      "start": 260.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 261.2
+    },
+    {
+      "id": "p0047",
+      "text": "The hologram vanished. Palpatine looked toward the great windows of his private residence. Beyond them, Coruscant stretched to the horizon. Trillions of beings living beneath his authority. For twenty years, he had taught them that resistance was futile. Now a handful of rebels had destroyed the instrument intended to make that lesson permanent. He regarded the city with sudden distaste. By tomorrow, people would be whispering. By the following week, some would be celebrating.",
+      "start": 261.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 292.32
+    },
+    {
+      "id": "p0048",
+      "text": "And somewhere, on a world he had never visited, a foolish young man might decide that the Empire could be defeated after all. Palpatine closed his eyes. He had not felt a disturbance like this since the final days of the Clone Wars. Not fear. Not precisely. Something more irritating. Uncertainty.",
+      "start": 292.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 317.647
+    },
+    {
+      "id": "p0049",
+      "text": "The military council assembled within the hour. Six senior officers stood around the Emperor's private conference table, accompanied by Mas Amedda and Janus Greejatus. Nobody had touched the refreshments. Palpatine found that amusing.",
+      "start": 317.647,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 332.07
+    },
+    {
+      "id": "p0050",
+      "text": "\"Well,\" he said, \"perhaps someone will explain how the most heavily defended military installation in history was destroyed by a collection of obsolete starfighters.\"",
+      "start": 332.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 342.92
+    },
+    {
+      "id": "p0051",
+      "text": "An admiral cleared his throat.",
+      "start": 342.92,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 345.0
+    },
+    {
+      "id": "p0052",
+      "text": "\"Your Majesty, preliminary reports suggest the Rebels exploited a structural vulnerability.\"",
+      "start": 345.0,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 350.33
+    },
+    {
+      "id": "p0053",
+      "text": "\"How preliminary?\"",
+      "start": 350.33,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 352.09
+    },
+    {
+      "id": "p0054",
+      "text": "\"We have reconstructed portions of the station's final tactical transmissions.\"",
+      "start": 352.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 356.16
+    },
+    {
+      "id": "p0055",
+      "text": "\"Then proceed.\"",
+      "start": 356.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 357.78
+    },
+    {
+      "id": "p0056",
+      "text": "The admiral activated a hologram. The Death Star appeared, surrounded by a swarm of tiny Rebel fighters. Several vanished under concentrated turbolaser fire. Others plunged into the trench running across the station's surface. Palpatine watched with growing interest.",
+      "start": 357.78,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 375.95
+    },
+    {
+      "id": "p0057",
+      "text": "\"The Rebel attack concentrated on a thermal exhaust port,\" the admiral explained. \"Approximately two meters in diameter.\"",
+      "start": 375.95,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 383.06
+    },
+    {
+      "id": "p0058",
+      "text": "Greejatus blinked.",
+      "start": 383.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 384.46
+    },
+    {
+      "id": "p0059",
+      "text": "\"Two meters?\"",
+      "start": 384.46,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 386.23
+    },
+    {
+      "id": "p0060",
+      "text": "\"Yes.\"",
+      "start": 386.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 386.85
+    },
+    {
+      "id": "p0061",
+      "text": "The adviser looked toward the Emperor.",
+      "start": 386.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 389.08
+    },
+    {
+      "id": "p0062",
+      "text": "\"Surely the station's defenses could protect an opening of that size.\"",
+      "start": 389.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 394.16
+    },
+    {
+      "id": "p0063",
+      "text": "\"Apparently not,\" Palpatine said.",
+      "start": 394.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 397.65
+    },
+    {
+      "id": "p0064",
+      "text": "The admiral continued.",
+      "start": 397.65,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 399.07
+    },
+    {
+      "id": "p0065",
+      "text": "\"A proton torpedo entering the port at the correct angle could reach the station's main reactor systems and trigger a catastrophic chain reaction.\"",
+      "start": 399.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 407.44
+    },
+    {
+      "id": "p0066",
+      "text": "The Emperor regarded the diagram.",
+      "start": 407.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 409.77
+    },
+    {
+      "id": "p0067",
+      "text": "\"Who designed it?\"",
+      "start": 409.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 411.64
+    },
+    {
+      "id": "p0068",
+      "text": "\"Thousands of engineers contributed to the original plans.\"",
+      "start": 411.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 414.9
+    },
+    {
+      "id": "p0069",
+      "text": "\"That is not what I asked.\"",
+      "start": 414.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 417.18
+    },
+    {
+      "id": "p0070",
+      "text": "The admiral hesitated.",
+      "start": 417.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 418.79
+    },
+    {
+      "id": "p0071",
+      "text": "\"We are examining the original project records.\"",
+      "start": 418.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 421.39
+    },
+    {
+      "id": "p0072",
+      "text": "\"Then examine them faster.\"",
+      "start": 421.39,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 423.83
+    },
+    {
+      "id": "p0073",
+      "text": "The hologram shifted. A final Rebel fighter entered the trench. Two Imperial fighters pursued it. Then a third. A distinctive black TIE fighter. Vader. Palpatine leaned forward. The Rebel pilot continued toward the exhaust port. The dark fighter closed in. For an instant, the young Rebel appeared certain to die. Then a battered freighter emerged from above. The Millennium Falcon. Its guns struck one of Vader's escorts. The second collided with his fighter, sending it spinning away from the battle.",
+      "start": 423.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 458.02
+    },
+    {
+      "id": "p0074",
+      "text": "The Rebel fighter released its torpedoes. A few seconds later, the station disappeared. Palpatine watched the sequence twice.",
+      "start": 458.02,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 466.51
+    },
+    {
+      "id": "p0075",
+      "text": "\"Who is the pilot?\"",
+      "start": 466.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 468.55
+    },
+    {
+      "id": "p0076",
+      "text": "\"We have not established his identity.\"",
+      "start": 468.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 470.73
+    },
+    {
+      "id": "p0077",
+      "text": "\"And the freighter?\"",
+      "start": 470.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 472.4
+    },
+    {
+      "id": "p0078",
+      "text": "\"The Millennium Falcon. Captain Han Solo. A smuggler previously associated with Jabba the Hutt.\"",
+      "start": 472.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 479.09
+    },
+    {
+      "id": "p0079",
+      "text": "Palpatine looked at the admiral.",
+      "start": 479.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 481.18
+    },
+    {
+      "id": "p0080",
+      "text": "\"A smuggler.\"",
+      "start": 481.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 482.82
+    },
+    {
+      "id": "p0081",
+      "text": "\"Yes, Majesty.\"",
+      "start": 482.82,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 484.01
+    },
+    {
+      "id": "p0082",
+      "text": "\"How charming.\"",
+      "start": 484.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 485.69
+    },
+    {
+      "id": "p0083",
+      "text": "The Emperor considered the image. A farmyard assortment of starfighters. A battered freighter. One impossible shot. Tarkin had possessed a battle station powerful enough to destroy planets. Yet he had been defeated by a group of men he would not have considered worthy of his attention. Palpatine felt a familiar contempt. Not for the Rebels. For Tarkin.",
+      "start": 485.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 508.49
+    },
+    {
+      "id": "p0084",
+      "text": "The Grand Moff had been useful, but his arrogance had become increasingly tiresome. He had mistaken the possession of overwhelming force for the ability to use it intelligently. And now he was dead. Palpatine almost smiled. At least he would no longer have to endure Tarkin's lengthy lectures on military doctrine.",
+      "start": 508.49,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 528.69
+    },
+    {
+      "id": "p0085",
+      "text": "\"Prepare a public statement,\" he said.",
+      "start": 528.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 532.66
+    },
+    {
+      "id": "p0086",
+      "text": "Amedda bowed.",
+      "start": 532.66,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 534.85
+    },
+    {
+      "id": "p0087",
+      "text": "\"What should it say, Majesty?\"",
+      "start": 534.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 536.65
+    },
+    {
+      "id": "p0088",
+      "text": "\"The battle station was destroyed during an act of Rebel terrorism. Its personnel died defending the peace and security of the Empire.\"",
+      "start": 536.65,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 545.87
+    },
+    {
+      "id": "p0089",
+      "text": "\"Shall we acknowledge its full loss?\"",
+      "start": 545.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 548.26
+    },
+    {
+      "id": "p0090",
+      "text": "\"Of course.\"",
+      "start": 548.26,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 549.79
+    },
+    {
+      "id": "p0091",
+      "text": "The Grand Vizier looked surprised. Palpatine sighed.",
+      "start": 549.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 554.51
+    },
+    {
+      "id": "p0092",
+      "text": "\"Mas, the station was visible from half the Yavin system. I imagine several thousand civilian vessels have already received reports. Denying its destruction would merely demonstrate that our government is incapable of recognizing a large explosion.\"",
+      "start": 554.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 569.91
+    },
+    {
+      "id": "p0093",
+      "text": "A few officers exchanged nervous glances.",
+      "start": 569.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 573.0
+    },
+    {
+      "id": "p0094",
+      "text": "\"We will mourn the dead,\" Palpatine continued. \"We will honor their service. We will describe the attack as a desperate act by criminals who fear the stability our Empire provides.\"",
+      "start": 573.0,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 585.85
+    },
+    {
+      "id": "p0095",
+      "text": "He paused.",
+      "start": 585.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 586.83
+    },
+    {
+      "id": "p0096",
+      "text": "\"And we will announce a new security initiative.\"",
+      "start": 586.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 589.67
+    },
+    {
+      "id": "p0097",
+      "text": "The admiral nodded eagerly.",
+      "start": 589.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 591.51
+    },
+    {
+      "id": "p0098",
+      "text": "\"A military response?\"",
+      "start": 591.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 593.01
+    },
+    {
+      "id": "p0099",
+      "text": "\"Eventually.\"",
+      "start": 593.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 594.49
+    },
+    {
+      "id": "p0100",
+      "text": "\"Shall we assault the Rebel base at Yavin?\"",
+      "start": 594.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 596.86
+    },
+    {
+      "id": "p0101",
+      "text": "Palpatine considered the question.",
+      "start": 596.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 598.99
+    },
+    {
+      "id": "p0102",
+      "text": "\"No.\"",
+      "start": 598.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 600.15
+    },
+    {
+      "id": "p0103",
+      "text": "The officers looked confused.",
+      "start": 600.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 602.21
+    },
+    {
+      "id": "p0104",
+      "text": "\"Majesty?\"",
+      "start": 602.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 603.06
+    },
+    {
+      "id": "p0105",
+      "text": "\"The Rebels have just accomplished the greatest victory in their history. Every sympathizer they possess will be attempting to contact them. Every secret supporter will want to offer congratulations.\"",
+      "start": 603.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 615.42
+    },
+    {
+      "id": "p0106",
+      "text": "He smiled.",
+      "start": 615.42,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 616.36
+    },
+    {
+      "id": "p0107",
+      "text": "\"Let them.\"",
+      "start": 616.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 617.84
+    },
+    {
+      "id": "p0108",
+      "text": "The admiral began to understand.",
+      "start": 617.84,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 619.91
+    },
+    {
+      "id": "p0109",
+      "text": "\"Monitor the communications.\"",
+      "start": 619.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 621.57
+    },
+    {
+      "id": "p0110",
+      "text": "\"Precisely. Then we shall discover how much larger their organization has become.\"",
+      "start": 621.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 627.81
+    },
+    {
+      "id": "p0111",
+      "text": "Palpatine folded his hands.",
+      "start": 627.81,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 629.68
+    },
+    {
+      "id": "p0112",
+      "text": "\"The Death Star is gone, gentlemen. I have no intention of allowing its destruction to become entirely unproductive.\"",
+      "start": 629.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 636.6
+    },
+    {
+      "id": "p0113",
+      "text": "The council was dismissed. Only Amedda remained.",
+      "start": 636.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 641.17
+    },
+    {
+      "id": "p0114",
+      "text": "\"Majesty,\" the Grand Vizier said carefully, \"there is one matter we have not discussed.\"",
+      "start": 641.17,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 646.6
+    },
+    {
+      "id": "p0115",
+      "text": "Palpatine already knew what it was.",
+      "start": 646.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 648.88
+    },
+    {
+      "id": "p0116",
+      "text": "\"Lord Vader.\"",
+      "start": 648.88,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 650.17
+    },
+    {
+      "id": "p0117",
+      "text": "\"Yes.\"",
+      "start": 650.17,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 650.73
+    },
+    {
+      "id": "p0118",
+      "text": "The Emperor turned toward the window. For several hours he had been reaching into the Force, searching for the familiar presence of his apprentice. At first, there had been nothing. Then, faintly, he had sensed something. Pain. Anger. Humiliation. Vader was alive. Palpatine found this reassuring, though he would never have admitted it. A useful apprentice was considerably more difficult to replace than a battle station.",
+      "start": 650.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 676.56
+    },
+    {
+      "id": "p0119",
+      "text": "\"His fighter survived,\" the Emperor said.",
+      "start": 676.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 680.81
+    },
+    {
+      "id": "p0120",
+      "text": "Amedda looked startled.",
+      "start": 680.81,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 683.58
+    },
+    {
+      "id": "p0121",
+      "text": "\"Majesty?\"",
+      "start": 683.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 684.34
+    },
+    {
+      "id": "p0122",
+      "text": "\"Lord Vader is alive.\"",
+      "start": 684.34,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 686.94
+    },
+    {
+      "id": "p0123",
+      "text": "\"How can you be certain?\"",
+      "start": 686.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 688.3
+    },
+    {
+      "id": "p0124",
+      "text": "Palpatine turned. The Grand Vizier immediately lowered his eyes.",
+      "start": 688.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 694.37
+    },
+    {
+      "id": "p0125",
+      "text": "\"Forgive me.\"",
+      "start": 694.37,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 695.23
+    },
+    {
+      "id": "p0126",
+      "text": "\"His ship is damaged. He will return.\"",
+      "start": 695.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 698.66
+    },
+    {
+      "id": "p0127",
+      "text": "\"Shall we issue a general search order?\"",
+      "start": 698.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 700.86
+    },
+    {
+      "id": "p0128",
+      "text": "\"No.\"",
+      "start": 700.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 702.1
+    },
+    {
+      "id": "p0129",
+      "text": "\"Majesty?\"",
+      "start": 702.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 702.93
+    },
+    {
+      "id": "p0130",
+      "text": "\"A discreet search. No public announcements.\"",
+      "start": 702.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 706.15
+    },
+    {
+      "id": "p0131",
+      "text": "Palpatine returned to his chair.",
+      "start": 706.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 708.4
+    },
+    {
+      "id": "p0132",
+      "text": "\"And when Vader is recovered, he is to report directly to me.\"",
+      "start": 708.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 713.03
+    },
+    {
+      "id": "p0133",
+      "text": "\"Of course.\"",
+      "start": 713.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 713.95
+    },
+    {
+      "id": "p0134",
+      "text": "The Emperor considered the battle recording. Vader had been moments away from destroying the Rebel fighter. Then the smuggler's freighter had intervened. How absurd. The fate of the greatest weapon in the galaxy had been decided by a pilot arriving a few seconds earlier than expected. And yet— There had been something peculiar about the Rebel fighter's final maneuver. The pilot had abandoned his targeting computer. Palpatine had noticed it in the tactical reconstruction.",
+      "start": 713.95,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 741.77
+    },
+    {
+      "id": "p0135",
+      "text": "Instead of trusting the machine, the young man had made an impossible shot by instinct. The Emperor closed his eyes. He reached toward the memory of the battle. For a moment, he sensed an echo. A disturbance. A presence he recognized. Not Vader. Something else. Something he had believed extinguished. His eyes opened.",
+      "start": 741.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 764.77
+    },
+    {
+      "id": "p0136",
+      "text": "\"Mas.\"",
+      "start": 764.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 765.84
+    },
+    {
+      "id": "p0137",
+      "text": "\"Majesty?\"",
+      "start": 765.84,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 766.67
+    },
+    {
+      "id": "p0138",
+      "text": "\"Bring me the complete records of every Rebel pilot who participated in the attack.\"",
+      "start": 766.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 772.47
+    },
+    {
+      "id": "p0139",
+      "text": "\"At once.\"",
+      "start": 772.47,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 773.25
+    },
+    {
+      "id": "p0140",
+      "text": "\"And have Intelligence examine the final communications from the station. I want everything that was transmitted during its last ten minutes.\"",
+      "start": 773.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 781.61
+    },
+    {
+      "id": "p0141",
+      "text": "The Grand Vizier bowed. Palpatine watched him leave. He was thinking of a man who had died aboard that same station only days earlier. Obi-Wan Kenobi. The old fool had somehow survived the destruction of the Jedi Order. Vader had finally killed him. Or so he claimed. Yet the Emperor could not entirely dismiss the peculiar sensation he had felt during the destruction of the Death Star. The Force had been disturbed.",
+      "start": 781.61,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 809.46
+    },
+    {
+      "id": "p0142",
+      "text": "And somewhere within that disturbance, something familiar had stirred.",
+      "start": 809.46,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 813.84
+    },
+    {
+      "id": "p0143",
+      "text": "The pilot's name arrived twelve hours later. Palpatine was alone when the intelligence officer appeared.",
+      "start": 813.84,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 820.18
+    },
+    {
+      "id": "p0144",
+      "text": "\"Your Majesty, we have identified the Rebel pilot responsible for the station's destruction.\"",
+      "start": 820.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 825.8
+    },
+    {
+      "id": "p0145",
+      "text": "\"Proceed.\"",
+      "start": 825.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 827.12
+    },
+    {
+      "id": "p0146",
+      "text": "\"Call sign Red Five. Human male. Approximately nineteen standard years old.\"",
+      "start": 827.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 832.56
+    },
+    {
+      "id": "p0147",
+      "text": "A holographic image appeared. A young man with fair hair and blue eyes. He wore an orange flight suit. His expression was open, almost cheerful. Palpatine studied him. There was something familiar about the face. Not an exact resemblance. Something in the eyes. The shape of the mouth. The way the young man held his head.",
+      "start": 832.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 854.78
+    },
+    {
+      "id": "p0148",
+      "text": "\"Name?\"",
+      "start": 854.78,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 856.24
+    },
+    {
+      "id": "p0149",
+      "text": "\"Luke Skywalker.\"",
+      "start": 856.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 857.9
+    },
+    {
+      "id": "p0150",
+      "text": "The Emperor became very still. The intelligence officer continued speaking.",
+      "start": 857.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 862.8
+    },
+    {
+      "id": "p0151",
+      "text": "\"Originally from Tatooine. Recently departed the planet aboard the Millennium Falcon. He appears to have joined the Rebellion only shortly before the battle.\"",
+      "start": 862.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 872.44
+    },
+    {
+      "id": "p0152",
+      "text": "Palpatine heard none of it. Skywalker. The name hung in the air. Anakin. He had not thought about that name in years. Not directly. Vader was Vader. The man who had once called himself Anakin Skywalker belonged to another life. A life the Emperor had spent considerable effort burying. Yet here was a young man with the same surname. From Tatooine. The world where Anakin had been born. The world where his mother had died.",
+      "start": 872.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 903.22
+    },
+    {
+      "id": "p0153",
+      "text": "The world Obi-Wan Kenobi might have chosen if he wished to hide someone in plain sight. Palpatine felt a sudden, sharp interest.",
+      "start": 903.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 911.79
+    },
+    {
+      "id": "p0154",
+      "text": "\"How was the pilot identified?\"",
+      "start": 911.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 914.79
+    },
+    {
+      "id": "p0155",
+      "text": "\"An intercepted Rebel communication, Majesty. His surname was used during the engagement. We subsequently matched it against local records on Tatooine.\"",
+      "start": 914.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 924.16
+    },
+    {
+      "id": "p0156",
+      "text": "\"His family?\"",
+      "start": 924.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 925.58
+    },
+    {
+      "id": "p0157",
+      "text": "\"An aunt and uncle. Owen and Beru Lars. Both recently deceased.\"",
+      "start": 925.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 930.42
+    },
+    {
+      "id": "p0158",
+      "text": "The Emperor leaned forward.",
+      "start": 930.42,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 932.35
+    },
+    {
+      "id": "p0159",
+      "text": "\"Lars.\"",
+      "start": 932.35,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 933.75
+    },
+    {
+      "id": "p0160",
+      "text": "He knew the name. He remembered a report from decades earlier. Anakin's mother. A farmer. A marriage. A household on Tatooine. The details had seemed utterly insignificant at the time. Now they were anything but.",
+      "start": 933.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 949.2
+    },
+    {
+      "id": "p0161",
+      "text": "\"Where did the boy learn to fly?\"",
+      "start": 949.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 951.8
+    },
+    {
+      "id": "p0162",
+      "text": "\"Local piloting experience, apparently. No formal military training.\"",
+      "start": 951.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 956.93
+    },
+    {
+      "id": "p0163",
+      "text": "\"And his connection to Kenobi?\"",
+      "start": 956.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 959.29
+    },
+    {
+      "id": "p0164",
+      "text": "The officer looked surprised.",
+      "start": 959.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 961.11
+    },
+    {
+      "id": "p0165",
+      "text": "\"We have not established one.\"",
+      "start": 961.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 963.2
+    },
+    {
+      "id": "p0166",
+      "text": "\"Then establish it.\"",
+      "start": 963.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 965.16
+    },
+    {
+      "id": "p0167",
+      "text": "\"Yes, Majesty.\"",
+      "start": 965.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 967.01
+    },
+    {
+      "id": "p0168",
+      "text": "Palpatine dismissed him. The hologram vanished. For several minutes, the Emperor sat motionless. Anakin Skywalker's son. He was almost certain. And if the boy was indeed Anakin's son, then something extraordinary had happened. A child had survived. A child Vader did not know existed. Palpatine smiled. The destruction of the Death Star suddenly seemed less irritating. The Rebellion had delivered something far more interesting than a military defeat. It had delivered an opportunity.",
+      "start": 967.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 999.03
+    },
+    {
+      "id": "p0169",
+      "text": "Sim Aloo arrived shortly afterward. The adviser carried a portable archive cylinder.",
+      "start": 999.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 1005.82
+    },
+    {
+      "id": "p0170",
+      "text": "\"Your Majesty. Intelligence has located the original surveillance records from Mos Eisley.\"",
+      "start": 1005.82,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1011.3
+    },
+    {
+      "id": "p0171",
+      "text": "Palpatine gestured for him to proceed. A grainy recording appeared. A cantina. An old man in a brown robe. A young farm boy. And a smuggler. Palpatine recognized Kenobi immediately. Age had altered the man's face, but not sufficiently to conceal him. The Emperor watched him speaking to the young pilot. The recording's audio was poor. Much of the conversation was lost beneath music and the noise of the crowd. But the essential details were clear.",
+      "start": 1011.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1043.22
+    },
+    {
+      "id": "p0172",
+      "text": "Kenobi had arranged passage for the boy. They had boarded the Millennium Falcon. And shortly afterward, the same boy had helped destroy the Death Star. Palpatine leaned back.",
+      "start": 1043.22,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1053.77
+    },
+    {
+      "id": "p0173",
+      "text": "\"Remarkable.\"",
+      "start": 1053.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1055.17
+    },
+    {
+      "id": "p0174",
+      "text": "Sim inclined his head.",
+      "start": 1055.17,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1056.98
+    },
+    {
+      "id": "p0175",
+      "text": "\"Majesty?\"",
+      "start": 1056.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1057.82
+    },
+    {
+      "id": "p0176",
+      "text": "\"Kenobi survived twenty years in hiding, only to emerge and deliver Anakin Skywalker's son directly into the Rebellion.\"",
+      "start": 1057.82,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1066.19
+    },
+    {
+      "id": "p0177",
+      "text": "He smiled.",
+      "start": 1066.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1067.17
+    },
+    {
+      "id": "p0178",
+      "text": "\"One almost has to admire the old fool.\"",
+      "start": 1067.17,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1070.81
+    },
+    {
+      "id": "p0179",
+      "text": "Sim looked uncertain.",
+      "start": 1070.81,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1072.52
+    },
+    {
+      "id": "p0180",
+      "text": "\"Should the boy be terminated?\"",
+      "start": 1072.52,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1074.15
+    },
+    {
+      "id": "p0181",
+      "text": "\"No.\"",
+      "start": 1074.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1075.39
+    },
+    {
+      "id": "p0182",
+      "text": "\"Majesty?\"",
+      "start": 1075.39,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1076.19
+    },
+    {
+      "id": "p0183",
+      "text": "\"Not yet.\"",
+      "start": 1076.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1077.51
+    },
+    {
+      "id": "p0184",
+      "text": "The Emperor considered the hologram. The boy was young. Inexperienced. Powerful. And almost certainly ignorant of his own heritage. A Jedi-trained son of Anakin Skywalker. Such a creature could become extraordinarily valuable. If handled correctly.",
+      "start": 1077.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1094.07
+    },
+    {
+      "id": "p0185",
+      "text": "\"Expand the surveillance operation on Tatooine,\" Palpatine ordered.",
+      "start": 1094.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1098.91
+    },
+    {
+      "id": "p0186",
+      "text": "\"Yes, Majesty.\"",
+      "start": 1098.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1099.99
+    },
+    {
+      "id": "p0187",
+      "text": "\"Review every recording associated with Kenobi, the Lars family, and the Millennium Falcon. I want names, conversations, acquaintances, every scrap of information.\"",
+      "start": 1099.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1111.47
+    },
+    {
+      "id": "p0188",
+      "text": "\"Of course.\"",
+      "start": 1111.47,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1112.31
+    },
+    {
+      "id": "p0189",
+      "text": "\"And Sim?\"",
+      "start": 1112.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1113.63
+    },
+    {
+      "id": "p0190",
+      "text": "The adviser stopped.",
+      "start": 1113.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1114.95
+    },
+    {
+      "id": "p0191",
+      "text": "\"These findings are not to be included in Lord Vader's briefing.\"",
+      "start": 1114.95,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1119.17
+    },
+    {
+      "id": "p0192",
+      "text": "Sim hesitated.",
+      "start": 1119.17,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1120.67
+    },
+    {
+      "id": "p0193",
+      "text": "\"Not even the boy's identity?\"",
+      "start": 1120.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1122.58
+    },
+    {
+      "id": "p0194",
+      "text": "\"Especially not the boy's identity.\"",
+      "start": 1122.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1125.24
+    },
+    {
+      "id": "p0195",
+      "text": "\"Understood.\"",
+      "start": 1125.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1126.16
+    },
+    {
+      "id": "p0196",
+      "text": "Palpatine watched him leave. He knew Vader. He knew what the discovery would do to him. Anakin Skywalker had been a creature of attachments. His mother. His wife. The Jedi. Each attachment had been a weakness the Emperor had learned to exploit. A son would be something altogether different. Vader would become distracted. Hopeful. Perhaps even disobedient. Palpatine had no intention of allowing that. Not until he understood precisely how the boy might be used.",
+      "start": 1126.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1153.44
+    },
+    {
+      "id": "p0197",
+      "text": "The final report arrived late that evening. Palpatine was reviewing the Death Star's engineering records when his private terminal chimed. The message came from the Custodian's office. PROJECT HOLLOW THRONE — VOICE RECONSTRUCTION ASSESSMENT. The Emperor opened it. An image appeared showing a prisoner seated in a laboratory. A small recording device hovered near his face. The report explained that the researchers had successfully reproduced several complex vocal patterns using archived speech samples. Not merely words. Tone. Inflection. Breathing.",
+      "start": 1153.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 1190.27
+    },
+    {
+      "id": "p0198",
+      "text": "Even the tiny hesitations that made one person's voice distinct from another's. Palpatine watched the demonstration. The prisoner spoke. Then a machine repeated his words. The imitation was almost perfect. The Emperor smiled. A useful trick. One could issue orders in another man's voice. Manufacture confessions. Produce declarations of loyalty. Perhaps even persuade a conditioned subject that a command originated from his own thoughts. The report continued. Subject Profile Forty-Four demonstrates unusually high resistance to externally imposed instructions. Palpatine frowned.",
+      "start": 1190.27,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1229.52
+    },
+    {
+      "id": "p0199",
+      "text": "The designation was familiar. An Alderaanian. One of the prisoners held under the Aurel Seven program. The accompanying notes described a particularly stubborn subject who continued attempting to resist instructions even after repeated conditioning. The researchers considered him a failure. Palpatine considered him interesting. He opened the final page. A recommendation from the Custodian. Additional authorization requested for the reconstruction of senior Imperial command voices. The Emperor read it twice. Then he smiled. He understood the attraction immediately.",
+      "start": 1229.52,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1264.1
+    },
+    {
+      "id": "p0200",
+      "text": "A general could receive orders from an admiral who was nowhere near him. A governor could be persuaded that the Emperor himself had issued an instruction. Entire military formations might obey commands that their legitimate officers had never spoken. Very useful indeed. But the request contained a problem. It assumed that the person operating the system would remain loyal. Palpatine had spent decades ensuring that nobody possessed power independent of his own.",
+      "start": 1264.1,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1291.82
+    },
+    {
+      "id": "p0201",
+      "text": "He had no intention of making an exception for an ambitious scientist. He entered his response. Authorization denied for the reproduction of the Emperor's voice or personal command credentials. He considered the wording. Then added another sentence. All experimental voice profiles are to remain under restricted access. No exceptions. He transmitted the order. The terminal acknowledged receipt. For a moment, Palpatine sat quietly. Then he reached for his private recorder. The device activated.",
+      "start": 1291.82,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1324.22
+    },
+    {
+      "id": "p0202",
+      "text": "\"Personal memorandum. Restricted access.\"",
+      "start": 1324.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1327.87
+    },
+    {
+      "id": "p0203",
+      "text": "He settled into his chair.",
+      "start": 1327.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1329.56
+    },
+    {
+      "id": "p0204",
+      "text": "\"The destruction of the battle station has produced several unexpected developments.\"",
+      "start": 1329.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1335.04
+    },
+    {
+      "id": "p0205",
+      "text": "He paused.",
+      "start": 1335.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1335.88
+    },
+    {
+      "id": "p0206",
+      "text": "\"Tarkin's incompetence has cost the Empire dearly. The Rebellion will undoubtedly celebrate. Its supporters will imagine they have achieved something permanent.\"",
+      "start": 1335.88,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1345.6
+    },
+    {
+      "id": "p0207",
+      "text": "His expression hardened.",
+      "start": 1345.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1347.41
+    },
+    {
+      "id": "p0208",
+      "text": "\"They have not.\"",
+      "start": 1347.41,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1349.21
+    },
+    {
+      "id": "p0209",
+      "text": "He glanced toward the image of the young Rebel pilot.",
+      "start": 1349.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1352.59
+    },
+    {
+      "id": "p0210",
+      "text": "\"Of considerably greater interest is the identity of the individual responsible.\"",
+      "start": 1352.59,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1358.47
+    },
+    {
+      "id": "p0211",
+      "text": "Palpatine smiled.",
+      "start": 1358.47,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1359.87
+    },
+    {
+      "id": "p0212",
+      "text": "\"Luke Skywalker.\"",
+      "start": 1359.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1361.99
+    },
+    {
+      "id": "p0213",
+      "text": "He spoke the name slowly.",
+      "start": 1361.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1363.98
+    },
+    {
+      "id": "p0214",
+      "text": "\"An unfortunate coincidence would be remarkable enough.\"",
+      "start": 1363.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1368.06
+    },
+    {
+      "id": "p0215",
+      "text": "His eyes narrowed.",
+      "start": 1368.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1369.27
+    },
+    {
+      "id": "p0216",
+      "text": "\"But the Force does not favor coincidences.\"",
+      "start": 1369.27,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1372.43
+    },
+    {
+      "id": "p0217",
+      "text": "He ended the recording. Then he sat for a while, studying the boy's face. Somewhere in the galaxy, Darth Vader was struggling to return from the battle. When he did, the Emperor would welcome him. He would listen to his report. He would offer whatever reassurance was necessary. And he would keep the boy's identity to himself. For now. Outside, the lights of Coruscant stretched endlessly beneath the night sky.",
+      "start": 1372.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1397.71
+    },
+    {
+      "id": "p0218",
+      "text": "Across the galaxy, millions were celebrating the destruction of the Death Star. Palpatine imagined their joy. Their confidence. Their sudden conviction that the Empire could be defeated. He smiled. Let them celebrate. Let them believe their victory meant the end of his power. He had already begun imagining the next battle station. Larger. More powerful. Without the flaws that had destroyed the first. And this time, he would not merely wait for the Rebels to attack. He would invite them.",
+      "start": 1397.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1428.06
+    },
+    {
+      "id": "p0219",
+      "text": "The Emperor rose from his chair. At the doorway, he paused. There was one final matter.",
+      "start": 1428.06,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1435.19
+    },
+    {
+      "id": "p0220",
+      "text": "\"Computer.\"",
+      "start": 1435.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1436.63
+    },
+    {
+      "id": "p0221",
+      "text": "The private terminal activated.",
+      "start": 1436.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1438.83
+    },
+    {
+      "id": "p0222",
+      "text": "\"Open the Witness archive.\"",
+      "start": 1438.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1440.95
+    },
+    {
+      "id": "p0223",
+      "text": "A familiar sequence of symbols appeared. Five circles connected by narrow lines. Palpatine regarded them. He had approved the project years earlier, expecting it to produce useful instruments of obedience. Now its researchers were beginning to ask for powers he had no intention of granting. Perhaps the time had come to examine their work more closely. He selected the personnel directory. A list appeared. Researchers. Technicians. Custodians. And dozens of experimental subjects.",
+      "start": 1440.95,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1470.09
+    },
+    {
+      "id": "p0224",
+      "text": "His gaze moved down the column until he reached the designation he wanted. PROFILE 044. The Alderaanian. The one who continued resisting. Palpatine opened the record. The prisoner's name appeared beneath the identification photograph. DARREN. The Emperor studied his face. Then he issued a brief instruction.",
+      "start": 1470.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1491.88
+    },
+    {
+      "id": "p0225",
+      "text": "\"Do not terminate this subject.\"",
+      "start": 1491.88,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1494.28
+    },
+    {
+      "id": "p0226",
+      "text": "A pause.",
+      "start": 1494.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1495.19
+    },
+    {
+      "id": "p0227",
+      "text": "\"Transfer him to the advanced conditioning program.\"",
+      "start": 1495.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1498.75
+    },
+    {
+      "id": "p0228",
+      "text": "The computer acknowledged. Palpatine closed the file. He had already forgotten the prisoner's face.",
+      "start": 1498.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1506.18
+    },
+    {
+      "id": "p0229",
+      "text": "End of Chapter Seven.",
+      "start": 1506.18,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 1508.06
+    }
+  ]
+}
