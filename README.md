@@ -13,7 +13,7 @@ An iPhone-first audiobook PWA, published with GitHub Pages.
 - Native HTML audio playback, Media Session metadata and play/pause/seek/skip handlers, and a playback audio session where Safari supports it.
 - Persistent position for each chapter, chapter completion, smart 10-second rewind after a long pause, playback speeds, chapter navigation and optional auto-next.
 - Bookmarks with notes, offline chapter downloads, device-local MP3 imports, and progress/metadata backup and restore.
-- Sleep presets of 5, 10, 15, 30, 45 and 60 minutes of playback, plus end of chapter. A timer stops at the current chapter's end if that comes first.
+- Sleep presets plus custom whole minutes (1–1,440), or end of chapter. Minute timers carry remaining listening time across chapters and pause when playback pauses.
 
 ## Install on iPhone
 
@@ -23,9 +23,11 @@ Open the published HTTPS URL in **Safari**. Tap **Share → Add to Home Screen**
 
 The app keeps one native `<audio>` element alive; it does not depend on Web Audio running in the background. `navigator.audioSession.type = 'playback'` is set where available. Media Session connects playback to lock-screen/headset controls. Safari can restrict automatic transitions between audio files or resuming after a long background pause; return to the app and tap Play if that happens. An explicit tap is needed to begin playback. These constraints cannot be bypassed by a PWA.
 
-Minute timers prepare a real shortened MP3 using complete MPEG Layer III frames. The audio reaches its own physical end, so stopping does not rely solely on JavaScript continuing to execute while the phone is locked. Preparing a timer may download the current file in full. It counts active playback time, not paused time. Changing speed or seeking recalculates the endpoint. Sleep mode resets when the app is reopened. The first implementation supports MP3 files, not AAC/M4B or protected Audible files.
+Minute timers track actual media progress at the current playback speed, so changing speed, seeking, buffering and pausing do not consume extra listening minutes. Setting, changing or cancelling a timer leaves the current audio source intact and does not pause it. A minute timer carries its remaining time into following chapters, even if ordinary auto-next is disabled. End of chapter is a separate explicit stop option. Timers reset when the app is reopened.
 
-Auto-next is attempted when no sleep timer is active. A timer always stops at the current chapter boundary, even if its selected duration was longer. MP3 files are never sent to a conversion service.
+The countdown checks native timeupdate/playback events and a periodic deadline check. If iOS completely suspends web-app JavaScript, a stop may be delayed until execution resumes; this mode cannot promise an operating-system-enforced stop while suspended. This replaces the old shortened-file method, which interrupted playback and stopped at the chapter boundary. Lock-screen resume uses the already-loaded native media element and makes its play request synchronously; optional AudioSession configuration errors do not suppress Play. Physical iPhone lock/resume and timer accuracy still require device testing. WebKit has a reported Home Screen pause/resume issue: https://bugs.webkit.org/show_bug.cgi?id=243258.
+
+Opening a library book or Continue card only opens it. Start playback explicitly with Play. MP3 files are never sent to a conversion service.
 
 ## Where data lives
 

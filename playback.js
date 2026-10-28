@@ -23,3 +23,9 @@ export function loadAudioAt(audio,src,position,{duration,signal,timeoutMs=45000}
   try{audio.pause();audio.src=src;audio.load();attempt();}catch(error){finish(error);}
  });
 }
+// Called synchronously from the user's Play gesture or the lock-screen action.
+// Optional session configuration must never prevent the native play request.
+export function requestNativePlay(audio,navigatorLike={}){
+ try{if(navigatorLike.audioSession&&navigatorLike.audioSession.type!=='playback')navigatorLike.audioSession.type='playback';}catch{}
+ try{return Promise.resolve(audio.play());}catch(error){return Promise.reject(error);}
+}

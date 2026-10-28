@@ -47,3 +47,12 @@ Publication authorization: the user explicitly approved public publication of an
 - Chapter-list Mark finished repairs missing completion records explicitly. Initial/end-position restoration does not trigger automatic playback.
 - Isolated localhost browser test used a muted audio element throughout. A 600-second position survived reload and a service-worker release change. Marking Chapter 6 finished survived reload, and the library offered Chapter 7. No live user-origin progress was used for these tests.
 - All 23 tests pass. Physical iPhone seek/update timing still needs device confirmation; this fixes the reproduced failure without claiming to know the exact sequence on the user's phone.
+
+## Playback controls and continuous sleep timers
+
+- All 32 automated tests pass. Added regression coverage for opening without autoplay, unchanged audio source while configuring timers, remaining time across chapters even with ordinary auto-next disabled, pause/buffer/seek/speed behavior, delayed callbacks, invalid custom values and synchronous native Play despite an AudioSession exception.
+- Replaced shortened-file sleep playback with an event-driven listening-time countdown and periodic deadline check. Timer controls no longer pause, download/rebuild or replace the active source. This supersedes the original native-shortened-MP3 sleep validation above. A stop can be delayed if the platform fully suspends JavaScript; this implementation does not claim an OS-enforced background cutoff.
+- Isolated, muted localhost browser check: clicking the library book opened it paused at 0:00. Explicit Play started the muted element. Entering 25 custom minutes left the same chapter MP3 playing. Seeking to the chapter end advanced to Chapter 7 with roughly 24:48 still on the timer. Pause held the timer; Play resumed from the same source/position.
+- Custom minutes accept whole values from 1 to 1,440; End of this chapter remains a separate choice. Settings now describes timer-aware chapter continuation.
+- Native play is requested directly from the control path; optional AudioSession errors cannot block it. The loaded source stays intact on pause and timer changes. Physical iPhone lock-screen pause/resume remains unverified; WebKit report 243258 documents a Home Screen PWA resume problem.
+- Browser tests never changed the public app's stored listening position and were muted throughout.
