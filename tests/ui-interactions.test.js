@@ -31,10 +31,12 @@ test('keyboard paragraph selection saves and clamps at the last paragraph withou
  assert.equal(context.readerIndex,2);assert.equal(context.readerPosition,85);assert.equal(calls.play,0);assert.equal(calls.saved.length,4);
 });
 test('lock-screen chapter handlers work without transport buttons in the document',async()=>{
- const handlers={},calls=[],context={book:{id:'b',chapters:[{id:'first'},{id:'second'}]},chapter:{id:'first'},audio:{paused:true,pause(){}},navigator:{mediaSession:{setActionHandler:(name,fn)=>handlers[name]=fn}},choose:async(...args)=>calls.push(args),playAudio(){},seek(){},position:()=>0};
+ const handlers={},calls=[],context={voiceReview:{active:false},book:{id:'b',chapters:[{id:'first'},{id:'second'}]},chapter:{id:'first'},audio:{paused:true,pause(){}},navigator:{mediaSession:{setActionHandler:(name,fn)=>handlers[name]=fn}},choose:async(...args)=>calls.push(args),playAudio(){},seek(){},position:()=>0};
  const change=source.slice(source.indexOf('function changeChapter('),source.indexOf('function morePanel('));
  const remote=source.slice(source.indexOf("if('mediaSession'in navigator){for"),source.indexOf("async function init()"));
  vm.runInNewContext(change+remote,context);await handlers.nexttrack();
  assert.equal(calls[0][1],'second');assert.equal(calls[0][2],false);
  context.chapter={id:'second'};await handlers.previoustrack();assert.equal(calls[1][1],'first');
+ const reviewCalls=[];context.voiceReview={active:true,remote:(...args)=>reviewCalls.push(args)};
+ await handlers.nexttrack();await handlers.play();assert.equal(calls.length,2);assert.equal(reviewCalls[0][0],'nexttrack');assert.equal(reviewCalls[1][0],'play');
 });

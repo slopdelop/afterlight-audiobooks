@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "round": "Han and Leia · Chapter 6 · casting round 1",
+  "voices": [
+    {
+      "id": "han_a",
+      "role": "han",
+      "name": "Han A",
+      "description": "A New Hope · skeptical, conversational reference",
+      "src": "audio/voice-review/han_a.mp3",
+      "seconds": 15.38
+    },
+    {
+      "id": "han_b",
+      "role": "han",
+      "name": "Han B",
+      "description": "The Empire Strikes Back · quieter, playful reference",
+      "src": "audio/voice-review/han_b.mp3",
+      "seconds": 14.85
+    },
+    {
+      "id": "han_c",
+      "role": "han",
+      "name": "Han C",
+      "description": "Return of the Jedi · dry, matter-of-fact references",
+      "src": "audio/voice-review/han_c.mp3",
+      "seconds": 13.12
+    },
+    {
+      "id": "han_original",
+      "role": "han",
+      "name": "Han — current voice",
+      "description": "Current Chapter 6 casting",
+      "src": "audio/voice-review/han_original.mp3",
+      "seconds": 14.37
+    },
+    {
+      "id": "leia_a",
+      "role": "leia",
+      "name": "Leia A",
+      "description": "A New Hope · composed, firm reference",
+      "src": "audio/voice-review/leia_a.mp3",
+      "seconds": 17.06
+    },
+    {
+      "id": "leia_b",
+      "role": "leia",
+      "name": "Leia B",
+      "description": "The Empire Strikes Back · quiet, dry-humored reference",
+      "src": "audio/voice-review/leia_b.mp3",
+      "seconds": 12.84
+    },
+    {
+      "id": "leia_c",
+      "role": "leia",
+      "name": "Leia C",
+      "description": "The Empire Strikes Back · conversational, assertive references",
+      "src": "audio/voice-review/leia_c.mp3",
+      "seconds": 12.58
+    },
+    {
+      "id": "leia_original",
+      "role": "leia",
+      "name": "Leia — current voice",
+      "description": "Current Chapter 6 casting",
+      "src": "audio/voice-review/leia_original.mp3",
+      "seconds": 17.22
+    }
+  ]
+}

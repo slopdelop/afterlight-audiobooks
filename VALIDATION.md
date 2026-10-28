@@ -75,3 +75,11 @@ Publication authorization: the user explicitly approved public publication of an
 - Browser QA used an isolated localhost origin with the native audio element confirmed muted; public listening progress was not used.
 
 All 37 automated tests pass and the production build succeeds. All 14 local reference files exist, both production scripts compile, and the aliased narrator audio matches the original cached reference hash.
+
+## Settings voice review — 2026-10-28
+
+- Settings now contains a Voice review submenu with eight hosted samples: three new candidates and the existing voice for each of Han and Leia. Accessible native radio groups supply five 48px star targets per voice; ratings can be cleared and are saved separately from audiobook progress.
+- Copy results includes every stable voice ID, its description, score or Not rated, and the casting-round identifier. Clipboard write is requested synchronously from the tap handler for Safari; denied/unavailable clipboard access exposes selected text for manual copying. Clipboard success/failure and the fallback UI are tested with fake clipboard objects, without reading or replacing the user's system clipboard.
+- All 42 automated tests pass and the production build succeeds. Tests cover the published samples, strict ratings restoration and round trips, export text, clipboard timing and fallback, plus existing chapter/reader/progress/timer/update behavior. Remote media tests verify active review controls do not advance the audiobook.
+- Isolated 390×844 browser QA: all eight entries and 40 star choices render without horizontal overflow. Han A 4/5 and Leia B 5/5 survived reload. Both the chapter and review audio elements were confirmed muted before playback. Playing Han A and switching to Han B used one preview element; Chapter 6 stayed paused at the synthetic 119.1-second position with its original source. Closing the submenu paused the preview and retained the chapter place. No runtime errors were logged.
+- All original chapter audio and text files remain unchanged. Only the eight generated audition MP3s are included, with no downloaded film reference clips. Device-only ratings and synthetic QA records are not published. Physical iPhone clipboard prompts and hardware lock-screen behavior remain real-device checks.

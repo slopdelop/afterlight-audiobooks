@@ -113,3 +113,13 @@ The home screen uses a larger Afterlight masthead with no visible Library headin
 Transient playback/timer messages appear at the bottom, below the player controls. Reading position is tracked without a visual marker by default. **Aa → Debugging → Show current paragraph marker** enables a device-local debugging marker; the preference survives reloads and progress backup/restore.
 
 Julian Vale is the fictional working name of the selected synthetic narrator. The reusable ensemble aliases, generation directions and local reference locations are recorded in `assets/voice-profiles.json`; these are AI profile labels, not credits for human performers. The catalog uses the stable narrator ID `julian_vale`. Both chapter production manifests and their narrator reference paths use this alias. Existing MP3 tags credit generic AI ensemble narration, with no source narrator name; no audio was regenerated or re-encoded for this change.
+
+## Voice review on iPhone
+
+Open **Settings → Voice review** to play the Han/Leia casting samples and tap one to five stars for each voice. The list includes three new candidates and the current Chapter 6 voice per character. **Clear rating** returns a voice to Not rated. At the end, **Copy results** copies a readable list with stable voice IDs, descriptions and scores for pasting into Codex. If clipboard access is unavailable, the app exposes selected text for manual copying.
+
+Ratings save immediately on the current device under the separate `afterlight-voice-ratings-v1` key and survive application updates; they do not automatically sync or change production casting. Ratings are separate from listening-progress backups; copy your review results to keep them elsewhere. Samples are hosted with Afterlight on GitHub Pages, so your computer does not need to be running. Sample playback requires a connection; chapter downloads and offline reading work as before.
+
+The review uses one dedicated sample audio element. Playing a sample pauses chapter playback; switching samples, leaving the review or closing Settings stops the previous sample. The chapter's source and saved position are retained. Media Session commands target the active sample while reviewing and return to the audiobook afterward.
+
+Add future samples under `audio/voice-review/` and append their stable ID, role, name, description, relative source path and duration to `assets/voice-auditions.json`. The voice list and module are versioned with the app; sample MP3s are fetched on demand.

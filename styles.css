@@ -156,6 +156,26 @@ summary{min-height:52px;align-content:center;cursor:pointer;color:var(--text);fo
 #settingsButton.has-update:after{content:"";position:absolute;right:5px;top:5px;width:8px;height:8px;border-radius:50%;background:var(--gold)}
 #checkUpdates{white-space:nowrap}
 #releaseVersion{font-variant-numeric:tabular-nums}
+.settings-submenu{width:100%;min-height:76px;display:flex;align-items:center;justify-content:space-between;text-align:left;border-bottom:1px solid var(--line);padding:12px 4px;gap:16px}
+.settings-submenu strong{display:block;font-size:16px;font-weight:500}
+.settings-submenu small{display:block;color:var(--muted);font-size:13px;margin-top:4px}
+.settings-submenu svg{transform:rotate(180deg);width:20px;color:var(--gold)}
+#voiceReview .review-note{font-size:12px;line-height:1.6}
+#voiceReview h3{font:25px Georgia,serif;margin:24px 0 8px}
+.review-voice{padding:18px 0;border-bottom:1px solid var(--line)}
+.review-heading{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.review-heading strong{font-size:16px;font-weight:500}
+.review-heading small{display:block;font-size:12px;color:var(--muted);margin-top:5px;line-height:1.6}
+.review-heading button{min-width:64px;flex-shrink:0}
+.voice-stars{display:flex;gap:4px;margin:12px 0 0}
+.voice-star{display:grid;place-items:center;width:48px;height:48px;cursor:pointer;color:#7f8c9c;font:34px/1 Georgia,serif;border-radius:10px;position:relative;flex-shrink:0}
+.voice-star.is-filled{color:var(--gold)}
+.voice-star:focus-within{outline:2px solid var(--gold);outline-offset:1px}
+.voice-star:hover{background:#ffffff08}
+.review-rating{display:flex;justify-content:space-between;align-items:center;min-height:48px;color:var(--muted);font-size:13px}
+.review-export{padding-top:16px}
+.form-field textarea{width:100%;min-height:160px;padding:12px;font:14px/1.6 system-ui,sans-serif;background:var(--bg);color:var(--text);border:1px solid var(--line);border-radius:12px;resize:vertical}
+#voicePreview{width:100%;margin:8px 0}
 #toast{position:fixed;bottom:calc(16px + var(--safe));left:50%;transform:translateX(-50%);z-index:30;background:#ead8bc;color:#1b2530;box-shadow:0 7px 30px #0006;padding:14px 18px;border-radius:14px;font-size:14px;max-width:calc(100% - 32px);width:max-content;pointer-events:none;opacity:0;transition:opacity .2s}
 body[data-view=library] #toast{bottom:calc(100px + var(--safe))}
 #toast.visible{opacity:1}
