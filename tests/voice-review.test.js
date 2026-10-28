@@ -5,22 +5,25 @@ import vm from 'node:vm';
 import {restoreRatings,formatRatings,writeRatingsToClipboard,RATINGS_KEY} from '../voice-review.js';
 
 const catalog=JSON.parse(fs.readFileSync(new URL('../assets/voice-auditions.json',import.meta.url),'utf8'));
-test('published review list has two fresh continuous takes per character with audio files',()=>{
- assert.equal(catalog.voices.length,4);assert.equal(new Set(catalog.voices.map(v=>v.id)).size,4);
- for(const role of ['han','leia'])assert.equal(catalog.voices.filter(v=>v.role===role).length,2);
+test('published review list has unique continuous takes with audio files',()=>{
+ assert.ok(catalog.voices.length>=4);assert.equal(new Set(catalog.voices.map(v=>v.id)).size,catalog.voices.length);
+ for(const role of ['han','leia'])assert.ok(catalog.voices.filter(v=>v.role===role).length>=2);
+ for(const method of ['seed','gpt','rvc'])assert.equal(catalog.voices.filter(v=>v.role==='han'&&v.method===method).length,2);
  for(const voice of catalog.voices){assert.ok(voice.seconds>5);assert.equal(voice.singleContinuousTake,true);assert.ok(voice.src.startsWith('audio/voice-review/'));assert.ok(fs.statSync(new URL('../'+voice.src,import.meta.url)).size>10000);}
 });
 test('ratings restore only known voice IDs and integer stars from one to five',()=>{
  assert.deepEqual(restoreRatings(null,catalog.voices),{});
  assert.deepEqual(restoreRatings({version:1,ratings:{han_a:5,han_b:4,leia_c:5}},catalog.voices),{});
- assert.deepEqual(restoreRatings({version:1,ratings:{han_r2_icl:5,han_r2_embedding:0,han_bad:6,leia_r2_iclad:'4',leia_r2_icl:2.5,leia_r2_embedding:3,unknown:4}},catalog.voices),{han_r2_icl:5,leia_r2_embedding:3});
- const raw={version:1,ratings:{han_r2_icl:4,leia_r2_icl:5}};
+ const ids=catalog.voices.map(v=>v.id);
+ assert.deepEqual(restoreRatings({version:1,ratings:{[ids[0]]:5,[ids[1]]:0,han_bad:6,leia_r2_iclad:'4',[ids[2]]:2.5,[ids[3]]:3,unknown:4}},catalog.voices),{[ids[0]]:5,[ids[3]]:3});
+ const raw={version:1,ratings:{[ids[0]]:4,[ids[2]]:5}};
  assert.deepEqual(restoreRatings(JSON.parse(JSON.stringify(raw)),catalog.voices),raw.ratings);
  assert.notEqual(RATINGS_KEY,'afterlight-v1');
 });
 test('clipboard export identifies every voice, the round, and unrated entries',()=>{
- const text=formatRatings(catalog,{han_r2_embedding:4,leia_r2_embedding:5});
- assert.ok(text.includes(catalog.round));assert.ok(text.includes('Han B [han_r2_embedding]: 4/5'));assert.ok(text.includes('Leia B [leia_r2_embedding]: 5/5'));assert.ok(text.includes('Han A [han_r2_icl]: Not rated'));
+ const [a,b,c]=catalog.voices;
+ const text=formatRatings(catalog,{[b.id]:4,[c.id]:5});
+ assert.ok(text.includes(catalog.round));assert.ok(text.includes(`${b.name} [${b.id}]: 4/5`));assert.ok(text.includes(`${c.name} [${c.id}]: 5/5`));assert.ok(text.includes(`${a.name} [${a.id}]: Not rated`));
  for(const voice of catalog.voices)assert.ok(text.includes(`[${voice.id}]`));
 });
 test('clipboard request is issued synchronously during the tap, and failures reach fallback',async()=>{
