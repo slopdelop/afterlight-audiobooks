@@ -11,7 +11,7 @@ Completed locally on 2026-10-27:
 
 Not verified: physical iPhone Home Screen installation, hardware lock-screen buttons, calls/headphone interruptions, storage eviction, or auto-next behavior while iOS suspends the app. These require real-device testing. The app uses native media and Media Session support, rather than claiming a desktop browser can emulate iOS.
 
-GitHub publication remains pending explicit approval for public publication of Chapter 6. Automatic approval review blocked the attempted repository-creation/upload command before it ran. No repository was created and no files were uploaded by that command.
+Public publication of the app and Chapter 6 MP3 was explicitly approved. The repository is https://github.com/slopdelop/afterlight-audiobooks and the app is https://slopdelop.github.io/afterlight-audiobooks/.
 
 
 ## Automatic-update validation
@@ -21,4 +21,6 @@ GitHub publication remains pending explicit approval for public publication of C
 - After pausing and closing Settings, the app applied and reloaded automatically. The player returned at 45.6 seconds, the test bookmark survived, and the downloaded chapter remained available. Test bookmark and test listening position were then removed/reset through the normal UI.
 - Settings displayed the newly running release ID and a successful Check now result. No reinstall or storage clearing was used for this release-to-release update.
 - Initial migration of the unpublished legacy preview required closing and reopening its old tab once; the tested versioned-release flow handles subsequent releases automatically.
-- GitHub deployment remains unperformed because explicit approval for public Chapter 6 publication is still pending.
+- GitHub Pages deployment passed its automated tests. The published app, catalog and install manifest return HTTP 200; the Chapter 6 MP3 serves HTTP 206 byte-range responses for streaming and seeking.
+
+- Live-site startup QA found and fixed a navigation race: initial metadata loading no longer overrides a user who has already opened the player.

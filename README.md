@@ -1,6 +1,10 @@
 # Afterlight — MVP 1
 
-An iPhone-first audiobook PWA, published with GitHub Pages. No build dependencies, account, backend, paid API or subscription is required.
+An iPhone-first audiobook PWA, published with GitHub Pages.
+
+**Live app:** https://slopdelop.github.io/afterlight-audiobooks/
+
+**Source:** https://github.com/slopdelop/afterlight-audiobooks No build dependencies, account, backend, paid API or subscription is required.
 
 ## Included
 
