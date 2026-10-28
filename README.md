@@ -80,7 +80,7 @@ Old application-shell caches are cleaned up after activation. IndexedDB audio an
 
 ## Read / Listen (MVP 2)
 
-Chapters 6 and 7 include synchronized reading text in conventional book paragraphs. Chapter 6 has 220 display paragraphs and Chapter 7 has 229; short consecutive narrative fragments are grouped without changing the audio. Open **Read chapter** from the player: audio pauses and the current paragraph is highlighted and brought into view. Scroll normally to read; the paragraph near the upper part of the screen becomes your saved reading place. **Listen** resumes there, or tap any paragraph to play its audio. **Play audio** stays in the reader for read-along playback; Follow audio can be switched off when browsing. The Aa control changes text size.
+Chapters 6 and 7 include synchronized reading text in conventional book paragraphs (220 and 229 paragraphs). Open **Read** from the player: audio pauses and the current paragraph is brought into view. Scroll normally to read; the paragraph near the upper part of the screen becomes your saved reading place. Tap a paragraph to select and save it, or use Up/Down while the current paragraph is focused. **Listen** opens the player at that place, still paused; press Play to start. There is no playback bar in reading mode. **Aa** offers named text sizes and a follow-text option for playback started through external media controls.
 
 Reading and audio share the existing per-chapter progress, which is retained across reloads and progress backups. Returning from the library in reading mode offers Continue reading. Updates do not interrupt an active reading view; an explicitly requested update restores that view afterward. Paragraph text is cached with the application, so reading works offline even without a downloaded MP3. Offline listening still requires a downloaded audio file.
 
@@ -101,3 +101,7 @@ To add synchronized text to a later chapter, place a JSON file under `text/<book
 ```
 
 Use real audio timings, strictly increasing starts, unique paragraph IDs, and the same chapter ID as the catalog. End times must follow starts and stay within the chapter's duration. Use the chapter-generation script/timeline as the alignment source.
+
+## Simplified interface (October 2026)
+
+The library shows the current book once above other books, with a mini-player only while browsing. The listening screen has Rewind 15 / Play–Pause / Forward 30, larger Speed / Sleep / Bookmark controls, and no fixed bottom navigation. **More (···)** contains downloads, saved bookmarks, chapter history, book details and Settings. Tap the chapter name for the chapter list, Previous/Next and Mark finished. Settings groups progress backups and installation help into expandable sections. Storage keys, chapter IDs, media source, audio files and text cues are unchanged.
