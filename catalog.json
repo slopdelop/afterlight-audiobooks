@@ -1,1 +1,27 @@
-{"schemaVersion":1,"books":[{"id":"hollow-throne","title":"The Hollow Throne","series":"Star Wars","author":"Your novel","narrator":"Peter Yearsley · Ensemble cast","cover":"assets/hollow-throne.png","artwork":"assets/hollow-throne-square.png","description":"A familiar den of scum. An Imperial archive beneath a cantina. Orders that outlive an Emperor.","note":"Chapters 1–5 were listened to elsewhere. Your library begins at Chapter 6. More chapters will be added later.","ongoing":true,"chapters":[{"id":"hollow-throne-06","number":6,"title":"A Familiar Den of Scum","src":"audio/hollow-throne/chapter-06.mp3","duration":1190.86}]}]}
+{
+  "schemaVersion": 1,
+  "books": [
+    {
+      "id": "hollow-throne",
+      "title": "The Hollow Throne",
+      "series": "Star Wars",
+      "author": "Your novel",
+      "narrator": "Peter Yearsley · Ensemble cast",
+      "cover": "assets/hollow-throne.png",
+      "artwork": "assets/hollow-throne-square.png",
+      "description": "A familiar den of scum. An Imperial archive beneath a cantina. Orders that outlive an Emperor.",
+      "note": "Chapters 1–5 were listened to elsewhere. Your library begins at Chapter 6. More chapters will be added later.",
+      "ongoing": true,
+      "chapters": [
+        {
+          "id": "hollow-throne-06",
+          "number": 6,
+          "title": "A Familiar Den of Scum",
+          "src": "audio/hollow-throne/chapter-06.mp3",
+          "duration": 1190.86,
+          "transcript": "text/hollow-throne/chapter-06.json"
+        }
+      ]
+    }
+  ]
+}

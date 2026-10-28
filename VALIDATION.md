@@ -24,3 +24,14 @@ Public publication of the app and Chapter 6 MP3 was explicitly approved. The rep
 - GitHub Pages deployment passed its automated tests. The published app, catalog and install manifest return HTTP 200; the Chapter 6 MP3 serves HTTP 206 byte-range responses for streaming and seeking.
 
 - Live-site startup QA found and fixed a navigation race: initial metadata loading no longer overrides a user who has already opened the player.
+
+
+## Paragraph reader (MVP 2)
+
+- Source mapping checked every non-whitespace chapter character (apart from Markdown heading markers). Reader text preserves all 462 original paragraphs, including quoted dialogue and narrator tags in the same paragraph.
+- 51 multi-paragraph audio segments aligned using offline Whisper word timestamps. 213 paragraph starts use synthesis segment boundaries, 242 use matched word timestamps, and 7 are interpolated.
+- Added paragraph boundary, malformed transcript, complete chapter text and legacy backup/reading progress tests; all 14 tests pass.
+- Browser: audio at 30 seconds opened paragraph 7, including its dialogue tag. Tapping paragraph 101 sought to 291.92 seconds and began playback.
+- Manual scrolling updated the reading place. Leaving for the library and reopening the app restored the location shown in Continue reading; Listen resumed from the same paragraph.
+- Stopped the local server and removed the MP3 download: the app reopened offline with all 462 paragraphs at the saved reading place.
+- Reader mode defers automatic updates; an explicit update preserves the reading location and font-size preference.

@@ -1,4 +1,4 @@
-# Afterlight — MVP 1
+# Afterlight — MVP 2
 
 An iPhone-first audiobook PWA, published with GitHub Pages.
 
@@ -74,3 +74,28 @@ Future pushes to `main` build and deploy a versioned release automatically. Once
 New books and chapters are refreshed from the catalog without resetting progress. Updated application files download as a complete cached release. The release activates and reloads automatically only when playback is paused, the app is visible, and no form or import/timer operation is active. Position is saved before activation and before reload. Active playback is never deliberately stopped by an automatic update. Settings also provides Check now and, when applicable, Pause & apply update. Playback stays paused after an update; tap Play to resume.
 
 Old application-shell caches are cleaned up after activation. IndexedDB audio and localStorage progress/bookmarks are separate and are retained. If a release cannot download fully, it does not activate; the current offline app remains available. The deployment workflow builds a generated `version.json` and `sw.js` in `_site/`; publish `_site/`, rather than the unbuilt source directory.
+
+
+## Read / Listen (MVP 2)
+
+Chapter 6 includes its original text with 462 paragraph cues. Open **Read chapter** from the player: audio pauses and the current paragraph is highlighted and brought into view. Scroll normally to read; the paragraph near the upper part of the screen becomes your saved reading place. **Listen** resumes there, or tap any paragraph to play its audio. **Play audio** stays in the reader for read-along playback; Follow audio can be switched off when browsing. The Aa control changes text size.
+
+Reading and audio share the existing per-chapter progress, which is retained across reloads and progress backups. Returning from the library in reading mode offers Continue reading. Updates do not interrupt an active reading view; an explicitly requested update restores that view afterward. Paragraph text is cached with the application, so reading works offline even without a downloaded MP3. Offline listening still requires a downloaded audio file.
+
+The text retains the author's paragraphs, quotation marks and supplied pronunciation spellings. Cues combine exact synthesis-segment boundaries with local Whisper word alignment inside longer narration segments. Seven unmatched boundaries were interpolated; synchronization is paragraph-level and approximate, not word-by-word highlighting.
+
+To add synchronized text to a later chapter, place a JSON file under `text/<book-id>/chapter-XX.json` and set that chapter's `transcript` catalog property to the relative path. The build automatically includes text files in its release hash and offline cache. Audio-only chapters still work and simply have no Read button. A text file has this shape:
+
+```json
+{
+  "version": 1,
+  "chapterId": "hollow-throne-07",
+  "duration": 1200,
+  "paragraphs": [
+    {"id":"p0001","text":"The first paragraph.","start":0,"end":5},
+    {"id":"p0002","text":"The next paragraph.","start":5,"end":1200}
+  ]
+}
+```
+
+Use real audio timings, strictly increasing starts, unique paragraph IDs, and the same chapter ID as the catalog. End times must follow starts and stay within the chapter's duration. Use the chapter-generation script/timeline as the alignment source.

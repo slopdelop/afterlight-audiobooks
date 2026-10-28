@@ -1,0 +1,3704 @@
+{
+  "version": 1,
+  "chapterId": "hollow-throne-06",
+  "duration": 1190.86,
+  "alignment": "Paragraph cues combine original segment boundaries with local Whisper word alignment; unmatched boundaries are interpolated.",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "STAR WARS: THE HOLLOW THRONE",
+      "start": 0.0,
+      "timing": "segment",
+      "kind": "title",
+      "end": 3.48
+    },
+    {
+      "id": "p0002",
+      "text": "Chapter Six: A Familiar Den of Scum",
+      "start": 3.48,
+      "timing": "word-aligned",
+      "kind": "title",
+      "end": 7.41
+    },
+    {
+      "id": "p0003",
+      "text": "Tatooine. Three months after the Battle of Endor.",
+      "start": 7.41,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 11.66
+    },
+    {
+      "id": "p0004",
+      "text": "Hahn Solo had never particularly liked Tat-oo-een.",
+      "start": 11.66,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 15.02
+    },
+    {
+      "id": "p0005",
+      "text": "It was hot, dusty, lawless, and populated by an extraordinary number of people who either wanted to kill him or collect money from him.",
+      "start": 15.02,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 24.18
+    },
+    {
+      "id": "p0006",
+      "text": "Unfortunately, it was also one of the few places in the galaxy where he felt entirely at home.",
+      "start": 24.18,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 29.4
+    },
+    {
+      "id": "p0007",
+      "text": "\"Coming up on Moss Eyes-lee,\" he announced.",
+      "start": 29.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 33.09
+    },
+    {
+      "id": "p0008",
+      "text": "Chewbacca growled from the copilot's seat.",
+      "start": 33.09,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 35.75
+    },
+    {
+      "id": "p0009",
+      "text": "\"Yeah, I see the landing bay.\"",
+      "start": 35.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 38.03
+    },
+    {
+      "id": "p0010",
+      "text": "Another growl.",
+      "start": 38.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 39.25
+    },
+    {
+      "id": "p0011",
+      "text": "\"Of course I remember what happened last time.\"",
+      "start": 39.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 41.64
+    },
+    {
+      "id": "p0012",
+      "text": "Chewbacca turned toward him.",
+      "start": 41.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 43.46
+    },
+    {
+      "id": "p0013",
+      "text": "\"That wasn't my fault!\"",
+      "start": 43.46,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 44.69
+    },
+    {
+      "id": "p0014",
+      "text": "The Wookiee barked something considerably louder.",
+      "start": 44.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 47.54
+    },
+    {
+      "id": "p0015",
+      "text": "\"All right, maybe some of it was my fault.\"",
+      "start": 47.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 50.18
+    },
+    {
+      "id": "p0016",
+      "text": "The Millennium Falcon descended through the planet's upper atmosphere, its battered hull shuddering as the desert winds caught it.",
+      "start": 50.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 58.74
+    },
+    {
+      "id": "p0017",
+      "text": "Below them stretched an endless expanse of orange sand.",
+      "start": 58.74,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 62.6
+    },
+    {
+      "id": "p0018",
+      "text": "Two suns hung low over the horizon.",
+      "start": 62.6,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 65.82
+    },
+    {
+      "id": "p0019",
+      "text": "Hahn glanced toward the passenger seat.",
+      "start": 65.82,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 68.06
+    },
+    {
+      "id": "p0020",
+      "text": "He could almost imagine Luke sitting there, barely more than a kid, staring out at the landscape he had been so desperate to escape.",
+      "start": 68.06,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 75.98
+    },
+    {
+      "id": "p0021",
+      "text": "That had been only four years ago.",
+      "start": 75.98,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 78.2
+    },
+    {
+      "id": "p0022",
+      "text": "Four years.",
+      "start": 78.2,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 79.34
+    },
+    {
+      "id": "p0023",
+      "text": "It seemed impossible.",
+      "start": 79.34,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 81.32
+    },
+    {
+      "id": "p0024",
+      "text": "Back then, Hahn had been concerned primarily with paying off Jabba the Hutt, keeping the Falcon operational, and avoiding Imperial patrols.",
+      "start": 81.32,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 89.96
+    },
+    {
+      "id": "p0025",
+      "text": "Now Jabba was dead, the Emperor was dead, and Hahn Solo was a celebrated general of the Rebel Alliance.",
+      "start": 89.96,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 96.58
+    },
+    {
+      "id": "p0026",
+      "text": "He still owed money to several people on Tat-oo-een.",
+      "start": 96.58,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 99.22
+    },
+    {
+      "id": "p0027",
+      "text": "Some things, apparently, were beyond the reach of galactic revolution.",
+      "start": 99.22,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 103.24
+    },
+    {
+      "id": "p0028",
+      "text": "\"Landing bay ninety-four,\" he said.",
+      "start": 103.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 106.52
+    },
+    {
+      "id": "p0029",
+      "text": "Chewbacca grunted approvingly.",
+      "start": 106.52,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 109.48
+    },
+    {
+      "id": "p0030",
+      "text": "Hahn smiled.",
+      "start": 109.48,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 110.81
+    },
+    {
+      "id": "p0031",
+      "text": "\"Old times, buddy.\"",
+      "start": 110.81,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 112.02
+    },
+    {
+      "id": "p0032",
+      "text": "The cantina was almost exactly as he remembered it.",
+      "start": 112.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 114.86
+    },
+    {
+      "id": "p0033",
+      "text": "Dim lighting.",
+      "start": 114.86,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 116.52
+    },
+    {
+      "id": "p0034",
+      "text": "Low ceilings.",
+      "start": 116.52,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 117.72
+    },
+    {
+      "id": "p0035",
+      "text": "Music drifting from the far end of the room.",
+      "start": 117.72,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 120.38
+    },
+    {
+      "id": "p0036",
+      "text": "And the unmistakable smell of cheap liquor, overheated machinery, and several species whose personal hygiene practices Hahn had never understood.",
+      "start": 120.38,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 128.68
+    },
+    {
+      "id": "p0037",
+      "text": "He stepped through the entrance with Chewbacca close behind.",
+      "start": 128.68,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 131.88
+    },
+    {
+      "id": "p0038",
+      "text": "The music stopped.",
+      "start": 131.88,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 133.02
+    },
+    {
+      "id": "p0039",
+      "text": "A dozen heads turned.",
+      "start": 133.02,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 134.62
+    },
+    {
+      "id": "p0040",
+      "text": "Someone dropped a glass.",
+      "start": 134.62,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 136.34
+    },
+    {
+      "id": "p0041",
+      "text": "Hahn sighed.",
+      "start": 136.34,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 137.1
+    },
+    {
+      "id": "p0042",
+      "text": "\"Oh, here we go.\"",
+      "start": 137.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 138.28
+    },
+    {
+      "id": "p0043",
+      "text": "A blue-skinned Duros at the nearest table rose so quickly that his chair fell backward.",
+      "start": 138.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 144.21
+    },
+    {
+      "id": "p0044",
+      "text": "\"Solo?\"",
+      "start": 144.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 145.12
+    },
+    {
+      "id": "p0045",
+      "text": "\"Depends who's asking.\"",
+      "start": 145.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 146.44
+    },
+    {
+      "id": "p0046",
+      "text": "\"Hahn Solo?\"",
+      "start": 146.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 147.51
+    },
+    {
+      "id": "p0047",
+      "text": "\"That's what they tell me.\"",
+      "start": 147.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 148.68
+    },
+    {
+      "id": "p0048",
+      "text": "The Duros stared.",
+      "start": 148.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 150.13
+    },
+    {
+      "id": "p0049",
+      "text": "\"You're supposed to be dead!\"",
+      "start": 150.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 151.64
+    },
+    {
+      "id": "p0050",
+      "text": "Hahn smiled.",
+      "start": 151.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 152.88
+    },
+    {
+      "id": "p0051",
+      "text": "\"Yeah, I keep hearing that.\"",
+      "start": 152.88,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 154.8
+    },
+    {
+      "id": "p0052",
+      "text": "A Rodian near the bar muttered something to his companion.",
+      "start": 154.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 159.92
+    },
+    {
+      "id": "p0053",
+      "text": "Another patron leaned forward.",
+      "start": 159.92,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 161.8
+    },
+    {
+      "id": "p0054",
+      "text": "\"Is it true you killed Jabba?\"",
+      "start": 161.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 163.9
+    },
+    {
+      "id": "p0055",
+      "text": "\"No,\" Hahn said. \"That was a team effort.\"",
+      "start": 163.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 166.76
+    },
+    {
+      "id": "p0056",
+      "text": "Chewbacca gave an approving roar.",
+      "start": 166.76,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 168.87
+    },
+    {
+      "id": "p0057",
+      "text": "\"And a pretty good team, too.\"",
+      "start": 168.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 170.75
+    },
+    {
+      "id": "p0058",
+      "text": "By the time they reached the bar, half the cantina was watching them.",
+      "start": 170.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 174.93
+    },
+    {
+      "id": "p0059",
+      "text": "Hahn found the attention irritating.",
+      "start": 174.93,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 177.09
+    },
+    {
+      "id": "p0060",
+      "text": "He had spent years trying to remain unnoticed in places like this.",
+      "start": 177.09,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 181.11
+    },
+    {
+      "id": "p0061",
+      "text": "Now complete strangers wanted to buy him drinks.",
+      "start": 181.11,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 184.01
+    },
+    {
+      "id": "p0062",
+      "text": "Which, admittedly, was an improvement.",
+      "start": 184.01,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 185.77
+    },
+    {
+      "id": "p0063",
+      "text": "The bartender, Wuher, stared at him from behind a row of battered containers.",
+      "start": 185.77,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 190.49
+    },
+    {
+      "id": "p0064",
+      "text": "\"Solo.\"",
+      "start": 190.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 191.26
+    },
+    {
+      "id": "p0065",
+      "text": "\"Wuher.\"",
+      "start": 191.26,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 192.18
+    },
+    {
+      "id": "p0066",
+      "text": "\"Thought you'd left the planet for good.\"",
+      "start": 192.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 194.5
+    },
+    {
+      "id": "p0067",
+      "text": "\"Well, you know me. Sentimental.\"",
+      "start": 194.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 197.32
+    },
+    {
+      "id": "p0068",
+      "text": "Wuher looked toward Chewbacca.",
+      "start": 197.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 199.43
+    },
+    {
+      "id": "p0069",
+      "text": "\"No trouble.\"",
+      "start": 199.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 200.43
+    },
+    {
+      "id": "p0070",
+      "text": "\"Come on. We're respectable now.\"",
+      "start": 200.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 202.87
+    },
+    {
+      "id": "p0071",
+      "text": "\"That'll be the day.\"",
+      "start": 202.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 204.17
+    },
+    {
+      "id": "p0072",
+      "text": "Hahn leaned against the bar.",
+      "start": 204.17,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 206.21
+    },
+    {
+      "id": "p0073",
+      "text": "\"Actually, we're looking for something.\"",
+      "start": 206.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 208.28
+    },
+    {
+      "id": "p0074",
+      "text": "\"Drinks?\"",
+      "start": 208.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 209.12
+    },
+    {
+      "id": "p0075",
+      "text": "\"An old maintenance tunnel.\"",
+      "start": 209.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 210.6
+    },
+    {
+      "id": "p0076",
+      "text": "Wuher stopped polishing a glass.",
+      "start": 210.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 213.32
+    },
+    {
+      "id": "p0077",
+      "text": "Hahn noticed.",
+      "start": 213.32,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 214.29
+    },
+    {
+      "id": "p0078",
+      "text": "\"One that runs beneath the cantina.\"",
+      "start": 214.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 216.61
+    },
+    {
+      "id": "p0079",
+      "text": "The bartender's expression changed.",
+      "start": 216.61,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 219.29
+    },
+    {
+      "id": "p0080",
+      "text": "\"Don't know what you're talking about.\"",
+      "start": 219.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 221.28
+    },
+    {
+      "id": "p0081",
+      "text": "\"Sure you don't.\"",
+      "start": 221.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 222.2
+    },
+    {
+      "id": "p0082",
+      "text": "\"I've worked here twenty years.\"",
+      "start": 222.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 224.25
+    },
+    {
+      "id": "p0083",
+      "text": "\"Then you probably know where the basement is.\"",
+      "start": 224.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 226.64
+    },
+    {
+      "id": "p0084",
+      "text": "Wuher leaned closer.",
+      "start": 226.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 228.24
+    },
+    {
+      "id": "p0085",
+      "text": "\"Listen to me, Solo. There are some parts of this place you don't want to go poking around in.\"",
+      "start": 228.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 233.77
+    },
+    {
+      "id": "p0086",
+      "text": "Hahn smiled.",
+      "start": 233.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 235.13
+    },
+    {
+      "id": "p0087",
+      "text": "\"Funny. That's exactly what people used to say about the Death Star.\"",
+      "start": 235.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 239.09
+    },
+    {
+      "id": "p0088",
+      "text": "Ten minutes later, Hahn and Chewbacca stood in a narrow storage room behind the bar.",
+      "start": 239.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 244.36
+    },
+    {
+      "id": "p0089",
+      "text": "Wuher had reluctantly unlocked the door after Chewbacca explained, at considerable volume, that they were acting on behalf of the new galactic government.",
+      "start": 244.36,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 254.29
+    },
+    {
+      "id": "p0090",
+      "text": "Hahn had then explained that Chewbacca's suggestion to remove the door entirely was not strictly necessary.",
+      "start": 254.29,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 260.28
+    },
+    {
+      "id": "p0091",
+      "text": "The storage room contained crates, cleaning equipment, and a refrigerator that sounded as though it had been repaired by someone with a personal dislike of refrigeration.",
+      "start": 260.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 270.1
+    },
+    {
+      "id": "p0092",
+      "text": "At the back stood a metal panel.",
+      "start": 270.1,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 272.96
+    },
+    {
+      "id": "p0093",
+      "text": "Hahn examined it.",
+      "start": 272.96,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 274.02
+    },
+    {
+      "id": "p0094",
+      "text": "\"Well, there you go.\"",
+      "start": 274.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 275.42
+    },
+    {
+      "id": "p0095",
+      "text": "Chewbacca growled.",
+      "start": 275.42,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 276.88
+    },
+    {
+      "id": "p0096",
+      "text": "\"Yeah. Brand-new lock on a twenty-year-old door.\"",
+      "start": 276.88,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 280.58
+    },
+    {
+      "id": "p0097",
+      "text": "Hahn crouched beside it.",
+      "start": 280.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 282.8
+    },
+    {
+      "id": "p0098",
+      "text": "The access mechanism was Imperial.",
+      "start": 282.8,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 285.94
+    },
+    {
+      "id": "p0099",
+      "text": "Not the cheap equipment usually found in Moss Eyes-lee.",
+      "start": 285.94,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 289.4
+    },
+    {
+      "id": "p0100",
+      "text": "This was proper military hardware.",
+      "start": 289.4,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 291.92
+    },
+    {
+      "id": "p0101",
+      "text": "Encrypted keypad.",
+      "start": 291.92,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 293.64
+    },
+    {
+      "id": "p0102",
+      "text": "Independent power supply.",
+      "start": 293.64,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 295.6
+    },
+    {
+      "id": "p0103",
+      "text": "Tamper detection.",
+      "start": 295.6,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 296.61
+    },
+    {
+      "id": "p0104",
+      "text": "\"Somebody really didn't want customers wandering down here.\"",
+      "start": 296.61,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 299.77
+    },
+    {
+      "id": "p0105",
+      "text": "Chewbacca produced a small tool from his belt.",
+      "start": 299.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 303.75
+    },
+    {
+      "id": "p0106",
+      "text": "Hahn glanced at him.",
+      "start": 303.75,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 304.86
+    },
+    {
+      "id": "p0107",
+      "text": "\"You're not going to cut through the door?\"",
+      "start": 304.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 306.66
+    },
+    {
+      "id": "p0108",
+      "text": "The Wookiee shook his head.",
+      "start": 306.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 308.11
+    },
+    {
+      "id": "p0109",
+      "text": "\"Good.\"",
+      "start": 308.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 308.65
+    },
+    {
+      "id": "p0110",
+      "text": "Chewbacca inserted the tool into the access panel.",
+      "start": 308.65,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 312.29
+    },
+    {
+      "id": "p0111",
+      "text": "A shower of sparks erupted.",
+      "start": 312.29,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 314.71
+    },
+    {
+      "id": "p0112",
+      "text": "The lock fell apart.",
+      "start": 314.71,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 316.75
+    },
+    {
+      "id": "p0113",
+      "text": "Hahn stared.",
+      "start": 316.75,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 317.67
+    },
+    {
+      "id": "p0114",
+      "text": "\"Technically, that counts as cutting through the door.\"",
+      "start": 317.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 320.42
+    },
+    {
+      "id": "p0115",
+      "text": "Chewbacca pushed it open.",
+      "start": 320.42,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 322.86
+    },
+    {
+      "id": "p0116",
+      "text": "The tunnel beyond was surprisingly clean.",
+      "start": 322.86,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 325.68
+    },
+    {
+      "id": "p0117",
+      "text": "No sand.",
+      "start": 325.68,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 326.68
+    },
+    {
+      "id": "p0118",
+      "text": "No dust.",
+      "start": 326.68,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 327.86
+    },
+    {
+      "id": "p0119",
+      "text": "No evidence of the desert settlement above.",
+      "start": 327.86,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 330.74
+    },
+    {
+      "id": "p0120",
+      "text": "A row of recessed lights illuminated the floor.",
+      "start": 330.74,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 334.26
+    },
+    {
+      "id": "p0121",
+      "text": "Hahn drew his blaster.",
+      "start": 334.26,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 335.76
+    },
+    {
+      "id": "p0122",
+      "text": "\"This is getting interesting.\"",
+      "start": 335.76,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 337.18
+    },
+    {
+      "id": "p0123",
+      "text": "They followed the passage downward.",
+      "start": 337.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 339.84
+    },
+    {
+      "id": "p0124",
+      "text": "After several turns, it opened into a circular chamber lined with communications equipment.",
+      "start": 339.84,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 346.28
+    },
+    {
+      "id": "p0125",
+      "text": "Most of the instruments were old.",
+      "start": 346.28,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 348.3
+    },
+    {
+      "id": "p0126",
+      "text": "Some appeared to date back to the Clone Wars.",
+      "start": 348.3,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 350.86
+    },
+    {
+      "id": "p0127",
+      "text": "But several had been replaced recently.",
+      "start": 350.86,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 353.08
+    },
+    {
+      "id": "p0128",
+      "text": "Chewbacca examined a console and growled.",
+      "start": 353.08,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 356.85
+    },
+    {
+      "id": "p0129",
+      "text": "\"Yeah,\" Hahn said. \"Somebody's been keeping this place running.\"",
+      "start": 356.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 360.46
+    },
+    {
+      "id": "p0130",
+      "text": "At the center of the room stood a recording terminal.",
+      "start": 360.46,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 363.96
+    },
+    {
+      "id": "p0131",
+      "text": "Its display remained active.",
+      "start": 363.96,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 366.22
+    },
+    {
+      "id": "p0132",
+      "text": "A list of dates filled the screen.",
+      "start": 366.22,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 369.28
+    },
+    {
+      "id": "p0133",
+      "text": "Hahn scrolled through them.",
+      "start": 369.28,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 371.3
+    },
+    {
+      "id": "p0134",
+      "text": "The entries went back decades.",
+      "start": 371.3,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 374.68
+    },
+    {
+      "id": "p0135",
+      "text": "Merchant conversations.",
+      "start": 374.68,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 375.5
+    },
+    {
+      "id": "p0136",
+      "text": "Smuggling transactions.",
+      "start": 375.5,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 378.14
+    },
+    {
+      "id": "p0137",
+      "text": "Docking clearances.",
+      "start": 378.14,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 379.92
+    },
+    {
+      "id": "p0138",
+      "text": "Bounty contracts.",
+      "start": 379.92,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 381.72
+    },
+    {
+      "id": "p0139",
+      "text": "Ordinary cantina gossip.",
+      "start": 381.72,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 383.41
+    },
+    {
+      "id": "p0140",
+      "text": "\"Well, I'll be damned.\"",
+      "start": 383.41,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 384.84
+    },
+    {
+      "id": "p0141",
+      "text": "Chewbacca leaned over his shoulder.",
+      "start": 384.84,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 386.79
+    },
+    {
+      "id": "p0142",
+      "text": "\"The Emperor was listening to this dump.\"",
+      "start": 386.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 388.9
+    },
+    {
+      "id": "p0143",
+      "text": "The Wookiee rumbled.",
+      "start": 388.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 390.19
+    },
+    {
+      "id": "p0144",
+      "text": "\"Yeah, I know. Apparently he had nothing better to do.\"",
+      "start": 390.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 393.57
+    },
+    {
+      "id": "p0145",
+      "text": "Hahn opened a random recording.",
+      "start": 393.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 396.31
+    },
+    {
+      "id": "p0146",
+      "text": "A hologram appeared.",
+      "start": 396.31,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 398.05
+    },
+    {
+      "id": "p0147",
+      "text": "The cantina.",
+      "start": 398.05,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 399.65
+    },
+    {
+      "id": "p0148",
+      "text": "Fifteen years earlier.",
+      "start": 399.65,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 401.05
+    },
+    {
+      "id": "p0149",
+      "text": "A group of smugglers argued over shipping tariffs.",
+      "start": 401.05,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 404.83
+    },
+    {
+      "id": "p0150",
+      "text": "Nothing unusual.",
+      "start": 404.83,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 406.35
+    },
+    {
+      "id": "p0151",
+      "text": "He selected another.",
+      "start": 406.35,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 408.01
+    },
+    {
+      "id": "p0152",
+      "text": "Two Imperial officers discussed a missing shipment of weapons.",
+      "start": 408.01,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 411.95
+    },
+    {
+      "id": "p0153",
+      "text": "Another.",
+      "start": 411.95,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 413.01
+    },
+    {
+      "id": "p0154",
+      "text": "A frightened merchant offered a bribe to a customs inspector.",
+      "start": 413.01,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 417.05
+    },
+    {
+      "id": "p0155",
+      "text": "Hahn shook his head.",
+      "start": 417.05,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 418.12
+    },
+    {
+      "id": "p0156",
+      "text": "\"Half the people in this place were breaking the law.\"",
+      "start": 418.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 420.74
+    },
+    {
+      "id": "p0157",
+      "text": "Chewbacca gave him a long look.",
+      "start": 420.74,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 422.7
+    },
+    {
+      "id": "p0158",
+      "text": "\"All right. More than half.\"",
+      "start": 422.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 424.34
+    },
+    {
+      "id": "p0159",
+      "text": "He continued searching.",
+      "start": 424.34,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 426.2
+    },
+    {
+      "id": "p0160",
+      "text": "Then a familiar name caught his eye.",
+      "start": 426.2,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 429.54
+    },
+    {
+      "id": "p0161",
+      "text": "SOLO, HAN — FREIGHT CAPTAIN.",
+      "start": 429.54,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 432.54
+    },
+    {
+      "id": "p0162",
+      "text": "Hahn stopped.",
+      "start": 432.54,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 433.9
+    },
+    {
+      "id": "p0163",
+      "text": "\"Oh, come on.\"",
+      "start": 433.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 434.83
+    },
+    {
+      "id": "p0164",
+      "text": "Chewbacca leaned closer.",
+      "start": 434.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 437.09
+    },
+    {
+      "id": "p0165",
+      "text": "A photograph appeared.",
+      "start": 437.09,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 439.11
+    },
+    {
+      "id": "p0166",
+      "text": "Hahn himself.",
+      "start": 439.11,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 440.51
+    },
+    {
+      "id": "p0167",
+      "text": "Younger.",
+      "start": 440.51,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 441.25
+    },
+    {
+      "id": "p0168",
+      "text": "Smirking.",
+      "start": 441.25,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 442.27
+    },
+    {
+      "id": "p0169",
+      "text": "Wearing the same vest he still owned.",
+      "start": 442.27,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 445.05
+    },
+    {
+      "id": "p0170",
+      "text": "Beneath the photograph was a short assessment.",
+      "start": 445.05,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 448.09
+    },
+    {
+      "id": "p0171",
+      "text": "Independent freighter captain. Questionable reliability. Significant financial liabilities. Likely to encounter fatal difficulties within one standard year.",
+      "start": 448.09,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 459.97
+    },
+    {
+      "id": "p0172",
+      "text": "Hahn stared at the final sentence.",
+      "start": 459.97,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 462.0
+    },
+    {
+      "id": "p0173",
+      "text": "\"Well, that's insulting.\"",
+      "start": 462.0,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 463.56
+    },
+    {
+      "id": "p0174",
+      "text": "Chewbacca laughed so hard he had to grip the console.",
+      "start": 463.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 467.25
+    },
+    {
+      "id": "p0175",
+      "text": "\"Very funny.\"",
+      "start": 467.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 468.24
+    },
+    {
+      "id": "p0176",
+      "text": "Hahn opened the attached file.",
+      "start": 468.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 470.36
+    },
+    {
+      "id": "p0177",
+      "text": "A recording began.",
+      "start": 470.36,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 472.3
+    },
+    {
+      "id": "p0178",
+      "text": "The cantina, four years earlier.",
+      "start": 472.3,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 474.74
+    },
+    {
+      "id": "p0179",
+      "text": "He recognized the date.",
+      "start": 474.74,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 476.64
+    },
+    {
+      "id": "p0180",
+      "text": "The day he had met Luke Skywalker and Obi-Wan Kenobi.",
+      "start": 476.64,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 480.48
+    },
+    {
+      "id": "p0181",
+      "text": "The hologram showed his younger self seated at a table with the old Jedi and a nervous farm boy.",
+      "start": 480.48,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 486.36
+    },
+    {
+      "id": "p0182",
+      "text": "Hahn felt an unexpected pang of nostalgia.",
+      "start": 486.36,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 489.26
+    },
+    {
+      "id": "p0183",
+      "text": "Old Ben.",
+      "start": 489.26,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 490.34
+    },
+    {
+      "id": "p0184",
+      "text": "He had almost forgotten how the man looked.",
+      "start": 490.34,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 492.16
+    },
+    {
+      "id": "p0185",
+      "text": "The gray beard.",
+      "start": 492.16,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 493.34
+    },
+    {
+      "id": "p0186",
+      "text": "The hooded robe.",
+      "start": 493.34,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 494.83
+    },
+    {
+      "id": "p0187",
+      "text": "The infuriating calm with which he had discussed impossible things.",
+      "start": 494.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 499.19
+    },
+    {
+      "id": "p0188",
+      "text": "A good man, Hahn now understood.",
+      "start": 499.19,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 502.07
+    },
+    {
+      "id": "p0189",
+      "text": "A man who had given his life to help them escape.",
+      "start": 502.07,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 505.11
+    },
+    {
+      "id": "p0190",
+      "text": "The recording was silent.",
+      "start": 505.11,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 507.01
+    },
+    {
+      "id": "p0191",
+      "text": "Hahn frowned.",
+      "start": 507.01,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 508.27
+    },
+    {
+      "id": "p0192",
+      "text": "He increased the audio level.",
+      "start": 508.27,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 510.63
+    },
+    {
+      "id": "p0193",
+      "text": "Nothing.",
+      "start": 510.63,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 511.27
+    },
+    {
+      "id": "p0194",
+      "text": "\"Strange.\"",
+      "start": 511.27,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 512.07
+    },
+    {
+      "id": "p0195",
+      "text": "Chewbacca examined the terminal.",
+      "start": 512.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 514.83
+    },
+    {
+      "id": "p0196",
+      "text": "A short growl.",
+      "start": 514.83,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 516.26
+    },
+    {
+      "id": "p0197",
+      "text": "\"Yeah, I can see it's muted.\"",
+      "start": 516.26,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 518.14
+    },
+    {
+      "id": "p0198",
+      "text": "The Wookiee tapped several controls.",
+      "start": 518.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 520.6
+    },
+    {
+      "id": "p0199",
+      "text": "A burst of static filled the room.",
+      "start": 520.6,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 523.08
+    },
+    {
+      "id": "p0200",
+      "text": "Then voices.",
+      "start": 523.08,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 524.13
+    },
+    {
+      "id": "p0201",
+      "text": "Hahn's own voice, younger and more arrogant.",
+      "start": 524.13,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 527.96
+    },
+    {
+      "id": "p0202",
+      "text": "He winced.",
+      "start": 527.96,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 528.78
+    },
+    {
+      "id": "p0203",
+      "text": "\"Was I always that annoying?\"",
+      "start": 528.78,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 530.66
+    },
+    {
+      "id": "p0204",
+      "text": "Chewbacca answered immediately.",
+      "start": 530.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 532.51
+    },
+    {
+      "id": "p0205",
+      "text": "\"Thanks.\"",
+      "start": 532.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 533.11
+    },
+    {
+      "id": "p0206",
+      "text": "The recording continued.",
+      "start": 533.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 535.15
+    },
+    {
+      "id": "p0207",
+      "text": "Old Ben discussed transportation to Alderaan.",
+      "start": 535.15,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 539.25
+    },
+    {
+      "id": "p0208",
+      "text": "Luke sat beside him, looking as though he had never been inside a room containing so many dangerous people.",
+      "start": 539.25,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 546.15
+    },
+    {
+      "id": "p0209",
+      "text": "Hahn watched for a moment.",
+      "start": 546.15,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 548.15
+    },
+    {
+      "id": "p0210",
+      "text": "Then he noticed something.",
+      "start": 548.15,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 550.11
+    },
+    {
+      "id": "p0211",
+      "text": "A small red symbol flashed beside Obi-Wan's image.",
+      "start": 550.11,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 554.13
+    },
+    {
+      "id": "p0212",
+      "text": "SUBJECT IDENTIFIED — RETROSPECTIVE ANALYSIS.",
+      "start": 554.13,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 557.07
+    },
+    {
+      "id": "p0213",
+      "text": "He opened the notation.",
+      "start": 557.07,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 558.29
+    },
+    {
+      "id": "p0214",
+      "text": "An Imperial intelligence report appeared.",
+      "start": 558.29,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 562.11
+    },
+    {
+      "id": "p0215",
+      "text": "Possible surviving Jedi.",
+      "start": 562.11,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 564.15
+    },
+    {
+      "id": "p0216",
+      "text": "Voice and facial characteristics consistent with General Obi-Wan Kenobi.",
+      "start": 564.15,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 569.03
+    },
+    {
+      "id": "p0217",
+      "text": "Identification added following the Battle of Yavin.",
+      "start": 569.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 573.57
+    },
+    {
+      "id": "p0218",
+      "text": "Hahn leaned back.",
+      "start": 573.57,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 574.98
+    },
+    {
+      "id": "p0219",
+      "text": "\"So they didn't know who he was at the time.\"",
+      "start": 574.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 577.42
+    },
+    {
+      "id": "p0220",
+      "text": "Chewbacca rumbled.",
+      "start": 577.42,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 578.86
+    },
+    {
+      "id": "p0221",
+      "text": "\"Yeah. Somebody went through these recordings afterward.\"",
+      "start": 578.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 582.05
+    },
+    {
+      "id": "p0222",
+      "text": "He studied the date.",
+      "start": 582.05,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 583.85
+    },
+    {
+      "id": "p0223",
+      "text": "The identification had been added weeks after Luke destroyed the first Death Star.",
+      "start": 583.85,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 589.29
+    },
+    {
+      "id": "p0224",
+      "text": "Pal-puh-teen's agents had been searching backward through old surveillance records, trying to understand how the boy from Tat-oo-een had reached the Rebellion.",
+      "start": 589.29,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 598.37
+    },
+    {
+      "id": "p0225",
+      "text": "Hahn found that unsettling.",
+      "start": 598.37,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 600.31
+    },
+    {
+      "id": "p0226",
+      "text": "The Emperor had been dead for three months.",
+      "start": 600.31,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 602.31
+    },
+    {
+      "id": "p0227",
+      "text": "But his intelligence machinery had spent decades collecting fragments of people's lives.",
+      "start": 602.31,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 607.56
+    },
+    {
+      "id": "p0228",
+      "text": "Fragments that could be assembled long after the people themselves had forgotten the conversations.",
+      "start": 607.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 614.16
+    },
+    {
+      "id": "p0229",
+      "text": "Hahn closed the recording.",
+      "start": 614.16,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 615.91
+    },
+    {
+      "id": "p0230",
+      "text": "\"Let's see what else they kept.\"",
+      "start": 615.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 617.65
+    },
+    {
+      "id": "p0231",
+      "text": "The next discovery was less amusing.",
+      "start": 617.65,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 620.03
+    },
+    {
+      "id": "p0232",
+      "text": "A collection of transport records occupied a separate section of the archive.",
+      "start": 620.03,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 624.49
+    },
+    {
+      "id": "p0233",
+      "text": "Most concerned ordinary Imperial cargo shipments.",
+      "start": 624.49,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 628.13
+    },
+    {
+      "id": "p0234",
+      "text": "But several had been marked with a designation Hahn recognized from Lay-uh's briefing.",
+      "start": 628.13,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 633.39
+    },
+    {
+      "id": "p0235",
+      "text": "AUREL SEVEN.",
+      "start": 633.39,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 634.83
+    },
+    {
+      "id": "p0236",
+      "text": "Forty-three prisoners.",
+      "start": 634.83,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 636.29
+    },
+    {
+      "id": "p0237",
+      "text": "Alderaanian origin.",
+      "start": 636.29,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 637.43
+    },
+    {
+      "id": "p0238",
+      "text": "He opened the earliest entry.",
+      "start": 637.43,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 639.43
+    },
+    {
+      "id": "p0239",
+      "text": "A shipment had arrived on Tat-oo-een several years before Alderaan's destruction.",
+      "start": 639.43,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 644.41
+    },
+    {
+      "id": "p0240",
+      "text": "Not the prisoners themselves.",
+      "start": 644.41,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 645.77
+    },
+    {
+      "id": "p0241",
+      "text": "Medical supplies.",
+      "start": 645.77,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 648.09
+    },
+    {
+      "id": "p0242",
+      "text": "Restraint equipment.",
+      "start": 648.09,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 649.47
+    },
+    {
+      "id": "p0243",
+      "text": "Specialized recording devices.",
+      "start": 649.47,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 652.08
+    },
+    {
+      "id": "p0244",
+      "text": "And a series of memory-storage components whose purpose Hahn did not understand.",
+      "start": 652.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 657.42
+    },
+    {
+      "id": "p0245",
+      "text": "The receiving authority was listed as an Imperial research office.",
+      "start": 657.42,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 661.78
+    },
+    {
+      "id": "p0246",
+      "text": "No name.",
+      "start": 661.78,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 662.76
+    },
+    {
+      "id": "p0247",
+      "text": "No location beyond the cantina's underground station.",
+      "start": 662.76,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 666.56
+    },
+    {
+      "id": "p0248",
+      "text": "Chewbacca growled quietly.",
+      "start": 666.56,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 668.36
+    },
+    {
+      "id": "p0249",
+      "text": "\"Yeah. I don't like it either.\"",
+      "start": 668.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 670.16
+    },
+    {
+      "id": "p0250",
+      "text": "Hahn opened another file.",
+      "start": 670.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 672.66
+    },
+    {
+      "id": "p0251",
+      "text": "This one contained a voice recording.",
+      "start": 672.66,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 675.7
+    },
+    {
+      "id": "p0252",
+      "text": "A man spoke in formal, precise Basic.",
+      "start": 675.7,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 678.6
+    },
+    {
+      "id": "p0253",
+      "text": "\"Transfer authorization confirmed. Aurel Seven subjects are to remain isolated from all civilian traffic. No correspondence. No unauthorized visitors.\"",
+      "start": 678.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 688.5
+    },
+    {
+      "id": "p0254",
+      "text": "The voice sounded familiar.",
+      "start": 688.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 691.46
+    },
+    {
+      "id": "p0255",
+      "text": "Hahn listened again.",
+      "start": 691.46,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 693.12
+    },
+    {
+      "id": "p0256",
+      "text": "Then frowned.",
+      "start": 693.12,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 694.3
+    },
+    {
+      "id": "p0257",
+      "text": "\"Chewie?\"",
+      "start": 694.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 694.98
+    },
+    {
+      "id": "p0258",
+      "text": "The Wookiee leaned closer.",
+      "start": 694.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 696.55
+    },
+    {
+      "id": "p0259",
+      "text": "\"Does that sound like somebody we know?\"",
+      "start": 696.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 698.64
+    },
+    {
+      "id": "p0260",
+      "text": "Chewbacca listened.",
+      "start": 698.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 700.36
+    },
+    {
+      "id": "p0261",
+      "text": "His expression changed.",
+      "start": 700.36,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 702.14
+    },
+    {
+      "id": "p0262",
+      "text": "A low growl escaped him.",
+      "start": 702.14,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 704.0
+    },
+    {
+      "id": "p0263",
+      "text": "\"Yeah,\" Hahn said.",
+      "start": 704.0,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 705.68
+    },
+    {
+      "id": "p0264",
+      "text": "\"It does.\"",
+      "start": 705.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 706.37
+    },
+    {
+      "id": "p0265",
+      "text": "The voice sounded like the captain who had welcomed Lay-uh to the Imperial Palace.",
+      "start": 706.37,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 711.67
+    },
+    {
+      "id": "p0266",
+      "text": "Darren.",
+      "start": 711.67,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 712.61
+    },
+    {
+      "id": "p0267",
+      "text": "But the recording was years old.",
+      "start": 712.61,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 715.35
+    },
+    {
+      "id": "p0268",
+      "text": "Long before Darren's apparent suicide.",
+      "start": 715.35,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 718.19
+    },
+    {
+      "id": "p0269",
+      "text": "Hahn checked the file.",
+      "start": 718.19,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 719.63
+    },
+    {
+      "id": "p0270",
+      "text": "The speaker was not identified.",
+      "start": 719.63,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 721.59
+    },
+    {
+      "id": "p0271",
+      "text": "Only a reference number appeared.",
+      "start": 721.59,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 724.17
+    },
+    {
+      "id": "p0272",
+      "text": "VOICE PROFILE 044.",
+      "start": 724.17,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 726.27
+    },
+    {
+      "id": "p0273",
+      "text": "He opened the accompanying information.",
+      "start": 726.27,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 728.63
+    },
+    {
+      "id": "p0274",
+      "text": "Original sample acquired: Imperial year fourteen.",
+      "start": 728.63,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 733.53
+    },
+    {
+      "id": "p0275",
+      "text": "Reconstruction quality: 98.7 percent.",
+      "start": 733.53,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 737.95
+    },
+    {
+      "id": "p0276",
+      "text": "Authorized use: Witness conditioning.",
+      "start": 737.95,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 740.99
+    },
+    {
+      "id": "p0277",
+      "text": "Hahn stared at the screen.",
+      "start": 740.99,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 742.91
+    },
+    {
+      "id": "p0278",
+      "text": "\"Reconstruction?\"",
+      "start": 742.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 743.85
+    },
+    {
+      "id": "p0279",
+      "text": "Chewbacca gave a questioning growl.",
+      "start": 743.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 746.31
+    },
+    {
+      "id": "p0280",
+      "text": "\"Looks like it isn't necessarily the real guy talking.\"",
+      "start": 746.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 749.33
+    },
+    {
+      "id": "p0281",
+      "text": "Hahn played the recording again.",
+      "start": 749.33,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 751.77
+    },
+    {
+      "id": "p0282",
+      "text": "The voice was perfect.",
+      "start": 751.77,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 753.35
+    },
+    {
+      "id": "p0283",
+      "text": "The accent.",
+      "start": 753.35,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 754.63
+    },
+    {
+      "id": "p0284",
+      "text": "The pauses.",
+      "start": 754.63,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 755.87
+    },
+    {
+      "id": "p0285",
+      "text": "Even the slight roughness in the final syllables.",
+      "start": 755.87,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 758.99
+    },
+    {
+      "id": "p0286",
+      "text": "He understood why Lay-uh had been so disturbed by the interrogation recording.",
+      "start": 758.99,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 763.53
+    },
+    {
+      "id": "p0287",
+      "text": "Someone had built a machine capable of making a person appear to say things they had never said.",
+      "start": 763.53,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 768.79
+    },
+    {
+      "id": "p0288",
+      "text": "And that machine had been operating for years.",
+      "start": 768.79,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 770.85
+    },
+    {
+      "id": "p0289",
+      "text": "He copied the files onto a portable data cylinder.",
+      "start": 770.85,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 774.25
+    },
+    {
+      "id": "p0290",
+      "text": "\"Lay-uh's going to want to see this.\"",
+      "start": 774.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 776.48
+    },
+    {
+      "id": "p0291",
+      "text": "Then he noticed another entry.",
+      "start": 776.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 778.68
+    },
+    {
+      "id": "p0292",
+      "text": "A recent one.",
+      "start": 778.68,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 780.42
+    },
+    {
+      "id": "p0293",
+      "text": "Very recent.",
+      "start": 780.42,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 782.04
+    },
+    {
+      "id": "p0294",
+      "text": "Six days earlier.",
+      "start": 782.04,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 783.56
+    },
+    {
+      "id": "p0295",
+      "text": "The same day the Emperor's private chamber on Kor-uh-sant had been accessed.",
+      "start": 783.56,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 788.3
+    },
+    {
+      "id": "p0296",
+      "text": "The file had been opened remotely.",
+      "start": 788.3,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 790.62
+    },
+    {
+      "id": "p0297",
+      "text": "The authorization belonged to one of Pal-puh-teen's advisers.",
+      "start": 790.62,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 794.9
+    },
+    {
+      "id": "p0298",
+      "text": "SIM ALOO.",
+      "start": 794.9,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 796.3
+    },
+    {
+      "id": "p0299",
+      "text": "Hahn frowned.",
+      "start": 796.3,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 797.44
+    },
+    {
+      "id": "p0300",
+      "text": "That name had appeared in the Emperor's personal records.",
+      "start": 797.44,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 801.04
+    },
+    {
+      "id": "p0301",
+      "text": "One of the strange men who had accompanied him to the second Death Star.",
+      "start": 801.04,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 805.04
+    },
+    {
+      "id": "p0302",
+      "text": "A man presumed dead.",
+      "start": 805.04,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 806.9
+    },
+    {
+      "id": "p0303",
+      "text": "Yet someone was still using his credentials.",
+      "start": 806.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 810.22
+    },
+    {
+      "id": "p0304",
+      "text": "Hahn opened the access history.",
+      "start": 810.22,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 812.36
+    },
+    {
+      "id": "p0305",
+      "text": "Only one file had been retrieved.",
+      "start": 812.36,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 815.7
+    },
+    {
+      "id": "p0306",
+      "text": "SUBJECT 044 — EMERGENCY ACTIVATION.",
+      "start": 815.7,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 819.18
+    },
+    {
+      "id": "p0307",
+      "text": "He examined the attached transmission.",
+      "start": 819.18,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 821.76
+    },
+    {
+      "id": "p0308",
+      "text": "A short command.",
+      "start": 821.76,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 822.68
+    },
+    {
+      "id": "p0309",
+      "text": "Encoded.",
+      "start": 822.68,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 824.44
+    },
+    {
+      "id": "p0310",
+      "text": "Destination: Kor-uh-sant.",
+      "start": 824.44,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 827.38
+    },
+    {
+      "id": "p0311",
+      "text": "Time of delivery: the morning Darren had jumped.",
+      "start": 827.38,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 830.74
+    },
+    {
+      "id": "p0312",
+      "text": "Hahn felt a cold sensation settle in his stomach.",
+      "start": 830.74,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 833.68
+    },
+    {
+      "id": "p0313",
+      "text": "\"Chewie.\"",
+      "start": 833.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 834.36
+    },
+    {
+      "id": "p0314",
+      "text": "The Wookiee looked at him.",
+      "start": 834.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 835.75
+    },
+    {
+      "id": "p0315",
+      "text": "\"I think we just found out what set Darren off.\"",
+      "start": 835.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 838.44
+    },
+    {
+      "id": "p0316",
+      "text": "A sharp metallic click sounded behind them.",
+      "start": 838.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 842.04
+    },
+    {
+      "id": "p0317",
+      "text": "Hahn turned.",
+      "start": 842.04,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 843.2
+    },
+    {
+      "id": "p0318",
+      "text": "At the entrance stood a security droid.",
+      "start": 843.2,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 845.86
+    },
+    {
+      "id": "p0319",
+      "text": "Tall.",
+      "start": 845.86,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 846.58
+    },
+    {
+      "id": "p0320",
+      "text": "Black.",
+      "start": 846.58,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 847.66
+    },
+    {
+      "id": "p0321",
+      "text": "Armed.",
+      "start": 847.66,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 847.67
+    },
+    {
+      "id": "p0322",
+      "text": "Its single red optical sensor moved between them.",
+      "start": 847.67,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 851.15
+    },
+    {
+      "id": "p0323",
+      "text": "\"Unauthorized personnel detected.\"",
+      "start": 851.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 853.43
+    },
+    {
+      "id": "p0324",
+      "text": "Hahn raised his blaster.",
+      "start": 853.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 855.3
+    },
+    {
+      "id": "p0325",
+      "text": "\"Yeah, well, we're kind of authorized now.\"",
+      "start": 855.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 858.27
+    },
+    {
+      "id": "p0326",
+      "text": "\"Identify yourselves.\"",
+      "start": 858.27,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 859.95
+    },
+    {
+      "id": "p0327",
+      "text": "\"General Hahn Solo. New Republic.\"",
+      "start": 859.95,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 862.42
+    },
+    {
+      "id": "p0328",
+      "text": "\"Invalid designation.\"",
+      "start": 862.42,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 864.06
+    },
+    {
+      "id": "p0329",
+      "text": "\"That's becoming a recurring problem.\"",
+      "start": 864.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 866.36
+    },
+    {
+      "id": "p0330",
+      "text": "The droid raised its weapon.",
+      "start": 866.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 869.06
+    },
+    {
+      "id": "p0331",
+      "text": "Hahn fired first.",
+      "start": 869.06,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 870.56
+    },
+    {
+      "id": "p0332",
+      "text": "The blaster bolt struck its shoulder, spinning it sideways.",
+      "start": 870.56,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 874.82
+    },
+    {
+      "id": "p0333",
+      "text": "Chewbacca roared and charged.",
+      "start": 874.82,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 876.78
+    },
+    {
+      "id": "p0334",
+      "text": "The droid fired.",
+      "start": 876.78,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 878.08
+    },
+    {
+      "id": "p0335",
+      "text": "A red bolt struck the ceiling.",
+      "start": 878.08,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 880.52
+    },
+    {
+      "id": "p0336",
+      "text": "Hahn ducked behind the console.",
+      "start": 880.52,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 882.29
+    },
+    {
+      "id": "p0337",
+      "text": "\"Watch the equipment!\"",
+      "start": 882.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 883.44
+    },
+    {
+      "id": "p0338",
+      "text": "Chewbacca seized the droid by one arm and slammed it against the wall.",
+      "start": 883.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 888.28
+    },
+    {
+      "id": "p0339",
+      "text": "Its weapon clattered across the floor.",
+      "start": 888.28,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 890.62
+    },
+    {
+      "id": "p0340",
+      "text": "The machine attempted to strike him with its remaining arm.",
+      "start": 890.62,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 893.62
+    },
+    {
+      "id": "p0341",
+      "text": "Chewbacca tore the arm free.",
+      "start": 893.62,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 896.04
+    },
+    {
+      "id": "p0342",
+      "text": "Hahn emerged from behind the console.",
+      "start": 896.04,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 898.08
+    },
+    {
+      "id": "p0343",
+      "text": "\"Okay, that's probably enough—\"",
+      "start": 898.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 900.08
+    },
+    {
+      "id": "p0344",
+      "text": "The droid's head separated from its body.",
+      "start": 900.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 903.1
+    },
+    {
+      "id": "p0345",
+      "text": "It bounced twice and rolled across the floor.",
+      "start": 903.1,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 906.56
+    },
+    {
+      "id": "p0346",
+      "text": "Chewbacca stood over the wreckage, breathing heavily.",
+      "start": 906.56,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 910.02
+    },
+    {
+      "id": "p0347",
+      "text": "Hahn looked at the destroyed machine.",
+      "start": 910.02,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 912.34
+    },
+    {
+      "id": "p0348",
+      "text": "Then at his friend.",
+      "start": 912.34,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 913.57
+    },
+    {
+      "id": "p0349",
+      "text": "\"Feeling better?\"",
+      "start": 913.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 914.49
+    },
+    {
+      "id": "p0350",
+      "text": "Chewbacca gave a satisfied grunt.",
+      "start": 914.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 916.91
+    },
+    {
+      "id": "p0351",
+      "text": "\"Good.\"",
+      "start": 916.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 917.27
+    },
+    {
+      "id": "p0352",
+      "text": "Hahn retrieved the data cylinder.",
+      "start": 917.27,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 919.55
+    },
+    {
+      "id": "p0353",
+      "text": "\"Because I think we should leave.\"",
+      "start": 919.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 921.18
+    },
+    {
+      "id": "p0354",
+      "text": "A second click sounded.",
+      "start": 921.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 923.3
+    },
+    {
+      "id": "p0355",
+      "text": "Then another.",
+      "start": 923.3,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 925.18
+    },
+    {
+      "id": "p0356",
+      "text": "Somewhere deeper in the facility, machinery began moving.",
+      "start": 925.18,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 928.76
+    },
+    {
+      "id": "p0357",
+      "text": "Hahn looked toward the corridor.",
+      "start": 928.76,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 932.05
+    },
+    {
+      "id": "p0358",
+      "text": "\"Oh, you've got to be kidding.\"",
+      "start": 932.05,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 933.8
+    },
+    {
+      "id": "p0359",
+      "text": "A warning light illuminated above the door.",
+      "start": 933.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 938.9
+    },
+    {
+      "id": "p0360",
+      "text": "SECURITY PURGE INITIATED.",
+      "start": 938.9,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 940.98
+    },
+    {
+      "id": "p0361",
+      "text": "He groaned.",
+      "start": 940.98,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 941.91
+    },
+    {
+      "id": "p0362",
+      "text": "\"Does every Imperial secret room do that?\"",
+      "start": 941.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 944.35
+    },
+    {
+      "id": "p0363",
+      "text": "Chewbacca roared.",
+      "start": 944.35,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 945.7
+    },
+    {
+      "id": "p0364",
+      "text": "\"All right! I'm moving!\"",
+      "start": 945.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 947.3
+    },
+    {
+      "id": "p0365",
+      "text": "They ran.",
+      "start": 947.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 948.84
+    },
+    {
+      "id": "p0366",
+      "text": "They emerged into the cantina storage room just as the underground security shutters slammed shut behind them.",
+      "start": 948.84,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 955.9
+    },
+    {
+      "id": "p0367",
+      "text": "Wuher stared at the smoking access panel.",
+      "start": 955.9,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 959.46
+    },
+    {
+      "id": "p0368",
+      "text": "Then at Chewbacca.",
+      "start": 959.46,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 961.28
+    },
+    {
+      "id": "p0369",
+      "text": "Then at Hahn.",
+      "start": 961.28,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 962.3
+    },
+    {
+      "id": "p0370",
+      "text": "\"What did you do?\"",
+      "start": 962.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 963.73
+    },
+    {
+      "id": "p0371",
+      "text": "\"Found your basement.\"",
+      "start": 963.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 964.81
+    },
+    {
+      "id": "p0372",
+      "text": "\"I told you not to go down there!\"",
+      "start": 964.81,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 967.18
+    },
+    {
+      "id": "p0373",
+      "text": "\"Yeah, well, you forgot to mention the killer droids.\"",
+      "start": 967.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 970.93
+    },
+    {
+      "id": "p0374",
+      "text": "The bartender looked horrified.",
+      "start": 970.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 972.83
+    },
+    {
+      "id": "p0375",
+      "text": "\"What killer droids?\"",
+      "start": 972.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 974.42
+    },
+    {
+      "id": "p0376",
+      "text": "\"The ones in your basement!\"",
+      "start": 974.42,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 975.81
+    },
+    {
+      "id": "p0377",
+      "text": "\"I didn't know there were droids!\"",
+      "start": 975.81,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 977.64
+    },
+    {
+      "id": "p0378",
+      "text": "\"Well, there aren't anymore.\"",
+      "start": 977.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 979.29
+    },
+    {
+      "id": "p0379",
+      "text": "Chewbacca gave a pleased rumble.",
+      "start": 979.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 981.35
+    },
+    {
+      "id": "p0380",
+      "text": "Wuher closed his eyes.",
+      "start": 981.35,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 983.39
+    },
+    {
+      "id": "p0381",
+      "text": "\"Get out.\"",
+      "start": 983.39,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 984.3
+    },
+    {
+      "id": "p0382",
+      "text": "Hahn smiled.",
+      "start": 984.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 985.43
+    },
+    {
+      "id": "p0383",
+      "text": "\"Good seeing you too.\"",
+      "start": 985.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 986.8
+    },
+    {
+      "id": "p0384",
+      "text": "Back aboard the Falcon, Hahn transmitted the recovered records to Lay-uh through an encrypted Alliance channel.",
+      "start": 986.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 994.38
+    },
+    {
+      "id": "p0385",
+      "text": "He waited while the connection established.",
+      "start": 994.38,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 997.46
+    },
+    {
+      "id": "p0386",
+      "text": "Her hologram appeared above the console.",
+      "start": 997.46,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 999.7
+    },
+    {
+      "id": "p0387",
+      "text": "\"How did it go?\"",
+      "start": 999.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1000.7
+    },
+    {
+      "id": "p0388",
+      "text": "\"Well, the cantina's still standing.\"",
+      "start": 1000.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1002.79
+    },
+    {
+      "id": "p0389",
+      "text": "\"That's encouraging.\"",
+      "start": 1002.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1004.91
+    },
+    {
+      "id": "p0390",
+      "text": "\"Found your secret station. Found some recordings. Nearly got killed by a security droid.\"",
+      "start": 1004.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1010.33
+    },
+    {
+      "id": "p0391",
+      "text": "\"Are you hurt?\"",
+      "start": 1010.33,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1011.8
+    },
+    {
+      "id": "p0392",
+      "text": "\"No. Chewie disassembled it.\"",
+      "start": 1011.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1014.03
+    },
+    {
+      "id": "p0393",
+      "text": "A satisfied growl came from the copilot's seat.",
+      "start": 1014.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1017.91
+    },
+    {
+      "id": "p0394",
+      "text": "\"Of course he did,\" Lay-uh said.",
+      "start": 1017.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1020.89
+    },
+    {
+      "id": "p0395",
+      "text": "Hahn leaned forward.",
+      "start": 1020.89,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1022.5
+    },
+    {
+      "id": "p0396",
+      "text": "\"Listen, sweetheart. We found something about Darren.\"",
+      "start": 1022.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1025.5
+    },
+    {
+      "id": "p0397",
+      "text": "Her expression changed immediately.",
+      "start": 1025.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1027.54
+    },
+    {
+      "id": "p0398",
+      "text": "\"What?\"",
+      "start": 1027.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1028.18
+    },
+    {
+      "id": "p0399",
+      "text": "\"Someone sent an activation command from this station to Kor-uh-sant on the morning he jumped.\"",
+      "start": 1028.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1033.23
+    },
+    {
+      "id": "p0400",
+      "text": "\"Who?\"",
+      "start": 1033.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1034.23
+    },
+    {
+      "id": "p0401",
+      "text": "\"That's the interesting part. The authorization belonged to Sim Ah-loo.\"",
+      "start": 1034.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1038.8
+    },
+    {
+      "id": "p0402",
+      "text": "Lay-uh stared.",
+      "start": 1038.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1040.11
+    },
+    {
+      "id": "p0403",
+      "text": "\"One of the Emperor's advisers?\"",
+      "start": 1040.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1042.11
+    },
+    {
+      "id": "p0404",
+      "text": "\"Yeah.\"",
+      "start": 1042.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1042.71
+    },
+    {
+      "id": "p0405",
+      "text": "\"But he died aboard the second Death Star.\"",
+      "start": 1042.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1045.31
+    },
+    {
+      "id": "p0406",
+      "text": "\"Apparently somebody forgot to tell him.\"",
+      "start": 1045.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1047.67
+    },
+    {
+      "id": "p0407",
+      "text": "Hahn transmitted the file.",
+      "start": 1047.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1049.6
+    },
+    {
+      "id": "p0408",
+      "text": "\"There's something else. The station was recording people for years. Voices, conversations, all kinds of things. Somebody's been using those recordings to manufacture commands.\"",
+      "start": 1049.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1061.39
+    },
+    {
+      "id": "p0409",
+      "text": "Lay-uh examined the data.",
+      "start": 1061.39,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1063.98
+    },
+    {
+      "id": "p0410",
+      "text": "\"Can you identify who's receiving them?\"",
+      "start": 1063.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1066.31
+    },
+    {
+      "id": "p0411",
+      "text": "\"Not yet. Most of the records are encrypted.\"",
+      "start": 1066.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1069.31
+    },
+    {
+      "id": "p0412",
+      "text": "She looked up.",
+      "start": 1069.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1070.17
+    },
+    {
+      "id": "p0413",
+      "text": "\"Hahn, I want you to bring those files back.\"",
+      "start": 1070.17,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1074.2
+    },
+    {
+      "id": "p0414",
+      "text": "He hesitated.",
+      "start": 1074.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1075.3
+    },
+    {
+      "id": "p0415",
+      "text": "\"We haven't finished searching.\"",
+      "start": 1075.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1076.85
+    },
+    {
+      "id": "p0416",
+      "text": "\"We can send a proper intelligence team later. Those records may explain what happened to Darren.\"",
+      "start": 1076.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1082.87
+    },
+    {
+      "id": "p0417",
+      "text": "Hahn considered arguing.",
+      "start": 1082.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1084.89
+    },
+    {
+      "id": "p0418",
+      "text": "Then he saw her face.",
+      "start": 1084.89,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1086.41
+    },
+    {
+      "id": "p0419",
+      "text": "\"All right. We'll head back.\"",
+      "start": 1086.41,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1088.25
+    },
+    {
+      "id": "p0420",
+      "text": "\"Thank you.\"",
+      "start": 1088.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1089.06
+    },
+    {
+      "id": "p0421",
+      "text": "He smiled.",
+      "start": 1089.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1090.06
+    },
+    {
+      "id": "p0422",
+      "text": "\"Don't thank me yet. I haven't sent you the bill.\"",
+      "start": 1090.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1092.82
+    },
+    {
+      "id": "p0423",
+      "text": "She smiled faintly.",
+      "start": 1092.82,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1094.32
+    },
+    {
+      "id": "p0424",
+      "text": "\"Come home, Hahn.\"",
+      "start": 1094.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1095.48
+    },
+    {
+      "id": "p0425",
+      "text": "\"Planning on it.\"",
+      "start": 1095.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1096.3
+    },
+    {
+      "id": "p0426",
+      "text": "The hologram vanished.",
+      "start": 1096.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1098.1
+    },
+    {
+      "id": "p0427",
+      "text": "Hahn leaned back.",
+      "start": 1098.1,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1099.54
+    },
+    {
+      "id": "p0428",
+      "text": "For a moment, he stared at the data cylinder resting beside the controls.",
+      "start": 1099.54,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1104.44
+    },
+    {
+      "id": "p0429",
+      "text": "An entire secret Imperial operation beneath a cantina.",
+      "start": 1104.44,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1108.26
+    },
+    {
+      "id": "p0430",
+      "text": "Recordings of conversations from years ago.",
+      "start": 1108.26,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1111.3
+    },
+    {
+      "id": "p0431",
+      "text": "Someone using the voice of a dead Emperor's adviser to activate a command inside another man's mind.",
+      "start": 1111.3,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1116.94
+    },
+    {
+      "id": "p0432",
+      "text": "He shook his head.",
+      "start": 1116.94,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1117.91
+    },
+    {
+      "id": "p0433",
+      "text": "\"Chewie, you know what I miss?\"",
+      "start": 1117.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1119.89
+    },
+    {
+      "id": "p0434",
+      "text": "The Wookiee looked at him.",
+      "start": 1119.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1121.27
+    },
+    {
+      "id": "p0435",
+      "text": "\"Simple jobs.\"",
+      "start": 1121.27,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1122.49
+    },
+    {
+      "id": "p0436",
+      "text": "A questioning growl.",
+      "start": 1122.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1124.26
+    },
+    {
+      "id": "p0437",
+      "text": "\"Yeah. Smuggling spice. Dodging customs. Running away from people who wanted to kill us.\"",
+      "start": 1124.26,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1130.46
+    },
+    {
+      "id": "p0438",
+      "text": "Chewbacca laughed.",
+      "start": 1130.46,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1131.97
+    },
+    {
+      "id": "p0439",
+      "text": "\"Those were good times.\"",
+      "start": 1131.97,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1133.38
+    },
+    {
+      "id": "p0440",
+      "text": "He started the engines.",
+      "start": 1133.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1135.28
+    },
+    {
+      "id": "p0441",
+      "text": "Outside, the twin suns were sinking toward the horizon.",
+      "start": 1135.28,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1139.22
+    },
+    {
+      "id": "p0442",
+      "text": "The Falcon lifted from the landing bay and climbed into the orange sky.",
+      "start": 1139.22,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1143.96
+    },
+    {
+      "id": "p0443",
+      "text": "Hahn activated the navigation computer.",
+      "start": 1143.96,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1146.32
+    },
+    {
+      "id": "p0444",
+      "text": "Then his console chimed.",
+      "start": 1146.32,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1148.14
+    },
+    {
+      "id": "p0445",
+      "text": "An incoming message.",
+      "start": 1148.14,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1149.66
+    },
+    {
+      "id": "p0446",
+      "text": "Not from Lay-uh.",
+      "start": 1149.66,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1151.64
+    },
+    {
+      "id": "p0447",
+      "text": "Not from Alliance command.",
+      "start": 1151.64,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1153.6
+    },
+    {
+      "id": "p0448",
+      "text": "It came from an unknown transmitter somewhere in Moss Eyes-lee.",
+      "start": 1153.6,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1157.94
+    },
+    {
+      "id": "p0449",
+      "text": "The screen displayed a single sentence.",
+      "start": 1157.94,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1160.6
+    },
+    {
+      "id": "p0450",
+      "text": "GENERAL SOLO. THE EMPEROR IS DEAD. HIS ORDERS ARE NOT.",
+      "start": 1160.6,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1166.14
+    },
+    {
+      "id": "p0451",
+      "text": "Hahn stared at it.",
+      "start": 1166.14,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1167.48
+    },
+    {
+      "id": "p0452",
+      "text": "\"Chewie?\"",
+      "start": 1167.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1168.19
+    },
+    {
+      "id": "p0453",
+      "text": "The Wookiee leaned over.",
+      "start": 1168.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1170.17
+    },
+    {
+      "id": "p0454",
+      "text": "Hahn read the message aloud.",
+      "start": 1170.17,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1172.77
+    },
+    {
+      "id": "p0455",
+      "text": "Then a second line appeared.",
+      "start": 1172.77,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1175.27
+    },
+    {
+      "id": "p0456",
+      "text": "YOU HAVE TAKEN SOMETHING THAT DOES NOT BELONG TO YOU.",
+      "start": 1175.27,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1178.63
+    },
+    {
+      "id": "p0457",
+      "text": "A third.",
+      "start": 1178.63,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1179.61
+    },
+    {
+      "id": "p0458",
+      "text": "RETURN THE RECORDS, OR THE NEXT VOICE YOU HEAR MAY BE YOUR OWN.",
+      "start": 1179.61,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1183.71
+    },
+    {
+      "id": "p0459",
+      "text": "The message vanished.",
+      "start": 1183.71,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1185.53
+    },
+    {
+      "id": "p0460",
+      "text": "Hahn looked at Chewbacca.",
+      "start": 1185.53,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1186.67
+    },
+    {
+      "id": "p0461",
+      "text": "For once, neither of them had anything to say.",
+      "start": 1186.67,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1189.69
+    },
+    {
+      "id": "p0462",
+      "text": "End of Chapter Six.",
+      "start": 1189.69,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1190.86
+    }
+  ]
+}
