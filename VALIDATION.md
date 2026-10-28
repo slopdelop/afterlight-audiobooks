@@ -35,3 +35,5 @@ Public publication of the app and Chapter 6 MP3 was explicitly approved. The rep
 - Manual scrolling updated the reading place. Leaving for the library and reopening the app restored the location shown in Continue reading; Listen resumed from the same paragraph.
 - Stopped the local server and removed the MP3 download: the app reopened offline with all 462 paragraphs at the saved reading place.
 - Reader mode defers automatic updates; an explicit update preserves the reading location and font-size preference.
+
+- MVP2 public upload was blocked by automatic approval review: public publication of the full chapter text and timing data requires explicit authorization beyond the earlier app/MP3 approval. The reader is complete locally; the public site remains on MVP1 until approved.
