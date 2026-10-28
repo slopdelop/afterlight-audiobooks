@@ -45,6 +45,7 @@ The in-app **Add MP3** flow is a convenient device-local alternative; it can add
 
 ```powershell
 npm test
+npm run build
 python serve.py --port 8770
 ```
 
@@ -52,7 +53,7 @@ Open `http://127.0.0.1:8770/`. The development server supports audio byte ranges
 
 The tests check persistence round trips, chapter numbering/navigation, catalog validation, speed-adjusted sleep cutoffs and actual MP3 frame truncation. Browser QA covers playback, seeking, pause/resume, saved position, bookmarks, timer preparation and downloads. Physical iPhone lock-screen and Home Screen behavior still needs device testing.
 
-When changing shell JS/CSS, bump the cache name in `sw.js`. App updates do not clear progress or downloaded audio. The service worker caches the shell and cover art; audio downloads are explicit, not an automatic 24 MB install-time fetch.
+Every GitHub deployment runs `npm run build`, which derives the release/cache version from the actual app, catalog, cover and audio contents. There is no manual service-worker version bump. App updates do not clear progress or downloaded audio. The service worker caches the shell and cover art; audio downloads are explicit, not an automatic 24 MB install-time fetch.
 
 ## Platform references
 
@@ -60,3 +61,12 @@ When changing shell JS/CSS, bump the cache name in `sw.js`. App updates do not c
 - [Background timer throttling](https://developer.mozilla.org/en-US/docs/Web/API/Window/setTimeout#timeouts_in_inactive_tabs)
 - [WebKit background web-app audio tracking](https://bugs.webkit.org/show_bug.cgi?id=198277)
 - [GitHub Pages limits](https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits)
+
+
+## Automatic updates
+
+Future pushes to `main` build and deploy a versioned release automatically. Once the app is hosted, the installed iPhone web app checks on launch, when brought to the foreground or back online, and periodically while open. These checks need connectivity; iOS does not guarantee execution while the app is closed. No reinstall is required.
+
+New books and chapters are refreshed from the catalog without resetting progress. Updated application files download as a complete cached release. The release activates and reloads automatically only when playback is paused, the app is visible, and no form or import/timer operation is active. Position is saved before activation and before reload. Active playback is never deliberately stopped by an automatic update. Settings also provides Check now and, when applicable, Pause & apply update. Playback stays paused after an update; tap Play to resume.
+
+Old application-shell caches are cleaned up after activation. IndexedDB audio and localStorage progress/bookmarks are separate and are retained. If a release cannot download fully, it does not activate; the current offline app remains available. The deployment workflow builds a generated `version.json` and `sw.js` in `_site/`; publish `_site/`, rather than the unbuilt source directory.

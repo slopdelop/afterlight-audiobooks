@@ -62,8 +62,9 @@ class Handler(SimpleHTTPRequestHandler):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--port', type=int, default=8770)
+    parser.add_argument('--directory', type=Path, default=Path(__file__).parent / '_site')
     args = parser.parse_args()
-    server = ThreadingHTTPServer(('127.0.0.1', args.port), partial(Handler, directory=str(Path(__file__).parent)))
+    server = ThreadingHTTPServer(('127.0.0.1', args.port), partial(Handler, directory=str(args.directory.resolve())))
     print(f'Afterlight: http://127.0.0.1:{args.port}', flush=True)
     try:
         server.serve_forever()

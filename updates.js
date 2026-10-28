@@ -1,0 +1,14 @@
+/** Update coordinator: fetch releases freely; activate/reload only at a safe pause. */
+export function canApplyUpdate({visible,playing,busy,dialogOpen}){return visible&&!playing&&!busy&&!dialogOpen;}
+export function createUpdateManager({container,isSafe,beforeReload,reload,onStatus=()=>{},schedule=(fn,ms)=>setTimeout(fn,ms),cancel=id=>clearTimeout(id),now=()=>Date.now()}){
+ let registration=null,waiting=null,changed=false,reloaded=false,activating=false,checking=false,lastCheck=0,timer=null,hadController=!!container.controller;
+ const status=(phase,text)=>onStatus({phase,text,available:!!waiting||changed});
+ function reloadSafely(){if(reloaded||!isSafe())return false;beforeReload();reloaded=true;status('updating','Applying the update…');reload();return true;}
+ function apply(){timer=null;if(!isSafe()){status('deferred','Update downloaded. It will apply when playback is paused and this window is idle.');return false;}if(changed)return reloadSafely();waiting=registration?.waiting||waiting;if(!waiting||activating)return false;beforeReload();activating=true;status('updating','Applying the update…');waiting.postMessage({type:'ACTIVATE_UPDATE'});return true;}
+ function pulse(){if(timer!==null)cancel(timer);timer=null;if(!waiting&&!changed)return;if(!isSafe()){status('deferred','Update downloaded. It will apply when playback is paused and this window is idle.');return;}status('ready','Update downloaded. Applying shortly while playback is paused.');timer=schedule(apply,1800);}
+ function observeWorker(worker){if(!worker)return;worker.addEventListener('statechange',()=>{if(worker.state==='installed'&&container.controller){waiting=registration.waiting||worker;pulse();}if(worker.state==='redundant'&&waiting===worker){waiting=null;activating=false;status('error','The update could not finish. Your current app is still available.');}});}
+ function attach(reg){registration=reg;waiting=reg.waiting;reg.addEventListener('updatefound',()=>observeWorker(reg.installing));observeWorker(reg.installing);if(waiting)pulse();else status('current','Automatic updates are on.');}
+ container.addEventListener('controllerchange',()=>{if(!hadController){hadController=true;return;}changed=true;waiting=null;activating=false;pulse();});
+ async function check(force=false){if(!registration||checking||(!force&&lastCheck&&now()-lastCheck<300000))return;checking=true;lastCheck=now();if(!waiting&&!changed)status('checking','Checking for updates…');try{await registration.update();waiting=registration.waiting||waiting;if(waiting||changed)pulse();else if(!registration.installing)status('current','You have the latest available version.');}catch{status('offline','Could not check for updates. Your current app and downloads are kept.');}finally{checking=false;}}
+ return {attach,check,pulse,apply,get available(){return !!waiting||changed;}};
+}

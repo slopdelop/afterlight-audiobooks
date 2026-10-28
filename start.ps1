@@ -1,5 +1,8 @@
 param([switch]$NoBrowser)
 $ErrorActionPreference = 'Stop'
+$node = (Get-Command node -ErrorAction Stop).Source
+& $node (Join-Path $PSScriptRoot 'tools/build.mjs')
+if ($LASTEXITCODE -ne 0) { throw 'Afterlight build failed.' }
 $url = 'http://127.0.0.1:8770'
 $running = $false
 try { $running = (Invoke-RestMethod "$url/health" -TimeoutSec 2).app -eq 'afterlight' } catch {}

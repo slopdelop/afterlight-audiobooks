@@ -1,4 +1,4 @@
 {
  "name":"afterlight-audiobooks","version":"1.0.0","private":true,"type":"module",
- "scripts":{"test":"node --test tests/*.test.js"}
+ "scripts":{"build":"node tools/build.mjs","test":"node --test tests/*.test.js"}
 }
