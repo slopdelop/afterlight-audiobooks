@@ -116,7 +116,7 @@ Julian Vale is the fictional working name of the selected synthetic narrator. Th
 
 ## Voice review on iPhone
 
-Open **Settings → Voice review** to play the Han/Leia casting samples and tap one to five stars for each voice. The list includes three new candidates and the current Chapter 6 voice per character. **Clear rating** returns a voice to Not rated. At the end, **Copy results** copies a readable list with stable voice IDs, descriptions and scores for pasting into Codex. If clipboard access is unavailable, the app exposes selected text for manual copying.
+Open **Settings → Voice review** to play the Han/Leia casting samples and tap one to five stars for each voice. Round 2 contains two new samples per character: audio-plus-transcript conditioning and speaker-embedding-only conditioning. Each is one continuous take from a cleaned dialogue reference; the failed first-round auditions have been removed. **Clear rating** returns a voice to Not rated. At the end, **Copy results** copies a readable list with stable voice IDs, descriptions and scores for pasting into Codex. If clipboard access is unavailable, the app exposes selected text for manual copying.
 
 Ratings save immediately on the current device under the separate `afterlight-voice-ratings-v1` key and survive application updates; they do not automatically sync or change production casting. Ratings are separate from listening-progress backups; copy your review results to keep them elsewhere. Samples are hosted with Afterlight on GitHub Pages, so your computer does not need to be running. Sample playback requires a connection; chapter downloads and offline reading work as before.
 
