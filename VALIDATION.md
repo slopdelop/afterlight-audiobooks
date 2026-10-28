@@ -38,3 +38,12 @@ Public publication of the app and Chapter 6 MP3 was explicitly approved. The rep
 - Existing offline-reader and update lifecycle checks remain applicable: text is cached with the shell, MP3 downloads are explicit, and updates preserve progress/bookmarks/downloads. Physical iPhone behavior still requires device testing.
 
 Publication authorization: the user explicitly approved public publication of any project code, MP3 files, text and timing data on 2026-10-28. The Chapter 7 audio-only release is already deployed; this reader release includes both chapters' full text in book paragraphs. Future pushes to main deploy automatically through GitHub Pages.
+
+## Progress and finished-chapter fixes
+
+- Reproduced the old metadata/seek race in a silent fake-media test: a saved 600-second position was overwritten with zero before the deferred seek completed. The regression passes after the fix.
+- Audio restoration now waits for confirmed media position and data. Failed/rejected/delayed seeks preserve progress and can retry; superseded source loads are cancelled.
+- Completed chapters restore at their end instead of zero. Continue offers the next unread chapter. A finished timestamp survives replay and progress backup/restore; legacy completion flags migrate into that history.
+- Chapter-list Mark finished repairs missing completion records explicitly. Initial/end-position restoration does not trigger automatic playback.
+- Isolated localhost browser test used a muted audio element throughout. A 600-second position survived reload and a service-worker release change. Marking Chapter 6 finished survived reload, and the library offered Chapter 7. No live user-origin progress was used for these tests.
+- All 23 tests pass. Physical iPhone seek/update timing still needs device confirmation; this fixes the reproduced failure without claiming to know the exact sequence on the user's phone.

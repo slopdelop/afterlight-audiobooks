@@ -1,7 +1,7 @@
 const BUILD='__AFTERLIGHT_BUILD__';
 const CACHE='afterlight-shell-'+BUILD;
 const TEXT_ASSETS=[];
-const SHELL=['./','index.html','styles.css','app.js','core.js','icons.js','storage.js','mp3.js','updates.js','reader.js','manifest.webmanifest','catalog.json','version.json','assets/icon-180.png','assets/icon-192.png','assets/icon-512.png','assets/hollow-throne.png','assets/hollow-throne-square.png'].concat(TEXT_ASSETS);
+const SHELL=['./','index.html','styles.css','app.js','core.js','icons.js','storage.js','mp3.js','updates.js','reader.js','playback.js','manifest.webmanifest','catalog.json','version.json','assets/icon-180.png','assets/icon-192.png','assets/icon-512.png','assets/hollow-throne.png','assets/hollow-throne-square.png'].concat(TEXT_ASSETS);
 self.addEventListener('install',event=>event.waitUntil((async()=>{try{const cache=await caches.open(CACHE);await cache.addAll(SHELL.map(path=>new Request(new URL(path,self.registration.scope),{cache:'reload'})));}catch(error){await caches.delete(CACHE);throw error;}})()));
 // A downloaded release waits until the player decides it is safe to switch.
 self.addEventListener('message',event=>{if(event.data?.type==='ACTIVATE_UPDATE')event.waitUntil(self.skipWaiting());});

@@ -10,3 +10,5 @@
 
 /* Book prose: paragraphs wrap naturally; a scene ornament has no playback target. */
 .reader-paragraph{white-space:normal}.reader-scene::before{content:"✦   ✦   ✦";display:block;text-align:center;color:var(--muted);font-size:12px;letter-spacing:8px;margin:2.4em 0}.reader-block{margin-bottom:1.05em}
+
+.chapter-row .chapter-finish{width:auto;padding:6px 12px;margin:0 0 10px;font-size:11px;color:var(--gold);border:1px solid var(--line);border-radius:20px}
