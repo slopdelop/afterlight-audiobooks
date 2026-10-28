@@ -6,7 +6,7 @@
       "title": "The Hollow Throne",
       "series": "Star Wars",
       "author": "Your novel",
-      "narrator": "Peter Yearsley · Ensemble cast",
+      "narrator": "Julian Vale · Ensemble cast",
       "cover": "assets/hollow-throne.png",
       "artwork": "assets/hollow-throne-square.png",
       "description": "A familiar den of scum. An Imperial archive beneath a cantina. Orders that outlive an Emperor.",
@@ -29,7 +29,8 @@
           "duration": 1508.06,
           "transcript": "text/hollow-throne/chapter-07.json"
         }
-      ]
+      ],
+      "narratorId": "julian_vale"
     }
   ]
 }

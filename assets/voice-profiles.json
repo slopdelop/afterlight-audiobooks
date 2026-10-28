@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "description": "Fictional working names for reusable AI voice profiles, not human performer credits. Reference paths are relative to the local production workspace.",
+  "voices": {
+    "julian_vale": {
+      "name": "Julian Vale",
+      "synthetic": true,
+      "role": "Julian Vale",
+      "engine": "reference",
+      "speaker": null,
+      "direction": "Use the existing audition reference unchanged; mature English audiobook narration.",
+      "reference": "work/voice-references/julian_vale.flac"
+    },
+    "cole_mercer": {
+      "name": "Cole Mercer",
+      "synthetic": true,
+      "role": "Han Solo",
+      "engine": "custom_voice_reference",
+      "speaker": "Ryan",
+      "direction": "Adult American male, medium-low baritone, lightly gravelly and dry. Relaxed, self-assured smuggler with understated wry humor. Natural conversational delivery, warm beneath the sarcasm. Clear words, no caricature, no theatrical shouting.",
+      "reference": "outputs/chapter-six/voices/han.wav"
+    },
+    "mira_arden": {
+      "name": "Mira Arden",
+      "synthetic": true,
+      "role": "Leia Organa",
+      "engine": "custom_voice_reference",
+      "speaker": "Vivian",
+      "direction": "Adult woman speaking clear American English. Medium register, poised, firm and articulate, intelligent and decisive. Warm but restrained concern beneath a composed diplomatic manner. Natural dialogue, no exaggerated acting.",
+      "reference": "outputs/chapter-six/voices/leia.wav"
+    },
+    "garrick_stone": {
+      "name": "Garrick Stone",
+      "synthetic": true,
+      "role": "Wuher",
+      "engine": "custom_voice_reference",
+      "speaker": "Uncle_Fu",
+      "direction": "An older male bartender speaking English, low gravelly chest voice, gruff, weary, blunt and suspicious. Slightly rough edges but very clear intelligible speech. Dry conversational delivery, restrained emotion.",
+      "reference": "outputs/chapter-six/voices/wuher.wav"
+    },
+    "ellis_wren": {
+      "name": "Ellis Wren",
+      "synthetic": true,
+      "role": "Blue-skinned Duros patron",
+      "engine": "custom_voice_reference",
+      "speaker": "Aiden",
+      "direction": "Adult male speaking clear English, a light mid-high register, slightly thin and nasal. Curious and incredulous cantina patron. Conversational and intelligible, no cartoon performance.",
+      "reference": "outputs/chapter-six/voices/duros.wav"
+    },
+    "miles_calder": {
+      "name": "Miles Calder",
+      "synthetic": true,
+      "role": "Another cantina patron",
+      "engine": "custom_voice_reference",
+      "speaker": "Ryan",
+      "direction": "Adult male speaking clear English. Warm mid-range voice with a rounded, slightly breathy tone, friendly and inquisitive. Easy conversational pacing, clearly different from a gravelly low baritone.",
+      "reference": "outputs/chapter-six/voices/patron.wav"
+    },
+    "adrian_holt": {
+      "name": "Adrian Holt",
+      "synthetic": true,
+      "role": "Darren-like recorded officer",
+      "engine": "custom_voice_reference",
+      "speaker": "Aiden",
+      "direction": "Adult male Imperial officer speaking precise formal British English. Controlled mid-low register, clipped consonants, measured authoritative cadence, slight dryness at the ends of sentences. Calm and impersonal, not theatrical.",
+      "reference": "outputs/chapter-six/voices/officer.wav"
+    },
+    "orin_voss": {
+      "name": "Orin Voss",
+      "synthetic": true,
+      "role": "Security droid",
+      "engine": "custom_voice_reference",
+      "speaker": "Ryan",
+      "direction": "Low-pitched security robot speaking very clearly in English. Flat, cold, controlled monotone with exact diction and even pacing. Impersonal machine announcement, no emotion. Do not add sound effects.",
+      "reference": "outputs/chapter-six/voices/droid.wav"
+    },
+    "silas_thorne": {
+      "name": "Silas Thorne",
+      "synthetic": true,
+      "role": "Palpatine",
+      "engine": "custom_voice_reference",
+      "speaker": "Uncle_Fu",
+      "direction": "An elderly male speaking refined British English. Low, dry, slightly raspy voice, precise diction, composed and quietly commanding. Subtle sardonic humor and controlled menace. Comfortable natural audiobook dialogue, no cackling, no shouting, no exaggerated impressions.",
+      "reference": "outputs/chapter-seven/voices/palpatine.wav"
+    },
+    "edmund_rook": {
+      "name": "Edmund Rook",
+      "synthetic": true,
+      "role": "Mas Amedda",
+      "engine": "custom_voice_reference",
+      "speaker": "Eric",
+      "direction": "Mature male speaking formal British English. Resonant mid-low register, measured and deferential with subtle nervous tension. Smooth rounded voice, crisp intelligible diction. Natural restrained conversational delivery.",
+      "reference": "outputs/chapter-seven/voices/amedda.wav"
+    },
+    "roland_keene": {
+      "name": "Roland Keene",
+      "synthetic": true,
+      "role": "Imperial admiral",
+      "engine": "custom_voice_reference",
+      "speaker": "Aiden",
+      "direction": "Adult male speaking precise British English, firm mid-range voice, clipped military diction and measured authority. Controlled and professional, restrained concern. Natural clear audiobook dialogue.",
+      "reference": "outputs/chapter-seven/voices/admiral.wav"
+    },
+    "percival_ash": {
+      "name": "Percival Ash",
+      "synthetic": true,
+      "role": "Janus Greejatus",
+      "engine": "custom_voice_reference",
+      "speaker": "Dylan",
+      "direction": "Older adult male speaking clear British English, slightly thin mid-high register, dry and carefully articulated. Inquisitive court adviser, reserved and formal. Restrained natural delivery.",
+      "reference": "outputs/chapter-seven/voices/greejatus.wav"
+    },
+    "felix_ward": {
+      "name": "Felix Ward",
+      "synthetic": true,
+      "role": "Intelligence officer",
+      "engine": "custom_voice_reference",
+      "speaker": "Ryan",
+      "direction": "Adult male intelligence officer speaking clear British English, medium register, even and factual, precise professional diction. Quietly confident, neutral and unhurried. Natural conversational delivery.",
+      "reference": "outputs/chapter-seven/voices/intelligence.wav"
+    },
+    "lucian_grey": {
+      "name": "Lucian Grey",
+      "synthetic": true,
+      "role": "Sim Aloo",
+      "engine": "custom_voice_reference",
+      "speaker": "Eric",
+      "direction": "Older male adviser speaking English with a refined British accent. Soft and slightly breathy baritone, discreet, composed and thoughtful. Measured natural delivery with clear diction, no theatrical acting.",
+      "reference": "outputs/chapter-seven/voices/sim.wav"
+    }
+  }
+}

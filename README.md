@@ -105,3 +105,11 @@ Use real audio timings, strictly increasing starts, unique paragraph IDs, and th
 ## Simplified interface (October 2026)
 
 The library shows the current book once above other books, with a mini-player only while browsing. The listening screen has Rewind 15 / Play–Pause / Forward 30, larger Speed / Sleep / Bookmark controls, and no fixed bottom navigation. **More (···)** contains downloads, saved bookmarks, chapter history, book details and Settings. Tap the chapter name for the chapter list, Previous/Next and Mark finished. Settings groups progress backups and installation help into expandable sections. Storage keys, chapter IDs, media source, audio files and text cues are unchanged.
+
+## Library and voice profile refinements
+
+The home screen uses a larger Afterlight masthead with no visible Library heading. The Add book entry is hidden; its import handler and form remain for future use. Books and chapters are currently added through the Codex production workflow.
+
+Transient playback/timer messages appear at the bottom, below the player controls. Reading position is tracked without a visual marker by default. **Aa → Debugging → Show current paragraph marker** enables a device-local debugging marker; the preference survives reloads and progress backup/restore.
+
+Julian Vale is the fictional working name of the selected synthetic narrator. The reusable ensemble aliases, generation directions and local reference locations are recorded in `assets/voice-profiles.json`; these are AI profile labels, not credits for human performers. The catalog uses the stable narrator ID `julian_vale`. Both chapter production manifests and their narrator reference paths use this alias. Existing MP3 tags credit generic AI ensemble narration, with no source narrator name; no audio was regenerated or re-encoded for this change.
