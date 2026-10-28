@@ -1,0 +1,4 @@
+const DB='afterlight-media',STORE='audio';let connection;
+async function db(){if(connection)return connection;connection=await new Promise((resolve,reject)=>{const r=indexedDB.open(DB,1);r.onupgradeneeded=()=>r.result.createObjectStore(STORE);r.onsuccess=()=>resolve(r.result);r.onerror=()=>reject(r.error);});return connection;}
+async function transact(mode,action){const d=await db();return new Promise((resolve,reject)=>{const t=d.transaction(STORE,mode),r=action(t.objectStore(STORE));let value;r.onsuccess=()=>value=r.result;t.oncomplete=()=>resolve(value);t.onerror=()=>reject(t.error);t.onabort=()=>reject(t.error||Error('Storage was interrupted.'));});}
+export const getAudio=id=>transact('readonly',s=>s.get(id));export const putAudio=(id,blob)=>transact('readwrite',s=>s.put(blob,id));export const removeAudio=id=>transact('readwrite',s=>s.delete(id));export const audioKeys=()=>transact('readonly',s=>s.getAllKeys());

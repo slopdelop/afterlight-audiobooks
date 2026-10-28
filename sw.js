@@ -1,0 +1,7 @@
+const CACHE='afterlight-shell-v4';
+const SHELL=['./','index.html','styles.css','app.js','core.js','icons.js','storage.js','mp3.js','manifest.webmanifest','catalog.json','assets/icon-180.png','assets/icon-192.png','assets/icon-512.png','assets/hollow-throne.png','assets/hollow-throne-square.png'];
+self.addEventListener('install',event=>event.waitUntil((async()=>{const cache=await caches.open(CACHE);await cache.addAll(SHELL.map(path=>new Request(new URL(path,self.registration.scope),{cache:'reload'})));await self.skipWaiting();})()));
+self.addEventListener('activate',event=>event.waitUntil((async()=>{for(const key of await caches.keys())if(key.startsWith('afterlight-shell-')&&key!==CACHE)await caches.delete(key);await self.clients.claim();})()));
+self.addEventListener('fetch',event=>{const request=event.request,url=new URL(request.url);if(request.method!=='GET'||url.origin!==self.location.origin||request.headers.has('range')||url.pathname.endsWith('.mp3'))return;
+ if(request.mode==='navigate'||url.pathname.endsWith('/catalog.json')){event.respondWith((async()=>{try{const r=await fetch(request);if(r.ok){const cache=await caches.open(CACHE);await cache.put(request,r.clone());}return r;}catch{return (await caches.match(request))||(request.mode==='navigate'?await caches.match(new URL('index.html',self.registration.scope)):Response.error());}})());}
+ else event.respondWith((async()=>{const cache=await caches.open(CACHE),saved=await cache.match(request);if(saved)return saved;return fetch(request);})());});
