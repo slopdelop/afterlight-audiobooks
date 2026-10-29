@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "book": "The Hollow Throne",
+  "round": "VoiceDesign 2 · acoustic casting · 12 candidates per character",
+  "selected_by": "user",
+  "narrator": "julian_vale",
+  "voices": {
+    "han": {
+      "name": "vd2_han_c_1",
+      "role": "han",
+      "selected_candidate": "Candidate 07",
+      "audition_id": "vd2_han_c_1",
+      "reference_audio": "work/voice-references/vd2_han_c_1.wav",
+      "reference_text": "Well, the cantina's still standing.\n\nFound your secret station. Found some recordings. Nearly got killed by a security droid.\n\nListen, sweetheart. We found something about Darren.\n\nDon't thank me yet. I haven't sent you the bill.",
+      "reference_sha256": "e20f707405110074f9f6ba849af4c846594d0c3f9152e9893a3e85587d3e6b0b",
+      "embedding_only": false,
+      "conditioning": "full audio and transcript; validation pending",
+      "source_model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "source_revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "source_seed": 26028600,
+      "design_description": "A male voice inspired by the conversational speaking style of Harrison Ford portraying Han Solo in the original Star Wars trilogy. American accent, medium pitch, slightly nasal and weathered vocal texture, casually clipped words, dry sarcastic timing, occasional vocal creak, and a relaxed, confident manner. Natural intimate dialogue, avoiding a deep theatrical action-hero voice.",
+      "design_generation_settings": {
+        "do_sample": true,
+        "top_k": 50,
+        "top_p": 1.0,
+        "temperature": 0.9,
+        "repetition_penalty": 1.05,
+        "subtalker_dosample": true,
+        "subtalker_top_k": 50,
+        "subtalker_top_p": 1.0,
+        "subtalker_temperature": 0.9,
+        "max_new_tokens": 8192
+      },
+      "asr_screen": "Well, the canteen is still standing. Found your secret station. Found some recordings. Nearly got killed by a security droid. Listen, sweetheart, we found something about Darren. Don't thank me yet, I haven't sent you the bill.",
+      "synthetic": true
+    },
+    "leia": {
+      "name": "vd2_leia_a_1",
+      "role": "leia",
+      "selected_candidate": "Candidate 01",
+      "audition_id": "vd2_leia_a_1",
+      "reference_audio": "work/voice-references/vd2_leia_a_1.wav",
+      "reference_text": "How did it go?\n\nThat's encouraging.\n\nAre you hurt?\n\nOf course he did,\n\nHan, I want you to bring those files back.\n\nWe can send a proper intelligence team later. Those records may explain what happened to Darren.\n\nThank you.\n\nCome home, Han.",
+      "reference_sha256": "90acd570a5f923c3e142eb7bd454e3b5f5da81b3d2b56783a70865c6264d7f8f",
+      "embedding_only": false,
+      "conditioning": "full audio and transcript; validation pending",
+      "source_model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "source_revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "source_seed": 26029200,
+      "design_description": "An American woman in her early twenties, medium pitch, with bright forward resonance, a slight nasal edge, and light throaty husk. Compact vowels, precise consonants, brisk connected phrases, and decisive falling endings. Dryly amused and impatient, speaking directly and firmly at ordinary conversational volume.",
+      "design_generation_settings": {
+        "do_sample": true,
+        "top_k": 50,
+        "top_p": 1.0,
+        "temperature": 0.9,
+        "repetition_penalty": 1.05,
+        "subtalker_dosample": true,
+        "subtalker_top_k": 50,
+        "subtalker_top_p": 1.0,
+        "subtalker_temperature": 0.9,
+        "max_new_tokens": 8192
+      },
+      "asr_screen": "How did it go? That's encouraging. Are you hurt? Of course he did. Han, I want you to bring those files back. We can send a proper intelligence team later. Those records may explain what happened to Darren. Thank you. Come home, Han.",
+      "synthetic": true
+    }
+  },
+  "next_step": "Validate Qwen Base full audio-and-transcript reference conditioning on new dialogue before chapter generation.",
+  "existing_chapters_changed": false
+}
