@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "round": "VoiceDesign · direct dialogue auditions",
+  "note": "Three newly designed voices per character. Direct VoiceDesign output only: no narrator, preset speaker, actor reference, conversion or cloning. Same Chapter 6 dialogue within each character. Methods and descriptions are available in candidate details. Choose a favourite for each character and copy your results.",
+  "voices": [
+    {
+      "id": "vd_han_a",
+      "role": "han",
+      "name": "Candidate A",
+      "description": "Direct Qwen VoiceDesign output. A man in his late thirties speaking natural General American English. Warm conversational baritone, lightly weathered grain, relaxed rhythm and understated dry humour. Casual confidence with kindness beneath mild impatience. Clear intimate audiobook dialogue, natural breathing and restrained emotion. No growling or announcer performance.",
+      "src": "audio/voice-review/vd_han_a.mp3",
+      "seconds": 17.19,
+      "text": "Well, the cantina's still standing.\n\nFound your secret station. Found some recordings. Nearly got killed by a security droid.\n\nListen, sweetheart. We found something about Darren.\n\nDon't thank me yet. I haven't sent you the bill.",
+      "method": "voice_design",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "seed": 8100,
+      "singleContinuousTake": true,
+      "narrator": false,
+      "source_ids": [
+        "0174",
+        "0176",
+        "0182",
+        "0207"
+      ]
+    },
+    {
+      "id": "vd_han_b",
+      "role": "han",
+      "name": "Candidate B",
+      "description": "Direct Qwen VoiceDesign output. An adult American man in his early thirties. An agile middle-register voice, brighter forward resonance and clean, slightly clipped consonants. Quick-witted, gently sardonic, casually self-assured. Brisk conversational phrasing with small meaningful pauses, warm rather than aggressive. Natural dialogue, no theatrical impressions.",
+      "src": "audio/voice-review/vd_han_b.mp3",
+      "seconds": 15.05,
+      "text": "Well, the cantina's still standing.\n\nFound your secret station. Found some recordings. Nearly got killed by a security droid.\n\nListen, sweetheart. We found something about Darren.\n\nDon't thank me yet. I haven't sent you the bill.",
+      "method": "voice_design",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "seed": 8200,
+      "singleContinuousTake": true,
+      "narrator": false,
+      "source_ids": [
+        "0174",
+        "0176",
+        "0182",
+        "0207"
+      ]
+    },
+    {
+      "id": "vd_han_c",
+      "role": "han",
+      "name": "Candidate C",
+      "description": "Direct Qwen VoiceDesign output. An American man in his forties with a smooth low-middle register, rounded resonance and just a trace of natural rasp. Easygoing, quietly amused and candid. Measured conversational pacing, unforced warmth, dry matter-of-fact humour. Understated dramatic dialogue, not excessively deep, no gravelly action-hero delivery.",
+      "src": "audio/voice-review/vd_han_c.mp3",
+      "seconds": 17.91,
+      "text": "Well, the cantina's still standing.\n\nFound your secret station. Found some recordings. Nearly got killed by a security droid.\n\nListen, sweetheart. We found something about Darren.\n\nDon't thank me yet. I haven't sent you the bill.",
+      "method": "voice_design",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "seed": 8300,
+      "singleContinuousTake": true,
+      "narrator": false,
+      "source_ids": [
+        "0174",
+        "0176",
+        "0182",
+        "0207"
+      ]
+    },
+    {
+      "id": "vd_leia_a",
+      "role": "leia",
+      "name": "Candidate A",
+      "description": "Direct Qwen VoiceDesign output. An American woman in her early thirties. Clear bright middle register, focused resonance and precise consonants. Composed and incisive with dry wit and quiet authority. Brisk natural conversational phrasing, sincere concern without sentimentality. Grounded audiobook dialogue, no breathy or exaggerated royal delivery.",
+      "src": "audio/voice-review/vd_leia_a.mp3",
+      "seconds": 14.06,
+      "text": "How did it go?\n\nThat's encouraging.\n\nAre you hurt?\n\nHan, I want you to bring those files back.\n\nWe can send a proper intelligence team later. Those records may explain what happened to Darren.\n\nCome home, Han.",
+      "method": "voice_design",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "seed": 8400,
+      "singleContinuousTake": true,
+      "narrator": false,
+      "source_ids": [
+        "0173",
+        "0175",
+        "0177",
+        "0199",
+        "0202",
+        "0209"
+      ]
+    },
+    {
+      "id": "vd_leia_b",
+      "role": "leia",
+      "name": "Candidate B",
+      "description": "Direct Qwen VoiceDesign output. An adult American woman in her late thirties. Warm lower-middle register, full rounded vowels and a light naturally husky texture. Calmly assertive, intelligent and emotionally present. Deliberate but flowing conversational pacing with subtle warmth. No whispering, theatrical shouting or affected accent.",
+      "src": "audio/voice-review/vd_leia_b.mp3",
+      "seconds": 16.28,
+      "text": "How did it go?\n\nThat's encouraging.\n\nAre you hurt?\n\nHan, I want you to bring those files back.\n\nWe can send a proper intelligence team later. Those records may explain what happened to Darren.\n\nCome home, Han.",
+      "method": "voice_design",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "seed": 8500,
+      "singleContinuousTake": true,
+      "narrator": false,
+      "source_ids": [
+        "0173",
+        "0175",
+        "0177",
+        "0199",
+        "0202",
+        "0209"
+      ]
+    },
+    {
+      "id": "vd_leia_c",
+      "role": "leia",
+      "name": "Candidate C",
+      "description": "Direct Qwen VoiceDesign output. An American woman around thirty with a balanced middle-register voice, smooth clear tone and firm chest resonance. Direct, self-possessed and energetic, with restrained wry humour. Crisp articulation, lively conversational rhythm and warmth beneath decisive phrasing. Natural intimate dialogue, no breathiness or cartoon character performance.",
+      "src": "audio/voice-review/vd_leia_c.mp3",
+      "seconds": 13.38,
+      "text": "How did it go?\n\nThat's encouraging.\n\nAre you hurt?\n\nHan, I want you to bring those files back.\n\nWe can send a proper intelligence team later. Those records may explain what happened to Darren.\n\nCome home, Han.",
+      "method": "voice_design",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "seed": 8600,
+      "singleContinuousTake": true,
+      "narrator": false,
+      "source_ids": [
+        "0173",
+        "0175",
+        "0177",
+        "0199",
+        "0202",
+        "0209"
+      ]
+    }
+  ]
+}
