@@ -1,0 +1,487 @@
+{
+  "schemaVersion": 1,
+  "round": "Original character casting · narrator and original voices",
+  "note": "Three options per character. Qwen Base does not support delivery instructions; narrator variations were omitted. B/C are existing presets, not newly designed voices. Selected Chapter 6 excerpts, with identical narration between turns. Unfamiliar-line files and retry records retained locally.",
+  "voices": [
+    {
+      "id": "original_han_a",
+      "role": "han",
+      "name": "Candidate A",
+      "description": "Julian Vale · unchanged Qwen Base narrator reference and production settings. No delivery instructions.",
+      "src": "audio/voice-review/original_han_a.mp3",
+      "seconds": 42.68,
+      "singleContinuousTake": false,
+      "timeline": [
+        {
+          "kind": "narrator",
+          "part": "shared_intro",
+          "start": 0,
+          "end": 13.03,
+          "text": "Back aboard the Falcon, Han transmitted the recovered records to Leia through an encrypted Alliance channel.\n\nHe waited while the connection established.\n\nHer hologram appeared above the console.",
+          "source_sha256": "efe2b331d76e32b1ad8f43fc5467b18a355243c98a0426db7ad89c5bfd96b966"
+        },
+        {
+          "start": 13.03,
+          "end": 21.72,
+          "part": "han_a_0",
+          "ids": [
+            "0174",
+            "0176"
+          ],
+          "kind": "dialogue",
+          "tts": "Well, the cantina's still standing. Found your secret station. Found some recordings. Nearly got killed by a security droid.",
+          "text": "Well, the cantina's still standing. Found your secret station. Found some recordings. Nearly got killed by a security droid."
+        },
+        {
+          "start": 21.97,
+          "end": 23.490000000000002,
+          "part": "han_n1",
+          "ids": [
+            "lean"
+          ],
+          "kind": "narrator",
+          "tts": "Hahn leaned forward.",
+          "text": "Han leaned forward."
+        },
+        {
+          "start": 23.740000000000002,
+          "end": 37.79,
+          "part": "han_a_2",
+          "ids": [
+            "0182",
+            "0185",
+            "0187"
+          ],
+          "kind": "dialogue",
+          "tts": "Listen, sweetheart. We found something about Darren. Someone sent an activation command from this station to Kor-uh-sant on the morning he jumped. That's the interesting part. The authorization belonged to Sim Ah-loo.",
+          "text": "Listen, sweetheart. We found something about Darren. Someone sent an activation command from this station to Coruscant on the morning he jumped. That's the interesting part. The authorization belonged to Sim Aloo."
+        },
+        {
+          "start": 38.04,
+          "end": 38.92,
+          "part": "han_n3",
+          "ids": [
+            "0206"
+          ],
+          "kind": "narrator",
+          "tts": "He smiled.",
+          "text": "He smiled."
+        },
+        {
+          "start": 39.17,
+          "end": 42.43,
+          "part": "han_a_4",
+          "ids": [
+            "0207"
+          ],
+          "kind": "dialogue",
+          "tts": "Don't thank me yet. I haven't sent you the bill.",
+          "text": "Don't thank me yet. I haven't sent you the bill."
+        }
+      ],
+      "text": "Narrator: Back aboard the Falcon, Han transmitted the recovered records to Leia through an encrypted Alliance channel.\n\nHe waited while the connection established.\n\nHer hologram appeared above the console.\n\nHan: Well, the cantina's still standing. Found your secret station. Found some recordings. Nearly got killed by a security droid.\n\nNarrator: Han leaned forward.\n\nHan: Listen, sweetheart. We found something about Darren. Someone sent an activation command from this station to Coruscant on the morning he jumped. That's the interesting part. The authorization belonged to Sim Aloo.\n\nNarrator: He smiled.\n\nHan: Don't thank me yet. I haven't sent you the bill."
+    },
+    {
+      "id": "original_han_b",
+      "role": "han",
+      "name": "Candidate B",
+      "description": "Qwen CustomVoice · Ryan preset. Adult American male. Conversational middle-low register, warm and relaxed, casual confidence, understated dry humour. A little natural texture. Speak clearly with restrained emotion and natural audiobook pacing. No growling, shouting or announcer delivery.",
+      "src": "audio/voice-review/original_han_b.mp3",
+      "seconds": 45.05,
+      "singleContinuousTake": false,
+      "timeline": [
+        {
+          "kind": "narrator",
+          "part": "shared_intro",
+          "start": 0,
+          "end": 13.03,
+          "text": "Back aboard the Falcon, Han transmitted the recovered records to Leia through an encrypted Alliance channel.\n\nHe waited while the connection established.\n\nHer hologram appeared above the console.",
+          "source_sha256": "efe2b331d76e32b1ad8f43fc5467b18a355243c98a0426db7ad89c5bfd96b966"
+        },
+        {
+          "start": 13.03,
+          "end": 21.02,
+          "part": "han_b_0",
+          "ids": [
+            "0174",
+            "0176"
+          ],
+          "kind": "dialogue",
+          "tts": "Well, the cantina's still standing. Found your secret station. Found some recordings. Nearly got killed by a security droid.",
+          "text": "Well, the cantina's still standing. Found your secret station. Found some recordings. Nearly got killed by a security droid."
+        },
+        {
+          "start": 21.27,
+          "end": 22.79,
+          "part": "han_n1",
+          "ids": [
+            "lean"
+          ],
+          "kind": "narrator",
+          "tts": "Hahn leaned forward.",
+          "text": "Han leaned forward."
+        },
+        {
+          "start": 23.04,
+          "end": 40.39,
+          "part": "han_b_2",
+          "ids": [
+            "0182",
+            "0185",
+            "0187"
+          ],
+          "kind": "dialogue",
+          "tts": "Listen, sweetheart. We found something about Darren. Someone sent an activation command from this station to Kor-uh-sant on the morning he jumped. That's the interesting part. The authorization belonged to Sim Ah-loo.",
+          "text": "Listen, sweetheart. We found something about Darren. Someone sent an activation command from this station to Coruscant on the morning he jumped. That's the interesting part. The authorization belonged to Sim Aloo."
+        },
+        {
+          "start": 40.64,
+          "end": 41.519999999999996,
+          "part": "han_n3",
+          "ids": [
+            "0206"
+          ],
+          "kind": "narrator",
+          "tts": "He smiled.",
+          "text": "He smiled."
+        },
+        {
+          "start": 41.769999999999996,
+          "end": 44.8,
+          "part": "han_b_4",
+          "ids": [
+            "0207"
+          ],
+          "kind": "dialogue",
+          "tts": "Don't thank me yet. I haven't sent you the bill.",
+          "text": "Don't thank me yet. I haven't sent you the bill."
+        }
+      ],
+      "text": "Narrator: Back aboard the Falcon, Han transmitted the recovered records to Leia through an encrypted Alliance channel.\n\nHe waited while the connection established.\n\nHer hologram appeared above the console.\n\nHan: Well, the cantina's still standing. Found your secret station. Found some recordings. Nearly got killed by a security droid.\n\nNarrator: Han leaned forward.\n\nHan: Listen, sweetheart. We found something about Darren. Someone sent an activation command from this station to Coruscant on the morning he jumped. That's the interesting part. The authorization belonged to Sim Aloo.\n\nNarrator: He smiled.\n\nHan: Don't thank me yet. I haven't sent you the bill."
+    },
+    {
+      "id": "original_han_c",
+      "role": "han",
+      "name": "Candidate C",
+      "description": "Qwen CustomVoice · Aiden preset. Adult American male. A natural conversational middle register, slightly brighter and more clipped, brisk but unhurried, sardonic dry humour with warmth beneath mild impatience. Restrained audiobook dialogue, no theatrical delivery.",
+      "src": "audio/voice-review/original_han_c.mp3",
+      "seconds": 41.92,
+      "singleContinuousTake": false,
+      "timeline": [
+        {
+          "kind": "narrator",
+          "part": "shared_intro",
+          "start": 0,
+          "end": 13.03,
+          "text": "Back aboard the Falcon, Han transmitted the recovered records to Leia through an encrypted Alliance channel.\n\nHe waited while the connection established.\n\nHer hologram appeared above the console.",
+          "source_sha256": "efe2b331d76e32b1ad8f43fc5467b18a355243c98a0426db7ad89c5bfd96b966"
+        },
+        {
+          "start": 13.03,
+          "end": 20.939999999999998,
+          "part": "han_c_0",
+          "ids": [
+            "0174",
+            "0176"
+          ],
+          "kind": "dialogue",
+          "tts": "Well, the cantina's still standing. Found your secret station. Found some recordings. Nearly got killed by a security droid.",
+          "text": "Well, the cantina's still standing. Found your secret station. Found some recordings. Nearly got killed by a security droid."
+        },
+        {
+          "start": 21.189999999999998,
+          "end": 22.71,
+          "part": "han_n1",
+          "ids": [
+            "lean"
+          ],
+          "kind": "narrator",
+          "tts": "Hahn leaned forward.",
+          "text": "Han leaned forward."
+        },
+        {
+          "start": 22.96,
+          "end": 37.5,
+          "part": "han_c_2",
+          "ids": [
+            "0182",
+            "0185",
+            "0187"
+          ],
+          "kind": "dialogue",
+          "tts": "Listen, sweetheart. We found something about Darren. Someone sent an activation command from this station to Kor-uh-sant on the morning he jumped. That's the interesting part. The authorization belonged to Sim Ah-loo.",
+          "text": "Listen, sweetheart. We found something about Darren. Someone sent an activation command from this station to Coruscant on the morning he jumped. That's the interesting part. The authorization belonged to Sim Aloo."
+        },
+        {
+          "start": 37.75,
+          "end": 38.63,
+          "part": "han_n3",
+          "ids": [
+            "0206"
+          ],
+          "kind": "narrator",
+          "tts": "He smiled.",
+          "text": "He smiled."
+        },
+        {
+          "start": 38.88,
+          "end": 41.67,
+          "part": "han_c_4",
+          "ids": [
+            "0207"
+          ],
+          "kind": "dialogue",
+          "tts": "Don't thank me yet. I haven't sent you the bill.",
+          "text": "Don't thank me yet. I haven't sent you the bill."
+        }
+      ],
+      "text": "Narrator: Back aboard the Falcon, Han transmitted the recovered records to Leia through an encrypted Alliance channel.\n\nHe waited while the connection established.\n\nHer hologram appeared above the console.\n\nHan: Well, the cantina's still standing. Found your secret station. Found some recordings. Nearly got killed by a security droid.\n\nNarrator: Han leaned forward.\n\nHan: Listen, sweetheart. We found something about Darren. Someone sent an activation command from this station to Coruscant on the morning he jumped. That's the interesting part. The authorization belonged to Sim Aloo.\n\nNarrator: He smiled.\n\nHan: Don't thank me yet. I haven't sent you the bill."
+    },
+    {
+      "id": "original_leia_a",
+      "role": "leia",
+      "name": "Candidate A",
+      "description": "Julian Vale · unchanged Qwen Base narrator reference and production settings. No delivery instructions.",
+      "src": "audio/voice-review/original_leia_a.mp3",
+      "seconds": 39.59,
+      "singleContinuousTake": false,
+      "timeline": [
+        {
+          "kind": "narrator",
+          "part": "shared_intro",
+          "start": 0,
+          "end": 13.03,
+          "text": "Back aboard the Falcon, Han transmitted the recovered records to Leia through an encrypted Alliance channel.\n\nHe waited while the connection established.\n\nHer hologram appeared above the console.",
+          "source_sha256": "efe2b331d76e32b1ad8f43fc5467b18a355243c98a0426db7ad89c5bfd96b966"
+        },
+        {
+          "start": 13.03,
+          "end": 16.47,
+          "part": "leia_a_0",
+          "ids": [
+            "0173",
+            "0175",
+            "0177"
+          ],
+          "kind": "dialogue",
+          "tts": "How did it go? That's encouraging. Are you hurt?",
+          "text": "How did it go? That's encouraging. Are you hurt?"
+        },
+        {
+          "start": 16.72,
+          "end": 18.64,
+          "part": "leia_n1",
+          "ids": [
+            "0183"
+          ],
+          "kind": "narrator",
+          "tts": "Her expression changed immediately.",
+          "text": "Her expression changed immediately."
+        },
+        {
+          "start": 18.89,
+          "end": 26.33,
+          "part": "leia_a_2",
+          "ids": [
+            "0189",
+            "0191",
+            "0196"
+          ],
+          "kind": "dialogue",
+          "tts": "One of the Emperor's advisers? But he died aboard the second Death Star. Can you identify who's receiving them?",
+          "text": "One of the Emperor's advisers? But he died aboard the second Death Star. Can you identify who's receiving them?"
+        },
+        {
+          "start": 26.58,
+          "end": 27.32,
+          "part": "leia_n3",
+          "ids": [
+            "0198"
+          ],
+          "kind": "narrator",
+          "tts": "She looked up.",
+          "text": "She looked up."
+        },
+        {
+          "start": 27.57,
+          "end": 39.339999999999996,
+          "part": "leia_a_4",
+          "ids": [
+            "0199",
+            "0202",
+            "0205",
+            "0209"
+          ],
+          "kind": "dialogue",
+          "tts": "Hahn, I want you to bring those files back. We can send a proper intelligence team later. Those records may explain what happened to Darren. Thank you. Come home, Hahn.",
+          "text": "Han, I want you to bring those files back. We can send a proper intelligence team later. Those records may explain what happened to Darren. Thank you. Come home, Han."
+        }
+      ],
+      "text": "Narrator: Back aboard the Falcon, Han transmitted the recovered records to Leia through an encrypted Alliance channel.\n\nHe waited while the connection established.\n\nHer hologram appeared above the console.\n\nLeia: How did it go? That's encouraging. Are you hurt?\n\nNarrator: Her expression changed immediately.\n\nLeia: One of the Emperor's advisers? But he died aboard the second Death Star. Can you identify who's receiving them?\n\nNarrator: She looked up.\n\nLeia: Han, I want you to bring those files back. We can send a proper intelligence team later. Those records may explain what happened to Darren. Thank you. Come home, Han."
+    },
+    {
+      "id": "original_leia_b",
+      "role": "leia",
+      "name": "Candidate B",
+      "description": "Qwen CustomVoice · Vivian preset. Adult American woman speaking natural American English. Clear middle register, precise articulation, composed and incisive, brighter and brisker, dry wit, quietly firm. Grounded audiobook dialogue, no breathiness or theatrical shouting.",
+      "src": "audio/voice-review/original_leia_b.mp3",
+      "seconds": 40.75,
+      "singleContinuousTake": false,
+      "timeline": [
+        {
+          "kind": "narrator",
+          "part": "shared_intro",
+          "start": 0,
+          "end": 13.03,
+          "text": "Back aboard the Falcon, Han transmitted the recovered records to Leia through an encrypted Alliance channel.\n\nHe waited while the connection established.\n\nHer hologram appeared above the console.",
+          "source_sha256": "efe2b331d76e32b1ad8f43fc5467b18a355243c98a0426db7ad89c5bfd96b966"
+        },
+        {
+          "start": 13.03,
+          "end": 17.5,
+          "part": "leia_b_0",
+          "ids": [
+            "0173",
+            "0175",
+            "0177"
+          ],
+          "kind": "dialogue",
+          "tts": "How did it go? That's encouraging. Are you hurt?",
+          "text": "How did it go? That's encouraging. Are you hurt?"
+        },
+        {
+          "start": 17.75,
+          "end": 19.669999999999998,
+          "part": "leia_n1",
+          "ids": [
+            "0183"
+          ],
+          "kind": "narrator",
+          "tts": "Her expression changed immediately.",
+          "text": "Her expression changed immediately."
+        },
+        {
+          "start": 19.919999999999998,
+          "end": 27.189999999999998,
+          "part": "leia_b_2",
+          "ids": [
+            "0189",
+            "0191",
+            "0196"
+          ],
+          "kind": "dialogue",
+          "tts": "One of the Emperor's advisers? But he died aboard the second Death Star. Can you identify who's receiving them?",
+          "text": "One of the Emperor's advisers? But he died aboard the second Death Star. Can you identify who's receiving them?"
+        },
+        {
+          "start": 27.439999999999998,
+          "end": 28.18,
+          "part": "leia_n3",
+          "ids": [
+            "0198"
+          ],
+          "kind": "narrator",
+          "tts": "She looked up.",
+          "text": "She looked up."
+        },
+        {
+          "start": 28.43,
+          "end": 40.5,
+          "part": "leia_b_4",
+          "ids": [
+            "0199",
+            "0202",
+            "0205",
+            "0209"
+          ],
+          "kind": "dialogue",
+          "tts": "Hahn, I want you to bring those files back. We can send a proper intelligence team later. Those records may explain what happened to Darren. Thank you. Come home, Hahn.",
+          "text": "Han, I want you to bring those files back. We can send a proper intelligence team later. Those records may explain what happened to Darren. Thank you. Come home, Han."
+        }
+      ],
+      "text": "Narrator: Back aboard the Falcon, Han transmitted the recovered records to Leia through an encrypted Alliance channel.\n\nHe waited while the connection established.\n\nHer hologram appeared above the console.\n\nLeia: How did it go? That's encouraging. Are you hurt?\n\nNarrator: Her expression changed immediately.\n\nLeia: One of the Emperor's advisers? But he died aboard the second Death Star. Can you identify who's receiving them?\n\nNarrator: She looked up.\n\nLeia: Han, I want you to bring those files back. We can send a proper intelligence team later. Those records may explain what happened to Darren. Thank you. Come home, Han."
+    },
+    {
+      "id": "original_leia_c",
+      "role": "leia",
+      "name": "Candidate C",
+      "description": "Qwen CustomVoice · Serena preset. Adult American woman speaking natural American English. Grounded middle register, warm and firmly assertive, relaxed clear articulation, subtle natural huskiness, restrained emotion. Conversational audiobook dialogue, no exaggerated accents, breathiness or shouting.",
+      "src": "audio/voice-review/original_leia_c.mp3",
+      "seconds": 43.46,
+      "singleContinuousTake": false,
+      "timeline": [
+        {
+          "kind": "narrator",
+          "part": "shared_intro",
+          "start": 0,
+          "end": 13.03,
+          "text": "Back aboard the Falcon, Han transmitted the recovered records to Leia through an encrypted Alliance channel.\n\nHe waited while the connection established.\n\nHer hologram appeared above the console.",
+          "source_sha256": "efe2b331d76e32b1ad8f43fc5467b18a355243c98a0426db7ad89c5bfd96b966"
+        },
+        {
+          "start": 13.03,
+          "end": 17.74,
+          "part": "leia_c_0",
+          "ids": [
+            "0173",
+            "0175",
+            "0177"
+          ],
+          "kind": "dialogue",
+          "tts": "How did it go? That's encouraging. Are you hurt?",
+          "text": "How did it go? That's encouraging. Are you hurt?"
+        },
+        {
+          "start": 17.99,
+          "end": 19.91,
+          "part": "leia_n1",
+          "ids": [
+            "0183"
+          ],
+          "kind": "narrator",
+          "tts": "Her expression changed immediately.",
+          "text": "Her expression changed immediately."
+        },
+        {
+          "start": 20.16,
+          "end": 28.78,
+          "part": "leia_c_2",
+          "ids": [
+            "0189",
+            "0191",
+            "0196"
+          ],
+          "kind": "dialogue",
+          "tts": "One of the Emperor's advisers? But he died aboard the second Death Star. Can you identify who's receiving them?",
+          "text": "One of the Emperor's advisers? But he died aboard the second Death Star. Can you identify who's receiving them?"
+        },
+        {
+          "start": 29.03,
+          "end": 29.769999999999996,
+          "part": "leia_n3",
+          "ids": [
+            "0198"
+          ],
+          "kind": "narrator",
+          "tts": "She looked up.",
+          "text": "She looked up."
+        },
+        {
+          "start": 30.019999999999996,
+          "end": 43.21,
+          "part": "leia_c_4",
+          "ids": [
+            "0199",
+            "0202",
+            "0205",
+            "0209"
+          ],
+          "kind": "dialogue",
+          "tts": "Hahn, I want you to bring those files back. We can send a proper intelligence team later. Those records may explain what happened to Darren. Thank you. Come home, Hahn.",
+          "text": "Han, I want you to bring those files back. We can send a proper intelligence team later. Those records may explain what happened to Darren. Thank you. Come home, Han."
+        }
+      ],
+      "text": "Narrator: Back aboard the Falcon, Han transmitted the recovered records to Leia through an encrypted Alliance channel.\n\nHe waited while the connection established.\n\nHer hologram appeared above the console.\n\nLeia: How did it go? That's encouraging. Are you hurt?\n\nNarrator: Her expression changed immediately.\n\nLeia: One of the Emperor's advisers? But he died aboard the second Death Star. Can you identify who's receiving them?\n\nNarrator: She looked up.\n\nLeia: Han, I want you to bring those files back. We can send a proper intelligence team later. Those records may explain what happened to Darren. Thank you. Come home, Han."
+    }
+  ]
+}
