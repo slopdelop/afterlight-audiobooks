@@ -141,3 +141,11 @@ Ratings save immediately on the current device under the separate `afterlight-vo
 The review uses one dedicated sample audio element. Playing a sample pauses chapter playback; switching samples, leaving the review or closing Settings stops the previous sample. The chapter's source and saved position are retained. Media Session commands target the active sample while reviewing and return to the audiobook afterward.
 
 Add future samples under `audio/voice-review/` and append their stable ID, role, name, description, relative source path and duration to `assets/voice-auditions.json`. The voice list and module are versioned with the app; sample MP3s are fetched on demand.
+
+## Progress and lock-screen resume — 2026-10-29
+
+Progress saves use an independent `afterlight-progress-v1` journal alongside the existing `afterlight-v1` state. Newer per-chapter records win when an idle tab saves. Unchanged checkpoints keep their timestamps, completed-chapter history is retained, and explicit backup restoration can replace progress intentionally. A media clock reset cannot implicitly rewind a chapter; manual seeks and replay still can. The sleep timer checkpoints before calling native pause. A genuine full-length ended event records chapter completion even if the browser discards its currentTime.
+
+Lock-screen Play rebuilds the same native media element's source at the saved position and requests native play synchronously in the remote action, before awaiting the restored seek. This addresses a stale native playback pipeline while keeping the native audio element, downloaded source, speed and sleep clock. Audible iPhone lock-screen recovery still needs a physical-device confirmation; desktop tests cannot establish hardware audio output.
+
+An installed iPhone web app cannot set the phone's system volume. No preferred-volume control is shown; use the physical volume buttons or Control Center. Avoid introducing a Web Audio processing path just to add attenuation because reliable locked-screen playback is the priority.

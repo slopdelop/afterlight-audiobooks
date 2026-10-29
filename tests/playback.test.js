@@ -1,14 +1,40 @@
+import {createPositionTracker,restoreProgress,persistProgress} from '../progress.js';
 import {createSleepTimer} from '../sleep.js';
 import {loadAudioAt,requestNativePlay} from '../playback.js';
 import test from 'node:test';import assert from 'node:assert/strict';import vm from 'node:vm';import fs from 'node:fs';import * as core from '../core.js';
 class FakeAudio extends EventTarget{constructor(){super();this.actual=0;this.requested=0;this.duration=1190.86;this.readyState=0;this.paused=true;this.seeking=false;}get currentTime(){return this.actual;}set currentTime(p){this.requested=p;this.seeking=true;}load(){this.actual=0;this.readyState=0;this.seeking=false;}pause(){this.paused=true;}metadata(){this.readyState=1;this.dispatchEvent(new Event('loadedmetadata'));}settle(){this.actual=this.requested;this.seeking=false;this.readyState=4;this.dispatchEvent(new Event('seeked'));}}
-function harness(extra={}){const audio=new FakeAudio(),stored=new Map(),elements=new Map();const element=id=>{if(id==='audio')return audio;if(!elements.has(id))elements.set(id,{style:{},classList:{add(){},remove(){}},setAttribute(){},querySelector(){return {dataset:{}};}});return elements.get(id);};const source=fs.readFileSync(new URL('../app.js',import.meta.url),'utf8').split('function openPanel')[0].replace(/^import .*;\r?\n/gm,'');const context={...core,createSleepTimer,loadAudioAt,requestNativePlay,...extra,document:{getElementById:element},navigator:{},localStorage:{getItem:k=>stored.get(k),setItem:(k,v)=>stored.set(k,v)},paintIcons(){},icon(){return "";},renderReaderControls(){},URL,setTimeout,clearTimeout,AbortController,DOMException,console};vm.runInNewContext(source+`\nbook={id:'b'};chapter={id:'c',duration:1190.86};state.positions.c={position:600,updatedAt:1};globalThis.h={setSource,checkpoint,position,openBook,prepareSleep,sleep,get saved(){return state.positions.c.position;},get ready(){return ready;}};`,context);return {audio,h:context.h,context};}
+function harness(extra={}){const audio=new FakeAudio(),stored=new Map(),elements=new Map();const element=id=>{if(id==='audio')return audio;if(!elements.has(id))elements.set(id,{style:{},classList:{add(){},remove(){}},setAttribute(){},querySelector(){return {dataset:{}};}});return elements.get(id);};const source=fs.readFileSync(new URL('../app.js',import.meta.url),'utf8').split('function openPanel')[0].replace(/^import .*;\r?\n/gm,'');const context={...core,createSleepTimer,createPositionTracker,restoreProgress,persistProgress,loadAudioAt,requestNativePlay,...extra,document:{getElementById:element},navigator:{},localStorage:{getItem:k=>stored.get(k),setItem:(k,v)=>stored.set(k,v)},paintIcons(){},icon(){return "";},renderReaderControls(){},URL,setTimeout,clearTimeout,AbortController,DOMException,console};vm.runInNewContext(source+`\nbook={id:'b'};chapter={id:'c',duration:1190.86};state.positions.c={position:600,updatedAt:1};globalThis.h={setSource,checkpoint,position,openBook,prepareSleep,sleep,get saved(){return state.positions.c.position;},get ready(){return ready;}};`,context);return {audio,h:context.h,context};}
 test('metadata before the restore seek cannot overwrite the saved listening place with zero',async()=>{const {audio,h}=harness();const loading=h.setSource('chapter.mp3',600);audio.metadata();h.checkpoint(true);assert.equal(h.saved,600);assert.equal(h.ready,false);assert.equal(h.position(),600);audio.settle();await loading;h.checkpoint(true);assert.equal(h.saved,600);assert.equal(h.ready,true);});
 
 test('a failed restore keeps the saved time and can be retried without starting at zero',async()=>{const {audio,h}=harness();const loading=h.setSource('chapter.mp3',600);const rejected=assert.rejects(loading,/saved place is kept/);audio.metadata();audio.dispatchEvent(new Event('error'));await rejected;h.checkpoint(true);assert.equal(h.saved,600);assert.equal(h.position(),600);assert.equal(h.ready,false);const retry=h.setSource('chapter.mp3',600);audio.metadata();audio.settle();await retry;assert.equal(h.position(),600);});
 test('a seek rejected at metadata is retried when the audio data arrives',async()=>{const audio=new FakeAudio();let rejectSeek=true;Object.defineProperty(audio,'currentTime',{get:()=>audio.actual,set:p=>{if(rejectSeek)throw Error('Not seekable yet');audio.requested=p;audio.seeking=true;}});let done=false;const pending=loadAudioAt(audio,'chapter.mp3',600,{duration:1190.86}).then(()=>done=true);audio.metadata();assert.equal(done,false);rejectSeek=false;audio.readyState=4;audio.dispatchEvent(new Event('canplay'));assert.equal(audio.requested,600);audio.settle();await pending;assert.equal(audio.actual,600);});
 test('replacing a loading source cannot let its stale completion reset the new source',async()=>{const {audio,h}=harness();const old=h.setSource('old.mp3',600);audio.metadata();const current=h.setSource('new.mp3',900);audio.metadata();h.checkpoint(true);assert.equal(h.saved,600);assert.equal(h.position(),900);audio.settle();await Promise.all([old,current]);h.checkpoint(true);assert.equal(h.saved,900);assert.equal(h.ready,true);});
 test('restore timeout fails safely rather than claiming the audio is ready at zero',async()=>{const audio=new FakeAudio();await assert.rejects(loadAudioAt(audio,'slow.mp3',600,{duration:1190.86,timeoutMs:5}),/saved place/);assert.equal(audio.actual,0);});
+
+test('sleep expiry saves before iOS discards the media clock, and later checkpoints keep that place',async()=>{
+ const {audio,h}=harness({createSleepTimer:(audio,options)=>createSleepTimer(audio,{...options,schedule:()=>1,cancel:()=>{}})});
+ const loading=h.setSource('chapter.mp3',1100);audio.metadata();audio.settle();await loading;
+ audio.paused=false;audio.dispatchEvent(new Event('play'));h.prepareSleep(60);
+ audio.pause=()=>{audio.paused=true;audio.actual=0;audio.readyState=0;};
+ audio.actual=1160;audio.dispatchEvent(new Event('timeupdate'));
+ assert.equal(h.saved,1160);h.checkpoint(true);assert.equal(h.saved,1160);h.sleep.destroy();
+});
+
+test('remote resume reloads the native pipeline and requests Play synchronously, then restores the saved seek',async()=>{
+ const {audio,h,context}=harness();const initial=h.setSource('chapter.mp3',600);audio.metadata();audio.settle();await initial;
+ let calls=0;audio.play=()=>{calls++;audio.paused=false;return Promise.resolve();};
+ vm.runInNewContext('globalThis.remoteResume=()=>playAudio(false,{remote:true});',context);
+ const resumed=context.remoteResume();assert.equal(calls,1,'native Play must precede any await');assert.equal(h.position(),600);h.checkpoint(true);assert.equal(h.saved,600);
+ audio.metadata();audio.settle();await resumed;assert.equal(audio.actual,600);assert.equal(h.ready,true);
+});
+
+test('a genuine full-chapter end records completion even if iOS resets currentTime before the ended callback',async()=>{
+ const {audio,h,context}=harness();const loading=h.setSource('chapter.mp3',1100);audio.metadata();audio.settle();await loading;
+ const source=fs.readFileSync(new URL('../app.js',import.meta.url),'utf8'),a=source.indexOf("audio.addEventListener('ended',async()=>"),b=source.indexOf('\ndocument.querySelector',a);
+ vm.runInNewContext("book={id:'b',chapters:[chapter]};sourceHasPlayed=true;renderLibrary=()=>{};playingUI=()=>{};",context);
+ vm.runInNewContext(source.slice(a,b),context);audio.actual=0;audio.ended=true;audio.paused=true;audio.dispatchEvent(new Event('ended'));await Promise.resolve();
+ assert.equal(h.saved,1190.86);assert.equal(vm.runInNewContext('state.positions.c.completed',context),true);
+});
 
 
 test('opening a book pauses any current playback and requests selection without autoplay',async()=>{const {audio,h,context}=harness();vm.runInNewContext("globalThis.openCalls=[];choose=async(...args)=>openCalls.push(args);",context);audio.paused=false;await h.openBook('b');assert.equal(audio.paused,true);assert.equal(context.openCalls.length,1);assert.equal(context.openCalls[0][2],false);});
