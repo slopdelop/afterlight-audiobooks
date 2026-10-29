@@ -3,8 +3,8 @@ export const RATINGS_KEY='afterlight-voice-ratings-v1';
 export const FAVOURITES_KEY='afterlight-casting-favourites-v1';
 export function mergeRoundRatings(existing,ratings,voices){const all={...(existing||{})};for(const v of voices)delete all[v.id];return {...all,...ratings};}
 export function restoreFavourites(raw,voices){const result={};for(const role of ['han','leia'])if(voices.some(v=>v.id===raw?.[role]&&v.role===role))result[role]=raw[role];return result;}
-export function roundFavourites(raw,mode,voices){return restoreFavourites(raw?.rounds?.[mode]||(mode==='casting'?raw:{}),voices);}
-export function mergeFavourites(raw,mode,favourites){return {...raw,rounds:{...raw?.rounds,[mode]:favourites}};}
+export function roundFavourites(raw,mode,voices){return restoreFavourites(raw?.rounds?.[mode]||(mode==='design1'?raw?.rounds?.design:null)||(mode==='casting'?raw:{}),voices);}
+export function mergeFavourites(raw,mode,favourites){const rounds={...raw?.rounds};if(mode==='design'&&!rounds.design1&&Object.values(rounds.design||{}).some(id=>typeof id==='string'&&id.startsWith('vd_')))rounds.design1={...rounds.design};return {...raw,rounds:{...rounds,[mode]:favourites}};}
 
 export function restoreRatings(raw,voices){
  const ratings={};if(raw?.version!==1||!raw.ratings||typeof raw.ratings!=='object')return ratings;
@@ -35,7 +35,7 @@ export function createVoiceReview({panel,openPanel,settingsPanel,beforePreview,o
   stop();mode=nextMode;const token=++openToken;
   openPanel('Voice review','<p>Loading voice samples…</p>');
   try{
-   const data=catalogs[mode]||await fetch(({design:'assets/voice-design.json',casting:'assets/original-casting.json',previous:'assets/voice-auditions.json'})[mode]).then(r=>{if(!r.ok)throw Error('Connect to the internet to load the voice list.');return r.json();});if(token!==openToken)return;catalogs[mode]=data;catalog=data;
+   const data=catalogs[mode]||await fetch(({design:'assets/voice-design.json',design1:'assets/voice-design-round1.json',casting:'assets/original-casting.json',previous:'assets/voice-auditions.json'})[mode]).then(r=>{if(!r.ok)throw Error('Connect to the internet to load the voice list.');return r.json();});if(token!==openToken)return;catalogs[mode]=data;catalog=data;
    if(!panel.open||panel.querySelector('#voiceReview')||panel.querySelector('#panelTitle').textContent!=='Voice review')return;
    let raw=null;try{raw=JSON.parse(localStorage.getItem(RATINGS_KEY));}catch{}
    ratings=restoreRatings(raw,catalog.voices);
@@ -62,6 +62,7 @@ export function createVoiceReview({panel,openPanel,settingsPanel,beforePreview,o
   const button=e.target.closest('button');if(!button)return;
   if(button.hasAttribute('data-review-back'))settingsPanel();
   if(button.dataset.reviewRound){open(button.dataset.reviewRound);return;}
+  if(button.dataset.reviewJump){panel.querySelector(`[data-casting-role="${button.dataset.reviewJump}"]`)?.scrollIntoView({block:'start',behavior:'smooth'});return;}
   if(button.id==='replayVoice'&&current){preview.currentTime=0;resume();return;}
   if(button.dataset.reviewFavourite){const v=catalog.voices.find(v=>v.id===button.dataset.reviewFavourite);if(!v)return;if(catalog.favourites[v.role]===v.id)delete catalog.favourites[v.role];else catalog.favourites[v.role]=v.id;try{let saved={};try{saved=JSON.parse(localStorage.getItem(FAVOURITES_KEY))||{};}catch{}localStorage.setItem(FAVOURITES_KEY,JSON.stringify(mergeFavourites(saved,mode,catalog.favourites)));setStatus('Favourite saved. This does not change your audiobook casting.');}catch{setStatus('Storage unavailable. Copy results to retain your choice.');}panel.querySelectorAll('[data-review-favourite]').forEach(b=>{const selected=catalog.favourites[b.dataset.role]===b.dataset.reviewFavourite;b.setAttribute('aria-pressed',String(selected));b.textContent=selected?'✓ Favourite':'Choose favourite';});return;}
   if(button.id==='copyVoiceRatings')copy();

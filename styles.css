@@ -239,3 +239,4 @@ dialog{position:fixed;inset:auto 0 0;margin:0;width:100%;max-width:none;border-r
 #voiceReview details{margin:12px 0}
 #voiceReview summary{min-height:44px;align-content:center;cursor:pointer}
 #voicePreview{width:100%;margin-top:12px}
+.casting-settings{white-space:pre-wrap;overflow-wrap:anywhere;font-size:12px;line-height:1.5;max-width:100%}
