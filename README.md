@@ -114,6 +114,12 @@ Transient playback/timer messages appear at the bottom, below the player control
 
 Julian Vale is the fictional working name of the selected synthetic narrator. The reusable ensemble aliases, generation directions and local reference locations are recorded in `assets/voice-profiles.json`; these are AI profile labels, not credits for human performers. The catalog uses the stable narrator ID `julian_vale`. Both chapter production manifests and their narrator reference paths use this alias. Existing MP3 tags credit generic AI ensemble narration, with no source narrator name; no audio was regenerated or re-encoded for this change.
 
+## Chapter 8: Below the Clouds
+
+Chapter 8 adds the Bespin investigation with Julian Vale narrating, the selected Leia VoiceDesign Candidate 01, and fixed VoiceDesign references for Lando, C-3PO, Commander Venn and the two speakers in the laboratory recording. Characters use full audio-and-transcript reference conditioning for each line. New reusable synthetic profile names are Dorian Vell, Protocol Unit Aurek, Mara Sable, Elin Marr and Corin Hale. The narrator's established reference and generation configuration are retained.
+
+The chapter is a single MP3 with paragraph-level reading/listening cues. Its stable ID is `hollow-throne-08`; Chapters 6 and 7 keep their IDs, audio and text. The versioned release includes the new catalog and reading text, so the installed iPhone app can discover it through the existing update flow. Audio generation sources, frozen references, seeds, retry history and per-segment content checks remain in the local chapter production folders. Automated speech recognition is a content check, not a substitute for subjective voice review. Audio QA is silent.
+
 ## Voice review on iPhone
 
 The default **Supporting cast** round provides two direct VoiceDesign candidates for each of the other eleven speaking roles in Chapters 6 and 7: Palpatine, Mas Amedda, Wuher, Duros patron, second patron, the Darren-like recorded officer, security droid, Imperial admiral, Janus Greejatus, intelligence officer and Sim Aloo. This includes roles that already had preset-based voices. Detailed acoustic descriptions target recognizable screen characters where a speaking performance is established; original interpretations are explicitly identified. Minor roles have shorter book excerpts. Use **Jump to character**, expand prompt/settings details, rate and choose favourites independently. Open with `?audition=cast`. Earlier rounds remain in the **Audition round** selector.

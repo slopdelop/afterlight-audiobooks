@@ -127,6 +127,84 @@
       "speaker": "Eric",
       "direction": "Older male adviser speaking English with a refined British accent. Soft and slightly breathy baritone, discreet, composed and thoughtful. Measured natural delivery with clear diction, no theatrical acting.",
       "reference": "outputs/chapter-seven/voices/sim.wav"
+    },
+    "leia_selected_design": {
+      "name": "Mira Arden",
+      "synthetic": true,
+      "role": "Leia Organa",
+      "engine": "voice_design_reference",
+      "reference": "work/voice-references/vd2_leia_a_1.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 26029200,
+      "reference_sha256": "90acd570a5f923c3e142eb7bd454e3b5f5da81b3d2b56783a70865c6264d7f8f",
+      "direction": "An American woman in her early twenties, medium pitch, with bright forward resonance, a slight nasal edge, and light throaty husk. Compact vowels, precise consonants, brisk connected phrases, and decisive falling endings. Dryly amused and impatient, speaking directly and firmly at ordinary conversational volume.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
+    },
+    "dorian_vell": {
+      "name": "Dorian Vell",
+      "synthetic": true,
+      "role": "Lando Calrissian",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-eight/voices/lando.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 281000,
+      "reference_sha256": "47496748cb86848fba26fb5a8584d04101ac6179db73b5a52c39f4731d8b42d3",
+      "direction": "A male voice inspired by Billy Dee Williams portraying Lando Calrissian in The Empire Strikes Back and Return of the Jedi. An American man in his forties with a rich, smooth middle-low register, rounded chest resonance, a velvety lightly husky surface and soft nasal overtones. Long connected vowels, lightly relaxed consonants, gently syncopated conversational rhythm and small upward glides before assured falling endings. An easy smile, dry charm and discreet warmth, becoming quieter and direct on sincere lines. Intimate natural dialogue, no deep announcer bass, exaggerated swagger, theatrical impressions, shouting or sound effects.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
+    },
+    "protocol_aurek": {
+      "name": "Protocol Unit Aurek",
+      "synthetic": true,
+      "role": "C-3PO",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-eight/voices/c3po.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 281100,
+      "reference_sha256": "7853147a44d428fa6b3a0a7ddf65c75ce68e374a543430502a93d8779a64ee02",
+      "direction": "A male voice inspired by Anthony Daniels as C-3PO in the original Star Wars trilogy. Bright upper-middle register, slender reedy forward nasal resonance, a lightly metallic ringing edge and crisp cultivated non-rhotic British English. Very clear precise consonants, compact rounded vowels, brisk connected phrases and small anxious upward inflections followed by fussy decisive falls. Fastidious, politely indignant and worried but always intelligible at conversational volume. An expressive protocol droid rather than an emotionless machine. No added vocoder, electronic bleeps, radio filtering, metallic impacts or background effects.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
+    },
+    "mara_sable": {
+      "name": "Mara Sable",
+      "synthetic": true,
+      "role": "Commander Venn",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-eight/voices/venn.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 281200,
+      "reference_sha256": "a58f88f15b82facc1f37a23c52530a66b57699e9f85bfa662127743aea96815f",
+      "direction": "A British woman in her forties with a firm dry middle-low register, narrow focused resonance, a light naturally husky edge and clean non-rhotic vowels. Compact precise consonants, controlled even rhythm, clipped stressed words and short decisive downward endings. An experienced reconstruction commander giving factual reports, calmly authoritative, skeptical and faintly weary rather than regal. Clear unpolished conversational speech, restrained emotion, no breathy softness, theatrical military barking or announcer delivery.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
+    },
+    "elin_marr": {
+      "name": "Elin Marr",
+      "synthetic": true,
+      "role": "Recorded test subject",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-eight/voices/woman.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 281300,
+      "reference_sha256": "ff3a8537e16b67136a42fd5238626af78b5d80d3cb40809465f0389e7f556ecf",
+      "direction": "An adult American woman in her early thirties with a quiet clear middle register, soft narrow resonance, lightly airy vowel onsets and a thin strained edge at phrase endings. Natural connected consonants and hesitant but intelligible ordinary speech, restrained fear and tired sincerity, slight breath tension without sobbing. Human and vulnerable, not robotic or theatrically distressed. Keep each word clear at normal close conversational volume. No crying sounds, gasps, whispers or background effects.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
+    },
+    "corin_hale": {
+      "name": "Corin Hale",
+      "synthetic": true,
+      "role": "Unseen interviewer",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-eight/voices/interviewer.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 281400,
+      "reference_sha256": "ecf97b600e6baad5416b83c1be0ebb6bf54c641a0d5df996646f8043890ef6e4",
+      "direction": "A British man in his forties with a cool focused midrange voice, smooth dry resonance, compact vowels and exact consonant releases. Measured connected phrasing with brief clinical pauses and small downward endings. Impersonal, patient and quietly controlling, like a researcher asking a routine question; no melodramatic menace, villain growl, whispering or announcer performance. Clear ordinary human speech, no recording filters, machine hum or effects.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
     }
   }
 }

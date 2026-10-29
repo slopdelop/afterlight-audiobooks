@@ -43,7 +43,7 @@
       "reference_text": "How did it go?\n\nThat's encouraging.\n\nAre you hurt?\n\nOf course he did,\n\nHan, I want you to bring those files back.\n\nWe can send a proper intelligence team later. Those records may explain what happened to Darren.\n\nThank you.\n\nCome home, Han.",
       "reference_sha256": "90acd570a5f923c3e142eb7bd454e3b5f5da81b3d2b56783a70865c6264d7f8f",
       "embedding_only": false,
-      "conditioning": "full audio and transcript; validation pending",
+      "conditioning": "full audio and transcript",
       "source_model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
       "source_revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
       "source_seed": 26029200,
@@ -61,9 +61,13 @@
         "max_new_tokens": 8192
       },
       "asr_screen": "How did it go? That's encouraging. Are you hurt? Of course he did. Han, I want you to bring those files back. We can send a proper intelligence team later. Those records may explain what happened to Darren. Thank you. Come home, Han.",
-      "synthetic": true
+      "synthetic": true,
+      "production_uses": [
+        "hollow-throne-08"
+      ],
+      "production_screen": "All 61 Chapter 8 dialogue clips passed automated content and signal checks; subjective full-chapter review remains with the listener."
     }
   },
-  "next_step": "Validate Qwen Base full audio-and-transcript reference conditioning on new dialogue before chapter generation.",
+  "next_step": "Han still needs unfamiliar-dialogue validation when he next speaks. Leia Candidate 01 is used in Chapter 8 with the original selected WAV and transcript.",
   "existing_chapters_changed": false
 }

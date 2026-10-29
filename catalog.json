@@ -28,6 +28,14 @@
           "src": "audio/hollow-throne/chapter-07.mp3",
           "duration": 1508.06,
           "transcript": "text/hollow-throne/chapter-07.json"
+        },
+        {
+          "id": "hollow-throne-08",
+          "number": 8,
+          "title": "Below the Clouds",
+          "src": "audio/hollow-throne/chapter-08.mp3",
+          "duration": 1362.95,
+          "transcript": "text/hollow-throne/chapter-08.json"
         }
       ],
       "narratorId": "julian_vale"
