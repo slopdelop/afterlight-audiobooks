@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {createVolumePlayer,readTestLevel,VOLUME_TEST_KEY} from '../volume-test.js';
+import {createVolumePlayer,createVolumeTest,readTestLevel,VOLUME_TEST_KEY} from '../volume-test.js';
 
 function fixture(){
  const calls=[],media=new class extends EventTarget{
@@ -48,4 +48,17 @@ test('a rejected processing resume pauses the test rather than leaving a native 
  const {media,context}=fixture();context.resume=()=>Promise.reject(Error('Suspended by iOS'));
  const player=createVolumePlayer(media,{createContext:()=>context,navigatorLike:{}});
  await assert.rejects(player.play(),/Suspended by iOS/);assert.equal(media.paused,true);player.stop();
+});
+
+test('opening Settings does not take lock-screen control away from a playing chapter before Play test',async()=>{
+ const handlers={},nodes=new Map(),node=id=>{if(!nodes.has(id))nodes.set(id,{paused:true,ended:false,currentTime:0});return nodes.get(id);};
+ let pausedChapter=0,plays=0,stops=0;
+ const panel={querySelector:selector=>node(selector),addEventListener:(event,handler)=>handlers[event]=handler};
+ const testPlayer=createVolumeTest({panel,openPanel(){},settingsPanel(){},beforePreview:()=>pausedChapter++,onStop(){},storage:{getItem:()=>null},createPlayer:()=>({setLevel(){},play(){plays++;node('#volumeTestAudio').paused=false;return Promise.resolve();},pause(){node('#volumeTestAudio').paused=true;},stop(){stops++;}})});
+ testPlayer.open({title:'Chapter',src:'chapter.mp3'});assert.equal(testPlayer.active,false);assert.equal(pausedChapter,0);
+ testPlayer.remote('play');assert.equal(plays,0);
+ handlers.click({target:{closest:()=>({id:'volumeTestPlay',dataset:{}})}});await Promise.resolve();
+ assert.equal(testPlayer.active,true);assert.equal(pausedChapter,1);assert.equal(plays,1);
+ testPlayer.remote('pause');assert.equal(node('#volumeTestAudio').paused,true);assert.equal(testPlayer.active,true);
+ testPlayer.stop();assert.equal(testPlayer.active,false);assert.equal(stops,1);
 });
