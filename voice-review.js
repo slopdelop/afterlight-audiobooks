@@ -2,7 +2,7 @@ import {reviewMarkup} from './casting-view.js';
 export const RATINGS_KEY='afterlight-voice-ratings-v1';
 export const FAVOURITES_KEY='afterlight-casting-favourites-v1';
 export function mergeRoundRatings(existing,ratings,voices){const all={...(existing||{})};for(const v of voices)delete all[v.id];return {...all,...ratings};}
-export function restoreFavourites(raw,voices){const result={};for(const role of ['han','leia'])if(voices.some(v=>v.id===raw?.[role]&&v.role===role))result[role]=raw[role];return result;}
+export function restoreFavourites(raw,voices){const result={};for(const role of new Set(voices.map(v=>v.role)))if(voices.some(v=>v.id===raw?.[role]&&v.role===role))result[role]=raw[role];return result;}
 export function roundFavourites(raw,mode,voices){return restoreFavourites(raw?.rounds?.[mode]||(mode==='design1'?raw?.rounds?.design:null)||(mode==='casting'?raw:{}),voices);}
 export function mergeFavourites(raw,mode,favourites){const rounds={...raw?.rounds};if(mode==='design'&&!rounds.design1&&Object.values(rounds.design||{}).some(id=>typeof id==='string'&&id.startsWith('vd_')))rounds.design1={...rounds.design};return {...raw,rounds:{...rounds,[mode]:favourites}};}
 
@@ -21,7 +21,7 @@ export function writeRatingsToClipboard(text,clipboard=globalThis.navigator?.cli
 
 // One preview element, separate from chapter playback and its saved position.
 export function createVoiceReview({panel,openPanel,settingsPanel,beforePreview,onStop,toast}){
- let catalog=null,ratings={},current=null,preview=null,mode='design',openToken=0;const catalogs={};
+ let catalog=null,ratings={},current=null,preview=null,mode='ensemble',openToken=0;const catalogs={};
  const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
  const inReview=()=>!!panel.querySelector('#voiceReview');
  function setStatus(message){const el=panel.querySelector('#reviewStatus');if(el)el.textContent=message;}
@@ -31,11 +31,11 @@ export function createVoiceReview({panel,openPanel,settingsPanel,beforePreview,o
   try{if(inReview()&&current&&'mediaSession'in navigator)navigator.mediaSession.playbackState=preview.paused?'paused':'playing';}catch{}
  }
  function stop(){if(preview){preview.pause();preview.removeAttribute('src');preview.load();}current=null;onStop?.();}
- async function open(nextMode='design'){
+ async function open(nextMode='ensemble'){
   stop();mode=nextMode;const token=++openToken;
   openPanel('Voice review','<p>Loading voice samples…</p>');
   try{
-   const data=catalogs[mode]||await fetch(({design:'assets/voice-design.json',design1:'assets/voice-design-round1.json',casting:'assets/original-casting.json',previous:'assets/voice-auditions.json'})[mode]).then(r=>{if(!r.ok)throw Error('Connect to the internet to load the voice list.');return r.json();});if(token!==openToken)return;catalogs[mode]=data;catalog=data;
+   const data=catalogs[mode]||await fetch(({ensemble:'assets/supporting-cast.json',design:'assets/voice-design.json',design1:'assets/voice-design-round1.json',casting:'assets/original-casting.json',previous:'assets/voice-auditions.json'})[mode]).then(r=>{if(!r.ok)throw Error('Connect to the internet to load the voice list.');return r.json();});if(token!==openToken)return;catalogs[mode]=data;catalog=data;
    if(!panel.open||panel.querySelector('#voiceReview')||panel.querySelector('#panelTitle').textContent!=='Voice review')return;
    let raw=null;try{raw=JSON.parse(localStorage.getItem(RATINGS_KEY));}catch{}
    ratings=restoreRatings(raw,catalog.voices);
@@ -79,7 +79,7 @@ export function createVoiceReview({panel,openPanel,settingsPanel,beforePreview,o
   row.querySelectorAll('[data-review-rating]').forEach(input=>{input.checked=Number(input.value)===ratings[id];input.closest('label').classList.toggle('is-filled',Number(input.value)<=(ratings[id]||0));});
   row.querySelector('[data-review-score]').textContent=ratings[id]?ratings[id]+' / 5':'Not rated';row.querySelector('[data-review-clear]').hidden=!ratings[id];
  }
- panel.addEventListener('change',e=>{if(!e.target.dataset.reviewRating)return;const id=e.target.dataset.reviewRating,value=Number(e.target.value);if(!catalog.voices.some(v=>v.id===id)||!Number.isInteger(value)||value<1||value>5)return;ratings[id]=value;refreshRating(id);if(save())setStatus('Rating saved.');});
+ panel.addEventListener('change',e=>{if(e.target.matches('[data-review-round-select]')){open(e.target.value);return;}if(e.target.matches('[data-review-character]')){panel.querySelector(`[data-casting-role="${e.target.value}"]`)?.scrollIntoView({block:'start',behavior:'smooth'});return;}if(!e.target.dataset.reviewRating)return;const id=e.target.dataset.reviewRating,value=Number(e.target.value);if(!catalog.voices.some(v=>v.id===id)||!Number.isInteger(value)||value<1||value>5)return;ratings[id]=value;refreshRating(id);if(save())setStatus('Rating saved.');});
  panel.addEventListener('close',stop);
  return {open,stop,get active(){return inReview()&&!!current;},remote(action,d={}){if(!preview)return;if(action==='play')resume();if(action==='pause')preview.pause();if(action==='seekbackward')preview.currentTime=Math.max(0,preview.currentTime-(d.seekOffset||15));if(action==='seekforward')preview.currentTime=Math.min(preview.duration||0,preview.currentTime+(d.seekOffset||30));if(action==='seekto')preview.currentTime=Math.max(0,Math.min(preview.duration||0,d.seekTime||0));}};
 }

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "book": "The Hollow Throne",
+  "scope": "Future character casting; existing chapter manifests remain historical records.",
+  "default_creation_method": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+  "generation_settings": "Use the model's saved defaults, record the resolved configuration and seed.",
+  "direction": "Detailed vocal acoustics and speaking patterns, with screen-performance cues where established. Explicitly label original interpretations for unnamed or original characters and roles without a reliable speaking-voice target.",
+  "narrator": "Keep Julian Vale and the existing narrator configuration unchanged.",
+  "approved_references": {
+    "han": "vd2_han_c_1",
+    "leia": "vd2_leia_a_1"
+  },
+  "remaining_current_cast": "assets/supporting-cast.json contains two candidates for each of the other eleven speaking roles in Chapters 6 and 7.",
+  "reuse_workflow": "Retain the selected original WAV and transcript. Validate Qwen Base full audio-and-transcript conditioning on unfamiliar dialogue before full chapter generation. Do not independently redesign a selected voice for each line.",
+  "existing_chapters": "Do not regenerate or overwrite without a request. Legacy preset references in those chapters are not the preferred creation method for new casting.",
+  "off_page_characters": "Design when speaking dialogue becomes available. Do not invent English dialogue for Chewbacca's narrated growls."
+}
