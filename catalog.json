@@ -36,6 +36,14 @@
           "src": "audio/hollow-throne/chapter-08.mp3",
           "duration": 1362.95,
           "transcript": "text/hollow-throne/chapter-08.json"
+        },
+        {
+          "id": "hollow-throne-09",
+          "number": 9,
+          "title": "The Cave of Echoes",
+          "src": "audio/hollow-throne/chapter-09.mp3",
+          "duration": 2009.49,
+          "transcript": "text/hollow-throne/chapter-09.json"
         }
       ],
       "narratorId": "julian_vale"

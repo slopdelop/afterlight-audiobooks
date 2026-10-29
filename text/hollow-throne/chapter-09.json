@@ -1,0 +1,1656 @@
+{
+  "version": 1,
+  "chapterId": "hollow-throne-09",
+  "duration": 2009.49,
+  "alignment": "Book paragraphs use synthesis boundaries and cached local Whisper word timestamps; unmatched starts are interpolated.",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "STAR WARS: THE HOLLOW THRONE",
+      "start": 0.0,
+      "timing": "segment",
+      "kind": "title",
+      "end": 3.08
+    },
+    {
+      "id": "p0002",
+      "text": "Chapter Nine: The Cave of Echoes",
+      "start": 3.08,
+      "timing": "segment",
+      "kind": "title",
+      "end": 6.32
+    },
+    {
+      "id": "p0003",
+      "text": "Dagobah. Three months after the Battle of Endor.",
+      "start": 6.32,
+      "timing": "segment",
+      "kind": "title",
+      "end": 10.2
+    },
+    {
+      "id": "p0004",
+      "text": "The last time Luke Skywalker had landed on Dagobah, his ship had sunk into a swamp. He was determined not to repeat the experience.",
+      "start": 10.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 18.99
+    },
+    {
+      "id": "p0005",
+      "text": "\"Artoo, how does that clearing look?\"",
+      "start": 18.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 21.34
+    },
+    {
+      "id": "p0006",
+      "text": "The astromech droid whistled from his socket behind the cockpit. Luke studied the display. Beneath the clouds, an irregular patch of solid ground appeared between two enormous trees. The surrounding terrain was dense with vegetation, but the clearing itself seemed dry enough to support the X-wing's weight.",
+      "start": 21.34,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 41.04
+    },
+    {
+      "id": "p0007",
+      "text": "\"That's what you said last time.\"",
+      "start": 41.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 42.69
+    },
+    {
+      "id": "p0008",
+      "text": "Artoo gave an indignant beep.",
+      "start": 42.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 45.41
+    },
+    {
+      "id": "p0009",
+      "text": "\"Well, I'm still checking.\"",
+      "start": 45.41,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 47.2
+    },
+    {
+      "id": "p0010",
+      "text": "Luke brought the fighter lower. Mist rolled across the canopy. Dark branches reached toward the ship, their leaves scraping against the wings as he guided it between the trees. Somewhere beneath him, unseen creatures called to one another in the perpetual twilight. Then the landing gear touched down. The X-wing settled into the mud. It remained there. Luke waited. Nothing moved. He smiled.",
+      "start": 47.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 73.9
+    },
+    {
+      "id": "p0011",
+      "text": "\"See? Perfect landing.\"",
+      "start": 73.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 75.82
+    },
+    {
+      "id": "p0012",
+      "text": "Artoo emitted a skeptical whistle.",
+      "start": 75.82,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 78.5
+    },
+    {
+      "id": "p0013",
+      "text": "\"All right. Let's give it a minute.\"",
+      "start": 78.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 80.43
+    },
+    {
+      "id": "p0014",
+      "text": "The ship stayed exactly where it was. Luke laughed and began shutting down the engines. When he climbed from the cockpit, the familiar smell of Dagobah rose to greet him: damp earth, decaying vegetation, warm water, and the thick, almost sweet scent of the enormous trees. Insects hummed in the mist. Something splashed among the reeds. He had forgotten how alive the planet sounded. The last time he had stood here, Yoda had been dying.",
+      "start": 80.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 111.56
+    },
+    {
+      "id": "p0015",
+      "text": "Luke looked toward the trees. His old master's hut lay a short distance away, hidden beneath the roots of an ancient tree. He had not intended to visit it. There was little practical reason. The Witness Station coordinates pointed toward the cave, several kilometers to the north. But he found himself walking in that direction anyway. Artoo trundled after him, complaining whenever his wheels encountered an especially deep patch of mud.",
+      "start": 111.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 140.1
+    },
+    {
+      "id": "p0016",
+      "text": "\"You're the one who wanted to come,\" Luke reminded him.",
+      "start": 140.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 143.41
+    },
+    {
+      "id": "p0017",
+      "text": "The droid answered sharply.",
+      "start": 143.41,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 145.49
+    },
+    {
+      "id": "p0018",
+      "text": "\"Yes, you did.\"",
+      "start": 145.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 146.75
+    },
+    {
+      "id": "p0019",
+      "text": "Another series of whistles.",
+      "start": 146.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 148.75
+    },
+    {
+      "id": "p0020",
+      "text": "\"Well, you could have stayed with the ship.\"",
+      "start": 148.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 150.56
+    },
+    {
+      "id": "p0021",
+      "text": "Artoo made a sound Luke had long ago learned meant that the suggestion was beneath consideration. Luke smiled. He had missed this place. And he had missed the old Jedi who had lived here. Yoda's hut was almost completely hidden by vegetation. A thick curtain of vines covered the entrance, and a broad shelf fungus had grown across one side of the roof. Water dripped steadily from the branches overhead.",
+      "start": 150.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 175.39
+    },
+    {
+      "id": "p0022",
+      "text": "Luke pushed aside the vines and ducked inside. The room was dark, warm, and surprisingly dry. Everything seemed smaller than he remembered. The narrow bed. The little cooking area. The shelves carved into the walls. Even the chair beside the hearth appeared impossibly small. Luke crouched near the doorway. A clay bowl stood on a shelf beside the remains of a cooking pot. He remembered eating from that bowl.",
+      "start": 175.39,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 202.6
+    },
+    {
+      "id": "p0023",
+      "text": "Or rather, attempting to eat from it. Yoda's food had been nearly as difficult to understand as his teaching. Luke picked up the bowl, turned it over in his hands, and smiled. For a while, he simply sat there.",
+      "start": 202.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 217.19
+    },
+    {
+      "id": "p0024",
+      "text": "He remembered his impatience. His certainty that he already understood things he had barely begun to learn. How often had he interrupted Yoda? How many times had he demanded answers the old Jedi was trying to teach him to discover for himself? He thought of the last conversation they had shared. Yoda had told him that his training was complete. But he had also warned him that confronting Vader would be the true test.",
+      "start": 217.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 244.11
+    },
+    {
+      "id": "p0025",
+      "text": "At the time, Luke had understood only part of what he meant. Now he understood more. Not everything. Perhaps he never would. He returned the bowl to its shelf.",
+      "start": 244.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 255.57
+    },
+    {
+      "id": "p0026",
+      "text": "\"Thank you,\" he said quietly.",
+      "start": 255.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 257.93
+    },
+    {
+      "id": "p0027",
+      "text": "No voice answered. Luke had half expected one. He found that he was glad when none came. It was enough to remember. The journey to the cave took longer than expected. Dagobah had no roads, and the coordinates provided by the Imperial archive were only approximate. Several times Luke found himself following what appeared to be solid ground, only to discover that it ended in a pool of black water.",
+      "start": 257.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 284.52
+    },
+    {
+      "id": "p0028",
+      "text": "Artoo was particularly displeased by one such discovery. He rolled onto a moss-covered surface that looked like a fallen tree trunk. The surface moved. A large, flat-headed creature rose from beneath the water, dumping the droid into the swamp. Artoo screamed. Luke caught him with the Force before he disappeared beneath the surface. The creature regarded them through three yellow eyes, apparently offended by the interruption to its afternoon. Luke set Artoo on solid ground.",
+      "start": 284.52,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 317.9
+    },
+    {
+      "id": "p0029",
+      "text": "\"Sorry.\"",
+      "start": 317.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 318.86
+    },
+    {
+      "id": "p0030",
+      "text": "Artoo produced a lengthy complaint.",
+      "start": 318.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 321.5
+    },
+    {
+      "id": "p0031",
+      "text": "\"I wasn't apologizing to you.\"",
+      "start": 321.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 323.31
+    },
+    {
+      "id": "p0032",
+      "text": "The droid beeped furiously. Luke laughed.",
+      "start": 323.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 327.62
+    },
+    {
+      "id": "p0033",
+      "text": "\"All right. To you too.\"",
+      "start": 327.62,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 329.21
+    },
+    {
+      "id": "p0034",
+      "text": "They continued north. As they approached the cave, the forest began to change. The trees grew closer together. Their roots rose from the ground in enormous twisted arches, forming passages that seemed almost deliberately arranged. The mist became thicker. And the sounds of the swamp gradually faded. Luke noticed the silence first. Then the cold. It was not the ordinary chill of damp air. It seemed to settle somewhere beneath his skin. He stopped.",
+      "start": 329.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 360.63
+    },
+    {
+      "id": "p0035",
+      "text": "Artoo rolled beside him. A narrow opening lay ahead, partially concealed by roots. The cave. Luke recognized it immediately. He had entered that darkness years earlier, carrying his lightsaber despite Yoda's warning. Inside, he had faced an apparition of Darth Vader. He had struck it down. And beneath the shattered black helmet, he had seen his own face. He had never forgotten that moment.",
+      "start": 360.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 387.19
+    },
+    {
+      "id": "p0036",
+      "text": "At the time, he had believed it meant he might become like Vader. Now, after everything that had happened, he wondered whether the warning had been more complicated. Artoo extended a sensor and scanned the entrance. His response was uncertain.",
+      "start": 387.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 403.15
+    },
+    {
+      "id": "p0037",
+      "text": "\"Anything?\"",
+      "start": 403.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 404.03
+    },
+    {
+      "id": "p0038",
+      "text": "A series of whistles. Luke glanced at the display. The readings were peculiar. The cave itself produced almost no conventional energy signature, yet the instruments detected a persistent disturbance in the surrounding electromagnetic field.",
+      "start": 404.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 420.98
+    },
+    {
+      "id": "p0039",
+      "text": "\"That's what the Emperor's researchers found,\" Luke murmured.",
+      "start": 420.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 424.37
+    },
+    {
+      "id": "p0040",
+      "text": "Artoo beeped. Luke nodded.",
+      "start": 424.37,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 427.13
+    },
+    {
+      "id": "p0041",
+      "text": "\"Let's have a look.\"",
+      "start": 427.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 428.16
+    },
+    {
+      "id": "p0042",
+      "text": "He reached for his lightsaber. Then stopped. He remembered Yoda standing beside him, warning him that the weapon would not help. Luke unclipped the saber from his belt. He placed it carefully in one of Artoo's storage compartments. The droid whistled.",
+      "start": 428.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 444.87
+    },
+    {
+      "id": "p0043",
+      "text": "\"Keep it safe.\"",
+      "start": 444.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 445.91
+    },
+    {
+      "id": "p0044",
+      "text": "Another whistle.",
+      "start": 445.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 447.18
+    },
+    {
+      "id": "p0045",
+      "text": "\"No, I don't expect you to need it.\"",
+      "start": 447.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 449.23
+    },
+    {
+      "id": "p0046",
+      "text": "Artoo made a doubtful sound. Luke smiled.",
+      "start": 449.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 452.99
+    },
+    {
+      "id": "p0047",
+      "text": "\"Neither do I.\"",
+      "start": 452.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 454.15
+    },
+    {
+      "id": "p0048",
+      "text": "Then he entered the cave. The darkness closed around him. Luke walked slowly, one hand brushing the damp stone wall. The passage descended gently before opening into a larger chamber. He remembered this place. The irregular walls. The roots hanging from the ceiling. The shallow water pooled beneath his feet. Yet something was different. The cave seemed larger. Its boundaries were difficult to judge.",
+      "start": 454.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 482.19
+    },
+    {
+      "id": "p0049",
+      "text": "He could see a dark passage ahead, although he remembered no such opening from his previous visit. Luke stopped. A faint sound reached him. Breathing. Slow. Mechanical. He knew that sound. For an instant, his heart tightened. Then he reminded himself where he was.",
+      "start": 482.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 501.8
+    },
+    {
+      "id": "p0050",
+      "text": "\"Father?\"",
+      "start": 501.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 502.68
+    },
+    {
+      "id": "p0051",
+      "text": "The breathing continued. A figure emerged from the darkness. Tall. Armored. A black cloak hanging from broad shoulders. Darth Vader. Luke remained motionless. He had seen his father's armor burn upon the funeral pyre on Endor. He had seen Anakin Skywalker's face. He had heard his final words. The man standing before him was not his father. Not truly.",
+      "start": 502.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 527.29
+    },
+    {
+      "id": "p0052",
+      "text": "\"What do you want?\" Luke asked.",
+      "start": 527.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 529.73
+    },
+    {
+      "id": "p0053",
+      "text": "Vader did not answer. Instead, he stepped aside. Behind him, the darkness changed. A long corridor appeared. At its far end stood a great window overlooking Coruscant. Luke recognized the architecture. The Imperial Palace. He walked forward. The armored figure followed. The corridor opened into an enormous chamber filled with light. People stood in orderly rows. Hundreds of them. Perhaps thousands. Some wore the uniforms of the former Empire. Others were civilians.",
+      "start": 529.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 563.68
+    },
+    {
+      "id": "p0054",
+      "text": "There were children among them. All faced a raised platform at the far end of the room. And upon that platform stood Luke Skywalker. Older. His hair streaked with gray. His expression calm. A dark robe hung from his shoulders. Luke stopped. The older version of himself was speaking.",
+      "start": 563.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 582.54
+    },
+    {
+      "id": "p0055",
+      "text": "\"You are safe here,\" he told the assembled crowd. \"None of you need ever be afraid again.\"",
+      "start": 582.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 588.01
+    },
+    {
+      "id": "p0056",
+      "text": "The people bowed their heads. Luke watched. There was something wrong with them. No one moved unless instructed. No one whispered. No one looked toward a neighbor. A small child near the front began to cry. The older Luke turned toward her.",
+      "start": 588.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 603.94
+    },
+    {
+      "id": "p0057",
+      "text": "\"There's no need for that.\"",
+      "start": 603.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 605.41
+    },
+    {
+      "id": "p0058",
+      "text": "The child stopped crying immediately. Her expression changed. Her fear vanished. So did everything else. She stared forward with an empty smile. Luke felt sick. The older man continued.",
+      "start": 605.41,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 618.76
+    },
+    {
+      "id": "p0059",
+      "text": "\"I have seen what freedom brings. War. Betrayal. Suffering. The endless possibility that someone will choose to do evil.\"",
+      "start": 618.76,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 626.82
+    },
+    {
+      "id": "p0060",
+      "text": "He raised one hand.",
+      "start": 626.82,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 628.4
+    },
+    {
+      "id": "p0061",
+      "text": "\"Here, we have removed that possibility.\"",
+      "start": 628.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 630.62
+    },
+    {
+      "id": "p0062",
+      "text": "Luke looked around. The people were peaceful. The room was orderly. No one suffered. No one resisted. And no one was free. The older Luke turned toward him. For the first time, their eyes met.",
+      "start": 630.62,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 644.65
+    },
+    {
+      "id": "p0063",
+      "text": "\"You could save them,\" the older man said.",
+      "start": 644.65,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 647.26
+    },
+    {
+      "id": "p0064",
+      "text": "Luke stood still.",
+      "start": 647.26,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 648.94
+    },
+    {
+      "id": "p0065",
+      "text": "\"You could prevent another Vader. Another Emperor. Another Death Star.\"",
+      "start": 648.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 653.38
+    },
+    {
+      "id": "p0066",
+      "text": "The voice was his own. Perfectly familiar.",
+      "start": 653.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 657.22
+    },
+    {
+      "id": "p0067",
+      "text": "\"You would only have to make certain that nobody could choose wrongly again.\"",
+      "start": 657.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 660.65
+    },
+    {
+      "id": "p0068",
+      "text": "Luke felt the temptation. Not to rule. Not to dominate. To protect. He thought of the people who had died during the Rebellion. Of Alderaan. Of the young pilots lost above Yavin and Endor. Of all the suffering that might have been prevented if someone had possessed the power to stop evil before it began. The older Luke extended his hand.",
+      "start": 660.65,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 682.24
+    },
+    {
+      "id": "p0069",
+      "text": "\"Think how many lives you could save.\"",
+      "start": 682.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 684.14
+    },
+    {
+      "id": "p0070",
+      "text": "Luke looked at the child. She was still smiling. Her eyes were empty. He understood.",
+      "start": 684.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 690.3
+    },
+    {
+      "id": "p0071",
+      "text": "\"No.\"",
+      "start": 690.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 691.25
+    },
+    {
+      "id": "p0072",
+      "text": "The older man frowned.",
+      "start": 691.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 692.89
+    },
+    {
+      "id": "p0073",
+      "text": "\"You would allow them to suffer?\"",
+      "start": 692.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 694.38
+    },
+    {
+      "id": "p0074",
+      "text": "\"I would allow them to choose.\"",
+      "start": 694.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 696.03
+    },
+    {
+      "id": "p0075",
+      "text": "\"Even if they choose destruction?\"",
+      "start": 696.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 697.75
+    },
+    {
+      "id": "p0076",
+      "text": "Luke hesitated. That was the question, wasn't it? The terrible uncertainty at the heart of everything he believed. His father had chosen evil. For years, he had served the Emperor. He had murdered. Tortured. Destroyed. And yet, at the very end, he had chosen differently. If that final choice had been taken from him, Anakin Skywalker would never have returned. Luke looked at his older self.",
+      "start": 697.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 722.79
+    },
+    {
+      "id": "p0077",
+      "text": "\"Yes.\"",
+      "start": 722.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 723.62
+    },
+    {
+      "id": "p0078",
+      "text": "The chamber trembled. The assembled crowd vanished. The older Luke's expression twisted with fury. Then the entire vision collapsed into darkness. Luke stumbled backward. His hands struck wet stone. He was standing in the cave again. Alone. His breathing sounded enormous in the silence. For several moments, he did not move. He had faced the dark side before. He knew its temptations. Power. Anger. Revenge. But this had been different.",
+      "start": 723.62,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 754.51
+    },
+    {
+      "id": "p0079",
+      "text": "The vision had offered him something that appeared good. The chance to prevent suffering. And it had shown him how easily compassion could become control. Luke closed his eyes. He thought of Yoda. Of his patience. His wisdom. His refusal to give Luke the easy answers he so often demanded. Then he opened his eyes.",
+      "start": 754.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 776.24
+    },
+    {
+      "id": "p0080",
+      "text": "\"I understand,\" he whispered.",
+      "start": 776.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 778.4
+    },
+    {
+      "id": "p0081",
+      "text": "Something moved in the darkness. Not the vision. Something real. A faint metallic sound. Luke turned. Along the wall, almost invisible beneath the roots, ran a straight line. Too straight to be natural. He approached it. A narrow opening had been cut into the stone. Beyond it, he could see metal. Artoo was waiting outside when Luke emerged. The droid gave a long, anxious whistle.",
+      "start": 778.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 804.88
+    },
+    {
+      "id": "p0082",
+      "text": "\"I'm all right.\"",
+      "start": 804.88,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 806.02
+    },
+    {
+      "id": "p0083",
+      "text": "Artoo beeped again.",
+      "start": 806.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 807.94
+    },
+    {
+      "id": "p0084",
+      "text": "\"Yes, I'm sure.\"",
+      "start": 807.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 809.19
+    },
+    {
+      "id": "p0085",
+      "text": "Another whistle. Luke smiled.",
+      "start": 809.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 811.83
+    },
+    {
+      "id": "p0086",
+      "text": "\"No. I didn't fight anyone.\"",
+      "start": 811.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 813.84
+    },
+    {
+      "id": "p0087",
+      "text": "He crouched beside the droid.",
+      "start": 813.84,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 816.09
+    },
+    {
+      "id": "p0088",
+      "text": "\"Did you find the Imperial equipment?\"",
+      "start": 816.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 818.16
+    },
+    {
+      "id": "p0089",
+      "text": "Artoo extended his scanner. A faint holographic map appeared between them. The main cavern occupied the center. Beside it, hidden behind several meters of rock, lay another chamber. A narrow passage connected the two. Luke studied the image.",
+      "start": 818.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 835.76
+    },
+    {
+      "id": "p0090",
+      "text": "\"Can we get in?\"",
+      "start": 835.76,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 836.83
+    },
+    {
+      "id": "p0091",
+      "text": "Artoo chirped confidently.",
+      "start": 836.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 839.31
+    },
+    {
+      "id": "p0092",
+      "text": "\"Show me.\"",
+      "start": 839.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 840.35
+    },
+    {
+      "id": "p0093",
+      "text": "The droid led him around the base of the hill. They passed beneath an enormous fallen tree and followed a shallow stream toward a wall of exposed roots. Behind the roots stood a metal door. It was almost completely concealed by vegetation. An Imperial seal remained faintly visible beneath the moss. Luke examined the locking mechanism.",
+      "start": 840.35,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 863.45
+    },
+    {
+      "id": "p0094",
+      "text": "\"Well, somebody went to considerable trouble.\"",
+      "start": 863.45,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 865.84
+    },
+    {
+      "id": "p0095",
+      "text": "Artoo extended his interface arm. A moment later, the lock clicked. The door slid open halfway, caught against a thick root, and stopped. Luke pulled it aside. Inside, a narrow staircase descended into darkness. The installation was unlike the laboratory Leia had described on Cloud City. There were no large experimental platforms. No elaborate medical instruments. Instead, the chamber contained a ring of recording devices arranged around a circular opening in the floor.",
+      "start": 865.84,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 895.08
+    },
+    {
+      "id": "p0096",
+      "text": "Thick cables ran from the machines into the surrounding rock. The equipment was Imperial. But the chamber itself was much older. Its walls had been carved from black stone, their surfaces marked with unfamiliar symbols. Luke ran his fingers across them. The carvings were worn. Ancient. Some had almost disappeared beneath centuries of moisture.",
+      "start": 895.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 918.2
+    },
+    {
+      "id": "p0097",
+      "text": "\"Artoo, can you identify these?\"",
+      "start": 918.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 920.32
+    },
+    {
+      "id": "p0098",
+      "text": "The droid scanned the nearest inscription. A series of uncertain whistles followed.",
+      "start": 920.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 926.38
+    },
+    {
+      "id": "p0099",
+      "text": "\"No?\"",
+      "start": 926.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 927.14
+    },
+    {
+      "id": "p0100",
+      "text": "Another beep.",
+      "start": 927.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 928.42
+    },
+    {
+      "id": "p0101",
+      "text": "\"All right. Keep looking.\"",
+      "start": 928.42,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 930.03
+    },
+    {
+      "id": "p0102",
+      "text": "Luke approached the circular opening. It descended into a narrow shaft filled with darkness. The stone around its edge had been polished smooth, but the Imperial instruments surrounding it looked crude by comparison. As though someone had built an elaborate machine around something they did not understand. Luke felt the same cold sensation he had experienced in the cave. But here it was different. The darkness seemed less personal. Less interested.",
+      "start": 930.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 959.4
+    },
+    {
+      "id": "p0103",
+      "text": "He wondered what the chamber had been before the Empire discovered it. A shrine? A place of meditation? A prison? There were no answers in the stone. Artoo whistled sharply. The central terminal had activated. Luke joined him. A series of old Imperial records appeared. Most were damaged. The surviving files described experiments conducted over the previous eleven years.",
+      "start": 959.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 983.69
+    },
+    {
+      "id": "p0104",
+      "text": "Subjects had been brought to Dagobah, placed within the cave, and instructed to report what they experienced. The results were inconsistent. Some saw dead relatives. Others confronted people they feared. Several reported witnessing events that had never occurred. One subject insisted that he had lived an entire lifetime inside the cave. He had been within it for less than six minutes. Luke read the reports carefully. The researchers had been fascinated by the phenomenon.",
+      "start": 983.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1013.51
+    },
+    {
+      "id": "p0105",
+      "text": "They had tried to measure it. Record it. Repeat it. But no two subjects experienced exactly the same thing. Even when the researchers provided identical instructions, the cave produced different results. A notation appeared beneath one experiment. The environment responds to internal psychological conditions rather than external stimulus. Luke considered that. The cave was not merely showing people frightening images. It was reflecting something they carried within themselves. Their fears. Their regrets. Their memories.",
+      "start": 1013.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1049.3
+    },
+    {
+      "id": "p0106",
+      "text": "Perhaps even possibilities they had never consciously considered. The Imperial researchers had wanted to turn that phenomenon into a weapon. And somewhere along the way, they had discovered something useful. Artoo opened another file. This one contained audio recordings. A woman spoke.",
+      "start": 1049.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1066.87
+    },
+    {
+      "id": "p0107",
+      "text": "\"I don't want to go back.\"",
+      "start": 1066.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1068.47
+    },
+    {
+      "id": "p0108",
+      "text": "A pause. Then the same voice, calmer.",
+      "start": 1068.47,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1072.39
+    },
+    {
+      "id": "p0109",
+      "text": "\"I want to return.\"",
+      "start": 1072.39,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1073.81
+    },
+    {
+      "id": "p0110",
+      "text": "Luke frowned. The recording continued. The woman began crying.",
+      "start": 1073.81,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1079.01
+    },
+    {
+      "id": "p0111",
+      "text": "\"I didn't say that.\"",
+      "start": 1079.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1080.42
+    },
+    {
+      "id": "p0112",
+      "text": "The voice repeated.",
+      "start": 1080.42,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1082.02
+    },
+    {
+      "id": "p0113",
+      "text": "\"I want to return.\"",
+      "start": 1082.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1083.38
+    },
+    {
+      "id": "p0114",
+      "text": "Luke felt his stomach tighten. Darren. The same phenomenon Leia had discovered in Palpatine's office. Except this recording was more than ten years old. The research notes appeared beside it. Subject retains awareness of externally imposed instruction. Motor compliance successful. Emotional resistance persists. A further note had been added beneath the original assessment.",
+      "start": 1083.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1107.5
+    },
+    {
+      "id": "p0115",
+      "text": "Recommendation: Use familiar vocal patterns to reduce resistance. Subjects respond more readily to commands perceived as originating from trusted individuals or from themselves. Luke stared at the words. A familiar voice. Someone trusted. Someone remembered. He thought of the vision he had just experienced. His own voice speaking to him from a future that did not exist. Had the cave produced that vision? Or had the Imperial machinery influenced it? He examined the equipment.",
+      "start": 1107.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1139.56
+    },
+    {
+      "id": "p0116",
+      "text": "Several recording devices were still active. One pointed directly toward the cave.",
+      "start": 1139.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1145.49
+    },
+    {
+      "id": "p0117",
+      "text": "\"Artoo, were these machines operating while I was inside?\"",
+      "start": 1145.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1149.21
+    },
+    {
+      "id": "p0118",
+      "text": "The droid chirped. Luke frowned.",
+      "start": 1149.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1152.48
+    },
+    {
+      "id": "p0119",
+      "text": "\"How much did they record?\"",
+      "start": 1152.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1154.29
+    },
+    {
+      "id": "p0120",
+      "text": "A holographic graph appeared. The machines had registered substantial fluctuations in the surrounding energy field. But the audio recording contained only a faint rushing sound. No voices. No conversation. Nothing resembling the extraordinary vision Luke had witnessed. He studied the result. The Imperial researchers had managed to measure the cave's effects. They had not managed to capture what a person actually saw. Not completely. That distinction seemed important.",
+      "start": 1154.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1184.91
+    },
+    {
+      "id": "p0121",
+      "text": "A second terminal stood near the far wall. Its display had been damaged, but the emergency power system remained functional. Luke approached it. A collection of files appeared beneath the heading: WITNESS STATION THREE — RESEARCH SUMMARY. The first pages described the attempts to reproduce the cave's effects artificially. Several experiments had succeeded in causing subjects to experience intense emotional responses. Others had produced vivid memories. But there was a persistent difficulty.",
+      "start": 1184.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1216.54
+    },
+    {
+      "id": "p0122",
+      "text": "People could be frightened. Confused. Manipulated. They could even be compelled to perform specific actions. Yet the researchers could not reliably remove a person's awareness that something was wrong. One report described a subject who had been ordered to betray her family. She obeyed. But afterward she remembered everything. She remembered the command. She remembered trying to resist. And she remembered the person who had given the order. The researchers considered this a failure.",
+      "start": 1216.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1245.96
+    },
+    {
+      "id": "p0123",
+      "text": "Luke thought of Darren. The man who had begged Leia for help. The man whose body had apparently acted against his will. He continued reading. A handwritten annotation appeared at the bottom of the report. The subject's emotional attachments remain active despite conditioning. Attempts to suppress them produce instability. A second note followed. Recommend investigation into the possibility of replacing emotional attachments rather than removing them. Luke read the sentence again. Replacing them.",
+      "start": 1245.96,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1278.56
+    },
+    {
+      "id": "p0124",
+      "text": "Not simply controlling a person's actions. Changing what they loved. What they feared. Who they trusted. He felt a deep uneasiness. That was what the Emperor had wanted. Not obedient soldiers alone. People whose entire understanding of themselves could be rewritten. The thought was horrifying. And yet the reports contained something the researchers seemed determined to ignore. The subjects continued resisting. Even when their bodies obeyed.",
+      "start": 1278.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1307.76
+    },
+    {
+      "id": "p0125",
+      "text": "Even when their voices spoke words they did not mean. Something remained. Luke looked toward the dark opening that led back to the cave. The Emperor's scientists had spent years trying to understand that resistance. Perhaps they had been asking the wrong question. Perhaps they had assumed that because a person could be forced to obey, the person inside had somehow been defeated. Luke thought of Anakin Skywalker. Of Vader's mechanical breathing.",
+      "start": 1307.76,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1337.59
+    },
+    {
+      "id": "p0126",
+      "text": "Of the man who had stood beside the Emperor for decades. And of the final moment when he had lifted his master and thrown him into the reactor shaft. No command had made him do that. No machine. No manipulation. He had chosen. Luke smiled faintly. There was something the Emperor had never understood. And perhaps it was the same thing his researchers had been unable to destroy. A harsh electronic tone interrupted his thoughts.",
+      "start": 1337.59,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1368.39
+    },
+    {
+      "id": "p0127",
+      "text": "Artoo spun toward the central terminal. The displays began flashing. Luke looked up.",
+      "start": 1368.39,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1375.4
+    },
+    {
+      "id": "p0128",
+      "text": "\"What's happening?\"",
+      "start": 1375.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1376.47
+    },
+    {
+      "id": "p0129",
+      "text": "The droid emitted a rapid series of whistles. An old Imperial program had begun running. A sequence of lights activated around the circular shaft. The machinery hummed. Then a voice filled the chamber.",
+      "start": 1376.47,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1389.96
+    },
+    {
+      "id": "p0130",
+      "text": "\"Welcome, subject.\"",
+      "start": 1389.96,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1391.92
+    },
+    {
+      "id": "p0131",
+      "text": "Luke froze. The voice was familiar. Very familiar. Yoda.",
+      "start": 1391.92,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1399.28
+    },
+    {
+      "id": "p0132",
+      "text": "\"Your fears will reveal the truth.\"",
+      "start": 1399.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1402.4
+    },
+    {
+      "id": "p0133",
+      "text": "Luke turned toward the nearest speaker. The voice was almost perfect. The cadence. The gravelly tone. The peculiar arrangement of words. But something was wrong. Yoda would never have spoken like this. Not in these circumstances. Not with that cold, mechanical certainty. The recording continued.",
+      "start": 1402.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1424.13
+    },
+    {
+      "id": "p0134",
+      "text": "\"Obedience is the path to peace.\"",
+      "start": 1424.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1427.0
+    },
+    {
+      "id": "p0135",
+      "text": "Luke felt anger rise within him. It was not Yoda. Someone had reproduced his master's voice. Someone had taken the speech patterns of a Jedi who had spent centuries teaching patience and wisdom, and turned them into an instrument of manipulation. Luke reached toward the terminal.",
+      "start": 1427.0,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1446.64
+    },
+    {
+      "id": "p0136",
+      "text": "\"Artoo, shut it down.\"",
+      "start": 1446.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1448.6
+    },
+    {
+      "id": "p0137",
+      "text": "The droid connected to the controls. The voice continued.",
+      "start": 1448.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1453.1
+    },
+    {
+      "id": "p0138",
+      "text": "\"All doubt must be surrendered.\"",
+      "start": 1453.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1455.82
+    },
+    {
+      "id": "p0139",
+      "text": "Luke closed his eyes. He remembered Yoda laughing. Yoda scolding him. Yoda sitting beside the little hearth in his hut, insisting that Luke look beyond what he thought possible. The real Yoda had never demanded unquestioning obedience. He had challenged Luke constantly. Forced him to examine his assumptions. To understand the consequences of his choices. Luke opened his eyes.",
+      "start": 1455.82,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1479.65
+    },
+    {
+      "id": "p0140",
+      "text": "\"You're not him.\"",
+      "start": 1479.65,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1480.88
+    },
+    {
+      "id": "p0141",
+      "text": "The recording stopped. For a moment, the machinery fell silent. Then Artoo gave a startled whistle. A new file had opened. VOICE RECONSTRUCTION — MASTER YODA. Luke stared. The Imperial archive contained recordings of Yoda. Not many. Fragments collected from old Senate communications, Jedi Temple records, and intercepted transmissions during the Clone Wars. Enough to construct an imitation. Enough to make a frightened person believe that a trusted voice was giving them orders.",
+      "start": 1480.88,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1512.48
+    },
+    {
+      "id": "p0142",
+      "text": "Luke felt sick. The Emperor had preserved the voices of the Jedi he destroyed. And his researchers had used them to experiment upon prisoners. He looked toward Artoo.",
+      "start": 1512.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1524.04
+    },
+    {
+      "id": "p0143",
+      "text": "\"Copy everything.\"",
+      "start": 1524.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1525.44
+    },
+    {
+      "id": "p0144",
+      "text": "The droid acknowledged. Luke turned back toward the terminal. There was another file. It had been opened recently. Very recently. Six days earlier. The same date that appeared in the records Leia had recovered on Coruscant. Luke frowned.",
+      "start": 1525.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1542.93
+    },
+    {
+      "id": "p0145",
+      "text": "\"Artoo, who accessed it?\"",
+      "start": 1542.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1544.59
+    },
+    {
+      "id": "p0146",
+      "text": "The droid examined the authorization. A name appeared. CUSTODIAN VEYR. Luke stared at the screen. The same man. The same mysterious Imperial official. Someone had been examining the Witness Stations after the Emperor's death. Someone who understood what the machinery could do. And someone who had apparently decided that the experiments should continue. Luke looked toward the cave. For the first time, he wondered whether the vision he had experienced was entirely his own.",
+      "start": 1544.59,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1575.75
+    },
+    {
+      "id": "p0147",
+      "text": "Or whether something had been waiting for him. A deep rumble passed through the chamber. The lights flickered. Artoo whistled sharply. Luke turned. The circular shaft had begun to fill with water. At first, only a thin stream flowed over the edge. Then another. And another. The ancient stone chamber was connected to the surrounding swamp through a network of underground passages. The Imperial machinery had apparently been holding back the water.",
+      "start": 1575.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1603.23
+    },
+    {
+      "id": "p0148",
+      "text": "Now the old equipment was failing.",
+      "start": 1603.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1605.71
+    },
+    {
+      "id": "p0149",
+      "text": "\"Artoo, disconnect!\"",
+      "start": 1605.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1607.28
+    },
+    {
+      "id": "p0150",
+      "text": "The droid attempted to withdraw his interface arm. It remained locked in place. Luke approached.",
+      "start": 1607.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1614.99
+    },
+    {
+      "id": "p0151",
+      "text": "\"Come on, Artoo.\"",
+      "start": 1614.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1616.29
+    },
+    {
+      "id": "p0152",
+      "text": "The water rose. A warning light flashed above the terminal. PRESSURE REGULATION FAILURE. Luke glanced toward the entrance. The passage was already beginning to flood. He reached for the droid's connection. A shower of sparks erupted from the terminal. Artoo squealed. Luke pulled harder. The interface arm snapped free. But the sudden movement knocked the droid sideways. He rolled toward the circular shaft.",
+      "start": 1616.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1642.8
+    },
+    {
+      "id": "p0153",
+      "text": "\"Artoo!\"",
+      "start": 1642.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1643.87
+    },
+    {
+      "id": "p0154",
+      "text": "The little droid disappeared over the edge. Luke lunged. Too late. A metallic crash echoed from below. Then Artoo's frightened whistles rose from the darkness. Luke dropped to his knees.",
+      "start": 1643.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1657.51
+    },
+    {
+      "id": "p0155",
+      "text": "\"Artoo! Can you hear me?\"",
+      "start": 1657.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1659.25
+    },
+    {
+      "id": "p0156",
+      "text": "A weak electronic response. The shaft was perhaps twenty meters deep. Water poured into it from several openings. Luke could barely see the droid at the bottom. He reached into the Force. There. A familiar presence. Not alive in the way a person was alive, but unmistakably Artoo. A little collection of circuits, memories, habits, and stubborn determination that had accompanied him across half the galaxy. Luke extended his hand. The droid moved. Slowly.",
+      "start": 1659.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1692.36
+    },
+    {
+      "id": "p0157",
+      "text": "Then faster. Artoo rose through the darkness, water pouring from his chassis. Luke caught him at the edge. For a moment, the droid remained motionless. Then he gave a miserable little beep. Luke laughed with relief.",
+      "start": 1692.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1707.72
+    },
+    {
+      "id": "p0158",
+      "text": "\"You're all right.\"",
+      "start": 1707.72,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1708.78
+    },
+    {
+      "id": "p0159",
+      "text": "Artoo produced a long, offended whistle.",
+      "start": 1708.78,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1712.09
+    },
+    {
+      "id": "p0160",
+      "text": "\"Yes, I know. You almost drowned.\"",
+      "start": 1712.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1714.07
+    },
+    {
+      "id": "p0161",
+      "text": "Another whistle.",
+      "start": 1714.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1715.39
+    },
+    {
+      "id": "p0162",
+      "text": "\"No, I didn't let you fall.\"",
+      "start": 1715.39,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1716.98
+    },
+    {
+      "id": "p0163",
+      "text": "The droid responded sharply. Luke smiled.",
+      "start": 1716.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1720.98
+    },
+    {
+      "id": "p0164",
+      "text": "\"All right. Maybe a little.\"",
+      "start": 1720.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1722.84
+    },
+    {
+      "id": "p0165",
+      "text": "He helped Artoo upright. Then they ran. By the time they emerged into the swamp, the underground installation was flooding rapidly. The metal door slammed shut behind them. A deep, muffled vibration passed through the ground. Then the forest became quiet again. Luke stood among the roots, breathing heavily. Artoo emitted a series of indignant whistles.",
+      "start": 1722.84,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1745.91
+    },
+    {
+      "id": "p0166",
+      "text": "\"Yes, I know. Another secret Imperial facility trying to kill us.\"",
+      "start": 1745.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1750.02
+    },
+    {
+      "id": "p0167",
+      "text": "The droid beeped. Luke looked at him.",
+      "start": 1750.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1753.54
+    },
+    {
+      "id": "p0168",
+      "text": "\"What?\"",
+      "start": 1753.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1754.34
+    },
+    {
+      "id": "p0169",
+      "text": "A small hologram appeared. The last files Artoo had managed to copy. Most of the research records were intact. The data included information about the cave, the voice-reconstruction experiments, and the conditioning failures. Luke smiled.",
+      "start": 1754.34,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1771.24
+    },
+    {
+      "id": "p0170",
+      "text": "\"Good work.\"",
+      "start": 1771.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1772.31
+    },
+    {
+      "id": "p0171",
+      "text": "Artoo gave a pleased chirp. Then another file appeared. This one was older than the others. Much older. It contained no experimental results. Only an administrative reference. ORIGINAL SOURCE MATERIAL — RESTRICTED. Luke examined it. A name appeared beneath the heading. DARTH PLAGUEIS. He felt a sudden chill. Plagueis. The Sith Lord whose death Leia had discovered in Palpatine's private recordings. The Emperor's former master. Luke looked toward the cave. The ancient chamber.",
+      "start": 1772.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1808.49
+    },
+    {
+      "id": "p0172",
+      "text": "The strange visions. The machinery designed to manipulate memory and obedience. Had Plagueis discovered something here? Or had his research merely provided the foundation for the Emperor's later experiments? Luke could not tell. The file was incomplete. But its existence suggested that the Hollow Throne project had roots much deeper than the Empire. He looked toward Artoo.",
+      "start": 1808.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1832.85
+    },
+    {
+      "id": "p0173",
+      "text": "\"We need to show Leia.\"",
+      "start": 1832.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1834.31
+    },
+    {
+      "id": "p0174",
+      "text": "The droid whistled. Luke nodded.",
+      "start": 1834.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1837.43
+    },
+    {
+      "id": "p0175",
+      "text": "\"Yes. All of it.\"",
+      "start": 1837.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1839.11
+    },
+    {
+      "id": "p0176",
+      "text": "Night had fallen by the time they returned to the X-wing. Luke secured Artoo in his socket and climbed into the cockpit. The swamp was quiet. Mist drifted between the trees. Somewhere in the darkness, Yoda's little hut stood empty beneath its enormous roots. Luke looked toward it one last time. He had come to Dagobah searching for the Emperor's secrets. He was leaving with something else. A clearer understanding of what those secrets meant.",
+      "start": 1839.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1869.19
+    },
+    {
+      "id": "p0177",
+      "text": "Palpatine had sought to control people completely. He had built machines that could imitate their voices, distort their memories, and compel their actions. Yet even the most thoroughly conditioned prisoners had retained something of themselves. Something that resisted. Something that remembered. Luke thought of the vision in the cave. His older self. The silent crowd. The little girl who had stopped crying because she no longer possessed the freedom to feel afraid.",
+      "start": 1869.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1897.94
+    },
+    {
+      "id": "p0178",
+      "text": "He understood now why the vision had disturbed him so deeply. Power could protect people. But it could also imprison them. The difference lay in whether those people were still free to choose. Luke activated the engines. The X-wing rose slowly above the trees. As the fighter climbed through the mist, Artoo transmitted the recovered files to Leia. A moment later, her voice came through the comm.",
+      "start": 1897.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1921.55
+    },
+    {
+      "id": "p0179",
+      "text": "\"Luke?\"",
+      "start": 1921.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1922.25
+    },
+    {
+      "id": "p0180",
+      "text": "\"Leia.\"",
+      "start": 1922.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1923.14
+    },
+    {
+      "id": "p0181",
+      "text": "\"Are you all right?\"",
+      "start": 1923.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1924.22
+    },
+    {
+      "id": "p0182",
+      "text": "\"Yes.\"",
+      "start": 1924.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1925.02
+    },
+    {
+      "id": "p0183",
+      "text": "\"What did you find?\"",
+      "start": 1925.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1926.14
+    },
+    {
+      "id": "p0184",
+      "text": "Luke looked toward the stars appearing above the clouds.",
+      "start": 1926.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1930.13
+    },
+    {
+      "id": "p0185",
+      "text": "\"Something important.\"",
+      "start": 1930.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1931.41
+    },
+    {
+      "id": "p0186",
+      "text": "\"About the Witness Stations?\"",
+      "start": 1931.41,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1932.91
+    },
+    {
+      "id": "p0187",
+      "text": "\"Yes. And about Darren.\"",
+      "start": 1932.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1935.06
+    },
+    {
+      "id": "p0188",
+      "text": "There was a pause.",
+      "start": 1935.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1936.4
+    },
+    {
+      "id": "p0189",
+      "text": "\"Tell me.\"",
+      "start": 1936.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1937.32
+    },
+    {
+      "id": "p0190",
+      "text": "Luke considered how to explain it.",
+      "start": 1937.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1939.68
+    },
+    {
+      "id": "p0191",
+      "text": "\"The Emperor's researchers were trying to remove people's ability to resist commands. But they couldn't completely succeed.\"",
+      "start": 1939.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1945.65
+    },
+    {
+      "id": "p0192",
+      "text": "\"Why not?\"",
+      "start": 1945.65,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1946.6
+    },
+    {
+      "id": "p0193",
+      "text": "\"Because the people still remembered who they were.\"",
+      "start": 1946.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1949.21
+    },
+    {
+      "id": "p0194",
+      "text": "He paused.",
+      "start": 1949.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1950.33
+    },
+    {
+      "id": "p0195",
+      "text": "\"Even when their bodies obeyed.\"",
+      "start": 1950.33,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1952.25
+    },
+    {
+      "id": "p0196",
+      "text": "Leia said nothing for several seconds. Then she spoke.",
+      "start": 1952.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1956.41
+    },
+    {
+      "id": "p0197",
+      "text": "\"Can we help them?\"",
+      "start": 1956.41,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1957.64
+    },
+    {
+      "id": "p0198",
+      "text": "Luke looked toward Artoo. The little droid gave a quiet, encouraging whistle.",
+      "start": 1957.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1963.91
+    },
+    {
+      "id": "p0199",
+      "text": "\"I think so.\"",
+      "start": 1963.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1965.12
+    },
+    {
+      "id": "p0200",
+      "text": "He smiled.",
+      "start": 1965.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1966.36
+    },
+    {
+      "id": "p0201",
+      "text": "\"I think that's exactly what we need to do.\"",
+      "start": 1966.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1968.51
+    },
+    {
+      "id": "p0202",
+      "text": "The transmission ended. Luke guided the X-wing toward open space. Behind him, Dagobah receded into the darkness. And deep beneath the swamp, in the flooded ruins of the Imperial installation, one ancient machine remained active. A small recording device, untouched by the water. Its red indicator blinked once. Then again. A faint voice emerged from its speaker. Not Yoda. Not Luke.",
+      "start": 1968.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1997.87
+    },
+    {
+      "id": "p0203",
+      "text": "A voice so old that no living Imperial researcher had ever heard it spoken aloud.",
+      "start": 1997.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2004.29
+    },
+    {
+      "id": "p0204",
+      "text": "\"Begin the next sequence.\"",
+      "start": 2004.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2006.05
+    },
+    {
+      "id": "p0205",
+      "text": "The machine obeyed.",
+      "start": 2006.05,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2007.73
+    },
+    {
+      "id": "p0206",
+      "text": "End of Chapter Nine.",
+      "start": 2007.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2009.49
+    }
+  ]
+}

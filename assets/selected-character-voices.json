@@ -63,11 +63,12 @@
       "asr_screen": "How did it go? That's encouraging. Are you hurt? Of course he did. Han, I want you to bring those files back. We can send a proper intelligence team later. Those records may explain what happened to Darren. Thank you. Come home, Han.",
       "synthetic": true,
       "production_uses": [
-        "hollow-throne-08"
+        "hollow-throne-08",
+        "hollow-throne-09"
       ],
-      "production_screen": "All 61 Chapter 8 dialogue clips passed automated content and signal checks; subjective full-chapter review remains with the listener."
+      "production_screen": "The unchanged selected reference is used in Chapters 8 and 9 with automated content and signal checks; subjective review remains with the listener."
     }
   },
-  "next_step": "Han still needs unfamiliar-dialogue validation when he next speaks. Leia Candidate 01 is used in Chapter 8 with the original selected WAV and transcript.",
+  "next_step": "Han still needs unfamiliar-dialogue validation when he next speaks. Leia Candidate 01 is used in Chapters 8 and 9 with the original selected WAV and transcript.",
   "existing_chapters_changed": false
 }

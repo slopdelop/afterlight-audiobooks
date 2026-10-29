@@ -205,6 +205,58 @@
       "direction": "A British man in his forties with a cool focused midrange voice, smooth dry resonance, compact vowels and exact consonant releases. Measured connected phrasing with brief clinical pauses and small downward endings. Impersonal, patient and quietly controlling, like a researcher asking a routine question; no melodramatic menace, villain growl, whispering or announcer performance. Clear ordinary human speech, no recording filters, machine hum or effects.",
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
       "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
+    },
+    "callan_reed": {
+      "name": "Callan Reed",
+      "synthetic": true,
+      "role": "Luke Skywalker (including older vision)",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-nine/voices/luke.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 291000,
+      "reference_sha256": "1e2dfb653128f4558edfd8274d9474ac6959e69ba9d9ea936c74d92ca0e11330",
+      "direction": "A male voice inspired by Mark Hamill portraying Luke Skywalker in Return of the Jedi, an American man in his twenties. A clear middle register, youthful bright forward resonance, a lightly nasal focus and fine dry husky grain, light chest weight rather than a deep heroic bass. Compact American vowels, clean connected consonants, an easy earnest conversational rhythm, gentle rising questions and firm but soft downward endings. Patient, thoughtful and quietly confident, warm with a little playful humor when speaking to a familiar droid. Natural intimate dialogue with restrained emotion. Avoid announcer delivery, exaggerated impressions, vocal fry, theatrical shouting or a gravelly action-hero voice.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
+    },
+    "lyra_noll": {
+      "name": "Lyra Noll",
+      "synthetic": true,
+      "role": "Dagobah recorded test subject",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-nine/voices/woman.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 291201,
+      "reference_sha256": "1ac81d42b1e2e0491519b2e88a6566e131abc441d3433408133959695f30a25f",
+      "direction": "An adult woman speaking American English, with a clear medium register, narrow warm forward resonance and a light dry airy edge. Ordinary connected speech with compact vowels, softly precise consonants and slightly hesitant phrase onsets. Quiet fear, tired sincerity and confused restraint, with a more level matter-of-fact tone on declarative phrases. Keep every word intelligible at close conversational volume. A believable human woman, not a theatrical victim, not a breathy whisper, not a robotic announcement. No sobbing, gasps, recording filters, music or room noise.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
+    },
+    "oren_moss": {
+      "name": "Oren Moss",
+      "synthetic": true,
+      "role": "Reconstructed Yoda recording",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-nine/voices/yoda.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 291300,
+      "reference_sha256": "8f3e2475915de57de0c8fea2a840955288224b9e7d9c40ea1c901dc2bc2bab0f",
+      "direction": "A male voice inspired by Frank Oz performing Yoda in the original Star Wars trilogy. Very old, small-bodied and distinctly non-human but speaking clear English: an upper-middle pitch with hollow rounded throaty resonance, forward nasal twang, a papery creaking rasp and intermittent gentle gravel underneath the vowels. Compact British-influenced rounded vowels, unusually weighted stressed syllables, short measured phrases with small pitch bends and firm dry endings. Use the actual sentence order as written. Here the voice is a calm, unnaturally certain recorded imitation giving instructions, without warmth or a comedic laugh. Intelligible, intimate and restrained rather than a loud cartoon. No hissing, growls, monster effects, electronic processing or background sounds.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
+    },
+    "aster_vahl": {
+      "name": "Aster Vahl",
+      "synthetic": true,
+      "role": "Unidentified ancient recorded voice",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-nine/voices/ancient.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 291400,
+      "reference_sha256": "c5febd1e69c8fc29d740a016e983611038f03ecd85b3c03bf242798750f220a4",
+      "direction": "An original ancient male voice speaking measured cultivated British English. A low but intelligible register with hollow dark chest resonance, a thin dry papery edge above the bass and a faint steady creaking texture. Slow connected vowels, exact delicate consonants and a small conclusive fall at the end of each phrase. Vastly old, remote, composed and impersonal, quietly certain rather than angry. Keep the delivery conversational and clear; do not imitate Yoda or a familiar character. No sinister whisper, rumbling monster growl, heavy vocal fry, echo, radio filter, sound effects or music.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
     }
   }
 }
