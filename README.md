@@ -163,3 +163,9 @@ Try changing levels, locking the phone, and pausing/resuming from the lock scree
 Chapter 9 continues on Dagobah with Julian Vale's established narrator configuration and the selected Leia Candidate 01 reference. New fixed VoiceDesign identities are Callan Reed for Luke (also his older vision), Lyra Noll for the recorded woman, Oren Moss for the reconstructed Yoda recording, and Aster Vahl for the unidentified ancient voice. Luke's older vision deliberately shares his voice because the manuscript describes it as his own, perfectly familiar voice. No dialogue or effects were invented for Artoo or Vader.
 
 The chapter uses the stable ID `hollow-throne-09`, a single MP3 and synchronized book paragraphs. Sentence fragments in the supplied manuscript are grouped into paragraphs without changing words. Synthesis clips preserve paragraph and sentence boundaries, including a separate closing announcement. Earlier chapter IDs, audio and reading text remain intact, as do the recent progress, sleep-timer, remote-resume and experimental-volume features.
+
+## Chapter 10: The Death of Darth Plagueis
+
+Chapter 10 is a 35:12 flashback with Julian Vale's established narration and four fixed VoiceDesign identities: Severin Ash (Palpatine), Vaelen Dusk (Plagueis, including his younger recording), Protocol Unit Vesper (Damask's household droid), and Elara Fenn (the reconstructed woman). The household droid is distinct from C-3PO; no Threepio audition or effects treatment was promoted into production.
+
+The stable chapter ID is `hollow-throne-10`. The single MP3 has 408 synchronized book paragraphs. Pronunciation aliases are applied only to synthesis input; the reader retains the complete original spelling and wording. Chapters 6–9 and the app's playback and progress logic are unchanged.

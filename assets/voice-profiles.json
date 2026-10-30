@@ -257,6 +257,58 @@
       "direction": "An original ancient male voice speaking measured cultivated British English. A low but intelligible register with hollow dark chest resonance, a thin dry papery edge above the bass and a faint steady creaking texture. Slow connected vowels, exact delicate consonants and a small conclusive fall at the end of each phrase. Vastly old, remote, composed and impersonal, quietly certain rather than angry. Keep the delivery conversational and clear; do not imitate Yoda or a familiar character. No sinister whisper, rumbling monster growl, heavy vocal fry, echo, radio filter, sound effects or music.",
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
       "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
+    },
+    "severin_ash": {
+      "name": "Severin Ash",
+      "synthetic": true,
+      "role": "Sheev Palpatine / Darth Sidious",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-ten/voices/palpatine.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 301100,
+      "reference_sha256": "c5b38f73a739fbeee823d1123a62434fc380f36ddaf398c17030fabdc543ed1c",
+      "direction": "A mature male voice with cultivated non-rhotic British English, inspired by the controlled political delivery of Ian McDiarmid's Senator Palpatine before becoming Emperor. Low-middle pitch, narrow hollow forward resonance, a fine dry papery rasp under smooth connected vowels, precise lightly sibilant consonants. Urbane, outwardly courteous and restrained, inwardly cold, calculating and quietly amused. Measured intimate dialogue with subtle pointed stresses and small conclusive falls. A believable younger senator, not a decrepit monster; no cackling, theatrical whispering, shouting, exaggerated gravel or added effects. Clean dry studio speech.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
+    },
+    "vaelen_dusk": {
+      "name": "Vaelen Dusk",
+      "synthetic": true,
+      "role": "Darth Plagueis / Hego Damask",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-ten/voices/plagueis.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 301200,
+      "reference_sha256": "f97fdeaf19b657dc26795f53cb92cfb9aed8e4e616bcd791e59d8f64af3f6fe8",
+      "direction": "An original elderly male alien scholar and financier speaking cultivated non-rhotic British English. A deep resonant bass-baritone, long hollow dark vowels and a dry thin papery edge, very exact delicate consonants and unnaturally precise controlled timing. Intellectually superior, remote, patient and quietly authoritative, with restrained faint amusement and occasional sharp emphasis. Distinct from a sibilant politician: broader slower resonant phrases and extremely clear diction. Ordinary close conversational volume, no booming announcer, monster growl, breath apparatus sound, gasping, electronic filter or music. Preserve natural human intelligibility and subtle emotion.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
+    },
+    "protocol_vesper": {
+      "name": "Protocol Unit Vesper",
+      "synthetic": true,
+      "role": "Damask household protocol droid",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-ten/voices/droid.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 301300,
+      "reference_sha256": "9f5f873b1efaae4f992abedfe8ba6fc4077aa5a02516a64b636a02669cbe9e15",
+      "direction": "An original male household protocol droid with a clear middle-low British register, cultivated non-rhotic English, smooth narrow dry resonance, meticulously articulated consonants and level precise syllables. Quiet, formal, efficient and politely impersonal, a small deliberate fall at each sentence ending. Distinct from a high anxious comic droid: composed administrative courtesy with minimal emotional variation, but flowing connected intelligible speech. No vocoder, robot buzz, metallic sound effects, echo, music or background noise. A clean dry studio voice.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
+    },
+    "elara_fenn": {
+      "name": "Elara Fenn",
+      "synthetic": true,
+      "role": "Reconstructed archival woman",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-ten/voices/woman.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 301400,
+      "reference_sha256": "260fc57e452731720d5e3e401eafae8544eebecd0368e35d170cbf6346c3b53d",
+      "direction": "An original adult woman speaking clear British English in a soft middle register, with light forward resonance, a gentle dry airy edge and delicate precise consonants. Vulnerable, frightened of being left alone, intimate and sincere with a slight hesitant onset and connected natural vowels. Keep the words fully voiced and understandable, quietly emotional rather than a breathy whisper or melodramatic sob. No crying sound effects, electronic processing, room noise, music or reverb. Clean dry close studio dialogue.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
     }
   }
 }

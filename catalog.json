@@ -44,6 +44,14 @@
           "src": "audio/hollow-throne/chapter-09.mp3",
           "duration": 2009.49,
           "transcript": "text/hollow-throne/chapter-09.json"
+        },
+        {
+          "id": "hollow-throne-10",
+          "number": 10,
+          "title": "The Death of Darth Plagueis",
+          "src": "audio/hollow-throne/chapter-10.mp3",
+          "duration": 2112.04,
+          "transcript": "text/hollow-throne/chapter-10.json"
         }
       ],
       "narratorId": "julian_vale"

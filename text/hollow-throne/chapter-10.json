@@ -1,0 +1,3272 @@
+{
+  "version": 1,
+  "chapterId": "hollow-throne-10",
+  "duration": 2112.04,
+  "alignment": "Book paragraphs use synthesis boundaries and cached local Whisper word timestamps; unmatched starts are interpolated.",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "STAR WARS: THE HOLLOW THRONE",
+      "start": 0.0,
+      "timing": "segment",
+      "kind": "title",
+      "end": 3.17
+    },
+    {
+      "id": "p0002",
+      "text": "Chapter Ten: The Death of Darth Plagueis",
+      "start": 3.17,
+      "timing": "segment",
+      "kind": "title",
+      "end": 6.94
+    },
+    {
+      "id": "p0003",
+      "text": "Palpatine Flashback III — Coruscant, thirty-two years before the Battle of Yavin.",
+      "start": 6.94,
+      "timing": "segment",
+      "kind": "title",
+      "end": 12.69
+    },
+    {
+      "id": "p0004",
+      "text": "The eve of Palpatine's election as Supreme Chancellor.",
+      "start": 12.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 16.76
+    },
+    {
+      "id": "p0005",
+      "text": "By morning, Sheev Palpatine expected to be the most powerful politician in the Republic. By morning, he intended to be considerably more than that. The Senate had spent the day tearing itself apart. Chancellor Valorum's remaining supporters had pleaded for patience, insisting that the Republic's institutions could still resolve the crisis on Naboo. The Trade Federation's representatives had denied responsibility for the invasion, while their allies demanded an investigation into the allegations against them.",
+      "start": 16.76,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 45.03
+    },
+    {
+      "id": "p0006",
+      "text": "Queen Amidala had spoken with extraordinary composure for someone so young. Palpatine had watched her from his Senate pod as she called for a vote of no confidence in Valorum's leadership. He had almost smiled. The girl believed she was forcing the Republic to confront its failures. She could not have known how carefully those failures had been arranged. Now the Senate was preparing to elect a new Supreme Chancellor.",
+      "start": 45.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 71.56
+    },
+    {
+      "id": "p0007",
+      "text": "And Senator Palpatine of Naboo, a modest public servant who had reluctantly accepted nomination during his homeworld's darkest hour, was the overwhelming favorite. It had been a magnificent day. There was only one remaining inconvenience. His master wished to share the victory. Hego Damask lived near the summit of one of Coruscant's most exclusive residential towers.",
+      "start": 71.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 95.6
+    },
+    {
+      "id": "p0008",
+      "text": "The penthouse occupied three floors and overlooked a private landing platform, a carefully maintained rooftop garden, and a section of the city reserved almost entirely for the wealthy. Damask was known publicly as a financier. His investment companies controlled interests in banking, shipping, mining, and interstellar construction. His political connections extended across thousands of worlds. Many senators knew his name. Few had met him.",
+      "start": 95.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 122.58
+    },
+    {
+      "id": "p0009",
+      "text": "Almost none knew that Hego Damask was also Darth Plagueis, a Dark Lord of the Sith. Palpatine had known him for decades. He had been a teacher, benefactor, conspirator, and occasional source of profound irritation. Tonight, he intended to become a corpse. A protocol droid admitted Palpatine to the residence.",
+      "start": 122.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 144.28
+    },
+    {
+      "id": "p0010",
+      "text": "\"Senator. Lord Damask is expecting you.\"",
+      "start": 144.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 147.53
+    },
+    {
+      "id": "p0011",
+      "text": "\"Thank you.\"",
+      "start": 147.53,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 148.5
+    },
+    {
+      "id": "p0012",
+      "text": "\"The master is in his study.\"",
+      "start": 148.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 150.63
+    },
+    {
+      "id": "p0013",
+      "text": "\"Of course he is.\"",
+      "start": 150.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 152.03
+    },
+    {
+      "id": "p0014",
+      "text": "Palpatine passed through a corridor decorated with ancient sculptures. Some were priceless. Others were reproductions so convincing that their original owners had purchased them back without realizing the substitution. Damask possessed a peculiar sense of humor. At the end of the corridor, two tall doors opened. The study beyond was immense. Bookshelves rose toward a vaulted ceiling. Holographic displays glowed above several desks, showing scientific diagrams, financial reports, and astronomical charts.",
+      "start": 152.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 183.91
+    },
+    {
+      "id": "p0015",
+      "text": "A fire burned within a recessed hearth. Beside it stood a tall, narrow figure in dark robes. Darth Plagueis. The Muun turned. His elongated face was almost skeletal, his pale skin marked by age and old injuries. A mechanical breathing apparatus covered part of his lower face, its polished metal components rising and falling with each measured breath.",
+      "start": 183.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 207.59
+    },
+    {
+      "id": "p0016",
+      "text": "\"Sidious.\"",
+      "start": 207.59,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 208.85
+    },
+    {
+      "id": "p0017",
+      "text": "His voice was deep and unnaturally precise.",
+      "start": 208.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 212.32
+    },
+    {
+      "id": "p0018",
+      "text": "\"Master.\"",
+      "start": 212.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 213.38
+    },
+    {
+      "id": "p0019",
+      "text": "Palpatine bowed. Plagueis examined him for a moment.",
+      "start": 213.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 217.82
+    },
+    {
+      "id": "p0020",
+      "text": "\"How did the Senate receive your speech?\"",
+      "start": 217.82,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 220.32
+    },
+    {
+      "id": "p0021",
+      "text": "\"With great enthusiasm.\"",
+      "start": 220.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 222.04
+    },
+    {
+      "id": "p0022",
+      "text": "\"Of course.\"",
+      "start": 222.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 223.9
+    },
+    {
+      "id": "p0023",
+      "text": "\"The nomination has been secured. The vote will take place tomorrow.\"",
+      "start": 223.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 228.61
+    },
+    {
+      "id": "p0024",
+      "text": "\"And Valorum?\"",
+      "start": 228.61,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 230.82
+    },
+    {
+      "id": "p0025",
+      "text": "\"Finished.\"",
+      "start": 230.82,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 231.83
+    },
+    {
+      "id": "p0026",
+      "text": "Plagueis made a soft sound that might have been amusement.",
+      "start": 231.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 235.91
+    },
+    {
+      "id": "p0027",
+      "text": "\"How quickly the mighty fall.\"",
+      "start": 235.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 238.34
+    },
+    {
+      "id": "p0028",
+      "text": "Palpatine smiled.",
+      "start": 238.34,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 240.07
+    },
+    {
+      "id": "p0029",
+      "text": "\"Particularly when someone gives them a push.\"",
+      "start": 240.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 242.79
+    },
+    {
+      "id": "p0030",
+      "text": "His master turned toward the window. Below them, the city extended in every direction.",
+      "start": 242.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 250.19
+    },
+    {
+      "id": "p0031",
+      "text": "\"Tomorrow,\" Plagueis said, \"the Republic will begin its final transformation.\"",
+      "start": 250.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 258.23
+    },
+    {
+      "id": "p0032",
+      "text": "\"Indeed.\"",
+      "start": 258.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 259.28
+    },
+    {
+      "id": "p0033",
+      "text": "\"After a thousand years of hiding, the Sith will finally possess the government that sought to destroy us.\"",
+      "start": 259.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 267.23
+    },
+    {
+      "id": "p0034",
+      "text": "Palpatine approached.",
+      "start": 267.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 269.1
+    },
+    {
+      "id": "p0035",
+      "text": "\"Our patience has been rewarded.\"",
+      "start": 269.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 271.38
+    },
+    {
+      "id": "p0036",
+      "text": "\"Patience.\"",
+      "start": 271.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 273.06
+    },
+    {
+      "id": "p0037",
+      "text": "Plagueis repeated the word thoughtfully.",
+      "start": 273.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 275.8
+    },
+    {
+      "id": "p0038",
+      "text": "\"It is an interesting quality, Sidious. One that you have never possessed in great abundance.\"",
+      "start": 275.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 282.83
+    },
+    {
+      "id": "p0039",
+      "text": "\"I have waited decades for this moment.\"",
+      "start": 282.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 285.23
+    },
+    {
+      "id": "p0040",
+      "text": "\"Yes. And resented every day of it.\"",
+      "start": 285.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 289.07
+    },
+    {
+      "id": "p0041",
+      "text": "Palpatine said nothing. Plagueis turned back toward him.",
+      "start": 289.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 293.55
+    },
+    {
+      "id": "p0042",
+      "text": "\"That is one of the reasons I chose you.\"",
+      "start": 293.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 297.0
+    },
+    {
+      "id": "p0043",
+      "text": "They dined beside the great windows. The meal had been prepared by a private chef and delivered by droids that withdrew immediately afterward. Plagueis disliked servants lingering while he discussed sensitive matters. Palpatine had requested several bottles of an especially rare Sullustan wine. His master had accepted the gesture with unusual enthusiasm. The election had placed him in an expansive mood.",
+      "start": 297.0,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 322.59
+    },
+    {
+      "id": "p0044",
+      "text": "\"Tell me,\" Plagueis said, examining the crimson liquid in his glass, \"what do you intend to do with Valorum?\"",
+      "start": 322.59,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 330.87
+    },
+    {
+      "id": "p0045",
+      "text": "\"Retire him.\"",
+      "start": 330.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 332.11
+    },
+    {
+      "id": "p0046",
+      "text": "\"Nothing more?\"",
+      "start": 332.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 333.58
+    },
+    {
+      "id": "p0047",
+      "text": "\"Why should I?\"",
+      "start": 333.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 334.77
+    },
+    {
+      "id": "p0048",
+      "text": "\"He knows a great deal about the Senate.\"",
+      "start": 334.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 337.48
+    },
+    {
+      "id": "p0049",
+      "text": "\"He knows a great deal about its procedures. That is not the same thing.\"",
+      "start": 337.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 342.79
+    },
+    {
+      "id": "p0050",
+      "text": "Plagueis considered this.",
+      "start": 342.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 344.79
+    },
+    {
+      "id": "p0051",
+      "text": "\"And the Trade Federation?\"",
+      "start": 344.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 347.15
+    },
+    {
+      "id": "p0052",
+      "text": "\"They will continue to serve their purpose.\"",
+      "start": 347.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 349.69
+    },
+    {
+      "id": "p0053",
+      "text": "\"The invasion of Naboo has been an expensive exercise.\"",
+      "start": 349.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 354.44
+    },
+    {
+      "id": "p0054",
+      "text": "\"A necessary one.\"",
+      "start": 354.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 356.02
+    },
+    {
+      "id": "p0055",
+      "text": "\"Perhaps.\"",
+      "start": 356.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 357.09
+    },
+    {
+      "id": "p0056",
+      "text": "Palpatine looked up. His master rarely questioned the political strategy so directly.",
+      "start": 357.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 363.36
+    },
+    {
+      "id": "p0057",
+      "text": "\"Do you disagree?\"",
+      "start": 363.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 364.83
+    },
+    {
+      "id": "p0058",
+      "text": "\"No. The crisis has produced precisely the result we intended.\"",
+      "start": 364.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 370.19
+    },
+    {
+      "id": "p0059",
+      "text": "\"Then what troubles you?\"",
+      "start": 370.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 371.95
+    },
+    {
+      "id": "p0060",
+      "text": "Plagueis raised his glass.",
+      "start": 371.95,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 374.19
+    },
+    {
+      "id": "p0061",
+      "text": "\"Success.\"",
+      "start": 374.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 375.98
+    },
+    {
+      "id": "p0062",
+      "text": "Palpatine smiled.",
+      "start": 375.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 377.71
+    },
+    {
+      "id": "p0063",
+      "text": "\"An unusual complaint.\"",
+      "start": 377.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 379.49
+    },
+    {
+      "id": "p0064",
+      "text": "\"Success encourages men to believe their own explanations.\"",
+      "start": 379.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 384.29
+    },
+    {
+      "id": "p0065",
+      "text": "The Muun settled deeper into his chair.",
+      "start": 384.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 387.29
+    },
+    {
+      "id": "p0066",
+      "text": "\"We have spent decades directing the affairs of the Republic. We have manipulated corporations, senators, judicial authorities, and entire planetary governments. Tomorrow, you will become Chancellor.\"",
+      "start": 387.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 401.11
+    },
+    {
+      "id": "p0067",
+      "text": "He paused.",
+      "start": 401.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 402.17
+    },
+    {
+      "id": "p0068",
+      "text": "\"But understand this, Sidious. Taking possession of the Republic is not the same as mastering it.\"",
+      "start": 402.17,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 410.24
+    },
+    {
+      "id": "p0069",
+      "text": "Palpatine sipped his wine.",
+      "start": 410.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 412.16
+    },
+    {
+      "id": "p0070",
+      "text": "\"I am aware.\"",
+      "start": 412.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 413.46
+    },
+    {
+      "id": "p0071",
+      "text": "\"Are you?\"",
+      "start": 413.46,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 414.81
+    },
+    {
+      "id": "p0072",
+      "text": "\"Master—\"",
+      "start": 414.81,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 415.83
+    },
+    {
+      "id": "p0073",
+      "text": "\"Power is not merely the ability to issue commands. It is the ability to ensure that those commands continue to be obeyed when you are absent.\"",
+      "start": 415.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 425.2
+    },
+    {
+      "id": "p0074",
+      "text": "Palpatine looked at him. Plagueis smiled.",
+      "start": 425.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 428.94
+    },
+    {
+      "id": "p0075",
+      "text": "\"Or dead.\"",
+      "start": 428.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 431.02
+    },
+    {
+      "id": "p0076",
+      "text": "The conversation turned toward the future of their order. Plagueis believed that the traditional Sith succession had become obsolete. For centuries, master and apprentice had conspired against one another, each generation attempting to surpass the previous one. Such conflict had produced powerful individuals. It had also destroyed extraordinary amounts of knowledge. Plagueis considered this wasteful.",
+      "start": 431.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 455.93
+    },
+    {
+      "id": "p0077",
+      "text": "\"The Rule of Two served its purpose,\" he said. \"It preserved us. It concentrated our power. It ensured that weakness could not endure indefinitely.\"",
+      "start": 455.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 467.96
+    },
+    {
+      "id": "p0078",
+      "text": "\"And now?\"",
+      "start": 467.96,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 469.02
+    },
+    {
+      "id": "p0079",
+      "text": "\"Now we have reached the threshold of victory.\"",
+      "start": 469.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 472.19
+    },
+    {
+      "id": "p0080",
+      "text": "Plagueis leaned forward.",
+      "start": 472.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 474.27
+    },
+    {
+      "id": "p0081",
+      "text": "\"Why should victory require one of us to die?\"",
+      "start": 474.27,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 478.01
+    },
+    {
+      "id": "p0082",
+      "text": "Palpatine studied his master. The question had been raised before. Usually indirectly. Sometimes through philosophical discussions concerning the preservation of life. Sometimes through proposals for shared control of the Republic. Always the same suggestion. Plagueis wished to remain. He imagined the two of them ruling together indefinitely. The thought disgusted Palpatine. A Chancellor who answered to a hidden master was not a master at all.",
+      "start": 478.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 507.79
+    },
+    {
+      "id": "p0083",
+      "text": "He would merely have exchanged one form of servitude for another.",
+      "start": 507.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 511.71
+    },
+    {
+      "id": "p0084",
+      "text": "\"We have much yet to accomplish,\" Palpatine replied.",
+      "start": 511.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 515.35
+    },
+    {
+      "id": "p0085",
+      "text": "\"Indeed.\"",
+      "start": 515.35,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 516.29
+    },
+    {
+      "id": "p0086",
+      "text": "\"The Jedi remain powerful.\"",
+      "start": 516.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 518.32
+    },
+    {
+      "id": "p0087",
+      "text": "\"For now.\"",
+      "start": 518.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 520.06
+    },
+    {
+      "id": "p0088",
+      "text": "\"The Senate must be transformed carefully.\"",
+      "start": 520.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 522.67
+    },
+    {
+      "id": "p0089",
+      "text": "\"Yes.\"",
+      "start": 522.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 523.67
+    },
+    {
+      "id": "p0090",
+      "text": "\"And the Republic's military institutions must eventually be brought under our control.\"",
+      "start": 523.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 528.93
+    },
+    {
+      "id": "p0091",
+      "text": "Plagueis inclined his head.",
+      "start": 528.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 531.33
+    },
+    {
+      "id": "p0092",
+      "text": "\"Precisely.\"",
+      "start": 531.33,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 532.92
+    },
+    {
+      "id": "p0093",
+      "text": "Palpatine smiled.",
+      "start": 532.92,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 534.68
+    },
+    {
+      "id": "p0094",
+      "text": "\"Then there is little reason to discuss succession tonight.\"",
+      "start": 534.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 538.37
+    },
+    {
+      "id": "p0095",
+      "text": "His master regarded him. For a moment, the Muun's eyes narrowed. Then he laughed.",
+      "start": 538.37,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 544.98
+    },
+    {
+      "id": "p0096",
+      "text": "\"Always the politician.\"",
+      "start": 544.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 547.09
+    },
+    {
+      "id": "p0097",
+      "text": "He raised his glass.",
+      "start": 547.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 548.85
+    },
+    {
+      "id": "p0098",
+      "text": "\"To tomorrow.\"",
+      "start": 548.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 550.26
+    },
+    {
+      "id": "p0099",
+      "text": "Palpatine raised his own.",
+      "start": 550.26,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 552.41
+    },
+    {
+      "id": "p0100",
+      "text": "\"To tomorrow.\"",
+      "start": 552.41,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 553.6
+    },
+    {
+      "id": "p0101",
+      "text": "Later, Plagueis led him into the laboratory. This occupied the penthouse's uppermost floor. Palpatine had visited it many times, though even he had never been granted unrestricted access to every cabinet and instrument. Plagueis guarded his scientific work with an intensity he seldom displayed toward political matters. A dozen transparent containers stood along one wall. Inside them floated fragments of organic tissue suspended in pale fluid.",
+      "start": 553.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 583.45
+    },
+    {
+      "id": "p0102",
+      "text": "Other apparatuses held small animals, most in states of suspended animation. One creature appeared dead. Its chest did not move. Its eyes were closed. Yet the instruments around it showed faint neurological activity. Palpatine approached.",
+      "start": 583.45,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 599.95
+    },
+    {
+      "id": "p0103",
+      "text": "\"Another preservation experiment?\"",
+      "start": 599.95,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 602.19
+    },
+    {
+      "id": "p0104",
+      "text": "\"An old one.\"",
+      "start": 602.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 604.11
+    },
+    {
+      "id": "p0105",
+      "text": "\"Successful?\"",
+      "start": 604.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 605.32
+    },
+    {
+      "id": "p0106",
+      "text": "\"Partially.\"",
+      "start": 605.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 606.61
+    },
+    {
+      "id": "p0107",
+      "text": "Plagueis activated the container. The creature's eyes opened. Its body twitched. For several seconds, it attempted to move. Then it became still again. Palpatine frowned.",
+      "start": 606.61,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 619.33
+    },
+    {
+      "id": "p0108",
+      "text": "\"It retains consciousness?\"",
+      "start": 619.33,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 621.37
+    },
+    {
+      "id": "p0109",
+      "text": "\"Intermittently.\"",
+      "start": 621.37,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 623.91
+    },
+    {
+      "id": "p0110",
+      "text": "\"Can it be restored?\"",
+      "start": 623.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 625.64
+    },
+    {
+      "id": "p0111",
+      "text": "\"Possibly. But that is no longer the question that interests me.\"",
+      "start": 625.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 631.16
+    },
+    {
+      "id": "p0112",
+      "text": "Plagueis gestured toward another table. Upon it rested a small metal cylinder. Beside the cylinder stood a recording device.",
+      "start": 631.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 640.35
+    },
+    {
+      "id": "p0113",
+      "text": "\"Come.\"",
+      "start": 640.35,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 641.66
+    },
+    {
+      "id": "p0114",
+      "text": "Palpatine approached.",
+      "start": 641.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 643.34
+    },
+    {
+      "id": "p0115",
+      "text": "\"What is it?\"",
+      "start": 643.34,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 644.25
+    },
+    {
+      "id": "p0116",
+      "text": "\"A demonstration.\"",
+      "start": 644.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 646.61
+    },
+    {
+      "id": "p0117",
+      "text": "Plagueis activated the recorder. A woman's voice filled the laboratory.",
+      "start": 646.61,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 653.25
+    },
+    {
+      "id": "p0118",
+      "text": "\"Please don't leave me.\"",
+      "start": 653.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 654.73
+    },
+    {
+      "id": "p0119",
+      "text": "The voice was soft. Frightened. There was a pause. Then it continued.",
+      "start": 654.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 662.75
+    },
+    {
+      "id": "p0120",
+      "text": "\"I don't want to be alone.\"",
+      "start": 662.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 664.33
+    },
+    {
+      "id": "p0121",
+      "text": "Palpatine listened.",
+      "start": 664.33,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 666.0
+    },
+    {
+      "id": "p0122",
+      "text": "\"An emotional appeal.\"",
+      "start": 666.0,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 667.76
+    },
+    {
+      "id": "p0123",
+      "text": "\"Yes.\"",
+      "start": 667.76,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 669.68
+    },
+    {
+      "id": "p0124",
+      "text": "\"To whom?\"",
+      "start": 669.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 670.75
+    },
+    {
+      "id": "p0125",
+      "text": "\"Her husband.\"",
+      "start": 670.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 672.68
+    },
+    {
+      "id": "p0126",
+      "text": "Plagueis switched off the recording.",
+      "start": 672.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 675.39
+    },
+    {
+      "id": "p0127",
+      "text": "\"The woman died forty-seven years ago.\"",
+      "start": 675.39,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 679.06
+    },
+    {
+      "id": "p0128",
+      "text": "Palpatine glanced toward him.",
+      "start": 679.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 681.45
+    },
+    {
+      "id": "p0129",
+      "text": "\"Then this is an archival recording.\"",
+      "start": 681.45,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 684.03
+    },
+    {
+      "id": "p0130",
+      "text": "\"No.\"",
+      "start": 684.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 685.23
+    },
+    {
+      "id": "p0131",
+      "text": "The Muun's expression sharpened.",
+      "start": 685.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 687.71
+    },
+    {
+      "id": "p0132",
+      "text": "\"It was made yesterday.\"",
+      "start": 687.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 690.83
+    },
+    {
+      "id": "p0133",
+      "text": "Palpatine examined the device.",
+      "start": 690.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 693.36
+    },
+    {
+      "id": "p0134",
+      "text": "\"A reconstruction?\"",
+      "start": 693.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 694.87
+    },
+    {
+      "id": "p0135",
+      "text": "\"In a manner of speaking.\"",
+      "start": 694.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 696.89
+    },
+    {
+      "id": "p0136",
+      "text": "\"From what source?\"",
+      "start": 696.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 698.41
+    },
+    {
+      "id": "p0137",
+      "text": "\"That is the interesting part.\"",
+      "start": 698.41,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 700.57
+    },
+    {
+      "id": "p0138",
+      "text": "Plagueis activated a holographic diagram. It showed a human brain. Beside it appeared a complex arrangement of intersecting energy fields.",
+      "start": 700.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 710.94
+    },
+    {
+      "id": "p0139",
+      "text": "\"Living beings retain impressions of their experiences,\" Plagueis explained. \"Memories. Emotional responses. Learned behaviors. Associations that become so deeply embedded they may survive considerable physical damage.\"",
+      "start": 710.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 730.66
+    },
+    {
+      "id": "p0140",
+      "text": "\"I am familiar with memory.\"",
+      "start": 730.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 732.93
+    },
+    {
+      "id": "p0141",
+      "text": "\"Of course. But consider what happens when those impressions are shared.\"",
+      "start": 732.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 738.71
+    },
+    {
+      "id": "p0142",
+      "text": "Plagueis enlarged the diagram.",
+      "start": 738.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 741.11
+    },
+    {
+      "id": "p0143",
+      "text": "\"One person remembers another. Their voice. Their appearance. Their habits. Their fears. Their desires.\"",
+      "start": 741.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 750.08
+    },
+    {
+      "id": "p0144",
+      "text": "He paused.",
+      "start": 750.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 751.68
+    },
+    {
+      "id": "p0145",
+      "text": "\"What remains of a person after death?\"",
+      "start": 751.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 754.95
+    },
+    {
+      "id": "p0146",
+      "text": "Palpatine considered the question.",
+      "start": 754.95,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 757.35
+    },
+    {
+      "id": "p0147",
+      "text": "\"Whatever the Force permits.\"",
+      "start": 757.35,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 759.22
+    },
+    {
+      "id": "p0148",
+      "text": "\"A conventional answer.\"",
+      "start": 759.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 761.41
+    },
+    {
+      "id": "p0149",
+      "text": "\"An accurate one.\"",
+      "start": 761.41,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 762.81
+    },
+    {
+      "id": "p0150",
+      "text": "\"Perhaps.\"",
+      "start": 762.81,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 764.12
+    },
+    {
+      "id": "p0151",
+      "text": "Plagueis turned toward the cylinder.",
+      "start": 764.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 766.88
+    },
+    {
+      "id": "p0152",
+      "text": "\"The woman's husband was brought here last week. He had spent nearly fifty years remembering her. He could describe her voice with extraordinary precision.\"",
+      "start": 766.88,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 777.6
+    },
+    {
+      "id": "p0153",
+      "text": "\"So you reconstructed it.\"",
+      "start": 777.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 779.69
+    },
+    {
+      "id": "p0154",
+      "text": "\"Partly.\"",
+      "start": 779.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 781.18
+    },
+    {
+      "id": "p0155",
+      "text": "Plagueis touched the recorder.",
+      "start": 781.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 783.7
+    },
+    {
+      "id": "p0156",
+      "text": "\"But when we played the reconstructed voice to him, he heard something we had not programmed.\"",
+      "start": 783.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 789.78
+    },
+    {
+      "id": "p0157",
+      "text": "Palpatine frowned.",
+      "start": 789.78,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 791.34
+    },
+    {
+      "id": "p0158",
+      "text": "\"What?\"",
+      "start": 791.34,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 792.14
+    },
+    {
+      "id": "p0159",
+      "text": "\"A sentence.\"",
+      "start": 792.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 794.13
+    },
+    {
+      "id": "p0160",
+      "text": "\"What sentence?\"",
+      "start": 794.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 795.38
+    },
+    {
+      "id": "p0161",
+      "text": "\"Something she had said to him shortly before her death.\"",
+      "start": 795.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 799.3
+    },
+    {
+      "id": "p0162",
+      "text": "\"And?\"",
+      "start": 799.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 800.24
+    },
+    {
+      "id": "p0163",
+      "text": "\"He had never told us about it.\"",
+      "start": 800.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 803.2
+    },
+    {
+      "id": "p0164",
+      "text": "Palpatine looked at the device.",
+      "start": 803.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 805.56
+    },
+    {
+      "id": "p0165",
+      "text": "\"Then your researchers discovered it through some other means.\"",
+      "start": 805.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 809.09
+    },
+    {
+      "id": "p0166",
+      "text": "\"Possibly.\"",
+      "start": 809.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 810.47
+    },
+    {
+      "id": "p0167",
+      "text": "\"Or the husband supplied the information unconsciously.\"",
+      "start": 810.47,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 813.92
+    },
+    {
+      "id": "p0168",
+      "text": "\"Also possible.\"",
+      "start": 813.92,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 816.53
+    },
+    {
+      "id": "p0169",
+      "text": "Plagueis smiled.",
+      "start": 816.53,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 818.29
+    },
+    {
+      "id": "p0170",
+      "text": "\"Yet neither explanation accounts for everything.\"",
+      "start": 818.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 822.19
+    },
+    {
+      "id": "p0171",
+      "text": "He activated a second recording. The woman's voice returned. This time it spoke only four words.",
+      "start": 822.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 830.76
+    },
+    {
+      "id": "p0172",
+      "text": "\"I remember the garden.\"",
+      "start": 830.76,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 832.2
+    },
+    {
+      "id": "p0173",
+      "text": "Plagueis stopped the playback.",
+      "start": 832.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 834.56
+    },
+    {
+      "id": "p0174",
+      "text": "\"The husband did not understand the reference. He insists they never possessed a garden.\"",
+      "start": 834.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 841.17
+    },
+    {
+      "id": "p0175",
+      "text": "Palpatine shrugged.",
+      "start": 841.17,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 842.69
+    },
+    {
+      "id": "p0176",
+      "text": "\"Then perhaps the reconstruction is inaccurate.\"",
+      "start": 842.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 845.68
+    },
+    {
+      "id": "p0177",
+      "text": "\"Perhaps.\"",
+      "start": 845.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 846.96
+    },
+    {
+      "id": "p0178",
+      "text": "\"Why does this interest you?\"",
+      "start": 846.96,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 848.94
+    },
+    {
+      "id": "p0179",
+      "text": "Plagueis regarded the cylinder.",
+      "start": 848.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 851.98
+    },
+    {
+      "id": "p0180",
+      "text": "\"Because the recording was made while the husband was unconscious.\"",
+      "start": 851.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 856.68
+    },
+    {
+      "id": "p0181",
+      "text": "Palpatine became still.",
+      "start": 856.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 858.65
+    },
+    {
+      "id": "p0182",
+      "text": "\"And the words?\"",
+      "start": 858.65,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 859.84
+    },
+    {
+      "id": "p0183",
+      "text": "\"They were produced without his participation.\"",
+      "start": 859.84,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 863.14
+    },
+    {
+      "id": "p0184",
+      "text": "The Muun leaned closer.",
+      "start": 863.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 864.99
+    },
+    {
+      "id": "p0185",
+      "text": "\"Imagine, Sidious, if an instruction could be preserved in the same manner.\"",
+      "start": 864.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 870.63
+    },
+    {
+      "id": "p0186",
+      "text": "Palpatine looked at him.",
+      "start": 870.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 872.47
+    },
+    {
+      "id": "p0187",
+      "text": "\"An instruction?\"",
+      "start": 872.47,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 873.75
+    },
+    {
+      "id": "p0188",
+      "text": "\"A command. A memory. A voice that continues speaking long after the person who first gave it has died.\"",
+      "start": 873.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 882.54
+    },
+    {
+      "id": "p0189",
+      "text": "Palpatine considered the implications. An order that survived its author. A military instruction preserved independently of the officer who issued it. A promise of loyalty that could be renewed indefinitely. Such a device would be extraordinarily useful. And extraordinarily dangerous.",
+      "start": 882.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 901.6
+    },
+    {
+      "id": "p0190",
+      "text": "\"Can you control what the voice says?\"",
+      "start": 901.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 904.18
+    },
+    {
+      "id": "p0191",
+      "text": "\"Not reliably.\"",
+      "start": 904.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 906.01
+    },
+    {
+      "id": "p0192",
+      "text": "\"Then you have a curiosity, Master. Not a weapon.\"",
+      "start": 906.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 909.76
+    },
+    {
+      "id": "p0193",
+      "text": "Plagueis smiled.",
+      "start": 909.76,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 911.68
+    },
+    {
+      "id": "p0194",
+      "text": "\"Every weapon begins as a curiosity.\"",
+      "start": 911.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 915.12
+    },
+    {
+      "id": "p0195",
+      "text": "The Muun led him toward the rear of the laboratory. There, behind a transparent partition, stood an ancient stone pedestal. Upon it rested an object resembling a short ceramic spindle. Its pale surface was cracked and worn. Palpatine had seen it before. He had assumed it was another of his master's archaeological curiosities.",
+      "start": 915.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 936.87
+    },
+    {
+      "id": "p0196",
+      "text": "\"Where did you find that?\"",
+      "start": 936.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 938.62
+    },
+    {
+      "id": "p0197",
+      "text": "\"On a world in the Outer Rim.\"",
+      "start": 938.62,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 941.59
+    },
+    {
+      "id": "p0198",
+      "text": "\"Which world?\"",
+      "start": 941.59,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 942.85
+    },
+    {
+      "id": "p0199",
+      "text": "\"Dagobah.\"",
+      "start": 942.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 944.16
+    },
+    {
+      "id": "p0200",
+      "text": "Palpatine searched his memory.",
+      "start": 944.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 946.47
+    },
+    {
+      "id": "p0201",
+      "text": "\"A swamp planet.\"",
+      "start": 946.47,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 948.0
+    },
+    {
+      "id": "p0202",
+      "text": "\"Yes.\"",
+      "start": 948.0,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 949.43
+    },
+    {
+      "id": "p0203",
+      "text": "\"Uninhabited.\"",
+      "start": 949.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 950.74
+    },
+    {
+      "id": "p0204",
+      "text": "\"Officially.\"",
+      "start": 950.74,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 952.35
+    },
+    {
+      "id": "p0205",
+      "text": "Plagueis approached the pedestal.",
+      "start": 952.35,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 954.77
+    },
+    {
+      "id": "p0206",
+      "text": "\"Long ago, someone built a chamber beneath the roots of an ancient forest. Its purpose is unknown.\"",
+      "start": 954.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 962.48
+    },
+    {
+      "id": "p0207",
+      "text": "\"A Sith temple?\"",
+      "start": 962.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 963.89
+    },
+    {
+      "id": "p0208",
+      "text": "\"Perhaps. Though I doubt it.\"",
+      "start": 963.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 967.09
+    },
+    {
+      "id": "p0209",
+      "text": "\"Why?\"",
+      "start": 967.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 967.99
+    },
+    {
+      "id": "p0210",
+      "text": "\"Because the chamber does not behave as our temples do.\"",
+      "start": 967.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 971.81
+    },
+    {
+      "id": "p0211",
+      "text": "Plagueis touched the transparent enclosure.",
+      "start": 971.81,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 974.75
+    },
+    {
+      "id": "p0212",
+      "text": "\"It reflects.\"",
+      "start": 974.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 976.19
+    },
+    {
+      "id": "p0213",
+      "text": "Palpatine frowned.",
+      "start": 976.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 977.88
+    },
+    {
+      "id": "p0214",
+      "text": "\"Reflects what?\"",
+      "start": 977.88,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 979.37
+    },
+    {
+      "id": "p0215",
+      "text": "\"Memory. Fear. Possibility. Sometimes things that have never occurred.\"",
+      "start": 979.37,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 986.78
+    },
+    {
+      "id": "p0216",
+      "text": "\"Visions?\"",
+      "start": 986.78,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 987.85
+    },
+    {
+      "id": "p0217",
+      "text": "\"Not exactly.\"",
+      "start": 987.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 990.01
+    },
+    {
+      "id": "p0218",
+      "text": "The Muun paused.",
+      "start": 990.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 991.53
+    },
+    {
+      "id": "p0219",
+      "text": "\"A conventional vision offers the observer some impression of the future, or of events occurring beyond ordinary perception. This place appears to respond to what the observer brings into it.\"",
+      "start": 991.53,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1005.14
+    },
+    {
+      "id": "p0220",
+      "text": "\"Then it is a mirror.\"",
+      "start": 1005.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1006.85
+    },
+    {
+      "id": "p0221",
+      "text": "\"Perhaps.\"",
+      "start": 1006.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1008.25
+    },
+    {
+      "id": "p0222",
+      "text": "Plagueis smiled faintly.",
+      "start": 1008.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1010.75
+    },
+    {
+      "id": "p0223",
+      "text": "\"But a mirror that occasionally shows something the observer does not remember.\"",
+      "start": 1010.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1016.15
+    },
+    {
+      "id": "p0224",
+      "text": "Palpatine considered this.",
+      "start": 1016.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1018.44
+    },
+    {
+      "id": "p0225",
+      "text": "\"Have you entered it?\"",
+      "start": 1018.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1019.73
+    },
+    {
+      "id": "p0226",
+      "text": "\"No.\"",
+      "start": 1019.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1021.17
+    },
+    {
+      "id": "p0227",
+      "text": "\"Why not?\"",
+      "start": 1021.17,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1022.26
+    },
+    {
+      "id": "p0228",
+      "text": "\"Because I have no intention of allowing an unknown phenomenon to examine my mind.\"",
+      "start": 1022.26,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1027.92
+    },
+    {
+      "id": "p0229",
+      "text": "Palpatine almost laughed. For all his master's extraordinary abilities, the Muun possessed a remarkably cautious temperament.",
+      "start": 1027.92,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1036.68
+    },
+    {
+      "id": "p0230",
+      "text": "\"You fear it?\"",
+      "start": 1036.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1037.89
+    },
+    {
+      "id": "p0231",
+      "text": "\"I respect what I do not understand.\"",
+      "start": 1037.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1041.88
+    },
+    {
+      "id": "p0232",
+      "text": "\"An elegant distinction.\"",
+      "start": 1041.88,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1043.76
+    },
+    {
+      "id": "p0233",
+      "text": "\"One you would do well to remember.\"",
+      "start": 1043.76,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1046.69
+    },
+    {
+      "id": "p0234",
+      "text": "Plagueis turned away.",
+      "start": 1046.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1048.53
+    },
+    {
+      "id": "p0235",
+      "text": "\"The spindle came from the chamber's entrance. I have been studying its composition for years.\"",
+      "start": 1048.53,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1055.16
+    },
+    {
+      "id": "p0236",
+      "text": "\"And?\"",
+      "start": 1055.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1056.1
+    },
+    {
+      "id": "p0237",
+      "text": "\"It possesses no unusual properties.\"",
+      "start": 1056.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1059.64
+    },
+    {
+      "id": "p0238",
+      "text": "Palpatine looked at the object.",
+      "start": 1059.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1061.84
+    },
+    {
+      "id": "p0239",
+      "text": "\"Then why keep it?\"",
+      "start": 1061.84,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1063.59
+    },
+    {
+      "id": "p0240",
+      "text": "\"Because it belonged to something that did.\"",
+      "start": 1063.59,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1066.72
+    },
+    {
+      "id": "p0241",
+      "text": "The Muun approached a nearby cabinet.",
+      "start": 1066.72,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1069.28
+    },
+    {
+      "id": "p0242",
+      "text": "\"Eventually, I intend to return to Dagobah. There are questions the chamber may help us answer.\"",
+      "start": 1069.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1076.01
+    },
+    {
+      "id": "p0243",
+      "text": "Palpatine studied the spindle for another moment. A broken piece of ancient machinery. A relic from a forgotten world. His master had accumulated thousands of such objects. Most were worthless. Some had proved useful. But Palpatine doubted the object before him would ever matter. He turned away. They returned to the private sitting room shortly before midnight. The wine had continued flowing. Plagueis appeared increasingly relaxed.",
+      "start": 1076.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1104.56
+    },
+    {
+      "id": "p0244",
+      "text": "For years, the Muun had pursued an obsession with extending life. He had studied the Force, the biological mechanisms of aging, and the strange relationship between consciousness and the physical body. He believed himself close to a breakthrough. Palpatine knew better. His master had made remarkable discoveries, certainly. But he had also become increasingly absorbed in the belief that death was a problem of insufficient knowledge. Palpatine considered death more straightforward.",
+      "start": 1104.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1135.09
+    },
+    {
+      "id": "p0245",
+      "text": "It was what happened to those who failed to retain power.",
+      "start": 1135.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1138.92
+    },
+    {
+      "id": "p0246",
+      "text": "\"Tomorrow,\" Plagueis said, \"we shall begin preparing the Republic for its final transformation.\"",
+      "start": 1138.92,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1146.06
+    },
+    {
+      "id": "p0247",
+      "text": "Palpatine nodded.",
+      "start": 1146.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1147.66
+    },
+    {
+      "id": "p0248",
+      "text": "\"The Senate will follow.\"",
+      "start": 1147.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1149.3
+    },
+    {
+      "id": "p0249",
+      "text": "\"At first.\"",
+      "start": 1149.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1150.98
+    },
+    {
+      "id": "p0250",
+      "text": "\"Then the governors.\"",
+      "start": 1150.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1152.49
+    },
+    {
+      "id": "p0251",
+      "text": "\"Eventually.\"",
+      "start": 1152.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1154.33
+    },
+    {
+      "id": "p0252",
+      "text": "\"And the Jedi will be destroyed.\"",
+      "start": 1154.33,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1156.58
+    },
+    {
+      "id": "p0253",
+      "text": "Plagueis regarded him.",
+      "start": 1156.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1158.34
+    },
+    {
+      "id": "p0254",
+      "text": "\"Your hatred of them remains impressive.\"",
+      "start": 1158.34,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1161.25
+    },
+    {
+      "id": "p0255",
+      "text": "\"They are an obstacle.\"",
+      "start": 1161.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1162.89
+    },
+    {
+      "id": "p0256",
+      "text": "\"They are more than that.\"",
+      "start": 1162.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1165.96
+    },
+    {
+      "id": "p0257",
+      "text": "\"Not for much longer.\"",
+      "start": 1165.96,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1167.64
+    },
+    {
+      "id": "p0258",
+      "text": "The Muun raised his glass.",
+      "start": 1167.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1169.64
+    },
+    {
+      "id": "p0259",
+      "text": "\"Patience, Sidious.\"",
+      "start": 1169.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1172.38
+    },
+    {
+      "id": "p0260",
+      "text": "Palpatine smiled.",
+      "start": 1172.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1174.14
+    },
+    {
+      "id": "p0261",
+      "text": "\"Always patience.\"",
+      "start": 1174.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1175.69
+    },
+    {
+      "id": "p0262",
+      "text": "Plagueis laughed. Then coughed. The mechanical breathing apparatus made a brief, unpleasant sound. Palpatine watched. His master adjusted the device.",
+      "start": 1175.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1187.82
+    },
+    {
+      "id": "p0263",
+      "text": "\"These damned regulators.\"",
+      "start": 1187.82,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1190.38
+    },
+    {
+      "id": "p0264",
+      "text": "\"Are they failing?\"",
+      "start": 1190.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1191.69
+    },
+    {
+      "id": "p0265",
+      "text": "\"No. Merely inconvenient.\"",
+      "start": 1191.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1194.94
+    },
+    {
+      "id": "p0266",
+      "text": "\"Perhaps you should replace them.\"",
+      "start": 1194.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1196.92
+    },
+    {
+      "id": "p0267",
+      "text": "\"Perhaps.\"",
+      "start": 1196.92,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1198.58
+    },
+    {
+      "id": "p0268",
+      "text": "Plagueis took another drink.",
+      "start": 1198.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1201.16
+    },
+    {
+      "id": "p0269",
+      "text": "\"You know, Sidious, I have almost forgotten what ordinary sleep feels like.\"",
+      "start": 1201.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1206.57
+    },
+    {
+      "id": "p0270",
+      "text": "Palpatine looked at him.",
+      "start": 1206.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1208.32
+    },
+    {
+      "id": "p0271",
+      "text": "\"Indeed?\"",
+      "start": 1208.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1209.36
+    },
+    {
+      "id": "p0272",
+      "text": "\"For years I have sustained myself through the Force. Rest is largely unnecessary.\"",
+      "start": 1209.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1216.24
+    },
+    {
+      "id": "p0273",
+      "text": "\"An impressive achievement.\"",
+      "start": 1216.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1217.97
+    },
+    {
+      "id": "p0274",
+      "text": "\"Yet tonight...\"",
+      "start": 1217.97,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1219.63
+    },
+    {
+      "id": "p0275",
+      "text": "The Muun leaned back.",
+      "start": 1219.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1221.3
+    },
+    {
+      "id": "p0276",
+      "text": "\"Tonight, I believe I shall indulge myself.\"",
+      "start": 1221.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1225.19
+    },
+    {
+      "id": "p0277",
+      "text": "Palpatine smiled.",
+      "start": 1225.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1226.95
+    },
+    {
+      "id": "p0278",
+      "text": "\"By all means, Master.\"",
+      "start": 1226.95,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1228.84
+    },
+    {
+      "id": "p0279",
+      "text": "The clocks passed midnight. Outside, Coruscant continued its endless movement. Inside the penthouse, the fire burned low. Plagueis had settled into a reclining chair beside the window. His breathing was slow. His eyes were closed. Palpatine remained seated opposite him, a glass of wine untouched in his hand. He waited. For years, he had imagined this moment. Sometimes he pictured a duel. Lightsabers flashing through the darkness.",
+      "start": 1228.84,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1256.47
+    },
+    {
+      "id": "p0280",
+      "text": "A contest of wills that would shake the foundations of the building. Sometimes he imagined a more elaborate arrangement. An assassination disguised as an accident. A financial scandal. A carefully engineered betrayal. But now, with the moment finally at hand, he found the simplicity of the situation almost disappointing. His master was asleep. The room was quiet. There were no guards. No witnesses.",
+      "start": 1256.47,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1282.7
+    },
+    {
+      "id": "p0281",
+      "text": "No one to prevent him from doing what Sith apprentices had done for centuries. Palpatine set down his glass. He rose. Then he approached the reclining chair. For several seconds, he regarded the sleeping Muun. Plagueis had taught him extraordinary things. He had shown him how to conceal his power from the Jedi. How to manipulate the Senate. How to bend the Force toward ends most living beings could scarcely imagine.",
+      "start": 1282.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1309.38
+    },
+    {
+      "id": "p0282",
+      "text": "He had helped transform a gifted young aristocrat from Naboo into the most dangerous politician in the Republic. Palpatine felt no gratitude. He had earned everything. The knowledge. The opportunities. The power. His master had merely possessed them first. He reached toward the mechanical breathing apparatus. Its control panel glowed faintly. A small adjustment would be sufficient. He disabled the primary regulator. The machine continued operating on its reserve system. Palpatine waited.",
+      "start": 1309.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1343.71
+    },
+    {
+      "id": "p0283",
+      "text": "Then he disabled that too. The steady mechanical rhythm stopped. Plagueis stirred. His elongated fingers tightened against the chair. For several seconds, he remained asleep. Then his eyes opened. He tried to breathe. Nothing happened. The Muun's gaze fixed upon Palpatine. Recognition came slowly. Then understanding. Palpatine smiled.",
+      "start": 1343.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1369.07
+    },
+    {
+      "id": "p0284",
+      "text": "\"Good evening, Master.\"",
+      "start": 1369.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1370.46
+    },
+    {
+      "id": "p0285",
+      "text": "Plagueis attempted to rise. Palpatine held him in place with the Force. The Muun struggled. His chest convulsed. A glass shattered on a nearby table.",
+      "start": 1370.46,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1381.83
+    },
+    {
+      "id": "p0286",
+      "text": "\"Sidious...\"",
+      "start": 1381.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1383.08
+    },
+    {
+      "id": "p0287",
+      "text": "The word emerged as little more than a whisper.",
+      "start": 1383.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1386.21
+    },
+    {
+      "id": "p0288",
+      "text": "\"Yes.\"",
+      "start": 1386.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1387.16
+    },
+    {
+      "id": "p0289",
+      "text": "Plagueis reached toward the breathing apparatus. Palpatine moved the controls beyond his grasp.",
+      "start": 1387.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1394.42
+    },
+    {
+      "id": "p0290",
+      "text": "\"You have taught me a great deal.\"",
+      "start": 1394.42,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1396.48
+    },
+    {
+      "id": "p0291",
+      "text": "His master stared at him.",
+      "start": 1396.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1398.35
+    },
+    {
+      "id": "p0292",
+      "text": "\"I have often wondered whether you understood precisely how much.\"",
+      "start": 1398.35,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1402.33
+    },
+    {
+      "id": "p0293",
+      "text": "Plagueis attempted to summon the Force. For an instant, the room trembled. A chair slid across the floor. Several ornaments toppled from their shelves. Palpatine tightened his hold.",
+      "start": 1402.33,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1415.26
+    },
+    {
+      "id": "p0294",
+      "text": "\"Please, Master. Have some dignity.\"",
+      "start": 1415.26,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1417.73
+    },
+    {
+      "id": "p0295",
+      "text": "The Muun's eyes widened. His mouth opened. No breath came. Palpatine leaned closer.",
+      "start": 1417.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1425.93
+    },
+    {
+      "id": "p0296",
+      "text": "\"You believed we would rule together.\"",
+      "start": 1425.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1428.19
+    },
+    {
+      "id": "p0297",
+      "text": "Plagueis struggled.",
+      "start": 1428.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1430.13
+    },
+    {
+      "id": "p0298",
+      "text": "\"You imagined that I would become Chancellor while you remained safely concealed, directing events from behind the throne.\"",
+      "start": 1430.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1437.52
+    },
+    {
+      "id": "p0299",
+      "text": "The Emperor-to-be smiled.",
+      "start": 1437.52,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1439.69
+    },
+    {
+      "id": "p0300",
+      "text": "\"Did you truly imagine I would permit that?\"",
+      "start": 1439.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1442.3
+    },
+    {
+      "id": "p0301",
+      "text": "Plagueis attempted to speak. His lips formed a word. Palpatine could not hear it. He leaned closer.",
+      "start": 1442.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1451.24
+    },
+    {
+      "id": "p0302",
+      "text": "\"What was that?\"",
+      "start": 1451.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1452.61
+    },
+    {
+      "id": "p0303",
+      "text": "The Muun's eyes fixed upon him. For a moment, something changed in his expression. The panic faded. He seemed to be looking past Palpatine. Toward the laboratory. Toward something neither of them could see. Then he whispered:",
+      "start": 1452.61,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1469.22
+    },
+    {
+      "id": "p0304",
+      "text": "\"Not... for me.\"",
+      "start": 1469.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1471.81
+    },
+    {
+      "id": "p0305",
+      "text": "Palpatine frowned.",
+      "start": 1471.81,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1473.58
+    },
+    {
+      "id": "p0306",
+      "text": "\"What?\"",
+      "start": 1473.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1474.45
+    },
+    {
+      "id": "p0307",
+      "text": "Plagueis tried again.",
+      "start": 1474.45,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1476.2
+    },
+    {
+      "id": "p0308",
+      "text": "\"The voice...\"",
+      "start": 1476.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1478.4
+    },
+    {
+      "id": "p0309",
+      "text": "His body convulsed.",
+      "start": 1478.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1480.16
+    },
+    {
+      "id": "p0310",
+      "text": "\"...was not...\"",
+      "start": 1480.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1481.76
+    },
+    {
+      "id": "p0311",
+      "text": "The words dissolved into a desperate attempt to breathe. Palpatine tightened his hold.",
+      "start": 1481.76,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1487.6
+    },
+    {
+      "id": "p0312",
+      "text": "\"Enough.\"",
+      "start": 1487.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1488.48
+    },
+    {
+      "id": "p0313",
+      "text": "The room fell silent. Darth Plagueis the Wise died before dawn. For several minutes, Palpatine stood beside the body. He had expected triumph. A surge of dark-side power. Perhaps some profound revelation concerning the nature of the Sith. Instead, he felt a peculiar emptiness. Not grief. Certainly not regret. Simply the sudden absence of a presence that had occupied his life for decades. He considered the corpse.",
+      "start": 1488.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1519.56
+    },
+    {
+      "id": "p0314",
+      "text": "The Muun's long fingers hung over the edge of the chair. His mechanical breathing apparatus remained silent. Palpatine found the sight almost comical. A being who had devoted his life to conquering death. Defeated by a disabled machine. He smiled. Then he remembered the final words. Not for me. What had Plagueis meant? A warning? An accusation? Some final attempt at manipulation? Palpatine dismissed the question. Dying men often spoke nonsense. He approached the laboratory.",
+      "start": 1519.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1553.48
+    },
+    {
+      "id": "p0315",
+      "text": "There were matters to attend to. The first thing he did was destroy the private records concerning his own training. Plagueis had maintained extensive notes on his apprentice. Some described Palpatine's early development. Others recorded examinations of his abilities, temperament, and ambitions. There were analyses of his political relationships. Detailed assessments of his strengths. And, most annoyingly, observations concerning his weaknesses. Palpatine examined several files. One described his desire for control as pathological. He laughed.",
+      "start": 1553.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1588.46
+    },
+    {
+      "id": "p0316",
+      "text": "Another suggested that his hatred of the Jedi might occasionally interfere with his judgment. He erased it. Then he found a file he had never seen before. SUBJECT: SIDIOUS. He opened it. A series of recordings appeared. His own voice. Not speeches. Not public statements. Private conversations. Arguments. Confessions. Moments of anger. Even words he remembered speaking only once. He stared at the archive. His master had been recording him. For years.",
+      "start": 1588.46,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1618.94
+    },
+    {
+      "id": "p0317",
+      "text": "Palpatine opened the attached research notes. Most concerned the reconstruction of vocal patterns and the preservation of memory. But one entry caught his attention. Subject possesses exceptional resistance to external mental influence. Direct conditioning unlikely to succeed. Palpatine smiled. Naturally. Then he read the next line. Recommend indirect methods. Emotional triggers, familiar commands, and reconstructed personal memories may prove more effective. His smile vanished. Plagueis had been studying how to control him. Not merely politically.",
+      "start": 1618.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1655.9
+    },
+    {
+      "id": "p0318",
+      "text": "Not through persuasion. Through the same strange experiments he had demonstrated earlier that evening. Palpatine read on. The research had never progressed beyond preliminary analysis. Nevertheless, the implication was unmistakable. His master had been preparing for the possibility that his apprentice might one day become uncontrollable. He had sought a means of preserving authority even after his own death. Palpatine looked toward the laboratory door.",
+      "start": 1655.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1683.66
+    },
+    {
+      "id": "p0319",
+      "text": "For the first time that night, he felt something approaching genuine anger. Plagueis had imagined he could bind Darth Sidious himself. The arrogance. The presumption. Palpatine activated the archive's destruction sequence. The recordings disappeared. One after another. His voice. His memories. The detailed observations of a man who had known him since youth. Finally, the terminal went dark. Palpatine regarded the empty display.",
+      "start": 1683.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1711.6
+    },
+    {
+      "id": "p0320",
+      "text": "\"Not for you, Master.\"",
+      "start": 1711.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1713.18
+    },
+    {
+      "id": "p0321",
+      "text": "He turned away. The household droid was waiting near the laboratory entrance. A tall, narrow machine with a polished silver chassis, it had served Plagueis for many years.",
+      "start": 1713.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1725.02
+    },
+    {
+      "id": "p0322",
+      "text": "\"Senator Palpatine.\"",
+      "start": 1725.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1726.78
+    },
+    {
+      "id": "p0323",
+      "text": "\"Yes?\"",
+      "start": 1726.78,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1727.66
+    },
+    {
+      "id": "p0324",
+      "text": "\"Lord Damask has not responded to his scheduled medical examination.\"",
+      "start": 1727.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1732.1
+    },
+    {
+      "id": "p0325",
+      "text": "\"He has suffered a fatal respiratory failure.\"",
+      "start": 1732.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1735.0
+    },
+    {
+      "id": "p0326",
+      "text": "The droid paused. Its optical sensors adjusted.",
+      "start": 1735.0,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1739.38
+    },
+    {
+      "id": "p0327",
+      "text": "\"That is unfortunate.\"",
+      "start": 1739.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1740.97
+    },
+    {
+      "id": "p0328",
+      "text": "\"Indeed.\"",
+      "start": 1740.97,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1741.94
+    },
+    {
+      "id": "p0329",
+      "text": "\"Shall I notify the medical authorities?\"",
+      "start": 1741.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1744.55
+    },
+    {
+      "id": "p0330",
+      "text": "\"Not yet. There are matters to arrange.\"",
+      "start": 1744.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1747.74
+    },
+    {
+      "id": "p0331",
+      "text": "\"Understood.\"",
+      "start": 1747.74,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1748.94
+    },
+    {
+      "id": "p0332",
+      "text": "Palpatine regarded the machine.",
+      "start": 1748.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1751.21
+    },
+    {
+      "id": "p0333",
+      "text": "\"You will assist me in cataloguing the laboratory.\"",
+      "start": 1751.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1754.27
+    },
+    {
+      "id": "p0334",
+      "text": "\"Of course.\"",
+      "start": 1754.27,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1755.39
+    },
+    {
+      "id": "p0335",
+      "text": "\"All research materials are to be transferred to my custody.\"",
+      "start": 1755.39,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1759.44
+    },
+    {
+      "id": "p0336",
+      "text": "\"Understood.\"",
+      "start": 1759.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1760.7
+    },
+    {
+      "id": "p0337",
+      "text": "\"Nothing is to leave this residence without my authorization.\"",
+      "start": 1760.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1764.52
+    },
+    {
+      "id": "p0338",
+      "text": "The droid bowed its head.",
+      "start": 1764.52,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1766.52
+    },
+    {
+      "id": "p0339",
+      "text": "\"Naturally, Senator.\"",
+      "start": 1766.52,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1768.4
+    },
+    {
+      "id": "p0340",
+      "text": "It moved toward a nearby cabinet. Palpatine watched as the machine collected several objects. Medical instruments. Recording cylinders. A small ceramic spindle from the ancient pedestal. The droid placed them carefully into a narrow transport case. Palpatine frowned.",
+      "start": 1768.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1786.88
+    },
+    {
+      "id": "p0341",
+      "text": "\"That object.\"",
+      "start": 1786.88,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1788.12
+    },
+    {
+      "id": "p0342",
+      "text": "The droid stopped.",
+      "start": 1788.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1789.96
+    },
+    {
+      "id": "p0343",
+      "text": "\"Senator?\"",
+      "start": 1789.96,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1791.02
+    },
+    {
+      "id": "p0344",
+      "text": "\"The ceramic piece. Why are you packing it?\"",
+      "start": 1791.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1794.35
+    },
+    {
+      "id": "p0345",
+      "text": "\"It is listed among Lord Damask's historical acquisitions.\"",
+      "start": 1794.35,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1798.28
+    },
+    {
+      "id": "p0346",
+      "text": "\"It has no value.\"",
+      "start": 1798.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1799.83
+    },
+    {
+      "id": "p0347",
+      "text": "\"That is correct.\"",
+      "start": 1799.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1801.22
+    },
+    {
+      "id": "p0348",
+      "text": "\"Then discard it.\"",
+      "start": 1801.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1802.54
+    },
+    {
+      "id": "p0349",
+      "text": "The droid examined the spindle.",
+      "start": 1802.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1805.1
+    },
+    {
+      "id": "p0350",
+      "text": "\"Lord Damask left standing instructions that all materials associated with the Outer Rim excavations were to be preserved.\"",
+      "start": 1805.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1812.73
+    },
+    {
+      "id": "p0351",
+      "text": "Palpatine considered the matter. The old fool had collected thousands of worthless relics. It would take weeks to examine them all. He had more important work to do.",
+      "start": 1812.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1823.57
+    },
+    {
+      "id": "p0352",
+      "text": "\"Very well. Transfer it with the other archaeological materials.\"",
+      "start": 1823.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1827.53
+    },
+    {
+      "id": "p0353",
+      "text": "\"Understood.\"",
+      "start": 1827.53,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1828.77
+    },
+    {
+      "id": "p0354",
+      "text": "The droid closed the case. Palpatine turned back toward the main terminal. He did not notice that the machine had placed the ceramic spindle in a compartment separate from the other objects. Nor did he notice the tiny blue indicator that illuminated briefly beneath its hand. The sky above Coruscant had begun to brighten. Palpatine returned to the sitting room. Plagueis remained in his chair. The fire had burned out.",
+      "start": 1828.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1856.57
+    },
+    {
+      "id": "p0355",
+      "text": "For a moment, the young senator regarded his dead master. There was no fear now. No anxiety. Only satisfaction. He approached the body.",
+      "start": 1856.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1867.21
+    },
+    {
+      "id": "p0356",
+      "text": "\"Tomorrow, the Senate will elect me Supreme Chancellor.\"",
+      "start": 1867.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1870.62
+    },
+    {
+      "id": "p0357",
+      "text": "He spoke softly.",
+      "start": 1870.62,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1872.33
+    },
+    {
+      "id": "p0358",
+      "text": "\"You believed that would be our victory.\"",
+      "start": 1872.33,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1874.67
+    },
+    {
+      "id": "p0359",
+      "text": "Palpatine smiled.",
+      "start": 1874.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1876.46
+    },
+    {
+      "id": "p0360",
+      "text": "\"But there is no our victory.\"",
+      "start": 1876.46,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1878.57
+    },
+    {
+      "id": "p0361",
+      "text": "He adjusted the collar of his robes.",
+      "start": 1878.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1881.01
+    },
+    {
+      "id": "p0362",
+      "text": "\"There is only mine.\"",
+      "start": 1881.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1882.61
+    },
+    {
+      "id": "p0363",
+      "text": "He turned toward the door. Behind him, the dead Muun's breathing apparatus remained silent. Palpatine did not look back. At the bottom of the tower, a private transport waited. The household droid accompanied him to the entrance.",
+      "start": 1882.61,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1899.48
+    },
+    {
+      "id": "p0364",
+      "text": "\"Senator Palpatine.\"",
+      "start": 1899.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1901.38
+    },
+    {
+      "id": "p0365",
+      "text": "He stopped.",
+      "start": 1901.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1902.57
+    },
+    {
+      "id": "p0366",
+      "text": "\"Yes?\"",
+      "start": 1902.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1903.5
+    },
+    {
+      "id": "p0367",
+      "text": "\"There is one final matter.\"",
+      "start": 1903.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1905.76
+    },
+    {
+      "id": "p0368",
+      "text": "The droid extended a small data cylinder.",
+      "start": 1905.76,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1908.92
+    },
+    {
+      "id": "p0369",
+      "text": "\"Lord Damask instructed that this be delivered to you upon his death.\"",
+      "start": 1908.92,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1913.71
+    },
+    {
+      "id": "p0370",
+      "text": "Palpatine stared at it.",
+      "start": 1913.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1915.57
+    },
+    {
+      "id": "p0371",
+      "text": "\"When did he issue that instruction?\"",
+      "start": 1915.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1917.66
+    },
+    {
+      "id": "p0372",
+      "text": "\"Seven years ago.\"",
+      "start": 1917.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1919.39
+    },
+    {
+      "id": "p0373",
+      "text": "\"Seven years?\"",
+      "start": 1919.39,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1920.8
+    },
+    {
+      "id": "p0374",
+      "text": "\"Yes, Senator.\"",
+      "start": 1920.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1922.56
+    },
+    {
+      "id": "p0375",
+      "text": "Palpatine took the cylinder.",
+      "start": 1922.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1924.6
+    },
+    {
+      "id": "p0376",
+      "text": "\"What does it contain?\"",
+      "start": 1924.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1926.22
+    },
+    {
+      "id": "p0377",
+      "text": "\"I am not authorized to examine its contents.\"",
+      "start": 1926.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1929.27
+    },
+    {
+      "id": "p0378",
+      "text": "\"Of course not.\"",
+      "start": 1929.27,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1930.51
+    },
+    {
+      "id": "p0379",
+      "text": "He turned the object over in his hand. Seven years. His master had prepared a message for the event of his own death long before tonight. Perhaps he had anticipated betrayal. Perhaps he had merely been prudent. Palpatine considered destroying the cylinder. Then curiosity overcame caution. He inserted it into his portable reader. A hologram appeared. Darth Plagueis stood beside the same laboratory table Palpatine had examined only hours earlier. He looked younger. Healthier.",
+      "start": 1930.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1964.79
+    },
+    {
+      "id": "p0380",
+      "text": "His breathing apparatus was absent.",
+      "start": 1964.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1967.33
+    },
+    {
+      "id": "p0381",
+      "text": "\"Sidious.\"",
+      "start": 1967.33,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1969.71
+    },
+    {
+      "id": "p0382",
+      "text": "The voice was calm.",
+      "start": 1969.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1971.23
+    },
+    {
+      "id": "p0383",
+      "text": "\"Should you be viewing this recording, I am dead.\"",
+      "start": 1971.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1975.38
+    },
+    {
+      "id": "p0384",
+      "text": "Palpatine smiled.",
+      "start": 1975.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1977.02
+    },
+    {
+      "id": "p0385",
+      "text": "\"Astute observation, Master.\"",
+      "start": 1977.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1979.37
+    },
+    {
+      "id": "p0386",
+      "text": "The recording continued.",
+      "start": 1979.37,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1981.13
+    },
+    {
+      "id": "p0387",
+      "text": "\"You will undoubtedly believe that my death proves your superiority.\"",
+      "start": 1981.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1986.75
+    },
+    {
+      "id": "p0388",
+      "text": "The smile faded.",
+      "start": 1986.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1988.4
+    },
+    {
+      "id": "p0389",
+      "text": "\"Perhaps it does.\"",
+      "start": 1988.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1990.57
+    },
+    {
+      "id": "p0390",
+      "text": "Plagueis approached the recording device.",
+      "start": 1990.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1993.16
+    },
+    {
+      "id": "p0391",
+      "text": "\"But there is something I have never told you.\"",
+      "start": 1993.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1995.95
+    },
+    {
+      "id": "p0392",
+      "text": "Palpatine became very still.",
+      "start": 1995.95,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1998.51
+    },
+    {
+      "id": "p0393",
+      "text": "\"The experiments you have dismissed as curiosities were never intended merely to preserve life.\"",
+      "start": 1998.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2006.04
+    },
+    {
+      "id": "p0394",
+      "text": "The Muun paused.",
+      "start": 2006.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2007.55
+    },
+    {
+      "id": "p0395",
+      "text": "\"They were intended to preserve authority.\"",
+      "start": 2007.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2010.51
+    },
+    {
+      "id": "p0396",
+      "text": "Palpatine frowned.",
+      "start": 2010.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2012.19
+    },
+    {
+      "id": "p0397",
+      "text": "\"A command may outlive its speaker. An instruction may remain embedded in memory long after the person who gave it has been forgotten.\"",
+      "start": 2012.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2021.04
+    },
+    {
+      "id": "p0398",
+      "text": "The recording flickered.",
+      "start": 2021.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2022.69
+    },
+    {
+      "id": "p0399",
+      "text": "\"One day, Sidious, you may discover that killing a man is considerably easier than silencing him.\"",
+      "start": 2022.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2030.04
+    },
+    {
+      "id": "p0400",
+      "text": "Plagueis smiled.",
+      "start": 2030.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2032.27
+    },
+    {
+      "id": "p0401",
+      "text": "\"And when that day comes, remember this.\"",
+      "start": 2032.27,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2035.14
+    },
+    {
+      "id": "p0402",
+      "text": "He leaned closer.",
+      "start": 2035.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2036.65
+    },
+    {
+      "id": "p0403",
+      "text": "\"Not every voice belongs to the person who speaks.\"",
+      "start": 2036.65,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2040.01
+    },
+    {
+      "id": "p0404",
+      "text": "The hologram vanished. Palpatine stared at the empty space above the reader. For several seconds, he did not move. Then he laughed. A quiet laugh. Almost affectionate.",
+      "start": 2040.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2052.89
+    },
+    {
+      "id": "p0405",
+      "text": "\"Always the dramatist, Master.\"",
+      "start": 2052.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2055.33
+    },
+    {
+      "id": "p0406",
+      "text": "He removed the cylinder. The message was an obvious attempt to unsettle him. A final demonstration of Plagueis's belief that knowledge could provide immortality. Palpatine had no intention of being impressed. He crushed the cylinder in his hand. The fragments fell to the polished floor. Then he stepped into the waiting transport. Tomorrow, the Republic would elect its new Chancellor. Within a few years, its ancient institutions would begin to collapse.",
+      "start": 2055.33,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2083.8
+    },
+    {
+      "id": "p0407",
+      "text": "Within a generation, the Jedi would be destroyed. And Sheev Palpatine would rule the galaxy. He had no reason to think again about an old recording. Or a worthless ceramic spindle. Or the final words of a dying Sith Lord. Behind him, the household droid watched the transport depart. Then it returned to the penthouse. There were still materials to collect. And one final instruction from its former master remained unfulfilled.",
+      "start": 2083.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2110.6
+    },
+    {
+      "id": "p0408",
+      "text": "End of Chapter Ten.",
+      "start": 2110.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2112.04
+    }
+  ]
+}
