@@ -52,6 +52,14 @@
           "src": "audio/hollow-throne/chapter-10.mp3",
           "duration": 2112.04,
           "transcript": "text/hollow-throne/chapter-10.json"
+        },
+        {
+          "id": "hollow-throne-11",
+          "number": 11,
+          "title": "The Voices Beneath the Cantina",
+          "src": "audio/hollow-throne/chapter-11.mp3",
+          "duration": 1636.323,
+          "transcript": "text/hollow-throne/chapter-11.json"
         }
       ],
       "narratorId": "julian_vale"

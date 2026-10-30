@@ -309,6 +309,32 @@
       "direction": "An original adult woman speaking clear British English in a soft middle register, with light forward resonance, a gentle dry airy edge and delicate precise consonants. Vulnerable, frightened of being left alone, intimate and sincere with a slight hesitant onset and connected natural vowels. Keep the words fully voiced and understandable, quietly emotional rather than a breathy whisper or melodramatic sob. No crying sound effects, electronic processing, room noise, music or reverb. Clean dry close studio dialogue.",
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
       "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
+    },
+    "nerys_bell": {
+      "name": "Nerys Bell",
+      "synthetic": true,
+      "role": "Captain Ressa Vale",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-eleven/voices/captain.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 311500,
+      "reference_sha256": "446cbc372626910417d8b3323244545a506354d6a522df5ee403b3adf322f407",
+      "direction": "An original adult female medical transport captain speaking clear English with a light neutral British accent. A warm middle register, focused forward resonance with a small dry grain, compact precise consonants and natural flowing vowels. Professional, practical and conscientious, politely questioning an unexpected order, with restrained concern under calm control. Subtle uncertainty and urgency without shouting, melodrama, military barking or a breathy whisper. Natural intimate dialogue, comfortable clear listening, clean dry studio sound with no radio filter, music, effects or background noise.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
+    },
+    "adrian_holt_vd": {
+      "name": "Adrian Holt",
+      "synthetic": true,
+      "role": "Darren / reconstructed Imperial officer",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-eleven/voices/darren.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 26030000,
+      "reference_sha256": "1d5fa2bddd41899c34c08cca2793ef4ff2348898fd8234983d8f27a2f3c5e74f",
+      "direction": "An adult male Imperial officer in his late thirties speaking formal British English. Firm low-middle pitch, focused front-of-mouth resonance, slightly narrow dry vowels and a tight, restrained throat texture. Exceptionally crisp t, k and s consonants, compact military stresses and evenly connected clauses with brief exact pauses. A calm administrative order, precise and impersonal with quiet authority, not an announcer or a villain's growl. Slight natural vocal grain; no radio filtering, static, echoes, distortion or robotic effects. Clear human speech at normal conversational volume.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
     }
   }
 }

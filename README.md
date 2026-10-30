@@ -169,3 +169,9 @@ The chapter uses the stable ID `hollow-throne-09`, a single MP3 and synchronized
 Chapter 10 is a 35:12 flashback with Julian Vale's established narration and four fixed VoiceDesign identities: Severin Ash (Palpatine), Vaelen Dusk (Plagueis, including his younger recording), Protocol Unit Vesper (Damask's household droid), and Elara Fenn (the reconstructed woman). The household droid is distinct from C-3PO; no Threepio audition or effects treatment was promoted into production.
 
 The stable chapter ID is `hollow-throne-10`. The single MP3 has 408 synchronized book paragraphs. Pronunciation aliases are applied only to synthesis input; the reader retains the complete original spelling and wording. Chapters 6–9 and the app's playback and progress logic are unchanged.
+
+## Chapter 11: The Voices Beneath the Cantina
+
+Chapter 11 is 27:16 with Julian Vale, the exact selected Han Candidate 07 and Leia Candidate 01 references, and the Chapter 8 Lando and interviewer references. Reconstructed Han and Leia transmissions deliberately share the real characters' voice identities. Darren uses the retained genuine VoiceDesign officer Candidate 1 under the working profile Adrian Holt; the new medical captain uses Nerys Bell. No English speech or effects were invented for Chewbacca.
+
+The stable ID is `hollow-throne-11`, with one MP3 and 296 synchronized book paragraphs. All original names and manuscript words remain in the reader. Voice-specific synthesis aliases and pronunciation/context repairs are recorded separately in local production metadata. Chapters 6–10, playback logic and progress storage keys remain unchanged.

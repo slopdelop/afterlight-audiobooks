@@ -14,7 +14,7 @@
       "reference_text": "Well, the cantina's still standing.\n\nFound your secret station. Found some recordings. Nearly got killed by a security droid.\n\nListen, sweetheart. We found something about Darren.\n\nDon't thank me yet. I haven't sent you the bill.",
       "reference_sha256": "e20f707405110074f9f6ba849af4c846594d0c3f9152e9893a3e85587d3e6b0b",
       "embedding_only": false,
-      "conditioning": "full audio and transcript; validation pending",
+      "conditioning": "full audio and transcript",
       "source_model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
       "source_revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
       "source_seed": 26028600,
@@ -32,7 +32,11 @@
         "max_new_tokens": 8192
       },
       "asr_screen": "Well, the canteen is still standing. Found your secret station. Found some recordings. Nearly got killed by a security droid. Listen, sweetheart, we found something about Darren. Don't thank me yet, I haven't sent you the bill.",
-      "synthetic": true
+      "synthetic": true,
+      "production_uses": [
+        "hollow-throne-11"
+      ],
+      "production_screen": "Original selected WAV and transcript retained. Chapter 11 uses full-reference conditioning with automated content/signal checks; subjective review remains with the listener."
     },
     "leia": {
       "name": "vd2_leia_a_1",
@@ -64,11 +68,12 @@
       "synthetic": true,
       "production_uses": [
         "hollow-throne-08",
-        "hollow-throne-09"
+        "hollow-throne-09",
+        "hollow-throne-11"
       ],
-      "production_screen": "The unchanged selected reference is used in Chapters 8 and 9 with automated content and signal checks; subjective review remains with the listener."
+      "production_screen": "Original selected WAV and transcript retained. Chapter 11 uses full-reference conditioning with automated content/signal checks; subjective review remains with the listener."
     }
   },
-  "next_step": "Han still needs unfamiliar-dialogue validation when he next speaks. Leia Candidate 01 is used in Chapters 8 and 9 with the original selected WAV and transcript.",
+  "next_step": "Selected Han Candidate 07 and Leia Candidate 01 are in Chapter 11, including fabricated transmissions; original references retained. Subjective listening review remains with the user.",
   "existing_chapters_changed": false
 }

@@ -1,0 +1,2376 @@
+{
+  "version": 1,
+  "chapterId": "hollow-throne-11",
+  "duration": 1636.323,
+  "alignment": "Book paragraphs use synthesis boundaries and cached local Whisper word timestamps; unmatched starts are interpolated.",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "STAR WARS: THE HOLLOW THRONE",
+      "start": 0.0,
+      "timing": "segment",
+      "kind": "title",
+      "end": 3.24
+    },
+    {
+      "id": "p0002",
+      "text": "Chapter Eleven: The Voices Beneath the Cantina",
+      "start": 3.24,
+      "timing": "segment",
+      "kind": "title",
+      "end": 7.12
+    },
+    {
+      "id": "p0003",
+      "text": "The Outer Rim. Three months after the Battle of Endor.",
+      "start": 7.12,
+      "timing": "segment",
+      "kind": "title",
+      "end": 11.77
+    },
+    {
+      "id": "p0004",
+      "text": "Han Solo had heard his own voice coming over a communications channel before. Usually, he was the one speaking. This time, he was fairly certain he wasn't.",
+      "start": 11.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 22.44
+    },
+    {
+      "id": "p0005",
+      "text": "\"General Solo, please confirm receipt of this transmission.\"",
+      "start": 22.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 25.75
+    },
+    {
+      "id": "p0006",
+      "text": "Han stared at the Millennium Falcon's communications display. The voice was unmistakable. His voice. His accent. Even the slightly impatient tone he used when dealing with people who insisted upon addressing him by his military rank. Chewbacca looked up from the navigation console.",
+      "start": 25.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 46.07
+    },
+    {
+      "id": "p0007",
+      "text": "\"Yeah,\" Han said. \"I heard it.\"",
+      "start": 46.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 48.87
+    },
+    {
+      "id": "p0008",
+      "text": "The voice continued.",
+      "start": 48.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 50.55
+    },
+    {
+      "id": "p0009",
+      "text": "\"By authority of the Alliance provisional command, you are instructed to surrender all recovered Imperial intelligence records to the nearest authorized security vessel.\"",
+      "start": 50.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 59.55
+    },
+    {
+      "id": "p0010",
+      "text": "Han leaned back in his chair.",
+      "start": 59.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 62.08
+    },
+    {
+      "id": "p0011",
+      "text": "\"Well, that's interesting.\"",
+      "start": 62.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 63.49
+    },
+    {
+      "id": "p0012",
+      "text": "Chewbacca growled.",
+      "start": 63.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 65.41
+    },
+    {
+      "id": "p0013",
+      "text": "\"No, I didn't send it.\"",
+      "start": 65.41,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 67.0
+    },
+    {
+      "id": "p0014",
+      "text": "A second transmission arrived.",
+      "start": 67.0,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 69.48
+    },
+    {
+      "id": "p0015",
+      "text": "\"Failure to comply will be considered a violation of emergency security protocols.\"",
+      "start": 69.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 74.18
+    },
+    {
+      "id": "p0016",
+      "text": "Han reached for the transmitter.",
+      "start": 74.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 76.8
+    },
+    {
+      "id": "p0017",
+      "text": "\"Hey, buddy. Whoever you are, you've got a pretty good impression of me.\"",
+      "start": 76.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 80.52
+    },
+    {
+      "id": "p0018",
+      "text": "There was a pause. Then his own voice answered.",
+      "start": 80.52,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 83.79
+    },
+    {
+      "id": "p0019",
+      "text": "\"Your cooperation is appreciated, General Solo.\"",
+      "start": 83.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 86.83
+    },
+    {
+      "id": "p0020",
+      "text": "\"Yeah? Well, here's a little advice. Work on the personality. I'm much more charming than that.\"",
+      "start": 86.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 93.23
+    },
+    {
+      "id": "p0021",
+      "text": "Chewbacca barked with laughter. The transmission ended. Han studied the empty display.",
+      "start": 93.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 100.63
+    },
+    {
+      "id": "p0022",
+      "text": "\"That's creepy.\"",
+      "start": 100.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 102.0
+    },
+    {
+      "id": "p0023",
+      "text": "Chewbacca grunted.",
+      "start": 102.0,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 103.63
+    },
+    {
+      "id": "p0024",
+      "text": "\"Yeah. Very creepy.\"",
+      "start": 103.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 105.47
+    },
+    {
+      "id": "p0025",
+      "text": "They had been traveling for several hours since departing Tatooine. The Falcon was approaching a major hyperspace relay junction, where civilian vessels exchanged navigation updates and long-range communications before continuing toward the Core Worlds. Han had dropped out of hyperspace to transmit the Imperial records recovered beneath the Mos Eisley cantina. He had not expected the records to start talking back.",
+      "start": 105.47,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 129.58
+    },
+    {
+      "id": "p0026",
+      "text": "\"Think somebody followed us?\" he asked.",
+      "start": 129.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 132.31
+    },
+    {
+      "id": "p0027",
+      "text": "Chewbacca examined the sensor display. No ships nearby. No unusual engine signatures. Nothing. Han frowned.",
+      "start": 132.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 142.01
+    },
+    {
+      "id": "p0028",
+      "text": "\"Then how'd they know where we were?\"",
+      "start": 142.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 144.16
+    },
+    {
+      "id": "p0029",
+      "text": "The Wookiee pointed toward the communications array. Han considered the possibility.",
+      "start": 144.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 150.51
+    },
+    {
+      "id": "p0030",
+      "text": "\"Tracking the data transmission?\"",
+      "start": 150.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 152.5
+    },
+    {
+      "id": "p0031",
+      "text": "Chewbacca nodded.",
+      "start": 152.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 153.84
+    },
+    {
+      "id": "p0032",
+      "text": "\"Great. So now we've got somebody listening to our conversations and pretending to be me.\"",
+      "start": 153.84,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 159.24
+    },
+    {
+      "id": "p0033",
+      "text": "He glanced at his friend.",
+      "start": 159.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 160.93
+    },
+    {
+      "id": "p0034",
+      "text": "\"You realize how much trouble that could cause?\"",
+      "start": 160.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 163.37
+    },
+    {
+      "id": "p0035",
+      "text": "Chewbacca gave him a long, meaningful look.",
+      "start": 163.37,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 166.57
+    },
+    {
+      "id": "p0036",
+      "text": "\"All right. More trouble.\"",
+      "start": 166.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 168.47
+    },
+    {
+      "id": "p0037",
+      "text": "The recovered records occupied most of the Falcon's secondary computer. The original files were a confusing mixture of surveillance recordings, Imperial shipping records, and technical reports concerning a project called the Hollow Throne. Han understood the surveillance. He understood the shipping records. The technical reports were another matter.",
+      "start": 168.47,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 190.22
+    },
+    {
+      "id": "p0038",
+      "text": "\"Neural pattern persistence,\" he read aloud. \"Auditory identity reinforcement. Behavioral response stabilization.\"",
+      "start": 190.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 198.19
+    },
+    {
+      "id": "p0039",
+      "text": "He looked at Chewbacca.",
+      "start": 198.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 199.92
+    },
+    {
+      "id": "p0040",
+      "text": "\"Any of that mean anything to you?\"",
+      "start": 199.92,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 202.16
+    },
+    {
+      "id": "p0041",
+      "text": "The Wookiee shook his head.",
+      "start": 202.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 203.84
+    },
+    {
+      "id": "p0042",
+      "text": "\"Good. Thought it was just me.\"",
+      "start": 203.84,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 206.31
+    },
+    {
+      "id": "p0043",
+      "text": "Han opened another file. A holographic recording appeared above the console. The familiar interior of the Mos Eisley cantina. This time, the recording showed a group of Imperial officers seated near the back of the room. They were discussing a routine cargo inspection. Nothing particularly interesting. Han was about to close the file when Chewbacca growled.",
+      "start": 206.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 227.54
+    },
+    {
+      "id": "p0044",
+      "text": "\"What?\"",
+      "start": 227.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 228.48
+    },
+    {
+      "id": "p0045",
+      "text": "The Wookiee pointed at the timestamp. Han looked closer. The recording had been made twelve years earlier. But the audio track had been modified only six days ago.",
+      "start": 228.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 239.5
+    },
+    {
+      "id": "p0046",
+      "text": "\"Well, that's odd.\"",
+      "start": 239.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 240.66
+    },
+    {
+      "id": "p0047",
+      "text": "He opened the modification history. A series of entries appeared. VOICE EXTRACTION COMPLETE. IDENTITY PROFILE GENERATED. RECONSTRUCTION APPROVED. Han frowned.",
+      "start": 240.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 253.43
+    },
+    {
+      "id": "p0048",
+      "text": "\"Voice extraction?\"",
+      "start": 253.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 254.98
+    },
+    {
+      "id": "p0049",
+      "text": "Chewbacca leaned forward. A second recording began. The same Imperial officer appeared, sitting in the same position. But now he was saying something entirely different.",
+      "start": 254.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 266.21
+    },
+    {
+      "id": "p0050",
+      "text": "\"All Aurel Seven subjects are to be transferred under direct authority of the Custodian. No other instructions are to be accepted.\"",
+      "start": 266.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 273.88
+    },
+    {
+      "id": "p0051",
+      "text": "Han stared. The man's lips moved naturally. His expression matched the words. Even the other officers appeared to react. But the conversation had never happened. It had been manufactured. Han played the original recording again. Then the modified version.",
+      "start": 273.88,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 291.96
+    },
+    {
+      "id": "p0052",
+      "text": "\"That's more than a voice imitation.\"",
+      "start": 291.96,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 294.1
+    },
+    {
+      "id": "p0053",
+      "text": "Chewbacca rumbled uneasily.",
+      "start": 294.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 296.46
+    },
+    {
+      "id": "p0054",
+      "text": "\"Yeah. Somebody can make the whole conversation look real.\"",
+      "start": 296.46,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 299.76
+    },
+    {
+      "id": "p0055",
+      "text": "He considered the possibilities. A governor could be made to confess to treason. An admiral could appear to order an attack. A senator could deliver a speech she had never written. For years, the Empire had controlled the news. Now someone had developed a way to manufacture the events themselves. Han looked toward the darkened viewport.",
+      "start": 299.76,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 320.58
+    },
+    {
+      "id": "p0056",
+      "text": "\"Leia's going to hate this.\"",
+      "start": 320.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 322.17
+    },
+    {
+      "id": "p0057",
+      "text": "A communications alert interrupted his thoughts. This time, the incoming signal came from a civilian transport.",
+      "start": 322.17,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 330.55
+    },
+    {
+      "id": "p0058",
+      "text": "\"Unidentified freighter, this is medical supply vessel Starling. Requesting confirmation of your identity.\"",
+      "start": 330.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 337.58
+    },
+    {
+      "id": "p0059",
+      "text": "Han activated the transmitter.",
+      "start": 337.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 340.02
+    },
+    {
+      "id": "p0060",
+      "text": "\"Millennium Falcon. General Han Solo speaking.\"",
+      "start": 340.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 343.74
+    },
+    {
+      "id": "p0061",
+      "text": "A long pause followed. Then a woman's voice answered.",
+      "start": 343.74,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 348.5
+    },
+    {
+      "id": "p0062",
+      "text": "\"General Solo?\"",
+      "start": 348.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 349.74
+    },
+    {
+      "id": "p0063",
+      "text": "\"That's right.\"",
+      "start": 349.74,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 350.67
+    },
+    {
+      "id": "p0064",
+      "text": "\"Sir, we received orders from you approximately fifteen minutes ago.\"",
+      "start": 350.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 354.87
+    },
+    {
+      "id": "p0065",
+      "text": "Han closed his eyes.",
+      "start": 354.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 356.71
+    },
+    {
+      "id": "p0066",
+      "text": "\"Oh, terrific.\"",
+      "start": 356.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 358.2
+    },
+    {
+      "id": "p0067",
+      "text": "Chewbacca growled. Han waved him silent.",
+      "start": 358.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 361.96
+    },
+    {
+      "id": "p0068",
+      "text": "\"What kind of orders?\"",
+      "start": 361.96,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 363.36
+    },
+    {
+      "id": "p0069",
+      "text": "\"Instructions to divert from our assigned route and rendezvous with an Imperial security vessel.\"",
+      "start": 363.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 368.37
+    },
+    {
+      "id": "p0070",
+      "text": "\"Where?\"",
+      "start": 368.37,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 369.3
+    },
+    {
+      "id": "p0071",
+      "text": "The woman transmitted a set of coordinates. Han examined them. They pointed toward a region of empty space beyond the relay junction. No registered station. No authorized traffic corridor. Nothing.",
+      "start": 369.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 382.94
+    },
+    {
+      "id": "p0072",
+      "text": "\"Captain, listen carefully. Those orders didn't come from me.\"",
+      "start": 382.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 386.75
+    },
+    {
+      "id": "p0073",
+      "text": "\"Sir?\"",
+      "start": 386.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 387.47
+    },
+    {
+      "id": "p0074",
+      "text": "\"Somebody's using a recording of my voice. I need you to disregard whatever they told you.\"",
+      "start": 387.47,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 392.38
+    },
+    {
+      "id": "p0075",
+      "text": "Another pause.",
+      "start": 392.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 393.9
+    },
+    {
+      "id": "p0076",
+      "text": "\"General, the orders included our cargo authorization number and current medical priority designation.\"",
+      "start": 393.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 400.1
+    },
+    {
+      "id": "p0077",
+      "text": "Han glanced toward Chewbacca. The Wookiee's expression darkened. Someone had access to current shipping records. Not merely old recordings.",
+      "start": 400.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 410.6
+    },
+    {
+      "id": "p0078",
+      "text": "\"Captain, what's your name?\"",
+      "start": 410.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 412.17
+    },
+    {
+      "id": "p0079",
+      "text": "\"Captain Ressa Vale.\"",
+      "start": 412.17,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 413.66
+    },
+    {
+      "id": "p0080",
+      "text": "\"All right, Ressa. What exactly are you carrying?\"",
+      "start": 413.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 416.52
+    },
+    {
+      "id": "p0081",
+      "text": "\"Medical supplies, emergency rations, and replacement equipment for civilian hospitals in the Core. We're operating under an Alliance relief charter.\"",
+      "start": 416.52,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 424.68
+    },
+    {
+      "id": "p0082",
+      "text": "\"Any passengers?\"",
+      "start": 424.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 426.16
+    },
+    {
+      "id": "p0083",
+      "text": "\"Fourteen. Mostly medical personnel.\"",
+      "start": 426.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 428.76
+    },
+    {
+      "id": "p0084",
+      "text": "Han looked at the coordinates again. Whoever had sent the false orders wanted that ship somewhere isolated. He doubted they intended to welcome the crew with refreshments.",
+      "start": 428.76,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 440.12
+    },
+    {
+      "id": "p0085",
+      "text": "\"Captain, reverse course and return to the relay junction. We're coming to meet you.\"",
+      "start": 440.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 444.79
+    },
+    {
+      "id": "p0086",
+      "text": "\"Understood.\"",
+      "start": 444.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 445.75
+    },
+    {
+      "id": "p0087",
+      "text": "The connection ended. Han turned toward Chewbacca.",
+      "start": 445.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 450.03
+    },
+    {
+      "id": "p0088",
+      "text": "\"Well, buddy, looks like we're making a detour.\"",
+      "start": 450.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 452.86
+    },
+    {
+      "id": "p0089",
+      "text": "The Wookiee growled.",
+      "start": 452.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 454.38
+    },
+    {
+      "id": "p0090",
+      "text": "\"Yeah. I know.\"",
+      "start": 454.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 455.83
+    },
+    {
+      "id": "p0091",
+      "text": "Han started the engines.",
+      "start": 455.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 458.19
+    },
+    {
+      "id": "p0092",
+      "text": "\"And we were having such a nice day.\"",
+      "start": 458.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 460.28
+    },
+    {
+      "id": "p0093",
+      "text": "The Starling appeared on the Falcon's sensors twenty minutes later. It was a medium-sized transport, painted white and blue, with the markings of a civilian relief organization along its hull. Its engines were operating normally. But it was no longer alone. Two small vessels had emerged from hyperspace near its position. They carried no identification. Their hulls were painted a dull gray, and each possessed a heavy docking mechanism beneath its forward section.",
+      "start": 460.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 488.04
+    },
+    {
+      "id": "p0094",
+      "text": "Han recognized the design. Imperial customs interceptors. Old ones. The kind frequently used to board freighters suspected of smuggling.",
+      "start": 488.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 499.21
+    },
+    {
+      "id": "p0095",
+      "text": "\"Chewie, bring up their transponders.\"",
+      "start": 499.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 501.81
+    },
+    {
+      "id": "p0096",
+      "text": "The Wookiee worked the controls. Both vessels transmitted legitimate Imperial security codes. Han frowned.",
+      "start": 501.81,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 510.55
+    },
+    {
+      "id": "p0097",
+      "text": "\"Those codes should've been retired months ago.\"",
+      "start": 510.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 513.14
+    },
+    {
+      "id": "p0098",
+      "text": "A voice sounded over the communications channel.",
+      "start": 513.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 516.5
+    },
+    {
+      "id": "p0099",
+      "text": "\"Medical transport Starling, this is Imperial security vessel Aurek Seven. Reduce speed and prepare for inspection.\"",
+      "start": 516.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 523.91
+    },
+    {
+      "id": "p0100",
+      "text": "Han leaned forward. The voice was familiar. Very familiar. Not his own this time. A calm, precise male voice. He had heard it in the recordings beneath the cantina. The voice that had ordered the transfer of the Alderaanian prisoners. Chewbacca growled.",
+      "start": 523.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 544.09
+    },
+    {
+      "id": "p0101",
+      "text": "\"Yeah. Same voice.\"",
+      "start": 544.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 545.73
+    },
+    {
+      "id": "p0102",
+      "text": "Han activated the transmitter.",
+      "start": 545.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 548.19
+    },
+    {
+      "id": "p0103",
+      "text": "\"Imperial security vessel Aurek Seven, this is General Han Solo. You're interfering with a relief shipment operating under Alliance authority.\"",
+      "start": 548.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 557.84
+    },
+    {
+      "id": "p0104",
+      "text": "A pause. Then the voice answered.",
+      "start": 557.84,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 561.16
+    },
+    {
+      "id": "p0105",
+      "text": "\"General Solo. Your presence is unexpected.\"",
+      "start": 561.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 564.6
+    },
+    {
+      "id": "p0106",
+      "text": "Han smiled.",
+      "start": 564.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 566.04
+    },
+    {
+      "id": "p0107",
+      "text": "\"Yeah, I get that a lot.\"",
+      "start": 566.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 567.87
+    },
+    {
+      "id": "p0108",
+      "text": "\"Please withdraw. This vessel is conducting an authorized inspection.\"",
+      "start": 567.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 572.46
+    },
+    {
+      "id": "p0109",
+      "text": "\"Authorized by whom?\"",
+      "start": 572.46,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 574.04
+    },
+    {
+      "id": "p0110",
+      "text": "\"The Imperial Security Directorate.\"",
+      "start": 574.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 576.28
+    },
+    {
+      "id": "p0111",
+      "text": "\"Well, I've got some bad news for you. That directorate doesn't exist anymore.\"",
+      "start": 576.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 581.07
+    },
+    {
+      "id": "p0112",
+      "text": "\"Your objection has been recorded.\"",
+      "start": 581.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 583.23
+    },
+    {
+      "id": "p0113",
+      "text": "Han glanced toward Chewbacca.",
+      "start": 583.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 585.79
+    },
+    {
+      "id": "p0114",
+      "text": "\"That's nice. Tell you what, why don't you transmit your orders so we can have a look?\"",
+      "start": 585.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 590.7
+    },
+    {
+      "id": "p0115",
+      "text": "There was a brief silence. Then a data packet arrived. Han opened it. A formal Imperial authorization. Official seals. Current shipping references. And a signature. SIM ALOO. Han stared.",
+      "start": 590.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 608.44
+    },
+    {
+      "id": "p0116",
+      "text": "\"Well, there he is again.\"",
+      "start": 608.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 609.98
+    },
+    {
+      "id": "p0117",
+      "text": "Chewbacca leaned closer. The authorization carried a date from six days earlier. Three months after Sim Aloo was presumed to have died aboard the second Death Star. Han shook his head.",
+      "start": 609.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 622.73
+    },
+    {
+      "id": "p0118",
+      "text": "\"Either this guy's got a remarkable survival story, or somebody really likes using his name.\"",
+      "start": 622.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 627.43
+    },
+    {
+      "id": "p0119",
+      "text": "The first interceptor began closing on the Starling. Han's expression hardened.",
+      "start": 627.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 633.84
+    },
+    {
+      "id": "p0120",
+      "text": "\"Chewie. Shields up.\"",
+      "start": 633.84,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 635.4
+    },
+    {
+      "id": "p0121",
+      "text": "The Starling's captain came back over the comm.",
+      "start": 635.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 638.28
+    },
+    {
+      "id": "p0122",
+      "text": "\"General Solo, they're requesting permission to board.\"",
+      "start": 638.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 641.55
+    },
+    {
+      "id": "p0123",
+      "text": "\"Don't give it to them.\"",
+      "start": 641.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 642.92
+    },
+    {
+      "id": "p0124",
+      "text": "\"They say they'll open fire if we refuse.\"",
+      "start": 642.92,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 645.53
+    },
+    {
+      "id": "p0125",
+      "text": "\"Yeah, well, they're welcome to try.\"",
+      "start": 645.53,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 647.93
+    },
+    {
+      "id": "p0126",
+      "text": "Chewbacca gave him a sharp look. Han sighed.",
+      "start": 647.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 651.8
+    },
+    {
+      "id": "p0127",
+      "text": "\"All right. Bad choice of words.\"",
+      "start": 651.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 654.12
+    },
+    {
+      "id": "p0128",
+      "text": "He increased the Falcon's speed. The two interceptors were moving into position on either side of the medical transport. Their docking clamps extended. Han recognized the maneuver. One ship would attach to the transport while the other covered the operation. A perfectly ordinary Imperial boarding procedure. Except there was no legitimate reason for an inspection. And the voice issuing the orders might not belong to anyone aboard either ship.",
+      "start": 654.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 679.72
+    },
+    {
+      "id": "p0129",
+      "text": "\"Starling, prepare to accelerate on my mark.\"",
+      "start": 679.72,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 682.53
+    },
+    {
+      "id": "p0130",
+      "text": "The captain sounded frightened.",
+      "start": 682.53,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 684.91
+    },
+    {
+      "id": "p0131",
+      "text": "\"Our engines are operating at reduced capacity. We can't outrun them.\"",
+      "start": 684.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 689.13
+    },
+    {
+      "id": "p0132",
+      "text": "\"You don't have to.\"",
+      "start": 689.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 690.42
+    },
+    {
+      "id": "p0133",
+      "text": "Han guided the Falcon beneath the first interceptor. Its pilot reacted too slowly. The Falcon swept upward, passing between the interceptor and the transport.",
+      "start": 690.42,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 701.94
+    },
+    {
+      "id": "p0134",
+      "text": "\"Chewie, now!\"",
+      "start": 701.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 703.54
+    },
+    {
+      "id": "p0135",
+      "text": "The Wookiee activated the forward shields. A bright blue field flared around the Falcon. The interceptor's docking mechanism struck it. Sparks erupted. The smaller ship spun away, its clamps twisted and useless. Han grinned.",
+      "start": 703.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 720.86
+    },
+    {
+      "id": "p0136",
+      "text": "\"That's one.\"",
+      "start": 720.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 721.73
+    },
+    {
+      "id": "p0137",
+      "text": "The second interceptor opened fire. Red bolts flashed past the cockpit. Chewbacca roared.",
+      "start": 721.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 729.38
+    },
+    {
+      "id": "p0138",
+      "text": "\"I see it!\"",
+      "start": 729.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 730.53
+    },
+    {
+      "id": "p0139",
+      "text": "Han rolled the Falcon sideways. The next burst passed beneath the ship.",
+      "start": 730.53,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 736.14
+    },
+    {
+      "id": "p0140",
+      "text": "\"Starling, get moving!\"",
+      "start": 736.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 737.99
+    },
+    {
+      "id": "p0141",
+      "text": "The medical transport's engines brightened. It began accelerating toward the relay junction. The damaged interceptor attempted to pursue. Han brought the Falcon around.",
+      "start": 737.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 749.48
+    },
+    {
+      "id": "p0142",
+      "text": "\"Not so fast.\"",
+      "start": 749.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 750.89
+    },
+    {
+      "id": "p0143",
+      "text": "He fired a short burst from the forward cannons. The shots struck the interceptor's engines. Its shields collapsed. The ship tumbled, venting plasma.",
+      "start": 750.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 761.62
+    },
+    {
+      "id": "p0144",
+      "text": "\"One disabled,\" Han said. \"Let's make it two.\"",
+      "start": 761.62,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 765.48
+    },
+    {
+      "id": "p0145",
+      "text": "Chewbacca gave a warning growl. The second interceptor was moving away. Not toward the transport. Away from the entire engagement. Han frowned.",
+      "start": 765.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 777.39
+    },
+    {
+      "id": "p0146",
+      "text": "\"Where's he going?\"",
+      "start": 777.39,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 778.51
+    },
+    {
+      "id": "p0147",
+      "text": "The Wookiee checked the sensors. A new signal appeared. A small object had been released from the fleeing interceptor. It was accelerating toward a nearby asteroid field. Han studied the reading.",
+      "start": 778.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 793.48
+    },
+    {
+      "id": "p0148",
+      "text": "\"Escape pod?\"",
+      "start": 793.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 794.91
+    },
+    {
+      "id": "p0149",
+      "text": "Chewbacca shook his head.",
+      "start": 794.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 796.75
+    },
+    {
+      "id": "p0150",
+      "text": "\"Probe?\"",
+      "start": 796.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 797.64
+    },
+    {
+      "id": "p0151",
+      "text": "Another growl. Then the object transmitted a brief encrypted signal. The Falcon's communications system identified part of the packet. WITNESS NETWORK — EMERGENCY PURGE. Han's expression changed.",
+      "start": 797.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 812.69
+    },
+    {
+      "id": "p0152",
+      "text": "\"Oh, no you don't.\"",
+      "start": 812.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 814.04
+    },
+    {
+      "id": "p0153",
+      "text": "The object was a communications buoy. Small. Fast. Designed to carry encrypted messages across isolated regions of space. Han had encountered similar devices while smuggling. They were difficult to intercept once they reached an established relay.",
+      "start": 814.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 830.62
+    },
+    {
+      "id": "p0154",
+      "text": "\"Chewie, calculate its trajectory.\"",
+      "start": 830.62,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 833.18
+    },
+    {
+      "id": "p0155",
+      "text": "The Wookiee worked rapidly. The buoy was heading toward a narrow corridor between two drifting asteroids, where a long-range transmitter had been installed. Han understood immediately. The interceptor was attempting to send a message. Probably warning someone that the Falcon had recovered the cantina records. Or ordering another secret installation to destroy its files. Either possibility was unacceptable.",
+      "start": 833.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 856.93
+    },
+    {
+      "id": "p0156",
+      "text": "\"All right, buddy. Hold on.\"",
+      "start": 856.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 858.53
+    },
+    {
+      "id": "p0157",
+      "text": "Han accelerated. The Falcon surged forward. The buoy disappeared between the asteroids. Han followed. The first rock passed close enough to fill the cockpit windows. Chewbacca roared.",
+      "start": 858.53,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 871.54
+    },
+    {
+      "id": "p0158",
+      "text": "\"Relax! I've done this before!\"",
+      "start": 871.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 873.44
+    },
+    {
+      "id": "p0159",
+      "text": "The Wookiee shouted something considerably less reassuring.",
+      "start": 873.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 877.11
+    },
+    {
+      "id": "p0160",
+      "text": "\"Yeah, and I survived that too!\"",
+      "start": 877.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 879.52
+    },
+    {
+      "id": "p0161",
+      "text": "A second asteroid drifted across their path. Han rolled beneath it. The buoy appeared ahead, its tiny engines glowing blue. Almost at the relay. Han reached for the targeting controls. Chewbacca caught his arm. The Wookiee pointed toward the display. The buoy's transmission system had already begun activating. Destroying it might not prevent the message from reaching its destination. Han hesitated. Then he smiled.",
+      "start": 879.52,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 906.41
+    },
+    {
+      "id": "p0162",
+      "text": "\"Good thinking.\"",
+      "start": 906.41,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 907.49
+    },
+    {
+      "id": "p0163",
+      "text": "He switched off the weapons.",
+      "start": 907.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 909.57
+    },
+    {
+      "id": "p0164",
+      "text": "\"Let's steal it.\"",
+      "start": 909.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 910.72
+    },
+    {
+      "id": "p0165",
+      "text": "The Falcon closed the distance. Chewbacca activated a magnetic retrieval field ordinarily used for collecting small cargo containers. The buoy tumbled as the field caught it. For a moment, it struggled against the Falcon's momentum. Then it was pulled into the retrieval bay. A warning light flashed. UNAUTHORIZED CAPTURE. SELF-DESTRUCTION INITIATED. Han stared at the display.",
+      "start": 910.72,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 937.7
+    },
+    {
+      "id": "p0166",
+      "text": "\"Of course.\"",
+      "start": 937.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 938.81
+    },
+    {
+      "id": "p0167",
+      "text": "Chewbacca growled.",
+      "start": 938.81,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 940.51
+    },
+    {
+      "id": "p0168",
+      "text": "\"Don't tell me. Thirty seconds?\"",
+      "start": 940.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 942.73
+    },
+    {
+      "id": "p0169",
+      "text": "The Wookiee checked. Twenty-eight. Han was already leaving his seat.",
+      "start": 942.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 947.64
+    },
+    {
+      "id": "p0170",
+      "text": "\"Keep us steady!\"",
+      "start": 947.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 948.85
+    },
+    {
+      "id": "p0171",
+      "text": "The retrieval bay was barely large enough to accommodate the buoy. The device sat inside the magnetic field, its outer casing vibrating as it attempted to activate its emergency charges. Han approached cautiously. A red light blinked on its surface. Twenty seconds. He knelt beside it. A small access panel covered the transmitter's control system. He pried it open. Inside was a collection of delicate circuits. And one very obvious explosive charge. Han sighed.",
+      "start": 948.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 981.48
+    },
+    {
+      "id": "p0172",
+      "text": "\"Why can't anybody ever build a normal communications device?\"",
+      "start": 981.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 985.06
+    },
+    {
+      "id": "p0173",
+      "text": "He pulled a small tool from his belt. Fifteen seconds. A voice sounded over the ship's internal speaker. His own voice.",
+      "start": 985.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 994.66
+    },
+    {
+      "id": "p0174",
+      "text": "\"General Solo, please step away from the device.\"",
+      "start": 994.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 997.64
+    },
+    {
+      "id": "p0175",
+      "text": "Han stopped. The words had come from the buoy. He stared at it.",
+      "start": 997.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1003.55
+    },
+    {
+      "id": "p0176",
+      "text": "\"Well, that's unsettling.\"",
+      "start": 1003.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1005.04
+    },
+    {
+      "id": "p0177",
+      "text": "The voice continued.",
+      "start": 1005.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1006.54
+    },
+    {
+      "id": "p0178",
+      "text": "\"Your cooperation will ensure your safety.\"",
+      "start": 1006.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1009.13
+    },
+    {
+      "id": "p0179",
+      "text": "\"Funny. You don't sound very concerned.\"",
+      "start": 1009.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1011.39
+    },
+    {
+      "id": "p0180",
+      "text": "Ten seconds. Han reached inside the casing. The voice changed.",
+      "start": 1011.39,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1016.51
+    },
+    {
+      "id": "p0181",
+      "text": "\"Han.\"",
+      "start": 1016.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1017.4
+    },
+    {
+      "id": "p0182",
+      "text": "He froze. Leia. Her voice. Soft. Urgent.",
+      "start": 1017.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1023.375
+    },
+    {
+      "id": "p0183",
+      "text": "\"Han, please. Listen to me.\"",
+      "start": 1023.375,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1025.605
+    },
+    {
+      "id": "p0184",
+      "text": "For an instant, his hand stopped moving. Then he looked toward the speaker.",
+      "start": 1025.605,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1031.365
+    },
+    {
+      "id": "p0185",
+      "text": "\"Nice try.\"",
+      "start": 1031.365,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1032.635
+    },
+    {
+      "id": "p0186",
+      "text": "The device continued.",
+      "start": 1032.635,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1034.305
+    },
+    {
+      "id": "p0187",
+      "text": "\"Please don't do this.\"",
+      "start": 1034.305,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1035.615
+    },
+    {
+      "id": "p0188",
+      "text": "Han pulled the primary power coupling. The lights went out. The countdown stopped. For a moment, he remained crouched beside the buoy. Then he exhaled.",
+      "start": 1035.615,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1047.665
+    },
+    {
+      "id": "p0189",
+      "text": "\"Yeah,\" he muttered. \"That one's going to bother me for a while.\"",
+      "start": 1047.665,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1051.325
+    },
+    {
+      "id": "p0190",
+      "text": "The Starling reached the relay junction safely. Its captain thanked Han repeatedly, offering medical supplies, fuel, and anything else the transport could spare. Han declined. He did, however, ask for a copy of every message the ship had received during the attempted interception. The captain transmitted the records. Han examined them while Chewbacca checked the captured buoy. The false orders were elaborate.",
+      "start": 1051.325,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1076.975
+    },
+    {
+      "id": "p0191",
+      "text": "They included legitimate Alliance shipping references, authentic Imperial security credentials, and recordings of several officers whose identities matched the authorizations. One of those officers had died two years earlier. Another had retired before the Battle of Endor. And a third had never served in the region where the orders supposedly originated. Han studied the records.",
+      "start": 1076.975,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1098.975
+    },
+    {
+      "id": "p0192",
+      "text": "\"These guys aren't just copying voices.\"",
+      "start": 1098.975,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1101.545
+    },
+    {
+      "id": "p0193",
+      "text": "Chewbacca looked at him.",
+      "start": 1101.545,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1103.225
+    },
+    {
+      "id": "p0194",
+      "text": "\"They're using dead officers. Retired officers. People nobody's going to question because the paperwork looks right.\"",
+      "start": 1103.225,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1109.635
+    },
+    {
+      "id": "p0195",
+      "text": "He opened another file. A list of authorized voice profiles appeared. Several were marked as inactive. Others carried the same designation he had seen beneath the cantina. WITNESS CONDITIONING. IDENTITY RECONSTRUCTION. COMMAND AUTHORIZATION. Han frowned. The system had two distinct purposes. One was to manufacture convincing communications. The other was to condition specific individuals to obey certain commands. The first could fool almost anyone who trusted a familiar voice.",
+      "start": 1109.635,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1143.545
+    },
+    {
+      "id": "p0196",
+      "text": "The second was far more dangerous, but required the person to have been subjected to the experiments. That distinction mattered. Han had heard Leia's voice aboard the buoy, and for one brief moment it had caught him off guard. But he had still been free to recognize the deception. Darren, apparently, had not been so fortunate. Han looked toward Chewbacca.",
+      "start": 1143.545,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1164.435
+    },
+    {
+      "id": "p0197",
+      "text": "\"I think I understand what happened to him.\"",
+      "start": 1164.435,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1167.115
+    },
+    {
+      "id": "p0198",
+      "text": "The Wookiee gave a questioning growl.",
+      "start": 1167.115,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1169.655
+    },
+    {
+      "id": "p0199",
+      "text": "\"Someone didn't have to stand beside Darren and tell him what to do. They could send him a command from anywhere.\"",
+      "start": 1169.655,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1175.445
+    },
+    {
+      "id": "p0200",
+      "text": "Chewbacca considered this.",
+      "start": 1175.445,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1177.495
+    },
+    {
+      "id": "p0201",
+      "text": "\"And if he'd been trained to obey that voice...\"",
+      "start": 1177.495,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1179.895
+    },
+    {
+      "id": "p0202",
+      "text": "Han let the thought hang. The captured buoy contained one final surprise. Chewbacca had removed its encryption module and connected it to the Falcon's computer. Most of the stored messages were too heavily protected to read. But one remained partially accessible. It was a routing instruction. AUREL SEVEN — TRANSFER AUTHORIZATION. Han leaned forward.",
+      "start": 1179.895,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1203.875
+    },
+    {
+      "id": "p0203",
+      "text": "\"That's our prisoners.\"",
+      "start": 1203.875,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1205.225
+    },
+    {
+      "id": "p0204",
+      "text": "Chewbacca nodded. The record included a sequence of transport references. Most were old. Several had been retired. But one was current. A supply vessel had departed a concealed Imperial depot only two days earlier. Its destination was encrypted. Its cargo classification was not. FORTY-THREE PERSONNEL. Han stared. The same number. Forty-three. The people Leia believed might still be alive. He opened the attached manifest. The names were missing.",
+      "start": 1205.225,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1236.235
+    },
+    {
+      "id": "p0205",
+      "text": "The transport identification had been replaced with a routing code. But one field remained intact. RECEIVING AUTHORITY: CUSTODIAN VEYR. Han sat back.",
+      "start": 1236.235,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1247.945
+    },
+    {
+      "id": "p0206",
+      "text": "\"Well, there you are.\"",
+      "start": 1247.945,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1249.285
+    },
+    {
+      "id": "p0207",
+      "text": "Chewbacca growled.",
+      "start": 1249.285,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1250.805
+    },
+    {
+      "id": "p0208",
+      "text": "\"Yeah. That's the fellow we keep hearing about.\"",
+      "start": 1250.805,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1253.205
+    },
+    {
+      "id": "p0209",
+      "text": "Han studied the incomplete record. It did not tell them where the prisoners were being held. But it established something important. They were still being moved. Still being supplied. Still being controlled. And whoever Veyr was, he had not abandoned them after the Emperor's death. Han copied the manifest. Then he noticed a smaller notation attached to the routing code. SUPPORTING RECORDS: BESPIN RESEARCH ARCHIVE. He frowned.",
+      "start": 1253.205,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1285.945
+    },
+    {
+      "id": "p0210",
+      "text": "\"Bespin?\"",
+      "start": 1285.945,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1286.925
+    },
+    {
+      "id": "p0211",
+      "text": "Chewbacca looked at him.",
+      "start": 1286.925,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1288.605
+    },
+    {
+      "id": "p0212",
+      "text": "\"Cloud City.\"",
+      "start": 1288.605,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1289.715
+    },
+    {
+      "id": "p0213",
+      "text": "A slow smile crossed Han's face.",
+      "start": 1289.715,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1292.915
+    },
+    {
+      "id": "p0214",
+      "text": "\"Well, would you look at that.\"",
+      "start": 1292.915,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1294.525
+    },
+    {
+      "id": "p0215",
+      "text": "Leia was already there. He contacted her immediately. The hologram appeared above the communications console. She looked tired. But when she saw him, her expression brightened.",
+      "start": 1294.525,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1306.965
+    },
+    {
+      "id": "p0216",
+      "text": "\"Han.\"",
+      "start": 1306.965,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1307.445
+    },
+    {
+      "id": "p0217",
+      "text": "\"Hey, sweetheart.\"",
+      "start": 1307.445,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1308.705
+    },
+    {
+      "id": "p0218",
+      "text": "\"Did you find anything?\"",
+      "start": 1308.705,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1310.005
+    },
+    {
+      "id": "p0219",
+      "text": "\"Couple of things. Somebody tried to have us boarded by fake Imperial security ships. We rescued a medical transport, captured a communications buoy, and got shot at.\"",
+      "start": 1310.005,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1320.215
+    },
+    {
+      "id": "p0220",
+      "text": "Leia stared.",
+      "start": 1320.215,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1321.695
+    },
+    {
+      "id": "p0221",
+      "text": "\"You're joking.\"",
+      "start": 1321.695,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1322.815
+    },
+    {
+      "id": "p0222",
+      "text": "\"About which part?\"",
+      "start": 1322.815,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1323.985
+    },
+    {
+      "id": "p0223",
+      "text": "She sighed.",
+      "start": 1323.985,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1325.235
+    },
+    {
+      "id": "p0224",
+      "text": "\"Are you all right?\"",
+      "start": 1325.235,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1326.395
+    },
+    {
+      "id": "p0225",
+      "text": "\"Perfectly fine. Chewie's still complaining about the flying.\"",
+      "start": 1326.395,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1330.085
+    },
+    {
+      "id": "p0226",
+      "text": "The Wookiee barked an objection.",
+      "start": 1330.085,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1332.285
+    },
+    {
+      "id": "p0227",
+      "text": "\"And now he's complaining about me saying he's complaining.\"",
+      "start": 1332.285,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1335.845
+    },
+    {
+      "id": "p0228",
+      "text": "Leia shook her head.",
+      "start": 1335.845,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1337.445
+    },
+    {
+      "id": "p0229",
+      "text": "\"Han.\"",
+      "start": 1337.445,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1339.175
+    },
+    {
+      "id": "p0230",
+      "text": "\"Right. Business.\"",
+      "start": 1339.175,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1340.935
+    },
+    {
+      "id": "p0231",
+      "text": "He transmitted the recovered files.",
+      "start": 1340.935,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1343.615
+    },
+    {
+      "id": "p0232",
+      "text": "\"The good news is we found another reference to your forty-three prisoners.\"",
+      "start": 1343.615,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1347.115
+    },
+    {
+      "id": "p0233",
+      "text": "Her expression changed immediately.",
+      "start": 1347.115,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1349.535
+    },
+    {
+      "id": "p0234",
+      "text": "\"Where?\"",
+      "start": 1349.535,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1350.175
+    },
+    {
+      "id": "p0235",
+      "text": "\"That's the bad news. Destination's encrypted. But somebody moved them two days ago under Veyr's authority.\"",
+      "start": 1350.175,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1356.845
+    },
+    {
+      "id": "p0236",
+      "text": "Leia examined the manifest.",
+      "start": 1356.845,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1359.225
+    },
+    {
+      "id": "p0237",
+      "text": "\"Two days ago?\"",
+      "start": 1359.225,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1360.405
+    },
+    {
+      "id": "p0238",
+      "text": "\"That's what it says.\"",
+      "start": 1360.405,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1361.875
+    },
+    {
+      "id": "p0239",
+      "text": "She looked up.",
+      "start": 1361.875,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1363.025
+    },
+    {
+      "id": "p0240",
+      "text": "\"Then they really are alive.\"",
+      "start": 1363.025,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1364.725
+    },
+    {
+      "id": "p0241",
+      "text": "Han hesitated. He knew how much she wanted to believe it.",
+      "start": 1364.725,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1369.005
+    },
+    {
+      "id": "p0242",
+      "text": "\"We've got a current transport record, Leia. That's good evidence. But we still need to find them.\"",
+      "start": 1369.005,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1373.675
+    },
+    {
+      "id": "p0243",
+      "text": "She nodded.",
+      "start": 1373.675,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1374.765
+    },
+    {
+      "id": "p0244",
+      "text": "\"You're right.\"",
+      "start": 1374.765,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1375.755
+    },
+    {
+      "id": "p0245",
+      "text": "He watched her read. Then she stopped.",
+      "start": 1375.755,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1379.035
+    },
+    {
+      "id": "p0246",
+      "text": "\"Han, there's a Bespin reference here.\"",
+      "start": 1379.035,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1381.74
+    },
+    {
+      "id": "p0247",
+      "text": "\"Yeah. Thought you might like that.\"",
+      "start": 1381.74,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1384.35
+    },
+    {
+      "id": "p0248",
+      "text": "Leia looked toward someone outside the hologram. Lando's voice answered.",
+      "start": 1384.35,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1390.11
+    },
+    {
+      "id": "p0249",
+      "text": "\"What's happening?\"",
+      "start": 1390.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1391.28
+    },
+    {
+      "id": "p0250",
+      "text": "\"Han found another link to the research laboratory.\"",
+      "start": 1391.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1394.09
+    },
+    {
+      "id": "p0251",
+      "text": "Lando appeared beside her. He examined the file.",
+      "start": 1394.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1398.5
+    },
+    {
+      "id": "p0252",
+      "text": "\"Supporting records,\" he read. \"That's interesting.\"",
+      "start": 1398.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1401.97
+    },
+    {
+      "id": "p0253",
+      "text": "\"Why?\" Han asked.",
+      "start": 1401.97,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1403.93
+    },
+    {
+      "id": "p0254",
+      "text": "\"Because the laboratory's central archive was damaged. We've recovered most of it, but several files are locked behind a separate authorization system.\"",
+      "start": 1403.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1412.12
+    },
+    {
+      "id": "p0255",
+      "text": "Han smiled.",
+      "start": 1412.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1413.88
+    },
+    {
+      "id": "p0256",
+      "text": "\"Well, guess what I've got.\"",
+      "start": 1413.88,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1415.62
+    },
+    {
+      "id": "p0257",
+      "text": "He held up the buoy's encryption module. Lando stared.",
+      "start": 1415.62,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1420.02
+    },
+    {
+      "id": "p0258",
+      "text": "\"An Imperial command key?\"",
+      "start": 1420.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1421.99
+    },
+    {
+      "id": "p0259",
+      "text": "\"One slightly used.\"",
+      "start": 1421.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1423.56
+    },
+    {
+      "id": "p0260",
+      "text": "\"Where did you get it?\"",
+      "start": 1423.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1424.95
+    },
+    {
+      "id": "p0261",
+      "text": "\"Long story.\"",
+      "start": 1424.95,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1426.22
+    },
+    {
+      "id": "p0262",
+      "text": "\"Does it work?\"",
+      "start": 1426.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1427.13
+    },
+    {
+      "id": "p0263",
+      "text": "\"That's what we're going to find out.\"",
+      "start": 1427.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1428.84
+    },
+    {
+      "id": "p0264",
+      "text": "Leia looked between them.",
+      "start": 1428.84,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1430.6
+    },
+    {
+      "id": "p0265",
+      "text": "\"Can you transmit the key?\"",
+      "start": 1430.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1432.09
+    },
+    {
+      "id": "p0266",
+      "text": "\"Not safely. Somebody's been watching our communications. Whoever sent those false orders knew exactly where we were.\"",
+      "start": 1432.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1439.0
+    },
+    {
+      "id": "p0267",
+      "text": "Lando considered this.",
+      "start": 1439.0,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1441.05
+    },
+    {
+      "id": "p0268",
+      "text": "\"Then bring it here.\"",
+      "start": 1441.05,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1442.55
+    },
+    {
+      "id": "p0269",
+      "text": "Han glanced toward Chewbacca. The Wookiee gave an approving rumble. Han smiled.",
+      "start": 1442.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1450.54
+    },
+    {
+      "id": "p0270",
+      "text": "\"Looks like we're coming to Cloud City.\"",
+      "start": 1450.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1452.68
+    },
+    {
+      "id": "p0271",
+      "text": "Leia laughed softly.",
+      "start": 1452.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1455.463
+    },
+    {
+      "id": "p0272",
+      "text": "\"Try not to get frozen this time.\"",
+      "start": 1455.463,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1457.293
+    },
+    {
+      "id": "p0273",
+      "text": "\"Very funny.\"",
+      "start": 1457.293,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1458.332
+    },
+    {
+      "id": "p0274",
+      "text": "The hologram disappeared. Han remained in the cockpit long after Chewbacca had begun preparing the ship for hyperspace. He was listening to the recordings again. Not the fabricated messages. The original cantina surveillance. Thousands of conversations captured over decades. Smugglers. Pilots. Merchants. Imperial officers. People discussing ordinary things. Cargo prices. Travel plans. Old debts. Lost friends. He wondered how many of those voices belonged to people who were now dead.",
+      "start": 1458.332,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1493.713
+    },
+    {
+      "id": "p0275",
+      "text": "How many had been preserved without their knowledge. And how many had been used to deceive others. He opened the earliest available file associated with Voice Profile Forty-Four. The recording was damaged. Most of the audio had been lost. But one short exchange remained. A man spoke. His voice was weak. Exhausted.",
+      "start": 1493.713,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1514.862
+    },
+    {
+      "id": "p0276",
+      "text": "\"Please.\"",
+      "start": 1514.862,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1515.812
+    },
+    {
+      "id": "p0277",
+      "text": "A pause.",
+      "start": 1515.812,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1517.003
+    },
+    {
+      "id": "p0278",
+      "text": "\"Tell me what happened to Alderaan.\"",
+      "start": 1517.003,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1518.813
+    },
+    {
+      "id": "p0279",
+      "text": "Another voice answered.",
+      "start": 1518.813,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1520.473
+    },
+    {
+      "id": "p0280",
+      "text": "\"We have discussed this.\"",
+      "start": 1520.473,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1522.213
+    },
+    {
+      "id": "p0281",
+      "text": "\"No.\"",
+      "start": 1522.213,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1523.053
+    },
+    {
+      "id": "p0282",
+      "text": "The man's breathing became uneven.",
+      "start": 1523.053,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1525.573
+    },
+    {
+      "id": "p0283",
+      "text": "\"Please. I need to know.\"",
+      "start": 1525.573,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1527.403
+    },
+    {
+      "id": "p0284",
+      "text": "There was a long silence. Then the first voice spoke again. But now it sounded different. Calm. Controlled. Almost grateful.",
+      "start": 1527.403,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1538.833
+    },
+    {
+      "id": "p0285",
+      "text": "\"I understand.\"",
+      "start": 1538.833,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1540.073
+    },
+    {
+      "id": "p0286",
+      "text": "Han felt a chill. The voice was Darren's. The same man Leia had watched leap from the palace window. Han listened carefully. Beneath the words, almost too faint to hear, was another sound. Someone crying. The recording continued.",
+      "start": 1540.073,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1557.933
+    },
+    {
+      "id": "p0287",
+      "text": "\"I understand,\" Darren repeated.",
+      "start": 1557.933,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1560.383
+    },
+    {
+      "id": "p0288",
+      "text": "Then, very quietly, almost buried beneath the electronic noise, came four more words.",
+      "start": 1560.383,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1568.213
+    },
+    {
+      "id": "p0289",
+      "text": "\"I want to go home.\"",
+      "start": 1568.213,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1569.503
+    },
+    {
+      "id": "p0290",
+      "text": "Han stopped the playback. He sat motionless for several seconds. Then he copied the recording into a separate file. He knew Leia would want to hear it. But he also knew something else. Whoever Darren was, whatever terrible things had been done to him, there was still a person beneath the conditioning. A person who remembered where he came from. A person who wanted to go home. Han looked toward the stars.",
+      "start": 1569.503,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1596.063
+    },
+    {
+      "id": "p0291",
+      "text": "For the first time, the mystery felt less like an Imperial conspiracy and more like a rescue. He had spent most of his life running from trouble. Now, apparently, he was chasing it. Chewbacca entered the cockpit. He looked at Han, then at the recording. A quiet growl.",
+      "start": 1596.063,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1613.263
+    },
+    {
+      "id": "p0292",
+      "text": "\"Yeah,\" Han said.",
+      "start": 1613.263,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1615.193
+    },
+    {
+      "id": "p0293",
+      "text": "He closed the file.",
+      "start": 1615.193,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1616.873
+    },
+    {
+      "id": "p0294",
+      "text": "\"We're going to find them.\"",
+      "start": 1616.873,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1618.413
+    },
+    {
+      "id": "p0295",
+      "text": "The Wookiee settled into the copilot's seat. Han activated the hyperdrive. The stars stretched into brilliant lines. And the Millennium Falcon vanished into hyperspace, carrying another fragment of the Emperor's terrible secrets toward Cloud City.",
+      "start": 1618.413,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1634.403
+    },
+    {
+      "id": "p0296",
+      "text": "End of Chapter Eleven.",
+      "start": 1634.403,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1636.323
+    }
+  ]
+}
