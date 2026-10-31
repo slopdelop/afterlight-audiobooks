@@ -552,6 +552,57 @@
         "hollow-throne-14"
       ],
       "casting_status": "Production interpretation; subjective user review pending."
+    },
+    "edwin_rook": {
+      "name": "Edwin Rook",
+      "synthetic": true,
+      "role": "Inspector Tavi Orl",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-fifteen/voices/orl.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 351300,
+      "reference_sha256": "993f84da5f448778ad9c4303ccab41b9b4bd237e6958d8371b98f0cc33ae012d",
+      "direction": "An original elderly male municipal investigator with a cultivated non-rhotic British English accent. Medium-low register, narrow forward resonance with a dry papery grain, subtly nasal vowels, clean precise consonants and a slight age-worn rasp without frailty. Measured, practical, skeptical and observant, with restrained dry wit and quiet confidence when explaining technical evidence. Comfortable connected conversational pacing, calm volume, fully voiced intelligible speech. No booming narrator, cartoon accent, theatrical gravel, whisper, echo, music or sound effects. Clean dry studio voice.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-15"
+      ],
+      "casting_status": "Production interpretation; subjective user review pending."
+    },
+    "elin_ward": {
+      "name": "Elin Ward",
+      "synthetic": true,
+      "role": "Office comlink assistant",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-fifteen/voices/assistant.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 351400,
+      "reference_sha256": "43a3cec567d1a9cec25cc8a716d59cc3a80209eab573630848d10e07a26a8295",
+      "direction": "An original adult female administrative aide with clear neutral American English. Medium register, light warm forward resonance, smooth natural tone and precise easy consonants. Courteous, composed and quietly efficient professional delivery, a little brisk without rushing, neither breathy nor theatrical. Natural connected conversational speech at a comfortable consistent volume. No radio processing, static, music, echo or other effects. Clean dry studio voice.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-15"
+      ],
+      "casting_status": "Production interpretation; subjective user review pending."
+    },
+    "security_unit_lumen": {
+      "name": "Security Unit Lumen",
+      "synthetic": true,
+      "role": "Automated security announcement, not C-3PO",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-fifteen/voices/security.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 351500,
+      "reference_sha256": "24273fb4f810f44f4ad9e1063a0346aa770891b5e7ed04e0ab3fe5f70ceabc6f",
+      "direction": "An original male automated security announcement voice, middle-low register and neutral English accent, with firm forward placement, clear consonants and a slightly hard bright metallic timbre. Steady formal cadence and narrowly controlled emotion, matter-of-fact rather than threatening or theatrical. Fully voiced, clean and highly intelligible at comfortable listening volume. No stutter, glitch, static, echo, music or layered voices. Clean dry studio recording.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-15"
+      ],
+      "casting_status": "Production interpretation; subjective user review pending."
     }
   }
 }

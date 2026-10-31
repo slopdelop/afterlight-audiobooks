@@ -1,0 +1,2416 @@
+{
+  "version": 1,
+  "chapterId": "hollow-throne-15",
+  "duration": 1822.47,
+  "alignment": "Book paragraphs use synthesis boundaries and cached local Whisper word timestamps; unmatched starts are interpolated.",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "STAR WARS: THE HOLLOW THRONE",
+      "start": 0.0,
+      "timing": "segment",
+      "kind": "title",
+      "end": 2.48
+    },
+    {
+      "id": "p0002",
+      "text": "Chapter Fifteen: The Missing Body",
+      "start": 2.48,
+      "timing": "segment",
+      "kind": "title",
+      "end": 4.04
+    },
+    {
+      "id": "p0003",
+      "text": "Coruscant. Three months after the Battle of Endor.",
+      "start": 4.04,
+      "timing": "segment",
+      "kind": "title",
+      "end": 7.44
+    },
+    {
+      "id": "p0004",
+      "text": "Leia Organa had learned that people who disappeared on Coruscant rarely vanished without leaving something behind. A discarded identification card. A transport record. A witness who remembered an unusual passenger. Sometimes only a trail of unpaid bills. The Imperial capital was too crowded, too meticulously monitored, and too dependent upon its enormous machinery to allow anyone to move entirely unnoticed. Yet Captain Darren had apparently managed it.",
+      "start": 7.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 38.54
+    },
+    {
+      "id": "p0005",
+      "text": "For six days, Alliance security teams had searched the levels beneath the Emperor's former office. They had examined maintenance platforms, ventilation shafts, industrial machinery, and the endless streams of traffic that passed between the city's towers. They had found broken transparisteel from the palace window. They had found a damaged maintenance canopy. They had found fragments of what might have been Darren's uniform. But they had not found Darren.",
+      "start": 38.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 67.42
+    },
+    {
+      "id": "p0006",
+      "text": "Nor had they found the black prism he had taken from the Emperor's hidden chamber. Leia stared at the latest report displayed above her desk. SEARCH STATUS: INCOMPLETE. She was growing thoroughly sick of those two words.",
+      "start": 67.42,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 82.62
+    },
+    {
+      "id": "p0007",
+      "text": "\"Anything?\" Han asked.",
+      "start": 82.62,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 84.79
+    },
+    {
+      "id": "p0008",
+      "text": "He stood beside the window of her temporary office, examining the city below. Leia shook her head.",
+      "start": 84.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 92.8
+    },
+    {
+      "id": "p0009",
+      "text": "\"Nothing new.\"",
+      "start": 92.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 93.89
+    },
+    {
+      "id": "p0010",
+      "text": "\"Well, that's not entirely true.\"",
+      "start": 93.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 96.07
+    },
+    {
+      "id": "p0011",
+      "text": "She looked up. Han gestured toward the datapad.",
+      "start": 96.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 99.77
+    },
+    {
+      "id": "p0012",
+      "text": "\"Six days ago we thought he was dead. Now we've got enough evidence to be fairly certain somebody gave him orders to jump.\"",
+      "start": 99.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 105.73
+    },
+    {
+      "id": "p0013",
+      "text": "\"That doesn't mean he survived.\"",
+      "start": 105.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 107.43
+    },
+    {
+      "id": "p0014",
+      "text": "\"No. But it means somebody wanted him out of that office.\"",
+      "start": 107.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 110.8
+    },
+    {
+      "id": "p0015",
+      "text": "Leia closed the report. They had returned from Cloud City the previous evening, leaving Lando and Commander Venn to continue investigating the recovered research files. Luke had accompanied them back to Coruscant before departing to consult with Admiral Ackbar about the approaching expedition to the Death Star wreckage. For the first time in days, Leia had slept in an actual bed. She had managed nearly five hours.",
+      "start": 110.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 138.53
+    },
+    {
+      "id": "p0016",
+      "text": "Then she had awakened thinking about Darren. The way he had looked at her before jumping. The terror in his eyes. His mouth moving against the roar of the wind. She had been replaying that moment ever since.",
+      "start": 138.53,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 152.83
+    },
+    {
+      "id": "p0017",
+      "text": "\"What if he was trying to tell me something?\" she asked.",
+      "start": 152.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 156.03
+    },
+    {
+      "id": "p0018",
+      "text": "Han turned.",
+      "start": 156.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 157.47
+    },
+    {
+      "id": "p0019",
+      "text": "\"Like what?\"",
+      "start": 157.47,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 158.43
+    },
+    {
+      "id": "p0020",
+      "text": "\"I don't know.\"",
+      "start": 158.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 159.51
+    },
+    {
+      "id": "p0021",
+      "text": "\"Well, that's the problem with people jumping out of windows. Makes conversation difficult.\"",
+      "start": 159.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 164.47
+    },
+    {
+      "id": "p0022",
+      "text": "Leia gave him a look.",
+      "start": 164.47,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 166.26
+    },
+    {
+      "id": "p0023",
+      "text": "\"Sorry.\"",
+      "start": 166.26,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 167.13
+    },
+    {
+      "id": "p0024",
+      "text": "She sighed.",
+      "start": 167.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 168.32
+    },
+    {
+      "id": "p0025",
+      "text": "\"I keep thinking about the way he moved. He fought against whatever was controlling him, but he still managed to reach the cabinet and take the prism.\"",
+      "start": 168.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 176.11
+    },
+    {
+      "id": "p0026",
+      "text": "\"Maybe that was the order.\"",
+      "start": 176.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 177.63
+    },
+    {
+      "id": "p0027",
+      "text": "\"Maybe.\"",
+      "start": 177.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 178.67
+    },
+    {
+      "id": "p0028",
+      "text": "\"And maybe the order was something else.\"",
+      "start": 178.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 180.84
+    },
+    {
+      "id": "p0029",
+      "text": "Leia looked toward him. Han shrugged.",
+      "start": 180.84,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 184.32
+    },
+    {
+      "id": "p0030",
+      "text": "\"Look, I'm no expert on this mind-control business. But if somebody was making me do something I didn't want to do, I'd look for a way around it.\"",
+      "start": 184.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 192.29
+    },
+    {
+      "id": "p0031",
+      "text": "She considered that. Darren had attacked the guards. Opened the chamber. Taken the prism. Then jumped. Perhaps those actions had not all served the same purpose. Perhaps some had been commands. And others had been attempts to resist them. Her comlink chimed.",
+      "start": 192.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 211.34
+    },
+    {
+      "id": "p0032",
+      "text": "\"Princess Organa?\"",
+      "start": 211.34,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 212.62
+    },
+    {
+      "id": "p0033",
+      "text": "\"Yes?\"",
+      "start": 212.62,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 213.41
+    },
+    {
+      "id": "p0034",
+      "text": "\"Inspector Orl from the municipal traffic authority is here. He says he's found something concerning the palace incident.\"",
+      "start": 213.41,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 219.63
+    },
+    {
+      "id": "p0035",
+      "text": "Leia stood immediately.",
+      "start": 219.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 221.87
+    },
+    {
+      "id": "p0036",
+      "text": "\"Send him in.\"",
+      "start": 221.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 222.89
+    },
+    {
+      "id": "p0037",
+      "text": "Inspector Tavi Orl was a small, elderly human with thinning silver hair and a face permanently lined by suspicion. He wore the dark-blue uniform of Coruscant's municipal traffic authority, though the Imperial insignia had been removed from his collar. He carried three datapads, a cylindrical projector, and a paper folder. Han stared at the folder.",
+      "start": 222.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 248.15
+    },
+    {
+      "id": "p0038",
+      "text": "\"Paper?\"",
+      "start": 248.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 249.14
+    },
+    {
+      "id": "p0039",
+      "text": "Orl regarded him.",
+      "start": 249.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 250.82
+    },
+    {
+      "id": "p0040",
+      "text": "\"Yes.\"",
+      "start": 250.82,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 251.77
+    },
+    {
+      "id": "p0041",
+      "text": "\"Didn't know anybody still used that.\"",
+      "start": 251.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 254.01
+    },
+    {
+      "id": "p0042",
+      "text": "\"Very useful when someone decides to erase a computer.\"",
+      "start": 254.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 257.55
+    },
+    {
+      "id": "p0043",
+      "text": "Han considered this.",
+      "start": 257.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 259.47
+    },
+    {
+      "id": "p0044",
+      "text": "\"Fair point.\"",
+      "start": 259.47,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 260.52
+    },
+    {
+      "id": "p0045",
+      "text": "Orl turned toward Leia.",
+      "start": 260.52,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 262.67
+    },
+    {
+      "id": "p0046",
+      "text": "\"Princess. I apologize for the delay.\"",
+      "start": 262.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 266.17
+    },
+    {
+      "id": "p0047",
+      "text": "\"You've found something?\"",
+      "start": 266.17,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 267.57
+    },
+    {
+      "id": "p0048",
+      "text": "\"Possibly.\"",
+      "start": 267.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 268.67
+    },
+    {
+      "id": "p0049",
+      "text": "He placed the projector on the desk. A holographic image appeared. The Imperial Palace. The Emperor's tower rose above the surrounding city, its uppermost levels disappearing into the clouds. Orl highlighted a section beneath the office windows.",
+      "start": 268.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 286.03
+    },
+    {
+      "id": "p0050",
+      "text": "\"This is where your Captain Darren fell.\"",
+      "start": 286.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 289.16
+    },
+    {
+      "id": "p0051",
+      "text": "Leia approached.",
+      "start": 289.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 290.6
+    },
+    {
+      "id": "p0052",
+      "text": "\"Yes.\"",
+      "start": 290.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 291.64
+    },
+    {
+      "id": "p0053",
+      "text": "\"Our original reconstruction assumed an uninterrupted descent.\"",
+      "start": 291.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 295.78
+    },
+    {
+      "id": "p0054",
+      "text": "\"And?\"",
+      "start": 295.78,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 296.76
+    },
+    {
+      "id": "p0055",
+      "text": "\"That assumption was wrong.\"",
+      "start": 296.76,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 298.77
+    },
+    {
+      "id": "p0056",
+      "text": "He enlarged the image. A series of platforms appeared along the palace's western face. Maintenance walkways. Cargo-loading bays. Emergency landing areas. And, approximately four hundred meters below the Emperor's office, a broad rectangular structure suspended between two towers.",
+      "start": 298.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 318.99
+    },
+    {
+      "id": "p0057",
+      "text": "\"What is that?\" Leia asked.",
+      "start": 318.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 321.24
+    },
+    {
+      "id": "p0058",
+      "text": "\"An old diplomatic arrival platform. Decommissioned fifteen years ago.\"",
+      "start": 321.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 325.93
+    },
+    {
+      "id": "p0059",
+      "text": "Han leaned closer.",
+      "start": 325.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 328.09
+    },
+    {
+      "id": "p0060",
+      "text": "\"Looks like a landing pad.\"",
+      "start": 328.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 329.68
+    },
+    {
+      "id": "p0061",
+      "text": "\"It was. But it also contained an emergency repulsor field.\"",
+      "start": 329.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 334.49
+    },
+    {
+      "id": "p0062",
+      "text": "Leia frowned.",
+      "start": 334.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 336.07
+    },
+    {
+      "id": "p0063",
+      "text": "\"A repulsor field?\"",
+      "start": 336.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 337.48
+    },
+    {
+      "id": "p0064",
+      "text": "\"An enormous one. Designed to arrest the fall of small vessels during docking accidents.\"",
+      "start": 337.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 343.5
+    },
+    {
+      "id": "p0065",
+      "text": "Orl activated a simulation. A transport approached the platform. Its engines failed. The vessel dropped. Then, just before striking the landing surface, a blue field appeared beneath it. The transport slowed and settled harmlessly onto the platform. Han whistled.",
+      "start": 343.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 362.42
+    },
+    {
+      "id": "p0066",
+      "text": "\"That's a pretty good safety system.\"",
+      "start": 362.42,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 364.3
+    },
+    {
+      "id": "p0067",
+      "text": "\"It was,\" Orl replied. \"Until the palace stopped using the platform.\"",
+      "start": 364.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 369.14
+    },
+    {
+      "id": "p0068",
+      "text": "Leia looked at him.",
+      "start": 369.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 370.74
+    },
+    {
+      "id": "p0069",
+      "text": "\"Was it operational when Darren fell?\"",
+      "start": 370.74,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 373.09
+    },
+    {
+      "id": "p0070",
+      "text": "Orl hesitated.",
+      "start": 373.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 374.74
+    },
+    {
+      "id": "p0071",
+      "text": "\"That's what brought me here.\"",
+      "start": 374.74,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 376.97
+    },
+    {
+      "id": "p0072",
+      "text": "He opened a maintenance record. The emergency field had been deactivated for years. Its power supply had been disconnected. Its control systems removed from the palace's central network. But six days earlier, somebody had restored it. Leia stared.",
+      "start": 376.97,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 393.87
+    },
+    {
+      "id": "p0073",
+      "text": "\"When?\"",
+      "start": 393.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 394.71
+    },
+    {
+      "id": "p0074",
+      "text": "Orl enlarged the timestamp.",
+      "start": 394.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 397.19
+    },
+    {
+      "id": "p0075",
+      "text": "\"Fourteen seconds before your Captain Darren went through the window.\"",
+      "start": 397.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 401.17
+    },
+    {
+      "id": "p0076",
+      "text": "For several moments, nobody spoke. Then Han leaned forward.",
+      "start": 401.17,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 406.29
+    },
+    {
+      "id": "p0077",
+      "text": "\"Fourteen seconds?\"",
+      "start": 406.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 407.64
+    },
+    {
+      "id": "p0078",
+      "text": "\"Yes.\"",
+      "start": 407.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 408.59
+    },
+    {
+      "id": "p0079",
+      "text": "\"That's cutting it a little close.\"",
+      "start": 408.59,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 410.5
+    },
+    {
+      "id": "p0080",
+      "text": "\"Extremely.\"",
+      "start": 410.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 411.9
+    },
+    {
+      "id": "p0081",
+      "text": "Leia studied the record.",
+      "start": 411.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 413.91
+    },
+    {
+      "id": "p0082",
+      "text": "\"Who activated it?\"",
+      "start": 413.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 415.25
+    },
+    {
+      "id": "p0083",
+      "text": "\"That's the difficulty. The request came through an old maintenance terminal, using a local authorization.\"",
+      "start": 415.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 421.7
+    },
+    {
+      "id": "p0084",
+      "text": "\"Whose authorization?\"",
+      "start": 421.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 423.14
+    },
+    {
+      "id": "p0085",
+      "text": "Orl opened another file. The display showed a work order. EMERGENCY SAFETY SYSTEM — TEMPORARY REACTIVATION. Below it appeared a name. CAPTAIN DARREN. Leia felt her pulse quicken.",
+      "start": 423.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 436.66
+    },
+    {
+      "id": "p0086",
+      "text": "\"He activated it himself?\"",
+      "start": 436.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 438.55
+    },
+    {
+      "id": "p0087",
+      "text": "\"Not necessarily. His credentials were used.\"",
+      "start": 438.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 442.14
+    },
+    {
+      "id": "p0088",
+      "text": "\"When was the work order created?\"",
+      "start": 442.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 444.26
+    },
+    {
+      "id": "p0089",
+      "text": "Orl consulted his datapad.",
+      "start": 444.26,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 446.55
+    },
+    {
+      "id": "p0090",
+      "text": "\"Three days before the incident.\"",
+      "start": 446.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 448.71
+    },
+    {
+      "id": "p0091",
+      "text": "Han looked at Leia.",
+      "start": 448.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 450.61
+    },
+    {
+      "id": "p0092",
+      "text": "\"Three days.\"",
+      "start": 450.61,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 451.72
+    },
+    {
+      "id": "p0093",
+      "text": "She nodded slowly. Darren had been planning something. Or someone had been planning something using his identity.",
+      "start": 451.72,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 461.67
+    },
+    {
+      "id": "p0094",
+      "text": "\"Can you tell whether the field actually activated?\" she asked.",
+      "start": 461.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 465.26
+    },
+    {
+      "id": "p0095",
+      "text": "\"Yes.\"",
+      "start": 465.26,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 466.22
+    },
+    {
+      "id": "p0096",
+      "text": "Orl opened the power records. A sharp spike appeared on the graph.",
+      "start": 466.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 471.58
+    },
+    {
+      "id": "p0097",
+      "text": "\"The field drew energy for approximately four seconds.\"",
+      "start": 471.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 475.29
+    },
+    {
+      "id": "p0098",
+      "text": "\"What entered it?\"",
+      "start": 475.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 476.38
+    },
+    {
+      "id": "p0099",
+      "text": "\"We don't know. The platform's sensors were disconnected from the central traffic network.\"",
+      "start": 476.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 481.99
+    },
+    {
+      "id": "p0100",
+      "text": "Han frowned.",
+      "start": 481.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 483.51
+    },
+    {
+      "id": "p0101",
+      "text": "\"But the power records survived?\"",
+      "start": 483.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 485.77
+    },
+    {
+      "id": "p0102",
+      "text": "\"Municipal energy systems maintain independent logs. The palace could disable its own monitoring equipment, but it couldn't easily erase the billing records.\"",
+      "start": 485.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 495.73
+    },
+    {
+      "id": "p0103",
+      "text": "Han smiled.",
+      "start": 495.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 497.5
+    },
+    {
+      "id": "p0104",
+      "text": "\"See? Paperwork saves the day.\"",
+      "start": 497.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 500.14
+    },
+    {
+      "id": "p0105",
+      "text": "Orl looked at him.",
+      "start": 500.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 501.98
+    },
+    {
+      "id": "p0106",
+      "text": "\"Quite often, General.\"",
+      "start": 501.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 503.5
+    },
+    {
+      "id": "p0107",
+      "text": "Leia studied the simulation. A man falling from the Emperor's window. A concealed repulsor field waiting below. Someone activating it at precisely the right moment. It was possible. Perhaps even likely. But one question troubled her.",
+      "start": 503.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 520.7
+    },
+    {
+      "id": "p0108",
+      "text": "\"Would the field have saved him?\"",
+      "start": 520.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 522.29
+    },
+    {
+      "id": "p0109",
+      "text": "Orl considered the distance.",
+      "start": 522.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 524.45
+    },
+    {
+      "id": "p0110",
+      "text": "\"From that height, he would have been moving extremely fast. An uncontrolled interception could cause serious injuries.\"",
+      "start": 524.45,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 532.62
+    },
+    {
+      "id": "p0111",
+      "text": "\"But survival was possible?\"",
+      "start": 532.62,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 534.32
+    },
+    {
+      "id": "p0112",
+      "text": "\"Yes.\"",
+      "start": 534.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 535.24
+    },
+    {
+      "id": "p0113",
+      "text": "Leia looked at Han. He was already smiling.",
+      "start": 535.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 539.09
+    },
+    {
+      "id": "p0114",
+      "text": "\"Well,\" he said, \"I think we need to visit that platform.\"",
+      "start": 539.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 542.56
+    },
+    {
+      "id": "p0115",
+      "text": "The descent into Coruscant's lower levels took nearly an hour. They traveled in a municipal maintenance shuttle, accompanied by Inspector Orl and two Alliance security officers. Han piloted. Orl had objected at first. Han had insisted that he was considerably better qualified to fly a maintenance shuttle through crowded traffic than the municipal pilot assigned to them. The argument ended when Chewbacca climbed into the copilot's seat.",
+      "start": 542.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 572.28
+    },
+    {
+      "id": "p0116",
+      "text": "Orl had apparently decided that further discussion would be unproductive. Leia sat behind the cockpit, watching the city change around them. The bright towers of the upper districts gradually gave way to older structures. Buildings grew closer together. The sky disappeared behind enormous bridges and suspended transit lines. The light became artificial.",
+      "start": 572.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 596.4
+    },
+    {
+      "id": "p0117",
+      "text": "The air outside darkened into a permanent twilight illuminated by advertisements, industrial warning lamps, and the occasional shaft of sunlight falling between distant towers. The lower they descended, the less evidence Leia saw of the Empire's collapse. Imperial symbols remained above government buildings. Security checkpoints still stood at major intersections. And many residents continued wearing the same cautious expressions she remembered from the years before Endor.",
+      "start": 596.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 629.23
+    },
+    {
+      "id": "p0118",
+      "text": "A victory in orbit had not yet changed everything on the ground. She watched a group of children playing beside a freight elevator. One held a battered toy X-wing. Another pretended to be a TIE fighter. The child with the X-wing shouted something triumphant, and the others scattered. Leia smiled. Han glanced back.",
+      "start": 629.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 652.06
+    },
+    {
+      "id": "p0119",
+      "text": "\"What?\"",
+      "start": 652.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 652.83
+    },
+    {
+      "id": "p0120",
+      "text": "\"Nothing.\"",
+      "start": 652.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 653.77
+    },
+    {
+      "id": "p0121",
+      "text": "He followed her gaze. Then smiled too.",
+      "start": 653.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 657.05
+    },
+    {
+      "id": "p0122",
+      "text": "\"Kid's got good taste.\"",
+      "start": 657.05,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 658.73
+    },
+    {
+      "id": "p0123",
+      "text": "The diplomatic platform was in worse condition than Leia expected. Its outer surface was covered in rust-colored stains and thick layers of industrial dust. Old landing lights hung from broken supports, and several sections of the surrounding walkway had collapsed. Yet the platform itself remained intact. Han brought the shuttle down carefully.",
+      "start": 658.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 681.78
+    },
+    {
+      "id": "p0124",
+      "text": "\"Somebody's been here recently,\" Chewbacca growled.",
+      "start": 681.78,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 685.48
+    },
+    {
+      "id": "p0125",
+      "text": "Leia looked toward him.",
+      "start": 685.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 687.2
+    },
+    {
+      "id": "p0126",
+      "text": "\"What makes you say that?\"",
+      "start": 687.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 688.54
+    },
+    {
+      "id": "p0127",
+      "text": "The Wookiee pointed toward the landing surface. Amid the dust lay several clean tracks. Not the broad impressions left by maintenance vehicles. Footprints. At least two sets. Han shut down the engines.",
+      "start": 688.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 703.65
+    },
+    {
+      "id": "p0128",
+      "text": "\"Well, that's encouraging.\"",
+      "start": 703.65,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 705.04
+    },
+    {
+      "id": "p0129",
+      "text": "Orl examined the platform through the viewport.",
+      "start": 705.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 708.16
+    },
+    {
+      "id": "p0130",
+      "text": "\"Those shouldn't be there.\"",
+      "start": 708.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 709.83
+    },
+    {
+      "id": "p0131",
+      "text": "\"Why not?\" Leia asked.",
+      "start": 709.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 712.0
+    },
+    {
+      "id": "p0132",
+      "text": "\"Access has been restricted for years.\"",
+      "start": 712.0,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 715.07
+    },
+    {
+      "id": "p0133",
+      "text": "Han smiled.",
+      "start": 715.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 716.56
+    },
+    {
+      "id": "p0134",
+      "text": "\"Funny how often we hear that.\"",
+      "start": 716.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 718.54
+    },
+    {
+      "id": "p0135",
+      "text": "They disembarked. The air smelled of warm machinery and stagnant water. Far below, massive industrial fans turned slowly between the towers, circulating air through the lower districts. Leia approached the western edge of the platform. Above her, the Imperial Palace rose into the darkness. Its highest levels were barely visible. Somewhere up there was the broken window. She tried to imagine falling from that height. The rushing wind.",
+      "start": 718.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 751.07
+    },
+    {
+      "id": "p0136",
+      "text": "The terrifying acceleration. The knowledge that the ground was approaching. Then she looked down. The platform stood above a deep maintenance shaft. A network of repulsor emitters lined its perimeter, their housings now dark and silent. Orl crouched beside the nearest emitter.",
+      "start": 751.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 770.19
+    },
+    {
+      "id": "p0137",
+      "text": "\"These were reactivated manually.\"",
+      "start": 770.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 773.49
+    },
+    {
+      "id": "p0138",
+      "text": "\"How can you tell?\" Han asked.",
+      "start": 773.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 776.07
+    },
+    {
+      "id": "p0139",
+      "text": "\"The access panel was opened.\"",
+      "start": 776.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 778.36
+    },
+    {
+      "id": "p0140",
+      "text": "He pointed to a small section of exposed wiring.",
+      "start": 778.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 782.07
+    },
+    {
+      "id": "p0141",
+      "text": "\"Someone bypassed the automatic safety system and connected the emitters directly to the emergency power supply.\"",
+      "start": 782.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 788.83
+    },
+    {
+      "id": "p0142",
+      "text": "Chewbacca inspected the wiring. A low growl escaped him. Han translated.",
+      "start": 788.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 797.09
+    },
+    {
+      "id": "p0143",
+      "text": "\"Chewie says whoever did this knew exactly what they were doing.\"",
+      "start": 797.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 800.49
+    },
+    {
+      "id": "p0144",
+      "text": "Orl nodded.",
+      "start": 800.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 801.77
+    },
+    {
+      "id": "p0145",
+      "text": "\"They'd have to.\"",
+      "start": 801.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 802.83
+    },
+    {
+      "id": "p0146",
+      "text": "Leia studied the platform.",
+      "start": 802.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 805.07
+    },
+    {
+      "id": "p0147",
+      "text": "\"Could someone have activated the field from here?\"",
+      "start": 805.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 807.67
+    },
+    {
+      "id": "p0148",
+      "text": "\"Yes. There's a manual control station behind that wall.\"",
+      "start": 807.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 812.23
+    },
+    {
+      "id": "p0149",
+      "text": "He pointed toward a narrow maintenance booth. Leia approached it. The door stood slightly open. Inside, the floor was covered in dust. A chair lay overturned. And beside the control panel was a small dark stain. Leia stopped.",
+      "start": 812.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 828.63
+    },
+    {
+      "id": "p0150",
+      "text": "\"Inspector.\"",
+      "start": 828.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 829.74
+    },
+    {
+      "id": "p0151",
+      "text": "Orl joined her. He examined the stain. Then looked up.",
+      "start": 829.74,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 835.45
+    },
+    {
+      "id": "p0152",
+      "text": "\"Blood.\"",
+      "start": 835.45,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 836.54
+    },
+    {
+      "id": "p0153",
+      "text": "The security officers began documenting the scene. Han searched the booth while Chewbacca examined the surrounding machinery. Leia stood beside the control panel, studying the emergency field's activation history. The system had been switched on fourteen seconds before Darren jumped. It had remained active for four seconds. Then someone had shut it down. The records did not identify the operator. But the timing suggested something deliberate. She examined the bloodstain.",
+      "start": 836.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 867.7
+    },
+    {
+      "id": "p0154",
+      "text": "It was small. A few drops near the control panel. Another near the doorway. A third on the outside railing.",
+      "start": 867.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 876.6
+    },
+    {
+      "id": "p0155",
+      "text": "\"Could Darren have landed here?\" she asked.",
+      "start": 876.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 879.35
+    },
+    {
+      "id": "p0156",
+      "text": "Orl looked toward the platform.",
+      "start": 879.35,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 881.59
+    },
+    {
+      "id": "p0157",
+      "text": "\"Possibly. The field could have slowed him sufficiently to survive the impact.\"",
+      "start": 881.59,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 886.33
+    },
+    {
+      "id": "p0158",
+      "text": "\"Would he have been able to walk?\"",
+      "start": 886.33,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 887.98
+    },
+    {
+      "id": "p0159",
+      "text": "\"That would depend upon his injuries.\"",
+      "start": 887.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 890.57
+    },
+    {
+      "id": "p0160",
+      "text": "Leia looked toward the open door. There were footprints in the dust. Two sets. One appeared ordinary. The other was irregular. The right foot had dragged slightly across the floor. An injured person. Perhaps Darren. Han approached.",
+      "start": 890.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 906.66
+    },
+    {
+      "id": "p0161",
+      "text": "\"Found something.\"",
+      "start": 906.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 908.0
+    },
+    {
+      "id": "p0162",
+      "text": "He held up a narrow strip of dark fabric. Leia recognized it immediately. Charcoal-gray uniform material. The same color as Darren's palace clothing. She took it carefully. The fabric had been torn. One edge was stained with dried blood. Han looked toward the platform.",
+      "start": 908.0,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 928.16
+    },
+    {
+      "id": "p0163",
+      "text": "\"Well, that's one mystery solved.\"",
+      "start": 928.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 930.69
+    },
+    {
+      "id": "p0164",
+      "text": "Leia shook her head.",
+      "start": 930.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 932.32
+    },
+    {
+      "id": "p0165",
+      "text": "\"Not entirely.\"",
+      "start": 932.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 933.66
+    },
+    {
+      "id": "p0166",
+      "text": "\"Come on. We found the safety field, blood, footprints, and part of his uniform.\"",
+      "start": 933.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 939.27
+    },
+    {
+      "id": "p0167",
+      "text": "\"Yes.\"",
+      "start": 939.27,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 940.07
+    },
+    {
+      "id": "p0168",
+      "text": "\"So he survived.\"",
+      "start": 940.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 941.57
+    },
+    {
+      "id": "p0169",
+      "text": "\"Maybe.\"",
+      "start": 941.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 942.44
+    },
+    {
+      "id": "p0170",
+      "text": "Han studied her.",
+      "start": 942.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 944.01
+    },
+    {
+      "id": "p0171",
+      "text": "\"You're really determined not to be optimistic about this, aren't you?\"",
+      "start": 944.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 947.71
+    },
+    {
+      "id": "p0172",
+      "text": "She looked at him.",
+      "start": 947.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 948.99
+    },
+    {
+      "id": "p0173",
+      "text": "\"I'm determined not to mistake what we hope happened for what we can prove.\"",
+      "start": 948.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 952.79
+    },
+    {
+      "id": "p0174",
+      "text": "He smiled faintly.",
+      "start": 952.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 954.63
+    },
+    {
+      "id": "p0175",
+      "text": "\"Fair enough.\"",
+      "start": 954.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 955.68
+    },
+    {
+      "id": "p0176",
+      "text": "Chewbacca called from the far side of the platform. They hurried toward him. The Wookiee stood beside a small maintenance lift. Its doors were open. Inside, the floor was covered with recent scratches. Someone had moved something heavy through it. Or someone. Chewbacca pointed toward a narrow handrail. A dark smear marked its surface. More blood. Leia stared.",
+      "start": 955.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 981.73
+    },
+    {
+      "id": "p0177",
+      "text": "\"Where does this lift go?\"",
+      "start": 981.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 983.36
+    },
+    {
+      "id": "p0178",
+      "text": "Orl consulted his datapad.",
+      "start": 983.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 985.62
+    },
+    {
+      "id": "p0179",
+      "text": "\"Lower service levels. Mostly abandoned storage facilities.\"",
+      "start": 985.62,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 990.21
+    },
+    {
+      "id": "p0180",
+      "text": "\"Can we follow it?\"",
+      "start": 990.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 991.38
+    },
+    {
+      "id": "p0181",
+      "text": "\"Yes.\"",
+      "start": 991.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 992.42
+    },
+    {
+      "id": "p0182",
+      "text": "Han checked his blaster.",
+      "start": 992.42,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 994.59
+    },
+    {
+      "id": "p0183",
+      "text": "\"Then let's go.\"",
+      "start": 994.59,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 995.7
+    },
+    {
+      "id": "p0184",
+      "text": "The lift descended through the darkness. Its ancient machinery groaned with every movement. Leia stood beside the control panel, studying the small security display. The lift had been used twice on the morning Darren disappeared. Once shortly before the repulsor field activated. And once afterward. The first journey had carried one passenger. The second had carried two. Orl had reconstructed the numbers from the lift's weight sensors.",
+      "start": 995.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1027.36
+    },
+    {
+      "id": "p0185",
+      "text": "The readings were imprecise. But they suggested that whoever had activated the field had not left alone. Leia felt a growing excitement. Someone had been waiting for Darren. Someone had caught him. Someone had helped him escape. But why? And who? The lift stopped. The doors opened into a dim service corridor. The air was warmer here. A deep vibration traveled through the floor.",
+      "start": 1027.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1055.87
+    },
+    {
+      "id": "p0186",
+      "text": "Somewhere nearby, enormous pumps moved water through the city's ancient infrastructure. Han stepped out first. Chewbacca followed. Leia and Orl came behind them. The corridor extended in both directions. One wall was lined with old pipes. The other contained a series of sealed storage chambers. Most doors bore faded Imperial markings. Several had been repainted.",
+      "start": 1055.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1084.81
+    },
+    {
+      "id": "p0187",
+      "text": "At the far end of the corridor, a narrow strip of light appeared beneath a door. Han raised his blaster.",
+      "start": 1084.81,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1093.73
+    },
+    {
+      "id": "p0188",
+      "text": "\"Somebody's home.\"",
+      "start": 1093.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1095.1
+    },
+    {
+      "id": "p0189",
+      "text": "Leia approached cautiously. The door was unlocked. She pushed it open. Beyond lay a small room containing medical equipment. Not much. A portable examination table. A collection of bandages. Several empty containers of antiseptic. A used medical scanner. And, resting upon a chair, a folded gray blanket. Leia entered. The room smelled faintly of disinfectant. Han examined the examination table.",
+      "start": 1095.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1125.85
+    },
+    {
+      "id": "p0190",
+      "text": "\"Somebody got patched up.\"",
+      "start": 1125.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1127.48
+    },
+    {
+      "id": "p0191",
+      "text": "Orl looked toward the supplies.",
+      "start": 1127.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1130.2
+    },
+    {
+      "id": "p0192",
+      "text": "\"These aren't Imperial.\"",
+      "start": 1130.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1132.06
+    },
+    {
+      "id": "p0193",
+      "text": "\"How can you tell?\" Leia asked.",
+      "start": 1132.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1134.47
+    },
+    {
+      "id": "p0194",
+      "text": "\"Municipal emergency stock. Civilian equipment.\"",
+      "start": 1134.47,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1138.45
+    },
+    {
+      "id": "p0195",
+      "text": "Chewbacca opened a nearby cabinet. Inside were several empty ration packets and a small water container. Han examined them.",
+      "start": 1138.45,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1147.78
+    },
+    {
+      "id": "p0196",
+      "text": "\"Looks like our mystery patient stayed here a while.\"",
+      "start": 1147.78,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1150.43
+    },
+    {
+      "id": "p0197",
+      "text": "Leia approached the examination table. A narrow strip of adhesive remained attached to its edge. She recognized the type. Medical tape. Recently used. She looked toward the scanner. Its display was dark.",
+      "start": 1150.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1165.9
+    },
+    {
+      "id": "p0198",
+      "text": "\"Can you recover anything from this?\"",
+      "start": 1165.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1167.67
+    },
+    {
+      "id": "p0199",
+      "text": "Orl examined it.",
+      "start": 1167.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1169.27
+    },
+    {
+      "id": "p0200",
+      "text": "\"Possibly.\"",
+      "start": 1169.27,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1170.28
+    },
+    {
+      "id": "p0201",
+      "text": "He connected his datapad. The device flickered to life. A series of medical readings appeared. Pulse. Blood pressure. Respiration. Body temperature. Leia leaned closer.",
+      "start": 1170.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1183.51
+    },
+    {
+      "id": "p0202",
+      "text": "\"Is there a patient record?\"",
+      "start": 1183.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1185.01
+    },
+    {
+      "id": "p0203",
+      "text": "Orl searched.",
+      "start": 1185.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1186.37
+    },
+    {
+      "id": "p0204",
+      "text": "\"No name.\"",
+      "start": 1186.37,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1187.68
+    },
+    {
+      "id": "p0205",
+      "text": "\"Any injuries?\"",
+      "start": 1187.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1188.95
+    },
+    {
+      "id": "p0206",
+      "text": "He opened the diagnostic report. The patient's condition had been serious. Multiple fractures. Internal bruising. A mild concussion. And significant blood loss. The readings had been recorded approximately forty minutes after Darren's fall. Leia stared.",
+      "start": 1188.95,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1205.7
+    },
+    {
+      "id": "p0207",
+      "text": "\"Was the patient alive?\"",
+      "start": 1205.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1207.42
+    },
+    {
+      "id": "p0208",
+      "text": "Orl looked up.",
+      "start": 1207.42,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1209.18
+    },
+    {
+      "id": "p0209",
+      "text": "\"Very much so.\"",
+      "start": 1209.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1210.59
+    },
+    {
+      "id": "p0210",
+      "text": "Han smiled.",
+      "start": 1210.59,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1212.11
+    },
+    {
+      "id": "p0211",
+      "text": "\"Well, there you go.\"",
+      "start": 1212.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1213.35
+    },
+    {
+      "id": "p0212",
+      "text": "Leia did not answer. She studied the medical readings. Someone had survived a violent fall. Someone had been treated in a hidden room beneath the palace. Someone had then disappeared. It was almost certainly Darren. But whoever had helped him had gone to considerable trouble to conceal their involvement. She wondered whether that person was protecting him. Or keeping him prisoner. A sharp electronic tone sounded.",
+      "start": 1213.35,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1242.0
+    },
+    {
+      "id": "p0213",
+      "text": "Orl looked down at his datapad. His expression changed.",
+      "start": 1242.0,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1246.24
+    },
+    {
+      "id": "p0214",
+      "text": "\"That's strange.\"",
+      "start": 1246.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1247.76
+    },
+    {
+      "id": "p0215",
+      "text": "\"What?\" Han asked.",
+      "start": 1247.76,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1249.88
+    },
+    {
+      "id": "p0216",
+      "text": "\"The room's security system just activated.\"",
+      "start": 1249.88,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1253.12
+    },
+    {
+      "id": "p0217",
+      "text": "Han frowned.",
+      "start": 1253.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1254.49
+    },
+    {
+      "id": "p0218",
+      "text": "\"Security system?\"",
+      "start": 1254.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1256.08
+    },
+    {
+      "id": "p0219",
+      "text": "Orl pointed toward the ceiling. A small black camera rotated slowly toward them. Leia felt a sudden chill.",
+      "start": 1256.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1264.56
+    },
+    {
+      "id": "p0220",
+      "text": "\"Was that operating when we entered?\"",
+      "start": 1264.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1266.54
+    },
+    {
+      "id": "p0221",
+      "text": "\"No.\"",
+      "start": 1266.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1267.57
+    },
+    {
+      "id": "p0222",
+      "text": "The camera's red indicator illuminated. Then a metallic voice filled the room.",
+      "start": 1267.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1273.98
+    },
+    {
+      "id": "p0223",
+      "text": "\"Unauthorized personnel detected.\"",
+      "start": 1273.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1276.43
+    },
+    {
+      "id": "p0224",
+      "text": "Han sighed.",
+      "start": 1276.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1278.03
+    },
+    {
+      "id": "p0225",
+      "text": "\"Oh, not again.\"",
+      "start": 1278.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1279.6
+    },
+    {
+      "id": "p0226",
+      "text": "The door slammed shut. A heavy lock engaged. Chewbacca roared and lunged toward it. Leia drew her blaster. The camera rotated toward Han. A second voice emerged from the speaker. His own.",
+      "start": 1279.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1293.93
+    },
+    {
+      "id": "p0227",
+      "text": "\"General Solo, please remain where you are.\"",
+      "start": 1293.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1296.68
+    },
+    {
+      "id": "p0228",
+      "text": "Han stared.",
+      "start": 1296.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1298.12
+    },
+    {
+      "id": "p0229",
+      "text": "\"Oh, you've got to be kidding.\"",
+      "start": 1298.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1299.73
+    },
+    {
+      "id": "p0230",
+      "text": "The voice continued.",
+      "start": 1299.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1301.33
+    },
+    {
+      "id": "p0231",
+      "text": "\"Your presence has been recorded.\"",
+      "start": 1301.33,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1303.3
+    },
+    {
+      "id": "p0232",
+      "text": "Chewbacca tore the door's control panel from the wall. Sparks erupted. The lock remained engaged. Han examined the camera.",
+      "start": 1303.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1312.73
+    },
+    {
+      "id": "p0233",
+      "text": "\"Hey, buddy. Nice impression.\"",
+      "start": 1312.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1314.64
+    },
+    {
+      "id": "p0234",
+      "text": "The voice changed. Now it was Leia's.",
+      "start": 1314.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1318.68
+    },
+    {
+      "id": "p0235",
+      "text": "\"Captain Darren is no longer your concern.\"",
+      "start": 1318.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1321.04
+    },
+    {
+      "id": "p0236",
+      "text": "Leia froze. Han looked toward her. The voice continued.",
+      "start": 1321.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1326.47
+    },
+    {
+      "id": "p0237",
+      "text": "\"Withdraw from this investigation.\"",
+      "start": 1326.47,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1328.62
+    },
+    {
+      "id": "p0238",
+      "text": "Leia raised her blaster.",
+      "start": 1328.62,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1330.72
+    },
+    {
+      "id": "p0239",
+      "text": "\"Who are you?\"",
+      "start": 1330.72,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1332.05
+    },
+    {
+      "id": "p0240",
+      "text": "The camera rotated toward her. For several seconds, nothing happened. Then the speaker answered.",
+      "start": 1332.05,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1339.75
+    },
+    {
+      "id": "p0241",
+      "text": "\"Your cooperation will prevent unnecessary suffering.\"",
+      "start": 1339.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1343.0
+    },
+    {
+      "id": "p0242",
+      "text": "Leia felt anger rise. The same phrases. The same calm certainty. The same attempt to make an order sound like a favor. She recognized the style from Darren's interrogation recording. Someone was using the Witness system to communicate with them.",
+      "start": 1343.0,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1360.03
+    },
+    {
+      "id": "p0243",
+      "text": "\"Where is Captain Darren?\" she demanded.",
+      "start": 1360.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1362.65
+    },
+    {
+      "id": "p0244",
+      "text": "The speaker did not answer. Instead, a warning light appeared above the door. SECURITY RESPONSE DISPATCHED. Han looked toward Chewbacca.",
+      "start": 1362.65,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1373.53
+    },
+    {
+      "id": "p0245",
+      "text": "\"Well, I think it's time we left.\"",
+      "start": 1373.53,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1375.5
+    },
+    {
+      "id": "p0246",
+      "text": "The Wookiee roared.",
+      "start": 1375.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1377.01
+    },
+    {
+      "id": "p0247",
+      "text": "\"I know the door's locked!\"",
+      "start": 1377.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1378.68
+    },
+    {
+      "id": "p0248",
+      "text": "Leia glanced toward the ceiling. The camera continued watching. Then she noticed something. The speaker had not attempted to control them. It had merely issued instructions. There was a difference. The system could imitate voices. It could manufacture convincing orders. But it could not make an unconditioned person obey. She looked toward Han.",
+      "start": 1378.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1404.85
+    },
+    {
+      "id": "p0249",
+      "text": "\"Can you get us out?\"",
+      "start": 1404.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1406.02
+    },
+    {
+      "id": "p0250",
+      "text": "He studied the lock.",
+      "start": 1406.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1407.77
+    },
+    {
+      "id": "p0251",
+      "text": "\"Working on it.\"",
+      "start": 1407.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1409.01
+    },
+    {
+      "id": "p0252",
+      "text": "Chewbacca growled impatiently. Han examined the ruined panel. Then looked toward the maintenance pipes running along the ceiling. A smile crossed his face.",
+      "start": 1409.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1420.27
+    },
+    {
+      "id": "p0253",
+      "text": "\"Chewie.\"",
+      "start": 1420.27,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1421.26
+    },
+    {
+      "id": "p0254",
+      "text": "The Wookiee looked up.",
+      "start": 1421.26,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1422.67
+    },
+    {
+      "id": "p0255",
+      "text": "\"See that pressure valve?\"",
+      "start": 1422.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1424.42
+    },
+    {
+      "id": "p0256",
+      "text": "Chewbacca followed his gaze. Then grinned. Leia stepped backward.",
+      "start": 1424.42,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1430.84
+    },
+    {
+      "id": "p0257",
+      "text": "\"Oh, I don't like that expression.\"",
+      "start": 1430.84,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1433.16
+    },
+    {
+      "id": "p0258",
+      "text": "Han drew his blaster.",
+      "start": 1433.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1435.08
+    },
+    {
+      "id": "p0259",
+      "text": "\"Don't worry. I've got a plan.\"",
+      "start": 1435.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1436.71
+    },
+    {
+      "id": "p0260",
+      "text": "\"That's what I'm worried about.\"",
+      "start": 1436.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1438.2
+    },
+    {
+      "id": "p0261",
+      "text": "He fired at the valve. A tremendous burst of compressed steam erupted from the pipe. The room filled with white vapor. The camera rotated wildly. Chewbacca seized a length of exposed conduit and drove it into the door's locking mechanism. Metal shrieked. The door buckled. Then flew outward. Han grinned.",
+      "start": 1438.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1461.23
+    },
+    {
+      "id": "p0262",
+      "text": "\"See?\"",
+      "start": 1461.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1462.13
+    },
+    {
+      "id": "p0263",
+      "text": "Leia coughed through the steam.",
+      "start": 1462.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1464.66
+    },
+    {
+      "id": "p0264",
+      "text": "\"Wonderful. You've destroyed another door.\"",
+      "start": 1464.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1467.3
+    },
+    {
+      "id": "p0265",
+      "text": "\"Actually, Chewie destroyed it.\"",
+      "start": 1467.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1469.15
+    },
+    {
+      "id": "p0266",
+      "text": "The Wookiee gave a satisfied roar. They ran. The corridor beyond was empty. But somewhere in the distance, Leia heard machinery moving. Security droids. She recognized the sound. They reached the lift just as a black-armored machine rounded the far corner. Its optical sensor flashed red. Han fired. The bolt struck the droid's chest, sending it backward. Another appeared behind it. Then a third.",
+      "start": 1469.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1497.66
+    },
+    {
+      "id": "p0267",
+      "text": "\"Everybody in!\" Han shouted.",
+      "start": 1497.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1500.06
+    },
+    {
+      "id": "p0268",
+      "text": "Chewbacca ushered Orl into the lift. Leia followed. Han fired again. The droids returned fire. Red bolts struck the walls. The lift doors began closing. Too slowly. Leia raised her blaster and fired toward the nearest machine. It stumbled backward. The doors met. The lift began rising. For several seconds, nobody spoke. Then Han leaned against the wall.",
+      "start": 1500.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1529.27
+    },
+    {
+      "id": "p0269",
+      "text": "\"Well.\"",
+      "start": 1529.27,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1529.94
+    },
+    {
+      "id": "p0270",
+      "text": "Leia looked at him.",
+      "start": 1529.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1531.58
+    },
+    {
+      "id": "p0271",
+      "text": "\"Well?\"",
+      "start": 1531.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1532.36
+    },
+    {
+      "id": "p0272",
+      "text": "\"That was fun.\"",
+      "start": 1532.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1533.47
+    },
+    {
+      "id": "p0273",
+      "text": "Orl stared at him.",
+      "start": 1533.47,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1535.23
+    },
+    {
+      "id": "p0274",
+      "text": "\"General Solo, we were nearly killed.\"",
+      "start": 1535.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1538.36
+    },
+    {
+      "id": "p0275",
+      "text": "\"Yeah. That's usually how I know.\"",
+      "start": 1538.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1540.69
+    },
+    {
+      "id": "p0276",
+      "text": "Chewbacca laughed. Leia shook her head. But despite herself, she smiled. They returned to the palace shortly before evening. Inspector Orl immediately began comparing the recovered medical readings with known hospital records, while Alliance security officers prepared a second search of the lower levels. Leia instructed them to proceed carefully. If Darren had survived, someone had helped him.",
+      "start": 1540.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1567.02
+    },
+    {
+      "id": "p0277",
+      "text": "And if that person was hiding him from Veyr, sending armed security teams crashing through the undercity might accomplish exactly what their enemy wanted. Han agreed.",
+      "start": 1567.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1577.75
+    },
+    {
+      "id": "p0278",
+      "text": "\"Find the guy before somebody else does.\"",
+      "start": 1577.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1580.28
+    },
+    {
+      "id": "p0279",
+      "text": "Leia nodded.",
+      "start": 1580.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1581.64
+    },
+    {
+      "id": "p0280",
+      "text": "\"Exactly.\"",
+      "start": 1581.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1582.68
+    },
+    {
+      "id": "p0281",
+      "text": "She returned to her office. The city outside was beginning to glow with evening lights. For a moment, she stood beside the window. She remembered the day Darren had welcomed her to Coruscant. His polite manner. His careful words. The way he had moved the sleeping maintenance worker's tool case so she would not trip over it. Such a small kindness. She wondered how much of that had been real.",
+      "start": 1582.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1609.25
+    },
+    {
+      "id": "p0282",
+      "text": "How much had been the man he once was. And how much had been the result of the Emperor's conditioning. A soft chime sounded. Her terminal displayed a message from Inspector Orl. ADDITIONAL EVIDENCE RECOVERED. Leia opened it. The inspector had examined the platform's maintenance records more closely. The emergency repulsor field had been activated using Darren's credentials.",
+      "start": 1609.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1634.08
+    },
+    {
+      "id": "p0283",
+      "text": "But the work order had been filed three days before his apparent suicide. Three days. Long before Leia discovered the interrogation recording. Long before Darren lost control. She stared at the timestamp. Perhaps someone had known the command would be issued. Perhaps someone had prepared an escape. Or perhaps the instructions had been planted by the same people who wanted Darren to retrieve the prism.",
+      "start": 1634.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1660.93
+    },
+    {
+      "id": "p0284",
+      "text": "Then she noticed a second attachment. A still image from an old municipal surveillance camera. The image was blurred. Partially obscured by steam. But it showed the maintenance platform shortly after Darren's fall. Two figures stood near the emergency lift. One was upright. The other leaned heavily against the first. Leia enlarged the image. The upright figure wore a dark maintenance cloak. The injured figure wore a charcoal-gray uniform. Darren.",
+      "start": 1660.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1691.81
+    },
+    {
+      "id": "p0285",
+      "text": "He was alive. At least he had been alive when the image was recorded. Leia felt a surge of relief. Then she noticed something else. The person helping him was looking directly toward the camera. Their face was obscured. But one hand was visible. Raised toward the lens. Not waving. Not threatening. Two fingers extended. A gesture. Leia stared at it. She knew that gesture. She had seen it before.",
+      "start": 1691.81,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1721.92
+    },
+    {
+      "id": "p0286",
+      "text": "Years ago. Among people working secretly against the Empire. It had been used by certain resistance couriers to indicate that a message had been received and a route remained safe. Her father had taught it to her when she was young. Alderaanian resistance. Leia leaned closer. The figure lowered their hand. Then helped Darren into the lift. The recording ended. Leia sat back.",
+      "start": 1721.92,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1750.64
+    },
+    {
+      "id": "p0287",
+      "text": "Someone from her father's old network might still be operating on Coruscant. Someone who knew Darren. Someone who had prepared the repulsor field. Someone who had been waiting to help him escape. And someone who had deliberately left a signal for anyone who knew how to recognize it. Her terminal chimed again. A new message appeared. No sender. No authorization. Only a short sentence. THE CAPTAIN IS SAFE FOR NOW.",
+      "start": 1750.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1780.14
+    },
+    {
+      "id": "p0288",
+      "text": "Leia stared. A second line followed. DO NOT LET THE CUSTODIAN FIND HIM. Then the message vanished. Leia remained motionless. For the first time since Darren disappeared, she felt something stronger than hope. She felt certainty. He had survived. And whoever had helped him was afraid. She reached for her communicator.",
+      "start": 1780.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1803.73
+    },
+    {
+      "id": "p0289",
+      "text": "\"Han?\"",
+      "start": 1803.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1805.08
+    },
+    {
+      "id": "p0290",
+      "text": "His voice answered almost immediately.",
+      "start": 1805.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1807.63
+    },
+    {
+      "id": "p0291",
+      "text": "\"Yeah?\"",
+      "start": 1807.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1808.63
+    },
+    {
+      "id": "p0292",
+      "text": "\"I think we've found Darren.\"",
+      "start": 1808.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1810.38
+    },
+    {
+      "id": "p0293",
+      "text": "A pause.",
+      "start": 1810.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1811.5
+    },
+    {
+      "id": "p0294",
+      "text": "\"Alive?\"",
+      "start": 1811.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1812.51
+    },
+    {
+      "id": "p0295",
+      "text": "\"Yes.\"",
+      "start": 1812.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1813.45
+    },
+    {
+      "id": "p0296",
+      "text": "\"Where?\"",
+      "start": 1813.45,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1814.32
+    },
+    {
+      "id": "p0297",
+      "text": "She looked toward the city.",
+      "start": 1814.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1816.4
+    },
+    {
+      "id": "p0298",
+      "text": "\"Somewhere below us.\"",
+      "start": 1816.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1817.82
+    },
+    {
+      "id": "p0299",
+      "text": "She paused.",
+      "start": 1817.82,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1819.1
+    },
+    {
+      "id": "p0300",
+      "text": "\"And I think he's with friends.\"",
+      "start": 1819.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1820.79
+    },
+    {
+      "id": "p0301",
+      "text": "End of Chapter Fifteen.",
+      "start": 1820.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1822.47
+    }
+  ]
+}
