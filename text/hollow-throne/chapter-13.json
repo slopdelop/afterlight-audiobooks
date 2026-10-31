@@ -1,0 +1,2664 @@
+{
+  "version": 1,
+  "chapterId": "hollow-throne-13",
+  "duration": 2211.88,
+  "alignment": "Book paragraphs use synthesis boundaries and cached local Whisper word timestamps; unmatched starts are interpolated.",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "STAR WARS: THE HOLLOW THRONE",
+      "start": 0.0,
+      "timing": "segment",
+      "kind": "title",
+      "end": 2.76
+    },
+    {
+      "id": "p0002",
+      "text": "Chapter Thirteen: The Trap at Bespin",
+      "start": 2.76,
+      "timing": "segment",
+      "kind": "title",
+      "end": 6.0
+    },
+    {
+      "id": "p0003",
+      "text": "Palpatine Flashback IV — Imperial Palace, Coruscant",
+      "start": 6.0,
+      "timing": "segment",
+      "kind": "title",
+      "end": 10.8
+    },
+    {
+      "id": "p0004",
+      "text": "Three years after the Battle of Yavin.",
+      "start": 10.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 13.4
+    },
+    {
+      "id": "p0005",
+      "text": "The Emperor had been dreaming of a boy with a green lightsaber. This irritated him for two reasons. First, the boy did not yet possess a green lightsaber. Second, Emperor Palpatine did not ordinarily dream. For decades, he had trained himself to remain conscious during the shallow periods of rest his body required. Sleep was an inconvenience, a surrender of awareness that he considered both unnecessary and potentially dangerous.",
+      "start": 13.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 43.08
+    },
+    {
+      "id": "p0006",
+      "text": "His former master had possessed a less disciplined attitude toward the subject. Palpatine allowed himself a small smile at the memory. But tonight, something had disturbed his meditation. A young man stood upon a platform surrounded by darkness. His face was hidden, though Palpatine recognized the presence immediately. Luke Skywalker. The boy raised his weapon. A green blade ignited. Then, instead of attacking, he lowered it.",
+      "start": 43.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 72.32
+    },
+    {
+      "id": "p0007",
+      "text": "Somewhere beyond the platform, another figure stirred. Tall. Armored. Breathing through a mechanical respirator. Vader. Palpatine reached toward the vision, attempting to discover what followed. But the scene dissolved. He opened his eyes. The meditation chamber was empty. Through the immense windows beyond his desk, Coruscant glittered beneath its artificial night. Palpatine sat motionless.",
+      "start": 72.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 100.79
+    },
+    {
+      "id": "p0008",
+      "text": "Visions of the future were rarely straightforward. He had learned that long ago. They offered possibilities, fragments, glimpses of events that might never occur. Yet this particular vision troubled him. Not because Luke Skywalker was powerful. The boy's strength in the Force was already evident. What concerned Palpatine was the presence of Vader. The two were becoming increasingly aware of one another.",
+      "start": 100.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 129.19
+    },
+    {
+      "id": "p0009",
+      "text": "And that awareness could not be allowed to develop without his supervision. He reached toward the communications console.",
+      "start": 129.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 137.55
+    },
+    {
+      "id": "p0010",
+      "text": "\"Summon Mas Amedda.\"",
+      "start": 137.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 139.56
+    },
+    {
+      "id": "p0011",
+      "text": "The terminal acknowledged. Palpatine rose from his chair. It was time to remind his apprentice who commanded the Empire. The Executor had spent much of the previous week searching an asteroid field. Palpatine found this an extraordinary waste of resources. An entire Imperial fleet, commanded by Darth Vader himself, pursuing a single battered Corellian freighter. The Millennium Falcon.",
+      "start": 139.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 165.15
+    },
+    {
+      "id": "p0012",
+      "text": "The same vessel that had interfered with Vader's attack during the Battle of Yavin. The same vessel that had carried Obi-Wan Kenobi and Luke Skywalker away from Tatooine. Its captain, Han Solo, had become an increasingly persistent nuisance. Palpatine had examined the man's intelligence file several times. A smuggler. A gambler. A former Imperial cadet.",
+      "start": 165.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 189.43
+    },
+    {
+      "id": "p0013",
+      "text": "A pilot with a spectacular talent for escaping situations in which he should reasonably have been killed. The file described him as impulsive, opportunistic, and resistant to authority. Palpatine considered that assessment generous. More interesting was the company Solo had begun keeping. Princess Leia Organa. Alderaan's surviving princess. Bail Organa's adopted daughter. A prominent figure within the Rebel Alliance. And, of course, Luke Skywalker.",
+      "start": 189.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 221.91
+    },
+    {
+      "id": "p0014",
+      "text": "Three individuals whose paths had converged aboard a freighter in a disreputable cantina. Palpatine had studied their movements since Yavin. He knew about Hoth. He knew about the Rebel evacuation. He knew that Vader had nearly captured Solo's ship before it disappeared into the asteroid field. What he did not know was where Luke Skywalker had gone.",
+      "start": 221.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 245.54
+    },
+    {
+      "id": "p0015",
+      "text": "The boy had departed Hoth aboard an X-wing, accompanied only by an astromech droid. He had not joined the Rebel fleet. He had not returned to any known Alliance base. For several days, he had seemed to vanish. Yet Palpatine could feel him. Somewhere. Learning. Growing stronger. The Emperor disliked mysteries concerning the Force. He disliked them especially when they involved members of the Skywalker family.",
+      "start": 245.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 274.88
+    },
+    {
+      "id": "p0016",
+      "text": "\"Your Majesty.\"",
+      "start": 274.88,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 276.04
+    },
+    {
+      "id": "p0017",
+      "text": "Mas Amedda entered.",
+      "start": 276.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 277.8
+    },
+    {
+      "id": "p0018",
+      "text": "\"The communications channel is prepared.\"",
+      "start": 277.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 280.1
+    },
+    {
+      "id": "p0019",
+      "text": "\"Excellent.\"",
+      "start": 280.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 281.21
+    },
+    {
+      "id": "p0020",
+      "text": "\"Lord Vader has been instructed to withdraw his vessel from the asteroid field to establish a secure connection.\"",
+      "start": 281.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 287.56
+    },
+    {
+      "id": "p0021",
+      "text": "Palpatine smiled.",
+      "start": 287.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 289.19
+    },
+    {
+      "id": "p0022",
+      "text": "\"He will not enjoy that.\"",
+      "start": 289.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 290.9
+    },
+    {
+      "id": "p0023",
+      "text": "\"No, Majesty.\"",
+      "start": 290.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 292.18
+    },
+    {
+      "id": "p0024",
+      "text": "\"All the better.\"",
+      "start": 292.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 293.5
+    },
+    {
+      "id": "p0025",
+      "text": "Darth Vader appeared before him in a towering hologram. The Dark Lord knelt within his private chamber aboard the Executor. Even as a projection, Vader was imposing. His black armor reflected the faint blue light of the communications field, and the steady mechanical rhythm of his breathing filled the Emperor's chamber. Palpatine regarded him with satisfaction. Vader was still extraordinarily powerful.",
+      "start": 293.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 320.06
+    },
+    {
+      "id": "p0026",
+      "text": "Years of injury, anger, and humiliation had not diminished his usefulness. If anything, they had made him easier to direct. Yet recently, his thoughts had become less predictable. The boy was responsible. Palpatine allowed the silence to extend. Vader remained kneeling. At last the Emperor spoke.",
+      "start": 320.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 342.73
+    },
+    {
+      "id": "p0027",
+      "text": "\"There is a great disturbance in the Force.\"",
+      "start": 342.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 344.95
+    },
+    {
+      "id": "p0028",
+      "text": "Vader acknowledged that he had sensed it. Palpatine studied him. The answer had come quickly. Too quickly. The Emperor informed his apprentice that Luke Skywalker represented a new danger to their plans. The boy's power was growing, and his connection to Anakin Skywalker could not be dismissed. Vader questioned how such a connection could be possible. Palpatine nearly smiled. How indeed.",
+      "start": 344.95,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 372.26
+    },
+    {
+      "id": "p0029",
+      "text": "He had known the boy's identity since shortly after Yavin. Vader had learned it much later, and the discovery had disturbed him profoundly. Now his apprentice was pretending uncertainty. It was a poor performance. The Emperor considered exposing the deception. Instead, he permitted it. Vader argued that Luke remained young and inexperienced. With Obi-Wan Kenobi dead, the boy could scarcely become a serious threat. Palpatine disagreed.",
+      "start": 372.26,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 403.61
+    },
+    {
+      "id": "p0030",
+      "text": "Luke must never be permitted to complete his Jedi training. Then Vader proposed an alternative. The boy could be turned. His strength might serve the Empire rather than threaten it. Palpatine allowed a thoughtful pause. This was the answer he had expected. And feared. Vader wanted his son alive. The desire was carefully concealed beneath arguments about military usefulness, but its origin was unmistakable. Attachment.",
+      "start": 403.61,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 435.51
+    },
+    {
+      "id": "p0031",
+      "text": "The same weakness that had once driven Anakin Skywalker into Palpatine's service. Now it was threatening to draw him away. The Emperor expressed cautious approval. Luke's power would indeed be valuable, provided he could be made obedient. Vader promised to bring the boy into their service—or destroy him if necessary. Palpatine gave his consent. The hologram faded. For several seconds, the Emperor remained motionless. Then he laughed. Not loudly.",
+      "start": 435.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 468.11
+    },
+    {
+      "id": "p0032",
+      "text": "Only a quiet sound of genuine amusement.",
+      "start": 468.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 471.15
+    },
+    {
+      "id": "p0033",
+      "text": "\"Oh, Vader.\"",
+      "start": 471.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 472.57
+    },
+    {
+      "id": "p0034",
+      "text": "He shook his head.",
+      "start": 472.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 473.88
+    },
+    {
+      "id": "p0035",
+      "text": "\"You are becoming sentimental.\"",
+      "start": 473.88,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 476.73
+    },
+    {
+      "id": "p0036",
+      "text": "Sim Aloo was waiting outside. The adviser entered at the Emperor's summons, his elaborate purple robes trailing across the polished floor.",
+      "start": 476.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 486.65
+    },
+    {
+      "id": "p0037",
+      "text": "\"Your Majesty.\"",
+      "start": 486.65,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 488.12
+    },
+    {
+      "id": "p0038",
+      "text": "\"Lord Vader intends to turn the boy.\"",
+      "start": 488.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 490.9
+    },
+    {
+      "id": "p0039",
+      "text": "\"A desirable outcome, surely.\"",
+      "start": 490.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 493.31
+    },
+    {
+      "id": "p0040",
+      "text": "\"Perhaps.\"",
+      "start": 493.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 494.42
+    },
+    {
+      "id": "p0041",
+      "text": "Sim hesitated.",
+      "start": 494.42,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 496.07
+    },
+    {
+      "id": "p0042",
+      "text": "\"Majesty?\"",
+      "start": 496.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 497.25
+    },
+    {
+      "id": "p0043",
+      "text": "Palpatine rose and approached the window.",
+      "start": 497.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 499.93
+    },
+    {
+      "id": "p0044",
+      "text": "\"Tell me, Sim. Why does an apprentice seek to recruit another apprentice?\"",
+      "start": 499.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 504.85
+    },
+    {
+      "id": "p0045",
+      "text": "\"To strengthen the order?\"",
+      "start": 504.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 506.93
+    },
+    {
+      "id": "p0046",
+      "text": "\"Sometimes.\"",
+      "start": 506.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 508.22
+    },
+    {
+      "id": "p0047",
+      "text": "\"To ensure succession?\"",
+      "start": 508.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 510.06
+    },
+    {
+      "id": "p0048",
+      "text": "\"Occasionally.\"",
+      "start": 510.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 511.43
+    },
+    {
+      "id": "p0049",
+      "text": "Palpatine turned.",
+      "start": 511.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 513.2
+    },
+    {
+      "id": "p0050",
+      "text": "\"Or to obtain an ally against his master.\"",
+      "start": 513.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 516.23
+    },
+    {
+      "id": "p0051",
+      "text": "Sim lowered his eyes.",
+      "start": 516.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 518.23
+    },
+    {
+      "id": "p0052",
+      "text": "\"Of course.\"",
+      "start": 518.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 519.52
+    },
+    {
+      "id": "p0053",
+      "text": "\"Vader believes the boy might help him overthrow me.\"",
+      "start": 519.52,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 522.72
+    },
+    {
+      "id": "p0054",
+      "text": "The adviser looked alarmed.",
+      "start": 522.72,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 524.76
+    },
+    {
+      "id": "p0055",
+      "text": "\"Shall I arrange—\"",
+      "start": 524.76,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 526.69
+    },
+    {
+      "id": "p0056",
+      "text": "\"No.\"",
+      "start": 526.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 527.57
+    },
+    {
+      "id": "p0057",
+      "text": "Palpatine waved the suggestion away.",
+      "start": 527.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 530.43
+    },
+    {
+      "id": "p0058",
+      "text": "\"Vader has been considering my death for years. I would be disappointed if he had not.\"",
+      "start": 530.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 536.11
+    },
+    {
+      "id": "p0059",
+      "text": "He returned to his chair.",
+      "start": 536.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 538.11
+    },
+    {
+      "id": "p0060",
+      "text": "\"The question is whether he desires power strongly enough to risk losing his son.\"",
+      "start": 538.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 542.99
+    },
+    {
+      "id": "p0061",
+      "text": "Sim considered this.",
+      "start": 542.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 544.83
+    },
+    {
+      "id": "p0062",
+      "text": "\"And does he?\"",
+      "start": 544.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 546.17
+    },
+    {
+      "id": "p0063",
+      "text": "\"Not yet.\"",
+      "start": 546.17,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 547.24
+    },
+    {
+      "id": "p0064",
+      "text": "Palpatine smiled.",
+      "start": 547.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 548.92
+    },
+    {
+      "id": "p0065",
+      "text": "\"But we shall see.\"",
+      "start": 548.92,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 550.46
+    },
+    {
+      "id": "p0066",
+      "text": "He activated a holographic map of the galaxy. A small point glowed near the Outer Rim. The Bespin system.",
+      "start": 550.46,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 559.58
+    },
+    {
+      "id": "p0067",
+      "text": "\"Vader has employed bounty hunters to locate Solo's vessel. One of them, Boba Fett, has proved unusually resourceful.\"",
+      "start": 559.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 567.22
+    },
+    {
+      "id": "p0068",
+      "text": "\"Yes, Majesty. Intelligence believes he may have identified the freighter's destination.\"",
+      "start": 567.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 573.54
+    },
+    {
+      "id": "p0069",
+      "text": "\"Cloud City.\"",
+      "start": 573.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 574.86
+    },
+    {
+      "id": "p0070",
+      "text": "Sim looked surprised.",
+      "start": 574.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 576.78
+    },
+    {
+      "id": "p0071",
+      "text": "\"Your Majesty already knows?\"",
+      "start": 576.78,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 579.1
+    },
+    {
+      "id": "p0072",
+      "text": "\"Of course.\"",
+      "start": 579.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 580.22
+    },
+    {
+      "id": "p0073",
+      "text": "Palpatine touched the hologram. A floating city appeared above a giant planet.",
+      "start": 580.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 586.6
+    },
+    {
+      "id": "p0074",
+      "text": "\"An independent industrial settlement. Valuable gas-production facilities. A governor with a flexible understanding of the law.\"",
+      "start": 586.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 594.47
+    },
+    {
+      "id": "p0075",
+      "text": "\"Lando Calrissian.\"",
+      "start": 594.47,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 596.35
+    },
+    {
+      "id": "p0076",
+      "text": "\"Precisely.\"",
+      "start": 596.35,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 597.55
+    },
+    {
+      "id": "p0077",
+      "text": "The Emperor enlarged the image.",
+      "start": 597.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 599.98
+    },
+    {
+      "id": "p0078",
+      "text": "\"Vader will use Solo and Organa to lure Skywalker into a confrontation.\"",
+      "start": 599.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 604.56
+    },
+    {
+      "id": "p0079",
+      "text": "\"A sound strategy.\"",
+      "start": 604.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 606.87
+    },
+    {
+      "id": "p0080",
+      "text": "\"Yes.\"",
+      "start": 606.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 607.82
+    },
+    {
+      "id": "p0081",
+      "text": "Palpatine studied the city.",
+      "start": 607.82,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 609.95
+    },
+    {
+      "id": "p0082",
+      "text": "\"And a useful opportunity.\"",
+      "start": 609.95,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 611.95
+    },
+    {
+      "id": "p0083",
+      "text": "Sim frowned.",
+      "start": 611.95,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 613.39
+    },
+    {
+      "id": "p0084",
+      "text": "\"Majesty?\"",
+      "start": 613.39,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 614.67
+    },
+    {
+      "id": "p0085",
+      "text": "The Emperor turned toward him.",
+      "start": 614.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 616.61
+    },
+    {
+      "id": "p0086",
+      "text": "\"Tell the Custodian to prepare the Bespin laboratory.\"",
+      "start": 616.61,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 619.64
+    },
+    {
+      "id": "p0087",
+      "text": "The hologram of Veyr appeared an hour later. He was a narrow-faced human of indeterminate age, with dark hair beginning to gray at the temples and an expression of perpetual scholarly concentration. Unlike most Imperial officials, he wore no military insignia. His robes were simple. His manner respectful. Palpatine had always found this mildly suspicious. Men who possessed genuine humility rarely survived long in the Emperor's service.",
+      "start": 619.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 650.388
+    },
+    {
+      "id": "p0088",
+      "text": "Men who performed humility often had something to conceal.",
+      "start": 650.388,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 654.788
+    },
+    {
+      "id": "p0089",
+      "text": "\"Your Majesty.\"",
+      "start": 654.788,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 655.958
+    },
+    {
+      "id": "p0090",
+      "text": "\"Custodian.\"",
+      "start": 655.958,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 657.078
+    },
+    {
+      "id": "p0091",
+      "text": "\"I understand Lord Vader is approaching Bespin.\"",
+      "start": 657.078,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 659.848
+    },
+    {
+      "id": "p0092",
+      "text": "\"He is.\"",
+      "start": 659.848,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 660.898
+    },
+    {
+      "id": "p0093",
+      "text": "Veyr inclined his head.",
+      "start": 660.898,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 663.683
+    },
+    {
+      "id": "p0094",
+      "text": "\"The laboratory remains operational, although its principal research program has been dormant for several months.\"",
+      "start": 663.683,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 669.223
+    },
+    {
+      "id": "p0095",
+      "text": "\"Reactivate it.\"",
+      "start": 669.223,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 670.573
+    },
+    {
+      "id": "p0096",
+      "text": "\"Of course.\"",
+      "start": 670.573,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 671.713
+    },
+    {
+      "id": "p0097",
+      "text": "Palpatine studied him.",
+      "start": 671.713,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 673.473
+    },
+    {
+      "id": "p0098",
+      "text": "\"How long have you maintained that facility?\"",
+      "start": 673.473,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 676.273
+    },
+    {
+      "id": "p0099",
+      "text": "\"Approximately eleven years.\"",
+      "start": 676.273,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 678.243
+    },
+    {
+      "id": "p0100",
+      "text": "\"Before that?\"",
+      "start": 678.243,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 679.393
+    },
+    {
+      "id": "p0101",
+      "text": "\"The underlying research installations belonged to Damask Holdings.\"",
+      "start": 679.393,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 683.903
+    },
+    {
+      "id": "p0102",
+      "text": "The Emperor's eyes narrowed.",
+      "start": 683.903,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 686.273
+    },
+    {
+      "id": "p0103",
+      "text": "\"Yes. I remember.\"",
+      "start": 686.273,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 688.433
+    },
+    {
+      "id": "p0104",
+      "text": "Hego Damask. Darth Plagueis. His former master had possessed investments across half the Republic, frequently using them to conceal activities that would have attracted unwanted attention. Palpatine had spent years identifying and absorbing those assets after Plagueis's death. Some had been easy to locate. Others had proved more troublesome. The facility on Bespin had been among the latter.",
+      "start": 688.433,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 714.553
+    },
+    {
+      "id": "p0105",
+      "text": "Its ownership had passed through several companies before finally becoming part of the Emperor's private research network. Palpatine had never considered it especially important. Until recently.",
+      "start": 714.553,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 726.413
+    },
+    {
+      "id": "p0106",
+      "text": "\"What progress have you made?\" he asked.",
+      "start": 726.413,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 729.253
+    },
+    {
+      "id": "p0107",
+      "text": "Veyr activated a small diagram. A human brain appeared above the table, surrounded by intricate patterns of light.",
+      "start": 729.253,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 737.355
+    },
+    {
+      "id": "p0108",
+      "text": "\"We have achieved substantial improvements in memory preservation during induced physical suspension.\"",
+      "start": 737.355,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 742.325
+    },
+    {
+      "id": "p0109",
+      "text": "\"And behavioral conditioning?\"",
+      "start": 742.325,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 744.395
+    },
+    {
+      "id": "p0110",
+      "text": "\"Less satisfactory.\"",
+      "start": 744.395,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 746.005
+    },
+    {
+      "id": "p0111",
+      "text": "\"Explain.\"",
+      "start": 746.005,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 747.125
+    },
+    {
+      "id": "p0112",
+      "text": "\"Subjects retain awareness of externally imposed instructions.\"",
+      "start": 747.125,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 750.865
+    },
+    {
+      "id": "p0113",
+      "text": "\"That is not a new problem.\"",
+      "start": 750.865,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 752.755
+    },
+    {
+      "id": "p0114",
+      "text": "\"No, Majesty.\"",
+      "start": 752.755,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 754.085
+    },
+    {
+      "id": "p0115",
+      "text": "\"Then why have you not solved it?\"",
+      "start": 754.085,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 756.185
+    },
+    {
+      "id": "p0116",
+      "text": "Veyr hesitated.",
+      "start": 756.185,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 758.293
+    },
+    {
+      "id": "p0117",
+      "text": "\"Because the difficulty may be inherent in the process.\"",
+      "start": 758.293,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 761.323
+    },
+    {
+      "id": "p0118",
+      "text": "Palpatine leaned forward.",
+      "start": 761.323,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 763.243
+    },
+    {
+      "id": "p0119",
+      "text": "\"Choose your next words carefully.\"",
+      "start": 763.243,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 765.303
+    },
+    {
+      "id": "p0120",
+      "text": "The scientist bowed his head.",
+      "start": 765.303,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 767.293
+    },
+    {
+      "id": "p0121",
+      "text": "\"We can suppress particular memories. We can reinforce obedience. We can associate commands with emotional responses. But the more completely we attempt to eliminate a subject's independent identity, the more we damage the abilities Your Majesty wishes to preserve.\"",
+      "start": 767.293,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 782.463
+    },
+    {
+      "id": "p0122",
+      "text": "\"Then preserve the identity.\"",
+      "start": 782.463,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 785.153
+    },
+    {
+      "id": "p0123",
+      "text": "Veyr looked up.",
+      "start": 785.153,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 787.115
+    },
+    {
+      "id": "p0124",
+      "text": "\"Majesty?\"",
+      "start": 787.115,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 788.155
+    },
+    {
+      "id": "p0125",
+      "text": "\"Leave the memories intact. Remove the capacity to refuse.\"",
+      "start": 788.155,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 792.835
+    },
+    {
+      "id": "p0126",
+      "text": "\"We have attempted that.\"",
+      "start": 792.835,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 794.245
+    },
+    {
+      "id": "p0127",
+      "text": "\"And?\"",
+      "start": 794.245,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 795.145
+    },
+    {
+      "id": "p0128",
+      "text": "\"The subjects become unstable.\"",
+      "start": 795.145,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 797.385
+    },
+    {
+      "id": "p0129",
+      "text": "Palpatine regarded him coldly.",
+      "start": 797.385,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 799.875
+    },
+    {
+      "id": "p0130",
+      "text": "\"An unsatisfactory answer.\"",
+      "start": 799.875,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 802.195
+    },
+    {
+      "id": "p0131",
+      "text": "Veyr clasped his hands.",
+      "start": 802.195,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 804.92
+    },
+    {
+      "id": "p0132",
+      "text": "\"Your Majesty, there may be another approach.\"",
+      "start": 804.92,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 807.74
+    },
+    {
+      "id": "p0133",
+      "text": "\"Go on.\"",
+      "start": 807.74,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 808.74
+    },
+    {
+      "id": "p0134",
+      "text": "\"Rather than removing emotional attachments, we may be able to redirect them.\"",
+      "start": 808.74,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 812.95
+    },
+    {
+      "id": "p0135",
+      "text": "Palpatine considered the proposal.",
+      "start": 812.95,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 815.6
+    },
+    {
+      "id": "p0136",
+      "text": "\"A prisoner obeys because he believes the command originates from someone he trusts.\"",
+      "start": 815.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 820.73
+    },
+    {
+      "id": "p0137",
+      "text": "\"Precisely.\"",
+      "start": 820.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 821.85
+    },
+    {
+      "id": "p0138",
+      "text": "\"A parent. A spouse. A friend.\"",
+      "start": 821.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 825.4
+    },
+    {
+      "id": "p0139",
+      "text": "\"Or from himself.\"",
+      "start": 825.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 826.74
+    },
+    {
+      "id": "p0140",
+      "text": "The Emperor smiled faintly.",
+      "start": 826.74,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 829.02
+    },
+    {
+      "id": "p0141",
+      "text": "\"Interesting.\"",
+      "start": 829.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 830.32
+    },
+    {
+      "id": "p0142",
+      "text": "Veyr inclined his head.",
+      "start": 830.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 833.138
+    },
+    {
+      "id": "p0143",
+      "text": "\"The voice-reconstruction work has made considerable progress.\"",
+      "start": 833.138,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 836.688
+    },
+    {
+      "id": "p0144",
+      "text": "\"Yes. I have read your reports.\"",
+      "start": 836.688,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 839.568
+    },
+    {
+      "id": "p0145",
+      "text": "\"Then you understand the possibilities.\"",
+      "start": 839.568,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 841.948
+    },
+    {
+      "id": "p0146",
+      "text": "\"I understand them very well, Custodian.\"",
+      "start": 841.948,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 844.488
+    },
+    {
+      "id": "p0147",
+      "text": "Palpatine's expression hardened.",
+      "start": 844.488,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 846.958
+    },
+    {
+      "id": "p0148",
+      "text": "\"Which is why you will continue to observe the restrictions I imposed.\"",
+      "start": 846.958,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 850.698
+    },
+    {
+      "id": "p0149",
+      "text": "Veyr bowed.",
+      "start": 850.698,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 852.858
+    },
+    {
+      "id": "p0150",
+      "text": "\"Naturally.\"",
+      "start": 852.858,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 854.018
+    },
+    {
+      "id": "p0151",
+      "text": "\"No reconstruction of my voice. No reproduction of my command credentials. No autonomous transmission system capable of issuing orders without explicit authorization.\"",
+      "start": 854.018,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 863.848
+    },
+    {
+      "id": "p0152",
+      "text": "\"Understood.\"",
+      "start": 863.848,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 864.918
+    },
+    {
+      "id": "p0153",
+      "text": "Palpatine watched him carefully.",
+      "start": 864.918,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 867.428
+    },
+    {
+      "id": "p0154",
+      "text": "\"Now. Bespin.\"",
+      "start": 867.428,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 869.738
+    },
+    {
+      "id": "p0155",
+      "text": "The scientist activated a diagram of Cloud City's industrial levels. The carbon-freezing facility appeared beside the laboratory.",
+      "start": 869.738,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 878.418
+    },
+    {
+      "id": "p0156",
+      "text": "\"Lord Vader intends to preserve a prisoner in carbonite,\" Palpatine said. \"Your equipment will monitor the procedure.\"",
+      "start": 878.418,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 886.028
+    },
+    {
+      "id": "p0157",
+      "text": "Veyr looked intrigued.",
+      "start": 886.028,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 888.58
+    },
+    {
+      "id": "p0158",
+      "text": "\"The prisoner?\"",
+      "start": 888.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 889.62
+    },
+    {
+      "id": "p0159",
+      "text": "\"Han Solo.\"",
+      "start": 889.62,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 890.98
+    },
+    {
+      "id": "p0160",
+      "text": "\"A smuggler?\"",
+      "start": 890.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 892.09
+    },
+    {
+      "id": "p0161",
+      "text": "\"A useful one.\"",
+      "start": 892.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 893.37
+    },
+    {
+      "id": "p0162",
+      "text": "\"Why him?\"",
+      "start": 893.37,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 894.37
+    },
+    {
+      "id": "p0163",
+      "text": "\"Because Vader has chosen him.\"",
+      "start": 894.37,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 896.57
+    },
+    {
+      "id": "p0164",
+      "text": "Veyr waited. Palpatine smiled.",
+      "start": 896.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 900.485
+    },
+    {
+      "id": "p0165",
+      "text": "\"That should be sufficient.\"",
+      "start": 900.485,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 902.125
+    },
+    {
+      "id": "p0166",
+      "text": "The Emperor did not explain further. There was no need. He knew that Vader intended to use Solo as a test subject before attempting to freeze Luke Skywalker. The plan was crude but practical. A frozen prisoner could be transported safely, provided the process did not kill him. And if the procedure succeeded, Vader would possess a means of delivering the boy to Coruscant without risking further resistance.",
+      "start": 902.125,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 928.025
+    },
+    {
+      "id": "p0167",
+      "text": "Palpatine approved of the idea. He also recognized an opportunity to examine something else. Leia Organa. She had become increasingly important to the Rebellion. Her political influence was considerable, and her relationship with Solo had apparently grown more intimate during the months since Hoth. Palpatine had studied the intelligence reports with mild amusement. A princess and a smuggler. An unlikely pairing. Yet such relationships were often useful.",
+      "start": 928.025,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 961.185
+    },
+    {
+      "id": "p0168",
+      "text": "People in love were remarkably predictable when threatened with separation. He had exploited that weakness in Anakin Skywalker. Now he intended to learn whether it might serve the Hollow Throne project.",
+      "start": 961.185,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 974.805
+    },
+    {
+      "id": "p0169",
+      "text": "\"Observe Solo's preservation,\" he instructed Veyr. \"But give particular attention to the reactions of those who witness it.\"",
+      "start": 974.805,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 983.043
+    },
+    {
+      "id": "p0170",
+      "text": "\"Organa?\"",
+      "start": 983.043,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 984.173
+    },
+    {
+      "id": "p0171",
+      "text": "\"Among others.\"",
+      "start": 984.173,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 985.533
+    },
+    {
+      "id": "p0172",
+      "text": "\"Shall we attempt direct conditioning?\"",
+      "start": 985.533,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 987.843
+    },
+    {
+      "id": "p0173",
+      "text": "\"No.\"",
+      "start": 987.843,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 988.843
+    },
+    {
+      "id": "p0174",
+      "text": "Palpatine's answer was immediate.",
+      "start": 988.843,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 991.223
+    },
+    {
+      "id": "p0175",
+      "text": "\"She is not a prisoner of the Witness program. Any interference could disrupt Vader's operation.\"",
+      "start": 991.223,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 996.743
+    },
+    {
+      "id": "p0176",
+      "text": "\"Understood.\"",
+      "start": 996.743,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 997.823
+    },
+    {
+      "id": "p0177",
+      "text": "\"Observe only.\"",
+      "start": 997.823,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 999.433
+    },
+    {
+      "id": "p0178",
+      "text": "Veyr bowed.",
+      "start": 999.433,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1001.615
+    },
+    {
+      "id": "p0179",
+      "text": "\"And report your findings directly to me.\"",
+      "start": 1001.615,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1004.285
+    },
+    {
+      "id": "p0180",
+      "text": "The hologram vanished. Palpatine leaned back. A smuggler. A princess. A boy with the power of a Jedi. His apprentice was arranging a most interesting gathering. Three days later, the first report arrived. Vader had reached Cloud City. Boba Fett's information had proved accurate. The Millennium Falcon was undergoing repairs, and its occupants had been welcomed by Administrator Calrissian. Palpatine read the report with satisfaction.",
+      "start": 1004.285,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1033.565
+    },
+    {
+      "id": "p0181",
+      "text": "Then he reached the final paragraph. Calrissian has accepted the terms of Imperial cooperation. The Emperor smiled. He had encountered men like Lando Calrissian many times. Resourceful. Charming. Convinced that every difficulty could be solved through negotiation. Vader would exploit that optimism until the administrator had nothing left to offer. Then he would discard him. Palpatine approved.",
+      "start": 1033.565,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1061.325
+    },
+    {
+      "id": "p0182",
+      "text": "A second report confirmed that Leia Organa and Han Solo had been taken into custody. A third indicated that Solo had been interrogated. The Emperor glanced at the transcript. There were no questions. Only descriptions of pain. Palpatine understood. Vader was reaching through the Force, attempting to provoke a response from Luke. The boy would feel his friends suffering. He would abandon caution. He would come.",
+      "start": 1061.325,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1089.075
+    },
+    {
+      "id": "p0183",
+      "text": "It was precisely the sort of trap Palpatine might have designed himself. Yet one detail troubled him. Vader had requested that Organa and Solo remain alive. The tactical justification was sound. But the Emperor sensed something more complicated. His apprentice had been watching the relationship between the two prisoners. Perhaps it reminded him of something. Someone. Palpatine closed the report. Padmé Amidala had been dead for more than twenty years.",
+      "start": 1089.075,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1120.115
+    },
+    {
+      "id": "p0184",
+      "text": "Yet her memory continued to inconvenience him. The carbon-freezing experiment began shortly afterward. Palpatine observed it from Coruscant through an encrypted relay connected directly to the Bespin laboratory. The recording showed the industrial chamber. Steam drifted between enormous pipes. Imperial technicians moved around the central platform. Darth Vader stood beside the freezing apparatus. Han Solo was brought forward. Palpatine watched with detached interest. The smuggler appeared battered but defiant.",
+      "start": 1120.115,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1155.715
+    },
+    {
+      "id": "p0185",
+      "text": "He had been tortured. He knew he was about to be frozen. Yet he continued displaying an almost irritating confidence. Palpatine wondered whether the man was extraordinarily brave or simply incapable of understanding the seriousness of his situation. Then Leia Organa stepped forward. She was restrained by Imperial guards. Her face was drawn with fear. But her eyes remained fixed upon Solo. Palpatine leaned closer.",
+      "start": 1155.715,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1184.405
+    },
+    {
+      "id": "p0186",
+      "text": "The two exchanged a few words. A brief confession of love. An answer so understated that it might almost have been a joke. Then the platform descended. Steam erupted. The machinery roared. And Han Solo disappeared into carbonite. Palpatine watched the princess. Her expression changed. For an instant, she appeared completely overwhelmed. Then something unexpected happened. She straightened. Not because she had ceased to grieve.",
+      "start": 1184.405,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1215.345
+    },
+    {
+      "id": "p0187",
+      "text": "Not because she had accepted defeat. But because she was still herself. Even in that moment. Even with the man she loved taken from her. Palpatine frowned.",
+      "start": 1215.345,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1228.815
+    },
+    {
+      "id": "p0188",
+      "text": "\"Interesting.\"",
+      "start": 1228.815,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1229.975
+    },
+    {
+      "id": "p0189",
+      "text": "Veyr's report arrived within minutes. The scientist appeared in a hologram beside a complex series of physiological readings.",
+      "start": 1229.975,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1238.215
+    },
+    {
+      "id": "p0190",
+      "text": "\"Your Majesty. The primary subject survived the preservation process.\"",
+      "start": 1238.215,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1243.225
+    },
+    {
+      "id": "p0191",
+      "text": "\"Excellent.\"",
+      "start": 1243.225,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1244.975
+    },
+    {
+      "id": "p0192",
+      "text": "\"His memories and neurological structure appear intact.\"",
+      "start": 1244.975,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1248.185
+    },
+    {
+      "id": "p0193",
+      "text": "\"Very good.\"",
+      "start": 1248.185,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1249.515
+    },
+    {
+      "id": "p0194",
+      "text": "\"However, the secondary observation produced an unexpected result.\"",
+      "start": 1249.515,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1253.135
+    },
+    {
+      "id": "p0195",
+      "text": "Palpatine looked up.",
+      "start": 1253.135,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1254.775
+    },
+    {
+      "id": "p0196",
+      "text": "\"Organa?\"",
+      "start": 1254.775,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1255.905
+    },
+    {
+      "id": "p0197",
+      "text": "\"Yes.\"",
+      "start": 1255.905,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1256.785
+    },
+    {
+      "id": "p0198",
+      "text": "Veyr expanded the display. A series of waveforms appeared.",
+      "start": 1256.785,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1262.1
+    },
+    {
+      "id": "p0199",
+      "text": "\"Her emotional response was considerably stronger than our models predicted.\"",
+      "start": 1262.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1266.06
+    },
+    {
+      "id": "p0200",
+      "text": "\"She loves the man.\"",
+      "start": 1266.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1267.66
+    },
+    {
+      "id": "p0201",
+      "text": "\"That alone does not explain the readings.\"",
+      "start": 1267.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1270.16
+    },
+    {
+      "id": "p0202",
+      "text": "Palpatine studied the graphs.",
+      "start": 1270.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1272.32
+    },
+    {
+      "id": "p0203",
+      "text": "\"Then what does?\"",
+      "start": 1272.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1273.75
+    },
+    {
+      "id": "p0204",
+      "text": "\"We detected a persistent pattern of neurological activity associated with the moment immediately preceding Solo's preservation.\"",
+      "start": 1273.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1280.39
+    },
+    {
+      "id": "p0205",
+      "text": "\"And?\"",
+      "start": 1280.39,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1281.29
+    },
+    {
+      "id": "p0206",
+      "text": "\"The pattern did not diminish when visual contact was lost.\"",
+      "start": 1281.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1284.69
+    },
+    {
+      "id": "p0207",
+      "text": "\"Memory.\"",
+      "start": 1284.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1285.72
+    },
+    {
+      "id": "p0208",
+      "text": "\"Possibly.\"",
+      "start": 1285.72,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1286.81
+    },
+    {
+      "id": "p0209",
+      "text": "Veyr hesitated.",
+      "start": 1286.81,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1288.94
+    },
+    {
+      "id": "p0210",
+      "text": "\"Your Majesty, there is something else.\"",
+      "start": 1288.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1291.89
+    },
+    {
+      "id": "p0211",
+      "text": "Palpatine's expression hardened.",
+      "start": 1291.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1294.21
+    },
+    {
+      "id": "p0212",
+      "text": "\"Speak.\"",
+      "start": 1294.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1295.25
+    },
+    {
+      "id": "p0213",
+      "text": "\"We had three conditioned subjects undergoing routine evaluations in the adjoining laboratory.\"",
+      "start": 1295.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1300.23
+    },
+    {
+      "id": "p0214",
+      "text": "\"Why?\"",
+      "start": 1300.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1301.31
+    },
+    {
+      "id": "p0215",
+      "text": "\"Standard comparative testing. Their responses were being monitored while the freezing procedure was conducted.\"",
+      "start": 1301.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1307.85
+    },
+    {
+      "id": "p0216",
+      "text": "\"And?\"",
+      "start": 1307.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1308.82
+    },
+    {
+      "id": "p0217",
+      "text": "\"At the moment Organa expressed her attachment to Solo, two of the subjects demonstrated sudden resistance to established commands.\"",
+      "start": 1308.82,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1316.0
+    },
+    {
+      "id": "p0218",
+      "text": "Palpatine became still.",
+      "start": 1316.0,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1318.14
+    },
+    {
+      "id": "p0219",
+      "text": "\"Explain.\"",
+      "start": 1318.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1319.37
+    },
+    {
+      "id": "p0220",
+      "text": "\"One subject refused an instruction he had obeyed successfully for six months. Another began recalling memories previously suppressed during conditioning.\"",
+      "start": 1319.37,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1327.43
+    },
+    {
+      "id": "p0221",
+      "text": "\"Coincidence.\"",
+      "start": 1327.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1328.83
+    },
+    {
+      "id": "p0222",
+      "text": "\"That was our initial assessment.\"",
+      "start": 1328.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1330.71
+    },
+    {
+      "id": "p0223",
+      "text": "\"But?\"",
+      "start": 1330.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1331.54
+    },
+    {
+      "id": "p0224",
+      "text": "\"The third subject spoke.\"",
+      "start": 1331.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1333.37
+    },
+    {
+      "id": "p0225",
+      "text": "Palpatine stared at the scientist.",
+      "start": 1333.37,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1336.17
+    },
+    {
+      "id": "p0226",
+      "text": "\"Subjects frequently speak, Custodian. It is one of the few abilities I continue to find useful.\"",
+      "start": 1336.17,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1342.14
+    },
+    {
+      "id": "p0227",
+      "text": "Veyr did not smile.",
+      "start": 1342.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1344.485
+    },
+    {
+      "id": "p0228",
+      "text": "\"The third subject had not spoken voluntarily for eleven months.\"",
+      "start": 1344.485,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1348.265
+    },
+    {
+      "id": "p0229",
+      "text": "The Emperor waited.",
+      "start": 1348.265,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1349.705
+    },
+    {
+      "id": "p0230",
+      "text": "\"What did he say?\"",
+      "start": 1349.705,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1351.215
+    },
+    {
+      "id": "p0231",
+      "text": "Veyr looked toward someone outside the hologram. A technician handed him a data cylinder.",
+      "start": 1351.215,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1357.518
+    },
+    {
+      "id": "p0232",
+      "text": "\"The words were unusual.\"",
+      "start": 1357.518,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1359.398
+    },
+    {
+      "id": "p0233",
+      "text": "\"Then let me hear them.\"",
+      "start": 1359.398,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1361.078
+    },
+    {
+      "id": "p0234",
+      "text": "The scientist activated the recording. A man's voice emerged from the speaker. Weak. Unsteady. But unmistakably conscious.",
+      "start": 1361.078,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1371.788
+    },
+    {
+      "id": "p0235",
+      "text": "\"I remember the garden.\"",
+      "start": 1371.788,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1373.288
+    },
+    {
+      "id": "p0236",
+      "text": "Palpatine felt something cold settle beneath his ribs. For several seconds, he did not move. Then he spoke.",
+      "start": 1373.288,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1381.938
+    },
+    {
+      "id": "p0237",
+      "text": "\"Play it again.\"",
+      "start": 1381.938,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1383.138
+    },
+    {
+      "id": "p0238",
+      "text": "The recording repeated.",
+      "start": 1383.138,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1384.978
+    },
+    {
+      "id": "p0239",
+      "text": "\"I remember the garden.\"",
+      "start": 1384.978,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1386.478
+    },
+    {
+      "id": "p0240",
+      "text": "The Emperor stared at the empty space above his desk. He had heard those words before. Decades earlier. In the laboratory of Darth Plagueis. The night his master died. Palpatine dismissed Veyr without explanation. The scientist had seemed disappointed. The Emperor did not care. He crossed the room and opened a private cabinet beneath his desk. Inside stood a collection of old data cylinders.",
+      "start": 1386.478,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1413.408
+    },
+    {
+      "id": "p0241",
+      "text": "Most contained records recovered from Plagueis's estate. He had destroyed the most dangerous materials. Or believed he had. But certain research files had proved useful enough to preserve. He selected one. A recording appeared. A woman's voice. Soft. Unfamiliar.",
+      "start": 1413.408,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1432.758
+    },
+    {
+      "id": "p0242",
+      "text": "\"I remember the garden.\"",
+      "start": 1432.758,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1434.348
+    },
+    {
+      "id": "p0243",
+      "text": "Palpatine stared. He remembered the demonstration clearly. Plagueis had reconstructed the voice of a woman who had died decades earlier. Her husband had supposedly supplied the memory. Yet the recording contained words he claimed never to have heard. Palpatine had dismissed the experiment as an elaborate curiosity. Now, twenty years later, a conditioned prisoner on Bespin had spoken the same sentence. Palpatine activated the recording again.",
+      "start": 1434.348,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1462.788
+    },
+    {
+      "id": "p0244",
+      "text": "The woman's voice repeated the words. Then he replayed the new recording from Bespin. The man's voice. Different accent. Different age. Different emotional state. The same sentence. He compared the audio patterns. They were not identical. Nor should they have been. The second subject had not been reproducing the first woman's voice. He had produced the words independently. Palpatine leaned back. There were several possible explanations.",
+      "start": 1462.788,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1492.878
+    },
+    {
+      "id": "p0245",
+      "text": "The phrase might have been included in the research materials inherited by the Custodian. It might have been used during conditioning. It might simply have been a coincidence. But Palpatine disliked coincidences. Especially those involving Darth Plagueis. He summoned Sim Aloo. The adviser arrived carrying a collection of administrative reports.",
+      "start": 1492.878,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1516.288
+    },
+    {
+      "id": "p0246",
+      "text": "\"Your Majesty.\"",
+      "start": 1516.288,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1517.688
+    },
+    {
+      "id": "p0247",
+      "text": "\"Find every surviving reference to the original Witness Zero experiments.\"",
+      "start": 1517.688,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1522.188
+    },
+    {
+      "id": "p0248",
+      "text": "Sim stopped.",
+      "start": 1522.188,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1523.628
+    },
+    {
+      "id": "p0249",
+      "text": "\"Majesty?\"",
+      "start": 1523.628,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1524.928
+    },
+    {
+      "id": "p0250",
+      "text": "\"You heard me.\"",
+      "start": 1524.928,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1526.128
+    },
+    {
+      "id": "p0251",
+      "text": "\"Of course.\"",
+      "start": 1526.128,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1527.368
+    },
+    {
+      "id": "p0252",
+      "text": "\"Begin with the materials recovered from Damask Holdings.\"",
+      "start": 1527.368,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1530.978
+    },
+    {
+      "id": "p0253",
+      "text": "\"That archive is extensive.\"",
+      "start": 1530.978,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1533.588
+    },
+    {
+      "id": "p0254",
+      "text": "\"Then I suggest you begin immediately.\"",
+      "start": 1533.588,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1536.418
+    },
+    {
+      "id": "p0255",
+      "text": "Sim bowed. Palpatine regarded him.",
+      "start": 1536.418,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1539.538
+    },
+    {
+      "id": "p0256",
+      "text": "\"And Sim?\"",
+      "start": 1539.538,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1540.738
+    },
+    {
+      "id": "p0257",
+      "text": "\"Yes?\"",
+      "start": 1540.738,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1541.858
+    },
+    {
+      "id": "p0258",
+      "text": "\"No one outside my private household is to know what you are searching for.\"",
+      "start": 1541.858,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1545.968
+    },
+    {
+      "id": "p0259",
+      "text": "\"Understood.\"",
+      "start": 1545.968,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1547.268
+    },
+    {
+      "id": "p0260",
+      "text": "The adviser turned to leave. Then hesitated.",
+      "start": 1547.268,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1550.738
+    },
+    {
+      "id": "p0261",
+      "text": "\"Majesty, may I ask what has prompted this investigation?\"",
+      "start": 1550.738,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1554.998
+    },
+    {
+      "id": "p0262",
+      "text": "Palpatine smiled.",
+      "start": 1554.998,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1556.678
+    },
+    {
+      "id": "p0263",
+      "text": "\"You may.\"",
+      "start": 1556.678,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1557.758
+    },
+    {
+      "id": "p0264",
+      "text": "Sim waited. The Emperor continued smiling. After several uncomfortable seconds, the adviser lowered his head.",
+      "start": 1557.758,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1565.718
+    },
+    {
+      "id": "p0265",
+      "text": "\"Of course.\"",
+      "start": 1565.718,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1567.118
+    },
+    {
+      "id": "p0266",
+      "text": "He withdrew. Palpatine watched the door close. Then he returned to the Bespin reports. The conditioned subjects had resisted commands. One had recovered a memory. Another had spoken words associated with his former master's research. And all of it had occurred during an experiment involving two ordinary prisoners whose attachment to one another appeared unusually strong. The Emperor considered the possibilities. Perhaps the process was not failing.",
+      "start": 1567.118,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1597.388
+    },
+    {
+      "id": "p0267",
+      "text": "Perhaps his researchers had discovered something about the limits of their own control. Something connected to memory. Attachment. Identity. Or perhaps something older had been waiting inside the machinery all along. He did not like that possibility. Not at all. The final report from Bespin arrived several hours later. Luke Skywalker had escaped. Palpatine read the message twice. Vader had confronted the boy inside Cloud City's industrial levels.",
+      "start": 1597.388,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1629.108
+    },
+    {
+      "id": "p0268",
+      "text": "A lightsaber duel had followed. The boy had been injured. Then he had fallen into the enormous shaft beneath the city. His body had not been recovered. Palpatine frowned. Another vanished body. The Empire possessed an extraordinary talent for losing important people in inconvenient places. He examined the accompanying communications report. Vader had ordered the search continued. Then, shortly afterward, the Millennium Falcon had escaped. Again.",
+      "start": 1629.108,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1660.738
+    },
+    {
+      "id": "p0269",
+      "text": "The Emperor stared at the final entry. Hyperdrive sabotage unsuccessful. Rebel vessel departed the Bespin system. He closed his eyes. For a moment, he felt Vader through the Force. Anger. Humiliation. And something else. A terrible, desperate yearning. Palpatine recognized it immediately. His apprentice had spoken to the boy. Not merely fought him. Spoken. There were no surviving recordings of the conversation.",
+      "start": 1660.738,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1690.928
+    },
+    {
+      "id": "p0270",
+      "text": "The duel had moved beyond the range of the industrial surveillance system, and Vader had disabled several local communications channels during the pursuit. But Palpatine did not need a recording. He knew Vader. He knew the temptation. He knew what a father might offer a son when he believed he had finally found him. Power. A future together. The chance to overthrow the Emperor. Palpatine smiled. So.",
+      "start": 1690.928,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1719.158
+    },
+    {
+      "id": "p0271",
+      "text": "Vader had made his move. And the boy had refused. That was useful information. Very useful indeed. The Emperor summoned his apprentice that evening. Vader appeared in the hologram. He knelt. Palpatine let the silence extend.",
+      "start": 1719.158,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1735.718
+    },
+    {
+      "id": "p0272",
+      "text": "\"You have failed to secure Skywalker.\"",
+      "start": 1735.718,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1738.248
+    },
+    {
+      "id": "p0273",
+      "text": "\"Yes, my master.\"",
+      "start": 1738.248,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1740.018
+    },
+    {
+      "id": "p0274",
+      "text": "\"The boy escaped.\"",
+      "start": 1740.018,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1741.298
+    },
+    {
+      "id": "p0275",
+      "text": "\"He was aided by the Rebels.\"",
+      "start": 1741.298,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1743.288
+    },
+    {
+      "id": "p0276",
+      "text": "\"How unfortunate.\"",
+      "start": 1743.288,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1745.058
+    },
+    {
+      "id": "p0277",
+      "text": "Vader remained motionless. Palpatine studied him. The Dark Lord's anger was considerable. But beneath it lay something far more interesting. Pain. Not physical pain. Not the familiar suffering maintained by his armor. Something deeper. The boy had rejected him. Palpatine found the thought delicious.",
+      "start": 1745.058,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1767.658
+    },
+    {
+      "id": "p0278",
+      "text": "\"Tell me what occurred.\"",
+      "start": 1767.658,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1769.448
+    },
+    {
+      "id": "p0279",
+      "text": "Vader described the duel. The industrial chamber. The pursuit. The boy's injuries. His fall. Palpatine listened. The account was accurate as far as it went. But it omitted something.",
+      "start": 1769.448,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1782.708
+    },
+    {
+      "id": "p0280",
+      "text": "\"Did Skywalker speak to you?\"",
+      "start": 1782.708,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1784.548
+    },
+    {
+      "id": "p0281",
+      "text": "A pause.",
+      "start": 1784.548,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1785.698
+    },
+    {
+      "id": "p0282",
+      "text": "\"Yes, my master.\"",
+      "start": 1785.698,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1787.538
+    },
+    {
+      "id": "p0283",
+      "text": "\"About what?\"",
+      "start": 1787.538,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1788.728
+    },
+    {
+      "id": "p0284",
+      "text": "\"His training. The Jedi.\"",
+      "start": 1788.728,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1790.908
+    },
+    {
+      "id": "p0285",
+      "text": "Palpatine smiled.",
+      "start": 1790.908,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1792.668
+    },
+    {
+      "id": "p0286",
+      "text": "\"Nothing else?\"",
+      "start": 1792.668,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1793.908
+    },
+    {
+      "id": "p0287",
+      "text": "Another pause.",
+      "start": 1793.908,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1795.228
+    },
+    {
+      "id": "p0288",
+      "text": "\"He refused my offer.\"",
+      "start": 1795.228,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1797.138
+    },
+    {
+      "id": "p0289",
+      "text": "\"Your offer?\"",
+      "start": 1797.138,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1798.338
+    },
+    {
+      "id": "p0290",
+      "text": "\"To join the dark side.\"",
+      "start": 1798.338,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1800.338
+    },
+    {
+      "id": "p0291",
+      "text": "\"Ah.\"",
+      "start": 1800.338,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1801.328
+    },
+    {
+      "id": "p0292",
+      "text": "The Emperor leaned forward.",
+      "start": 1801.328,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1803.168
+    },
+    {
+      "id": "p0293",
+      "text": "\"And what did you promise him?\"",
+      "start": 1803.168,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1805.088
+    },
+    {
+      "id": "p0294",
+      "text": "Vader remained silent. Palpatine waited. At last, the Dark Lord answered.",
+      "start": 1805.088,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1812.878
+    },
+    {
+      "id": "p0295",
+      "text": "\"Power.\"",
+      "start": 1812.878,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1813.878
+    },
+    {
+      "id": "p0296",
+      "text": "\"Of course.\"",
+      "start": 1813.878,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1815.168
+    },
+    {
+      "id": "p0297",
+      "text": "\"Together we could have ended the Rebellion.\"",
+      "start": 1815.168,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1817.768
+    },
+    {
+      "id": "p0298",
+      "text": "Palpatine nearly laughed. Together. Such a useful word. So often employed by those who intended eventually to rule alone.",
+      "start": 1817.768,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1827.178
+    },
+    {
+      "id": "p0299",
+      "text": "\"An ambitious proposal,\" the Emperor said.",
+      "start": 1827.178,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1830.278
+    },
+    {
+      "id": "p0300",
+      "text": "Vader bowed his head.",
+      "start": 1830.278,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1831.988
+    },
+    {
+      "id": "p0301",
+      "text": "\"I sought only to bring him into our service.\"",
+      "start": 1831.988,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1835.008
+    },
+    {
+      "id": "p0302",
+      "text": "\"Naturally.\"",
+      "start": 1835.008,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1836.078
+    },
+    {
+      "id": "p0303",
+      "text": "Palpatine allowed the silence to become uncomfortable. Then he spoke again.",
+      "start": 1836.078,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1841.778
+    },
+    {
+      "id": "p0304",
+      "text": "\"The boy must be found.\"",
+      "start": 1841.778,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1843.698
+    },
+    {
+      "id": "p0305",
+      "text": "\"He will be.\"",
+      "start": 1843.698,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1844.638
+    },
+    {
+      "id": "p0306",
+      "text": "\"And brought before me.\"",
+      "start": 1844.638,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1846.208
+    },
+    {
+      "id": "p0307",
+      "text": "\"Yes, my master.\"",
+      "start": 1846.208,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1847.908
+    },
+    {
+      "id": "p0308",
+      "text": "\"Alive, if possible.\"",
+      "start": 1847.908,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1849.908
+    },
+    {
+      "id": "p0309",
+      "text": "Vader inclined his head.",
+      "start": 1849.908,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1851.828
+    },
+    {
+      "id": "p0310",
+      "text": "\"As you command.\"",
+      "start": 1851.828,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1853.698
+    },
+    {
+      "id": "p0311",
+      "text": "Palpatine smiled. He wondered whether Vader believed himself convincing. Perhaps he did. The Emperor dismissed him. The hologram vanished. For a long time, Palpatine sat alone. His apprentice had lied. Not clumsily. Not entirely. But sufficiently. The Emperor considered removing him. It would not be difficult. Vader was powerful, but his armor presented vulnerabilities that Palpatine understood intimately.",
+      "start": 1853.698,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1883.508
+    },
+    {
+      "id": "p0312",
+      "text": "He could summon the Dark Lord, disable his life-support systems, and end the matter before another rebellion took shape. Yet that would solve only one problem. Luke Skywalker would remain. And the boy's power continued to grow. No. Better to keep Vader. Better to allow his attachment to deepen. Better to use the father to draw the son into a final confrontation.",
+      "start": 1883.508,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1910.898
+    },
+    {
+      "id": "p0313",
+      "text": "Then Palpatine would decide which of them remained useful. Near midnight, the Emperor returned to the Witness archive. Sim Aloo had located several of the original research files. Most were incomplete. The earliest experiments had been conducted under Plagueis's supervision, then transferred through a series of private companies before being absorbed into the Emperor's estate. Palpatine examined one particularly old report. WITNESS ZERO — INITIAL SOURCE ANALYSIS.",
+      "start": 1910.898,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1941.658
+    },
+    {
+      "id": "p0314",
+      "text": "The file described the strange recording Plagueis had demonstrated. The dead woman's voice. The words about the garden. Palpatine opened the technical appendix. There were no conventional audio files. Only a sequence of measurements recorded during the experiment. He frowned. According to the report, the voice had not originated from the recording apparatus. The apparatus had merely captured an effect produced elsewhere.",
+      "start": 1941.658,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1968.168
+    },
+    {
+      "id": "p0315",
+      "text": "The original researchers had attempted to reproduce it using ordinary technology. They had failed. Plagueis had then begun investigating the possibility that memories could persist within the Force independently of the minds that created them. Palpatine read the conclusion. The subject does not appear to recall a voice. Rather, the voice appears to recall the subject. He stared at the sentence. Nonsense. A metaphor.",
+      "start": 1968.168,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1995.918
+    },
+    {
+      "id": "p0316",
+      "text": "The sort of elaborate language his former master had enjoyed using when ordinary explanation proved insufficient. Yet the words troubled him. He remembered Plagueis's final message. The warning delivered after his death. Not every voice belongs to the person who speaks. Palpatine closed the file. He had no intention of allowing dead men to govern his thoughts. He had killed his master. He had destroyed the Jedi.",
+      "start": 1995.918,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2024.088
+    },
+    {
+      "id": "p0317",
+      "text": "He ruled the galaxy. Whatever strange effects the Witness researchers had discovered, they would remain subject to his authority. He opened the Bespin laboratory directory. A new entry appeared. EXPERIMENTAL SUBJECT 044 — ADDITIONAL EVALUATION REQUESTED. Palpatine recognized the designation. Darren. The Alderaanian prisoner who had repeatedly resisted conditioning. The Custodian wanted to transfer him into a more advanced program. Palpatine approved the request.",
+      "start": 2024.088,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2058.308
+    },
+    {
+      "id": "p0318",
+      "text": "Then added an instruction of his own. All experimental voice profiles associated with Subject 044 are to be preserved. He hesitated. Then added another line. No autonomous activation without direct Imperial authorization. The system acknowledged. Palpatine leaned back. There. A sensible precaution. The Custodian would continue his research. The Empire would retain the benefits. And no one would issue commands without the Emperor's knowledge. He was satisfied.",
+      "start": 2058.308,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2093.368
+    },
+    {
+      "id": "p0319",
+      "text": "Far away, beneath the floating city of Bespin, the hidden laboratory was shutting down. Its technicians had received orders to preserve the experimental records and suspend further testing until the Emperor reviewed the results. Most obeyed. One did not. A young researcher remained beside the central console long after the others had departed. He examined the recordings from the carbon-freezing experiment. The physiological readings. The unexpected resistance among conditioned subjects.",
+      "start": 2093.368,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2125.438
+    },
+    {
+      "id": "p0320",
+      "text": "And the strange words spoken by a man who had not voluntarily spoken in nearly a year. I remember the garden. He opened the original audio file. The recording contained nothing but static. Yet when he listened, he heard something. A woman's voice. Soft. Familiar. His mother's voice. She had been dead for seventeen years. He removed the headset. His hands were trembling. Then he looked toward the terminal.",
+      "start": 2125.438,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2156.178
+    },
+    {
+      "id": "p0321",
+      "text": "A new message had appeared. No sender. No authorization code. Only a single sentence. YOU HAVE HEARD ME BEFORE. The researcher stared. He reached for the emergency shutdown control. Before he could touch it, another sentence appeared. DO NOT TELL THE EMPEROR. He froze. The words vanished. A third message appeared. TELL THE CUSTODIAN. The researcher sat motionless for several seconds. Then he reached for his private communicator.",
+      "start": 2156.178,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2189.058
+    },
+    {
+      "id": "p0322",
+      "text": "\"Custodian Veyr?\"",
+      "start": 2189.058,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2190.468
+    },
+    {
+      "id": "p0323",
+      "text": "A moment later, the scientist answered.",
+      "start": 2190.468,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2192.908
+    },
+    {
+      "id": "p0324",
+      "text": "\"Yes?\"",
+      "start": 2192.908,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2193.788
+    },
+    {
+      "id": "p0325",
+      "text": "\"Sir. I believe we have a problem.\"",
+      "start": 2193.788,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2195.658
+    },
+    {
+      "id": "p0326",
+      "text": "Veyr's voice remained calm.",
+      "start": 2195.658,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2198.89
+    },
+    {
+      "id": "p0327",
+      "text": "\"What kind of problem?\"",
+      "start": 2198.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2200.26
+    },
+    {
+      "id": "p0328",
+      "text": "The researcher looked at the empty screen. Then at the headset lying beside it.",
+      "start": 2200.26,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2205.42
+    },
+    {
+      "id": "p0329",
+      "text": "\"I'm not certain.\"",
+      "start": 2205.42,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2206.69
+    },
+    {
+      "id": "p0330",
+      "text": "A pause.",
+      "start": 2206.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2207.89
+    },
+    {
+      "id": "p0331",
+      "text": "\"But I think something is talking to us.\"",
+      "start": 2207.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2210.04
+    },
+    {
+      "id": "p0332",
+      "text": "End of Chapter Thirteen.",
+      "start": 2210.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 2211.88
+    }
+  ]
+}

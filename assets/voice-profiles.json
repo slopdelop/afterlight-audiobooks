@@ -308,7 +308,11 @@
       "reference_sha256": "260fc57e452731720d5e3e401eafae8544eebecd0368e35d170cbf6346c3b53d",
       "direction": "An original adult woman speaking clear British English in a soft middle register, with light forward resonance, a gentle dry airy edge and delicate precise consonants. Vulnerable, frightened of being left alone, intimate and sincere with a slight hesitant onset and connected natural vowels. Keep the words fully voiced and understandable, quietly emotional rather than a breathy whisper or melodramatic sob. No crying sound effects, electronic processing, room noise, music or reverb. Clean dry close studio dialogue.",
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-10",
+        "hollow-throne-13"
+      ]
     },
     "nerys_bell": {
       "name": "Nerys Bell",
@@ -369,6 +373,128 @@
         "hollow-throne-12"
       ],
       "casting_status": "New production interpretation; user listening review pending."
+    },
+    "silas_thorne_vd": {
+      "name": "Silas Thorne",
+      "synthetic": true,
+      "role": "Emperor Palpatine",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-thirteen/voices/palpatine.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 26029000,
+      "reference_sha256": "7270c8518f42d8498f040ef9832d8df94557197b526f38d822e2c87292ab789f",
+      "direction": "A male voice inspired by Ian McDiarmid as Emperor Palpatine in Return of the Jedi. An elderly British man with cultivated non-rhotic diction, low-mid pitch, hollow forward resonance and a dry, papery, lightly throaty rasp. Soft voiced onset, serpentine connected vowels, slightly sibilant consonants and faint creaking phrase endings. Patient, insinuating conversational timing with small pointed stresses and brief, cold falling finishes. Quiet amusement and barely concealed contempt. Speak intimately at ordinary volume, intelligible and unforced; no shouting, cackling, dramatic whispering, monster growls or added effects.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-13"
+      ],
+      "casting_status": "Production interpretation; subjective listening review remains with the user.",
+      "source_audition": "cast_palpatine_1"
+    },
+    "edmund_rook_vd": {
+      "name": "Edmund Rook",
+      "synthetic": true,
+      "role": "Mas Amedda",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-thirteen/voices/amedda.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 26029200,
+      "reference_sha256": "710343cd7aa3587e5134779a77927d17e9869003f52921402767297f272e915b",
+      "direction": "A male voice inspired by Mas Amedda's speaking voice in the Star Wars prequels. A mature man with a very resonant, rounded bass-baritone, a broad chest sound, forward nasal buzz and a faint leathery throat texture. Cultivated British English with tall rounded vowels, precise dentals, firm consonant beginnings and weight on ceremonial words. Measured, connected phrases ending decisively, restrained breath between reports. An authoritative statesman speaking deferentially to his superior, with slight tension beneath formal composure. Keep the distinctive full resonance at conversational volume, never shouting, singing, or sounding like a trailer announcer.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-13"
+      ],
+      "casting_status": "Production interpretation; subjective listening review remains with the user.",
+      "source_audition": "cast_amedda_1"
+    },
+    "lucian_grey_vd": {
+      "name": "Lucian Grey",
+      "synthetic": true,
+      "role": "Sim Aloo",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-thirteen/voices/sim.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 26031000,
+      "reference_sha256": "7813bd56f9619f3fd49006674466118d5c89c6fd21f457ed16925c019403d2f4",
+      "direction": "An older British male adviser with a soft, hollow low-middle register, a fine sandy throat texture, discreet nasal resonance and lightly breath-supported vowels. Smooth connected syllables, precisely shaped sibilants, careful consonants and small measured pauses before sensitive words. Understated, confidential delivery with deferential falling endings and a slight questioning lift, composed and watchful. Silky and quietly calculating rather than booming, pinched or theatrically sinister. A believable elderly person speaking clearly at close conversational distance, without whispering, hissing effects or exaggerated acting.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-13"
+      ],
+      "casting_status": "Production interpretation; subjective listening review remains with the user.",
+      "source_audition": "cast_sim_1"
+    },
+    "evren_march": {
+      "name": "Evren March",
+      "synthetic": true,
+      "role": "Custodian Veyr",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-thirteen/voices/veyr.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 331400,
+      "reference_sha256": "1cf6e807b5623d40ce7c84a84617acc2237319ea6f7d2b145ceb153aba693bfe",
+      "direction": "An original adult male scientist in his fifties speaking cultivated non-rhotic British English. A clear narrow middle-low baritone with a light dry papery edge, focused forward resonance, precise soft consonants and smooth connected vowels. Thoughtful and analytically detached, quietly confident but formally deferential to a dangerous superior. Deliberate conversational phrasing, compact measured pauses, small questioning rises and restrained concluding falls. Educated scholarly clarity with slight guarded unease, no ominous villain growl, theatrical whispering, booming bass, exaggerated acting or sound effects. Clean dry close studio speech at comfortable listening volume.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-13"
+      ],
+      "casting_status": "Production interpretation; subjective listening review remains with the user."
+    },
+    "darius_korr": {
+      "name": "Darius Korr",
+      "synthetic": true,
+      "role": "Darth Vader",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-thirteen/voices/vader.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 331500,
+      "reference_sha256": "1852e88dab303a422db059530c7ee4f61f8ca3a088b6539312547e102c401e78",
+      "direction": "An adult male voice inspired by James Earl Jones portraying Darth Vader in the original Star Wars trilogy. An exceptionally deep resonant American bass-baritone, broad rounded chest resonance, dark smooth sustained vowels and a firm slightly grainy low foundation. Precise deliberate consonants, slow connected dignified phrases and heavy decisive downward endings. Controlled power and authority, restrained frustration and buried emotional pain under formal obedience. Maintain clear natural human intelligibility at ordinary conversational volume. Do not add breathing, respirator noises, robotic buzzing, metallic processing, echo, music, shouting or monster distortion. No exaggerated theatrical growl. Dry studio speech.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-13"
+      ],
+      "casting_status": "Production interpretation; subjective listening review remains with the user."
+    },
+    "rowan_dene": {
+      "name": "Rowan Dene",
+      "synthetic": true,
+      "role": "Unidentified conditioned male subject",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-thirteen/voices/subject.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 331600,
+      "reference_sha256": "59be8d7fcd4802d06a3f5060d9651a1d653ddb0a1da38ff7e4eb6817ae495781",
+      "direction": "An original older adult man speaking clear English with a gentle northern English accent. A worn light middle register, softly rounded resonance, a fine breath-supported dry grain and a slight unsteady tremor. Exhausted but consciously recalling a real personal memory, vulnerable, quietly sincere and wondering. Fully voiced connected understandable speech at normal close conversational volume, subtle emotion without sobbing, whispering, gasping or pauses inside words. No robotic or electronic effects, music, static or room noise. Distinct from an officer or an authoritative father.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-13"
+      ],
+      "casting_status": "Production interpretation; subjective listening review remains with the user."
+    },
+    "tobin_reeve": {
+      "name": "Tobin Reeve",
+      "synthetic": true,
+      "role": "Young Bespin researcher",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-thirteen/voices/researcher.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 331800,
+      "reference_sha256": "659a4cd3a2d045b8c60b29d227e31e8cb54c4b07901b44bd0f4680de164ae42b",
+      "direction": "An original young adult male laboratory researcher in his late twenties, speaking clear neutral American English. A light middle tenor with a focused forward tone, slightly airy natural edges and precise ordinary consonants. Intelligent, observant and reserved, becoming quietly unsettled by an inexplicable discovery. Compact natural conversational rhythm, small hesitant question rises and connected vowels. Calm intelligibility and subtle restrained concern rather than panicked breathlessness or theatrical dread. Not a deep officer, elderly scholar or polished announcer. Comfortable close studio dialogue, no whisper, music, static, echo or other effects.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-13"
+      ],
+      "casting_status": "Production interpretation; subjective listening review remains with the user."
     }
   }
 }
