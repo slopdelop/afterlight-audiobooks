@@ -1,3 +1,10 @@
+# Background chapter transition — 2026-10-31
+
+- The next source is prepared during the current chapter, including an IndexedDB Blob URL for downloaded/imported audio. Only one prepared source is retained; stale, replaced and abandoned Blob URLs are released, while ownership transfers to the active player on selection. Public chapters have a synchronous streaming-URL fallback when preparation has not finished.
+- Auto-next replaces the existing native element's source and requests Play in the original ended callback, before awaiting storage or metadata/seek confirmation. Speed is applied after load and before Play. Metadata completion does not issue a duplicate Play. Manual book/chapter opening remains paused.
+- Silent deterministic tests exercise the actual app transition with indefinitely stalled storage and delayed metadata, downloaded/imported offline continuation, saved-seek preservation, previous-chapter completion, rejected background Play, end-of-chapter/expired timers, disabled auto-next, and a minute timer continuing across the boundary until expiry. Source-cache cancellation and ownership are checked separately. All 96 tests pass and the production build succeeds.
+- No physical iPhone lock-screen transition or audible playback is claimed. This removes application-level asynchronous gaps; it cannot guarantee that iOS delivers the ended callback while suspended or permits every background transition. No real listener progress, chapter audio, canonical text or storage keys were changed.
+
 # MVP1 validation
 
 Completed locally on 2026-10-27:

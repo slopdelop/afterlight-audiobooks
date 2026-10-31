@@ -23,7 +23,27 @@ export function loadAudioAt(audio,src,position,{duration,signal,timeoutMs=45000}
   try{audio.pause();audio.src=src;audio.load();attempt();}catch(error){finish(error);}
  });
 }
-// Called synchronously from the user's Play gesture or the lock-screen action.
+/** Resolve just one next source while playback is active, without loading another media element. */
+export function createPreparedSource(resolve,{release=src=>{if(src.startsWith('blob:'))URL.revokeObjectURL(src);}}={}){
+ let entry=null;
+ const key=c=>JSON.stringify([c.id,c.src]);
+ function clear(){const old=entry;entry=null;if(old?.src)release(old.src);}
+ return {
+  prepare(chapter){
+   if(!chapter){clear();return Promise.resolve(null);}
+   if(entry?.key===key(chapter))return entry.promise;
+   clear();const current={key:key(chapter),src:null};entry=current;
+   current.promise=Promise.resolve().then(()=>resolve(chapter)).then(src=>{
+    if(entry!==current){release(src);return null;}
+    current.src=src;return src;
+   },()=>null);
+   return current.promise;
+  },
+  take(chapter){if(entry?.key!==key(chapter)||!entry.src)return null;const src=entry.src;entry=null;return src;},
+  clear
+ };
+}
+// Called synchronously from Play, a lock-screen action, or the chapter-ended handler.
 // Optional session configuration must never prevent the native play request.
 export function requestNativePlay(audio,navigatorLike={}){
  try{if(navigatorLike.audioSession&&navigatorLike.audioSession.type!=='playback')navigatorLike.audioSession.type='playback';}catch{}
