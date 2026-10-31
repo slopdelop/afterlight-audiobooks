@@ -1,3 +1,10 @@
+# Viewport boundaries and portrait preference — 2026-10-31
+
+- Manifest requests portrait; a feature-detected native lock request runs on touch devices at startup, user gestures, return to foreground, fullscreen changes and orientation changes. Unsupported APIs, synchronous failures and rejected locks are handled quietly. No fullscreen is forced and no claim of a guaranteed iPhone orientation lock is made. Reading settings explain Control Center's Portrait Orientation Lock. WebKit's current preference marks locking testable/default-off and its implementation can require fullscreen.
+- Explicit dark HTML/body backgrounds and root overscroll suppression address the exposed white canvas. Paged reading fixes the body to the viewport, limits touch actions to pinch zoom, and cancels single-finger outer document pans. Horizontal page turns remain in the existing pager. Dialog gestures, scrolling mode, other screens and two-finger zoom are left available. No audio playback code or progress keys changed.
+- All 105 tests pass, including new cases for supported/absent/rejected/throwing orientation APIs, phone/desktop and foreground retries, and scoped pan blocking that permits dialogs, scrolling, other views and multi-touch. The new module is included in build and service-worker shell lists; production build succeeds.
+- Muted, paused browser QA on isolated localhost port 8894 at 390×844 confirms dark root background, overscroll none, fixed document bounds exactly 844 px, zero outer scroll after vertical key input, working next-page navigation, and restoration of native scrolling at the same paragraph after switching modes. Existing real listening progress was not accessed. Browser layout checks cannot reproduce physical iPhone rubber-banding or certify OS orientation locking.
+
 # Reading pages and scrolling — 2026-10-31
 
 - Added a saved, validated `readerLayout` preference with scrolling as the default. Settings → Reading and the reader's Aa menu offer Pages and Scrolling alongside text size. Existing paragraph-based progress, bookmarks, canonical text and storage keys are retained.

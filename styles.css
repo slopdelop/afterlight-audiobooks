@@ -2,7 +2,8 @@
 :root{color-scheme:dark;--bg:#0c131d;--surface:#15212e;--raised:#1d2c3b;--line:#2b3b4b;--text:#f3eee5;--muted:#a5b0bc;--gold:#e3b784;--safe:env(safe-area-inset-bottom,0px)}
 
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--text);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;-webkit-tap-highlight-color:transparent}
+html{min-height:100%;background:var(--bg);overscroll-behavior:none}
+body{margin:0;min-height:100dvh;overflow-x:hidden;overscroll-behavior:none;background:var(--bg);color:var(--text);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;-webkit-tap-highlight-color:transparent}
 button,input,select{font:inherit}
 button,a,input,select,summary{touch-action:manipulation}
 button{cursor:pointer;color:inherit;border:0;background:none;min-height:48px}
@@ -119,11 +120,11 @@ body:not([data-view=library]) .app-header{display:none}
 .page-button{height:56px;width:56px;border:1px solid var(--line);border-radius:50%;background:var(--surface);display:grid;place-items:center;color:var(--gold)}
 #readerNextPage svg{transform:rotate(180deg)}
 .reading-layout-choices{grid-template-columns:repeat(2,minmax(0,1fr))}
-body[data-view=reader].reading-paged{overflow:hidden}
+body[data-view=reader].reading-paged{position:fixed;inset:0;width:100%;height:100dvh;overflow:hidden}
 body[data-view=reader].reading-paged .app-shell{height:100dvh;padding-bottom:0}
 .reader-paged{height:100dvh;display:flex;flex-direction:column;max-width:720px;margin:auto;padding-bottom:var(--safe)}
 .reader-paged .reader-toolbar{position:relative;flex-shrink:0}
-.reader-paged .reader-viewport{flex:1;min-height:0;max-width:650px;width:100%;margin:22px auto 0;overflow:hidden;touch-action:pan-y}
+.reader-paged .reader-viewport{flex:1;min-height:0;max-width:650px;width:100%;margin:22px auto 0;overflow:hidden;overscroll-behavior:none;touch-action:pinch-zoom}
 .reader-paged .reader-text{height:100%;width:100%;max-width:none;margin:0;column-width:var(--reader-page-width);column-gap:32px;column-fill:auto}
 .reader-paged .reader-paragraph{orphans:2;widows:2}
 .reader-paged #finishReading{flex-shrink:0;min-height:36px;margin:4px auto 8px;border:0;padding:4px 12px;font-size:12px;visibility:hidden}
