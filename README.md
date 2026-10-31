@@ -14,6 +14,7 @@ An iPhone-first audiobook PWA, published with GitHub Pages.
 - Persistent position for each chapter, chapter completion, smart 10-second rewind after a long pause, playback speeds, chapter navigation and optional auto-next.
 - Bookmarks with notes, offline chapter downloads, device-local MP3 imports, and progress/metadata backup and restore.
 - Sleep presets plus custom whole minutes (1–1,440), or end of chapter. Minute timers carry remaining listening time across chapters and pause when playback pauses.
+- Reading style: choose **Settings → Reading → Pages** or **Scrolling**, also available through **Aa** in the reader. Scrolling remains the default. Pages fill the available screen with large previous/next buttons, horizontal swipes and keyboard navigation. Page counts adapt to screen size and text size; your saved place uses the same paragraph anchor in either style and when switching to audio.
 
 ## Install on iPhone
 

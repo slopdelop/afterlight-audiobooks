@@ -1,3 +1,10 @@
+# Reading pages and scrolling — 2026-10-31
+
+- Added a saved, validated `readerLayout` preference with scrolling as the default. Settings → Reading and the reader's Aa menu offer Pages and Scrolling alongside text size. Existing paragraph-based progress, bookmarks, canonical text and storage keys are retained.
+- Pages use CSS columns over the original paragraph DOM, with a viewport-height reading area, 56-pixel page buttons, a current/total page indicator, horizontal swipes and keyboard page navigation. Long paragraphs flow over page boundaries without duplicating text. The chapter-finished action appears on the final page. Resizing and font changes repaginate around the selected paragraph.
+- Deterministic tests cover preference validation/restoration, multi-page paragraphs, first-visible paragraph saving, boundary clamping, resizing and follow navigation without progress writes, swipe/click separation, vertical/multi-touch gestures and keyboard navigation. App handler tests confirm page turns save without playing audio and disable audio-follow when manually paging during playback. All 102 tests pass; production build succeeds.
+- Browser QA used a separate localhost origin with the main media element muted in markup, verified muted and paused before interaction. Checked 390×844 portrait and 844×390 landscape, font-size changes, previous/next through the final page, preserved paragraph when switching styles, reload/Continue restoration, and transfer to the listening screen while paused. No real listener progress or public-origin storage was used. Physical iPhone touch/Safari behavior remains unverified. The working background chapter-transition logic was not changed.
+
 # Background chapter transition — 2026-10-31
 
 - The next source is prepared during the current chapter, including an IndexedDB Blob URL for downloaded/imported audio. Only one prepared source is retained; stale, replaced and abandoned Blob URLs are released, while ownership transfers to the active player on selection. Public chapters have a synchronous streaming-URL fallback when preparation has not finished.
