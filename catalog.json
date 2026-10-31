@@ -76,6 +76,14 @@
           "src": "audio/hollow-throne/chapter-13.mp3",
           "duration": 2211.88,
           "transcript": "text/hollow-throne/chapter-13.json"
+        },
+        {
+          "id": "hollow-throne-14",
+          "number": 14,
+          "title": "What Yoda Feared",
+          "src": "audio/hollow-throne/chapter-14.mp3",
+          "duration": 1773.515,
+          "transcript": "text/hollow-throne/chapter-14.json"
         }
       ],
       "narratorId": "julian_vale"

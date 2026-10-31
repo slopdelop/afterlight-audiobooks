@@ -1,0 +1,3424 @@
+{
+  "version": 1,
+  "chapterId": "hollow-throne-14",
+  "duration": 1773.515,
+  "alignment": "Book paragraphs use synthesis boundaries and cached local Whisper word timestamps; unmatched starts are interpolated.",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "STAR WARS: THE HOLLOW THRONE",
+      "start": 0.0,
+      "timing": "segment",
+      "kind": "title",
+      "end": 2.6
+    },
+    {
+      "id": "p0002",
+      "text": "Chapter Fourteen: What Yoda Feared",
+      "start": 2.6,
+      "timing": "segment",
+      "kind": "title",
+      "end": 4.16
+    },
+    {
+      "id": "p0003",
+      "text": "Cloud City, Bespin. Three months after the Battle of Endor.",
+      "start": 4.16,
+      "timing": "segment",
+      "kind": "title",
+      "end": 8.68
+    },
+    {
+      "id": "p0004",
+      "text": "Luke Skywalker had begun to suspect that the dead were considerably more talkative than the living. In the years since Obi-Wan Kenobi's death, he had heard his old master's voice at some of the most unlikely moments. During the attack on the first Death Star. On the frozen wastes of Hoth. In the forests of Endor. Yoda, too, had appeared to him after death, although less frequently.",
+      "start": 8.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 35.57
+    },
+    {
+      "id": "p0005",
+      "text": "Luke was grateful for these encounters. He had lost both of his teachers before he felt ready to continue without them, and their guidance remained precious. But he was beginning to wonder whether the Force had a sense of humor. Because on Dagobah, inside a secret Imperial laboratory, he had heard Yoda's voice telling him to obey orders without question.",
+      "start": 35.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 57.81
+    },
+    {
+      "id": "p0006",
+      "text": "And he was quite certain the real Yoda would have objected.",
+      "start": 57.81,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 61.91
+    },
+    {
+      "id": "p0007",
+      "text": "\"Artoo, play it again.\"",
+      "start": 61.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 63.7
+    },
+    {
+      "id": "p0008",
+      "text": "The astromech droid gave a reluctant whistle. Luke sat in the cockpit of his X-wing, watching the vast orange clouds of Bespin drift beneath him. Cloud City lay ahead, its towers rising from the atmosphere like the spires of an ancient palace. Artoo activated the recording. Yoda's voice filled the cockpit.",
+      "start": 63.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 86.61
+    },
+    {
+      "id": "p0009",
+      "text": "\"Obedience is the path to peace.\"",
+      "start": 86.61,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 89.47
+    },
+    {
+      "id": "p0010",
+      "text": "Luke frowned. It sounded exactly like his old master. The rasping voice. The peculiar rhythm. Even the slight breath between the words. Yet the sentence itself was wrong. Yoda had demanded discipline, certainly. He had insisted upon patience, concentration, and respect for the Force. But blind obedience? No. Luke remembered how often his master had challenged him to discover answers for himself.",
+      "start": 89.47,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 119.12
+    },
+    {
+      "id": "p0011",
+      "text": "He had occasionally wished Yoda would simply tell him what to do. Now he understood why the old Jedi had refused.",
+      "start": 119.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 126.9
+    },
+    {
+      "id": "p0012",
+      "text": "\"Stop there, Artoo.\"",
+      "start": 126.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 128.33
+    },
+    {
+      "id": "p0013",
+      "text": "The recording ended. Luke studied the waveform. The Imperial scientists had reconstructed Yoda's voice from old Jedi Temple recordings. That much was clear from the research files. But the records recovered on Dagobah suggested something stranger. Some subjects had heard voices that were never present in the recordings. Others had heard words that the machines had not transmitted. And several had responded to commands they insisted nobody had spoken.",
+      "start": 128.33,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 157.71
+    },
+    {
+      "id": "p0014",
+      "text": "Luke considered the possibilities. Then he glanced toward the city ahead. Perhaps Leia had discovered something that would help.",
+      "start": 157.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 167.21
+    },
+    {
+      "id": "p0015",
+      "text": "\"Cloud City control, this is Red Five requesting landing clearance.\"",
+      "start": 167.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 171.04
+    },
+    {
+      "id": "p0016",
+      "text": "A cheerful voice answered.",
+      "start": 171.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 173.04
+    },
+    {
+      "id": "p0017",
+      "text": "\"Red Five, you're cleared for platform seven. General Calrissian asked us to extend a particular welcome.\"",
+      "start": 173.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 179.03
+    },
+    {
+      "id": "p0018",
+      "text": "Luke smiled.",
+      "start": 179.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 180.47
+    },
+    {
+      "id": "p0019",
+      "text": "\"That's kind of him.\"",
+      "start": 180.47,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 181.7
+    },
+    {
+      "id": "p0020",
+      "text": "\"Yes, sir. He also asked us to inform you that his landing facilities are substantially better than those operated by the Rebel Alliance.\"",
+      "start": 181.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 189.14
+    },
+    {
+      "id": "p0021",
+      "text": "Luke laughed.",
+      "start": 189.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 190.68
+    },
+    {
+      "id": "p0022",
+      "text": "\"Tell him I'll be the judge of that.\"",
+      "start": 190.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 192.36
+    },
+    {
+      "id": "p0023",
+      "text": "Leia was waiting when he landed. She embraced him warmly, though Luke could feel her exhaustion.",
+      "start": 192.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 199.94
+    },
+    {
+      "id": "p0024",
+      "text": "\"You look like you haven't slept.\"",
+      "start": 199.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 201.72
+    },
+    {
+      "id": "p0025",
+      "text": "\"Neither have you,\" she replied.",
+      "start": 201.72,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 204.05
+    },
+    {
+      "id": "p0026",
+      "text": "\"I've been flying.\"",
+      "start": 204.05,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 205.27
+    },
+    {
+      "id": "p0027",
+      "text": "\"I've been reading Imperial research reports. Trust me, yours sounds more enjoyable.\"",
+      "start": 205.27,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 210.15
+    },
+    {
+      "id": "p0028",
+      "text": "They walked together toward the city's administrative complex. Luke told her about Dagobah. The ancient chamber. The Imperial machinery. The strange recordings. He deliberately left out the vision of himself ruling over a crowd of obedient subjects. That was something he still needed to understand. Leia listened carefully. When he described hearing Yoda's reconstructed voice, she stopped walking.",
+      "start": 210.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 239.49
+    },
+    {
+      "id": "p0029",
+      "text": "\"Luke, there's something you need to hear.\"",
+      "start": 239.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 241.97
+    },
+    {
+      "id": "p0030",
+      "text": "He looked at her.",
+      "start": 241.97,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 243.17
+    },
+    {
+      "id": "p0031",
+      "text": "\"What?\"",
+      "start": 243.17,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 243.97
+    },
+    {
+      "id": "p0032",
+      "text": "\"A recording from the laboratory here. We played it several times.\"",
+      "start": 243.97,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 247.89
+    },
+    {
+      "id": "p0033",
+      "text": "\"And?\"",
+      "start": 247.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 248.45
+    },
+    {
+      "id": "p0034",
+      "text": "\"Han heard my voice. Lando heard his own. I heard Father's.\"",
+      "start": 248.45,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 252.59
+    },
+    {
+      "id": "p0035",
+      "text": "Luke frowned.",
+      "start": 252.59,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 254.03
+    },
+    {
+      "id": "p0036",
+      "text": "\"Bail?\"",
+      "start": 254.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 254.9
+    },
+    {
+      "id": "p0037",
+      "text": "She nodded.",
+      "start": 254.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 256.06
+    },
+    {
+      "id": "p0038",
+      "text": "\"His voice was exactly as I remembered it.\"",
+      "start": 256.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 258.8
+    },
+    {
+      "id": "p0039",
+      "text": "\"What did he say?\"",
+      "start": 258.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 260.08
+    },
+    {
+      "id": "p0040",
+      "text": "\"I remember the garden.\"",
+      "start": 260.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 261.53
+    },
+    {
+      "id": "p0041",
+      "text": "Luke considered the words.",
+      "start": 261.53,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 263.69
+    },
+    {
+      "id": "p0042",
+      "text": "\"Did the recording contain them?\"",
+      "start": 263.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 265.45
+    },
+    {
+      "id": "p0043",
+      "text": "\"That's the strange part. The original audio was almost entirely static. The transcript contained the sentence, but the machine couldn't identify any actual speech.\"",
+      "start": 265.45,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 274.22
+    },
+    {
+      "id": "p0044",
+      "text": "Luke was silent.",
+      "start": 274.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 276.2
+    },
+    {
+      "id": "p0045",
+      "text": "Then he asked, \"What garden?\"",
+      "start": 276.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 278.39
+    },
+    {
+      "id": "p0046",
+      "text": "Leia smiled sadly.",
+      "start": 278.39,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 280.58
+    },
+    {
+      "id": "p0047",
+      "text": "\"There was a garden at the palace on Alderaan. Father used to take me there when he wanted to escape the Senate.\"",
+      "start": 280.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 286.05
+    },
+    {
+      "id": "p0048",
+      "text": "She looked away.",
+      "start": 286.05,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 287.52
+    },
+    {
+      "id": "p0049",
+      "text": "\"He wasn't particularly good at relaxing. He'd spend half the time talking about political problems he was supposedly trying to forget.\"",
+      "start": 287.52,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 294.66
+    },
+    {
+      "id": "p0050",
+      "text": "Luke smiled.",
+      "start": 294.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 296.26
+    },
+    {
+      "id": "p0051",
+      "text": "\"Sounds familiar.\"",
+      "start": 296.26,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 297.46
+    },
+    {
+      "id": "p0052",
+      "text": "\"He grew the most beautiful flowers. Some were native to Alderaan. Others came from worlds he'd visited.\"",
+      "start": 297.46,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 303.62
+    },
+    {
+      "id": "p0053",
+      "text": "She paused.",
+      "start": 303.62,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 304.9
+    },
+    {
+      "id": "p0054",
+      "text": "\"When I was little, he used to tell me that every flower represented a place he hoped I would see someday.\"",
+      "start": 304.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 310.31
+    },
+    {
+      "id": "p0055",
+      "text": "Luke watched her.",
+      "start": 310.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 312.23
+    },
+    {
+      "id": "p0056",
+      "text": "\"And the recording reminded you of that?\"",
+      "start": 312.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 314.23
+    },
+    {
+      "id": "p0057",
+      "text": "\"Yes.\"",
+      "start": 314.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 315.13
+    },
+    {
+      "id": "p0058",
+      "text": "\"Had you told anyone about the garden?\"",
+      "start": 315.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 316.96
+    },
+    {
+      "id": "p0059",
+      "text": "\"Not that I remember.\"",
+      "start": 316.96,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 318.43
+    },
+    {
+      "id": "p0060",
+      "text": "He frowned.",
+      "start": 318.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 319.5
+    },
+    {
+      "id": "p0061",
+      "text": "\"Then we need to examine it.\"",
+      "start": 319.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 321.16
+    },
+    {
+      "id": "p0062",
+      "text": "The laboratory records had been moved to a secure room within Cloud City's administrative complex. Commander Venn greeted Luke with a firm handshake.",
+      "start": 321.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 330.39
+    },
+    {
+      "id": "p0063",
+      "text": "\"Commander Skywalker.\"",
+      "start": 330.39,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 332.04
+    },
+    {
+      "id": "p0064",
+      "text": "\"Just Luke is fine.\"",
+      "start": 332.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 333.9
+    },
+    {
+      "id": "p0065",
+      "text": "\"Very well. Luke.\"",
+      "start": 333.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 335.34
+    },
+    {
+      "id": "p0066",
+      "text": "She looked toward Artoo.",
+      "start": 335.34,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 337.49
+    },
+    {
+      "id": "p0067",
+      "text": "\"I understand your droid recovered the Dagobah research files.\"",
+      "start": 337.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 341.56
+    },
+    {
+      "id": "p0068",
+      "text": "\"He did.\"",
+      "start": 341.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 342.75
+    },
+    {
+      "id": "p0069",
+      "text": "\"Good. We may have something to compare them against.\"",
+      "start": 342.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 346.11
+    },
+    {
+      "id": "p0070",
+      "text": "Han and Chewbacca were already waiting beside the central terminal. Han looked up as Luke entered.",
+      "start": 346.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 353.87
+    },
+    {
+      "id": "p0071",
+      "text": "\"Hey, kid.\"",
+      "start": 353.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 354.88
+    },
+    {
+      "id": "p0072",
+      "text": "\"Han.\"",
+      "start": 354.88,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 355.71
+    },
+    {
+      "id": "p0073",
+      "text": "\"How was the swamp?\"",
+      "start": 355.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 357.07
+    },
+    {
+      "id": "p0074",
+      "text": "\"Wet.\"",
+      "start": 357.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 357.88
+    },
+    {
+      "id": "p0075",
+      "text": "\"Sounds about right.\"",
+      "start": 357.88,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 359.37
+    },
+    {
+      "id": "p0076",
+      "text": "Chewbacca gave a friendly roar. Luke smiled.",
+      "start": 359.37,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 363.15
+    },
+    {
+      "id": "p0077",
+      "text": "\"Good to see you too.\"",
+      "start": 363.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 364.44
+    },
+    {
+      "id": "p0078",
+      "text": "Lando approached carrying a datapad.",
+      "start": 364.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 367.44
+    },
+    {
+      "id": "p0079",
+      "text": "\"Luke. Welcome to Cloud City.\"",
+      "start": 367.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 369.73
+    },
+    {
+      "id": "p0080",
+      "text": "\"Thank you.\"",
+      "start": 369.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 370.61
+    },
+    {
+      "id": "p0081",
+      "text": "\"I trust the landing was satisfactory?\"",
+      "start": 370.61,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 372.89
+    },
+    {
+      "id": "p0082",
+      "text": "\"Very.\"",
+      "start": 372.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 373.77
+    },
+    {
+      "id": "p0083",
+      "text": "Lando smiled at Han.",
+      "start": 373.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 375.85
+    },
+    {
+      "id": "p0084",
+      "text": "\"See?\"",
+      "start": 375.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 376.71
+    },
+    {
+      "id": "p0085",
+      "text": "Han rolled his eyes. Leia stepped toward the terminal.",
+      "start": 376.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 381.76
+    },
+    {
+      "id": "p0086",
+      "text": "\"Can we start?\"",
+      "start": 381.76,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 382.85
+    },
+    {
+      "id": "p0087",
+      "text": "Venn nodded.",
+      "start": 382.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 384.395
+    },
+    {
+      "id": "p0088",
+      "text": "\"Of course.\"",
+      "start": 384.395,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 385.475
+    },
+    {
+      "id": "p0089",
+      "text": "She activated the recording. For several seconds, nothing happened. Then a burst of static filled the room. Luke listened. There was something beneath the noise. Not a voice. Not exactly. A faint pattern. A repeated series of pulses. Then—",
+      "start": 385.475,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 405.625
+    },
+    {
+      "id": "p0090",
+      "text": "\"Luke.\"",
+      "start": 405.625,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 406.575
+    },
+    {
+      "id": "p0091",
+      "text": "He froze. The voice was familiar. Warm. Gentle. Obi-Wan Kenobi.",
+      "start": 406.575,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 414.925
+    },
+    {
+      "id": "p0092",
+      "text": "\"Luke, you must listen.\"",
+      "start": 414.925,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 417.065
+    },
+    {
+      "id": "p0093",
+      "text": "He turned toward the speaker. The recording continued.",
+      "start": 417.065,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 421.175
+    },
+    {
+      "id": "p0094",
+      "text": "\"Trust me.\"",
+      "start": 421.175,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 422.135
+    },
+    {
+      "id": "p0095",
+      "text": "Luke felt a sudden tightening in his chest. He knew that voice. He had heard it through the Force many times. But this was different. Obi-Wan's presence was absent. There was only the sound. Or the impression of sound.",
+      "start": 422.135,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 437.555
+    },
+    {
+      "id": "p0096",
+      "text": "\"Luke,\" Leia said.",
+      "start": 437.555,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 439.385
+    },
+    {
+      "id": "p0097",
+      "text": "He looked at her.",
+      "start": 439.385,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 440.625
+    },
+    {
+      "id": "p0098",
+      "text": "\"What did you hear?\"",
+      "start": 440.625,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 441.775
+    },
+    {
+      "id": "p0099",
+      "text": "He hesitated.",
+      "start": 441.775,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 443.155
+    },
+    {
+      "id": "p0100",
+      "text": "\"Obi-Wan.\"",
+      "start": 443.155,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 444.335
+    },
+    {
+      "id": "p0101",
+      "text": "Her expression changed. Han frowned.",
+      "start": 444.335,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 448.645
+    },
+    {
+      "id": "p0102",
+      "text": "\"Funny. I heard you again.\"",
+      "start": 448.645,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 450.425
+    },
+    {
+      "id": "p0103",
+      "text": "Lando nodded.",
+      "start": 450.425,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 451.765
+    },
+    {
+      "id": "p0104",
+      "text": "\"I heard myself.\"",
+      "start": 451.765,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 453.165
+    },
+    {
+      "id": "p0105",
+      "text": "Venn examined the audio display.",
+      "start": 453.165,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 456.1
+    },
+    {
+      "id": "p0106",
+      "text": "\"There's no identifiable speech in the recording.\"",
+      "start": 456.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 459.23
+    },
+    {
+      "id": "p0107",
+      "text": "Luke stared at the waveform. The pulses repeated. Three short bursts. A pause. Then three more. Almost like a signal.",
+      "start": 459.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 469.91
+    },
+    {
+      "id": "p0108",
+      "text": "\"Artoo, can you isolate that pattern?\"",
+      "start": 469.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 472.46
+    },
+    {
+      "id": "p0109",
+      "text": "The droid connected to the terminal. A series of whistles followed. Threepio, standing nearby, translated.",
+      "start": 472.46,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 480.75
+    },
+    {
+      "id": "p0110",
+      "text": "\"Artoo says the signal is not ordinary audio.\"",
+      "start": 480.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 484.07
+    },
+    {
+      "id": "p0111",
+      "text": "\"What is it?\" Leia asked.",
+      "start": 484.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 486.27
+    },
+    {
+      "id": "p0112",
+      "text": "\"Some form of structured energy pattern, apparently.\"",
+      "start": 486.27,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 489.55
+    },
+    {
+      "id": "p0113",
+      "text": "Venn leaned closer.",
+      "start": 489.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 492.015
+    },
+    {
+      "id": "p0114",
+      "text": "\"Could it be carrying information?\"",
+      "start": 492.015,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 494.215
+    },
+    {
+      "id": "p0115",
+      "text": "\"Possibly,\" Threepio replied. \"Although Artoo has not identified an encoding format.\"",
+      "start": 494.215,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 499.815
+    },
+    {
+      "id": "p0116",
+      "text": "Luke looked toward the speaker. Whatever the original recording contained, it had reached into his memories and found Obi-Wan's voice. Not a stranger's voice. Not a random sound. Someone he trusted. He felt deeply uncomfortable.",
+      "start": 499.815,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 515.865
+    },
+    {
+      "id": "p0117",
+      "text": "\"Turn it off.\"",
+      "start": 515.865,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 516.965
+    },
+    {
+      "id": "p0118",
+      "text": "Venn did so. The room became quiet. Han folded his arms.",
+      "start": 516.965,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 521.825
+    },
+    {
+      "id": "p0119",
+      "text": "\"Well, that's a lovely little invention.\"",
+      "start": 521.825,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 524.185
+    },
+    {
+      "id": "p0120",
+      "text": "Luke looked at him.",
+      "start": 524.185,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 525.705
+    },
+    {
+      "id": "p0121",
+      "text": "\"What did you hear?\"",
+      "start": 525.705,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 526.815
+    },
+    {
+      "id": "p0122",
+      "text": "\"Leia telling me everything was going to be fine.\"",
+      "start": 526.815,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 529.345
+    },
+    {
+      "id": "p0123",
+      "text": "Leia glanced toward Han. He shrugged.",
+      "start": 529.345,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 533.025
+    },
+    {
+      "id": "p0124",
+      "text": "\"Sounded convincing.\"",
+      "start": 533.025,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 534.605
+    },
+    {
+      "id": "p0125",
+      "text": "Luke frowned.",
+      "start": 534.605,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 536.005
+    },
+    {
+      "id": "p0126",
+      "text": "\"Did it tell you to do anything?\"",
+      "start": 536.005,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 537.635
+    },
+    {
+      "id": "p0127",
+      "text": "\"No. Just told me to trust her.\"",
+      "start": 537.635,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 539.845
+    },
+    {
+      "id": "p0128",
+      "text": "He looked toward the terminal.",
+      "start": 539.845,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 541.935
+    },
+    {
+      "id": "p0129",
+      "text": "\"Which I already do. But I don't much like somebody using her voice to remind me.\"",
+      "start": 541.935,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 547.115
+    },
+    {
+      "id": "p0130",
+      "text": "Chewbacca growled in agreement. Luke studied the machine. This was different from the ordinary voice reconstructions. The Imperial scientists could manufacture convincing speech using archived recordings. But here, the listener seemed to supply the voice. The machine provided something else. Something that encouraged the mind to construct meaning from its own memories. And that was far more troubling. Because a person might recognize a false recording.",
+      "start": 547.115,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 576.045
+    },
+    {
+      "id": "p0131",
+      "text": "But how did one recognize a false memory? Venn spent the next hour comparing the recovered files. The Dagobah records were older than the Bespin experiments, but the two research teams had eventually begun exchanging information. The Emperor's scientists had noticed that subjects responded differently when exposed to the same stimulus. Some heard voices. Others saw images. Several experienced vivid memories. But the underlying signal remained almost identical.",
+      "start": 576.045,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 610.202
+    },
+    {
+      "id": "p0132",
+      "text": "Luke studied the results.",
+      "start": 610.202,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 612.462
+    },
+    {
+      "id": "p0133",
+      "text": "\"Could the signal be creating those memories?\"",
+      "start": 612.462,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 615.013
+    },
+    {
+      "id": "p0134",
+      "text": "Venn shook her head.",
+      "start": 615.013,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 617.207
+    },
+    {
+      "id": "p0135",
+      "text": "\"Not according to the original research.\"",
+      "start": 617.207,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 619.798
+    },
+    {
+      "id": "p0136",
+      "text": "\"What do you mean?\"",
+      "start": 619.798,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 620.837
+    },
+    {
+      "id": "p0137",
+      "text": "\"The subjects already possessed the memories. The signal appears to influence how they interpret what they're experiencing.\"",
+      "start": 620.837,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 627.758
+    },
+    {
+      "id": "p0138",
+      "text": "Leia leaned forward.",
+      "start": 627.758,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 629.587
+    },
+    {
+      "id": "p0139",
+      "text": "\"So it makes them believe they're hearing someone they know.\"",
+      "start": 629.587,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 632.518
+    },
+    {
+      "id": "p0140",
+      "text": "\"Possibly.\"",
+      "start": 632.518,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 633.628
+    },
+    {
+      "id": "p0141",
+      "text": "\"And then?\"",
+      "start": 633.628,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 634.778
+    },
+    {
+      "id": "p0142",
+      "text": "Venn opened another report.",
+      "start": 634.778,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 637.648
+    },
+    {
+      "id": "p0143",
+      "text": "\"Then the researchers attempted to attach instructions to the experience.\"",
+      "start": 637.648,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 641.997
+    },
+    {
+      "id": "p0144",
+      "text": "Han frowned.",
+      "start": 641.997,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 643.337
+    },
+    {
+      "id": "p0145",
+      "text": "\"Instructions?\"",
+      "start": 643.337,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 644.518
+    },
+    {
+      "id": "p0146",
+      "text": "\"Commands.\"",
+      "start": 644.518,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 645.567
+    },
+    {
+      "id": "p0147",
+      "text": "She activated a demonstration. A prisoner sat in a small observation chamber. An unseen researcher instructed him to open a door. The prisoner refused. The command was repeated. He refused again. Then the researchers activated a device. The man's expression changed. He looked toward an empty corner of the room.",
+      "start": 645.567,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 668.918
+    },
+    {
+      "id": "p0148",
+      "text": "\"Mother?\"",
+      "start": 668.918,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 669.837
+    },
+    {
+      "id": "p0149",
+      "text": "The researcher spoke again.",
+      "start": 669.837,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 671.497
+    },
+    {
+      "id": "p0150",
+      "text": "\"Open the door.\"",
+      "start": 671.497,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 672.737
+    },
+    {
+      "id": "p0151",
+      "text": "The prisoner stood. He approached the door. Then stopped. His hands began trembling.",
+      "start": 672.737,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 679.697
+    },
+    {
+      "id": "p0152",
+      "text": "\"No.\"",
+      "start": 679.697,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 680.688
+    },
+    {
+      "id": "p0153",
+      "text": "The researcher repeated the command. The prisoner reached for the handle. Then pulled his hand away.",
+      "start": 680.688,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 688.067
+    },
+    {
+      "id": "p0154",
+      "text": "\"No!\"",
+      "start": 688.067,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 689.158
+    },
+    {
+      "id": "p0155",
+      "text": "The recording ended. Luke stared at the empty image.",
+      "start": 689.158,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 693.898
+    },
+    {
+      "id": "p0156",
+      "text": "\"He resisted.\"",
+      "start": 693.898,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 694.938
+    },
+    {
+      "id": "p0157",
+      "text": "Venn nodded.",
+      "start": 694.938,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 696.975
+    },
+    {
+      "id": "p0158",
+      "text": "\"Eventually.\"",
+      "start": 696.975,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 698.155
+    },
+    {
+      "id": "p0159",
+      "text": "\"But he heard his mother's voice.\"",
+      "start": 698.155,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 699.905
+    },
+    {
+      "id": "p0160",
+      "text": "\"Apparently.\"",
+      "start": 699.905,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 701.025
+    },
+    {
+      "id": "p0161",
+      "text": "Luke considered the implications. The machine had not simply issued an order. It had attempted to make the order feel familiar. Safe. Perhaps even loving. And for a moment, the prisoner had almost obeyed. Leia looked toward Luke.",
+      "start": 701.025,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 719.265
+    },
+    {
+      "id": "p0162",
+      "text": "\"Is that the dark side?\"",
+      "start": 719.265,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 720.675
+    },
+    {
+      "id": "p0163",
+      "text": "He hesitated.",
+      "start": 720.675,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 722.005
+    },
+    {
+      "id": "p0164",
+      "text": "\"Part of it.\"",
+      "start": 722.005,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 723.035
+    },
+    {
+      "id": "p0165",
+      "text": "\"What do you mean?\"",
+      "start": 723.035,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 724.115
+    },
+    {
+      "id": "p0166",
+      "text": "\"The Force can influence thoughts. Emotions. Perceptions. But what they're doing here is different.\"",
+      "start": 724.115,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 729.945
+    },
+    {
+      "id": "p0167",
+      "text": "He looked at the recording.",
+      "start": 729.945,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 731.705
+    },
+    {
+      "id": "p0168",
+      "text": "\"They're trying to make someone accept a command as though it came from a memory.\"",
+      "start": 731.705,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 734.825
+    },
+    {
+      "id": "p0169",
+      "text": "Han shook his head.",
+      "start": 734.825,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 736.745
+    },
+    {
+      "id": "p0170",
+      "text": "\"That's worse than ordinary mind control.\"",
+      "start": 736.745,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 739.155
+    },
+    {
+      "id": "p0171",
+      "text": "Luke nodded.",
+      "start": 739.155,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 740.685
+    },
+    {
+      "id": "p0172",
+      "text": "\"Yes.\"",
+      "start": 740.685,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 741.595
+    },
+    {
+      "id": "p0173",
+      "text": "He thought of the cave on Dagobah. Of the older version of himself offering an end to suffering. Of the temptation to control others for their own good. He had rejected that vision. But what if someone had spent years conditioning him to accept it? What if the voice had belonged to Obi-Wan? Or Yoda? Would he have recognized the deception so easily? He wasn't certain.",
+      "start": 741.595,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 765.995
+    },
+    {
+      "id": "p0174",
+      "text": "And that uncertainty frightened him. By late afternoon, Luke needed air. He left the administrative complex and walked toward one of Cloud City's quieter observation terraces. The city floated above a vast ocean of golden clouds, its towers catching the last sunlight of the day. A warm wind moved across the platform. Far below, enormous gas-harvesting vessels drifted through the atmosphere. Luke rested his hands upon the railing.",
+      "start": 765.995,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 795.635
+    },
+    {
+      "id": "p0175",
+      "text": "He remembered the last time he had stood on Cloud City. He had lost his hand. Discovered the truth about Vader. And nearly fallen to his death. He had returned as a different man. More confident. More powerful. Yet he still carried questions he could not answer. The wind shifted. A familiar voice spoke behind him.",
+      "start": 795.635,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 819.205
+    },
+    {
+      "id": "p0176",
+      "text": "\"Troubled, you are.\"",
+      "start": 819.205,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 820.975
+    },
+    {
+      "id": "p0177",
+      "text": "Luke turned. Yoda stood beside a low stone bench. Or rather, the luminous image of Yoda stood there, his small form shimmering faintly with the blue-white light of the Force. Luke smiled.",
+      "start": 820.975,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 836.025
+    },
+    {
+      "id": "p0178",
+      "text": "\"Master.\"",
+      "start": 836.025,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 836.935
+    },
+    {
+      "id": "p0179",
+      "text": "Yoda regarded him.",
+      "start": 836.935,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 838.855
+    },
+    {
+      "id": "p0180",
+      "text": "\"Much on your mind, young Skywalker.\"",
+      "start": 838.855,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 841.765
+    },
+    {
+      "id": "p0181",
+      "text": "\"There's something I need to understand.\"",
+      "start": 841.765,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 843.715
+    },
+    {
+      "id": "p0182",
+      "text": "\"Hmm. Always questions.\"",
+      "start": 843.715,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 847.085
+    },
+    {
+      "id": "p0183",
+      "text": "Luke laughed softly.",
+      "start": 847.085,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 849.255
+    },
+    {
+      "id": "p0184",
+      "text": "\"Some things don't change.\"",
+      "start": 849.255,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 850.815
+    },
+    {
+      "id": "p0185",
+      "text": "Yoda's ears twitched.",
+      "start": 850.815,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 852.725
+    },
+    {
+      "id": "p0186",
+      "text": "\"Change, all things do. Even questions.\"",
+      "start": 852.725,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 856.725
+    },
+    {
+      "id": "p0187",
+      "text": "Luke leaned against the railing.",
+      "start": 856.725,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 858.885
+    },
+    {
+      "id": "p0188",
+      "text": "\"I went back to Dagobah.\"",
+      "start": 858.885,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 860.485
+    },
+    {
+      "id": "p0189",
+      "text": "\"Know this, I do.\"",
+      "start": 860.485,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 862.365
+    },
+    {
+      "id": "p0190",
+      "text": "\"I entered the cave again.\"",
+      "start": 862.365,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 864.125
+    },
+    {
+      "id": "p0191",
+      "text": "Yoda nodded slowly.",
+      "start": 864.125,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 866.135
+    },
+    {
+      "id": "p0192",
+      "text": "\"And what did you see?\"",
+      "start": 866.135,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 867.785
+    },
+    {
+      "id": "p0193",
+      "text": "Luke hesitated.",
+      "start": 867.785,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 869.385
+    },
+    {
+      "id": "p0194",
+      "text": "\"Myself.\"",
+      "start": 869.385,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 870.345
+    },
+    {
+      "id": "p0195",
+      "text": "The old Jedi waited.",
+      "start": 870.345,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 872.305
+    },
+    {
+      "id": "p0196",
+      "text": "\"Older. Powerful. Ruling over people who couldn't disobey me.\"",
+      "start": 872.305,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 876.555
+    },
+    {
+      "id": "p0197",
+      "text": "Yoda closed his eyes.",
+      "start": 876.555,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 878.475
+    },
+    {
+      "id": "p0198",
+      "text": "\"An old temptation.\"",
+      "start": 878.475,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 880.395
+    },
+    {
+      "id": "p0199",
+      "text": "Luke looked at him.",
+      "start": 880.395,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 881.995
+    },
+    {
+      "id": "p0200",
+      "text": "\"I thought I understood the dark side. Anger. Fear. Hatred.\"",
+      "start": 881.995,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 886.545
+    },
+    {
+      "id": "p0201",
+      "text": "\"Understand part of it, you do.\"",
+      "start": 886.545,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 888.995
+    },
+    {
+      "id": "p0202",
+      "text": "\"But this was different. The vision showed me a world without suffering. Without war. Without people hurting each other.\"",
+      "start": 888.995,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 895.795
+    },
+    {
+      "id": "p0203",
+      "text": "\"And the price?\"",
+      "start": 895.795,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 897.345
+    },
+    {
+      "id": "p0204",
+      "text": "Luke looked away.",
+      "start": 897.345,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 899.105
+    },
+    {
+      "id": "p0205",
+      "text": "\"Freedom.\"",
+      "start": 899.105,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 900.185
+    },
+    {
+      "id": "p0206",
+      "text": "Yoda nodded.",
+      "start": 900.185,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 901.565
+    },
+    {
+      "id": "p0207",
+      "text": "\"Yes.\"",
+      "start": 901.565,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 902.775
+    },
+    {
+      "id": "p0208",
+      "text": "For a while, they listened to the wind. Then Luke turned back toward his master.",
+      "start": 902.775,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 909.325
+    },
+    {
+      "id": "p0209",
+      "text": "\"Why is that cave there?\"",
+      "start": 909.325,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 910.755
+    },
+    {
+      "id": "p0210",
+      "text": "Yoda's expression changed.",
+      "start": 910.755,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 912.805
+    },
+    {
+      "id": "p0211",
+      "text": "\"Old, that place is.\"",
+      "start": 912.805,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 915.055
+    },
+    {
+      "id": "p0212",
+      "text": "\"How old?\"",
+      "start": 915.055,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 915.965
+    },
+    {
+      "id": "p0213",
+      "text": "\"Older than the Republic. Older than many things remembered.\"",
+      "start": 915.965,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 920.275
+    },
+    {
+      "id": "p0214",
+      "text": "\"Was it built by the Sith?\"",
+      "start": 920.275,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 921.865
+    },
+    {
+      "id": "p0215",
+      "text": "\"Built?\"",
+      "start": 921.865,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 922.895
+    },
+    {
+      "id": "p0216",
+      "text": "Yoda shook his head.",
+      "start": 922.895,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 924.415
+    },
+    {
+      "id": "p0217",
+      "text": "\"No. The darkness was there long before the stones were placed around it.\"",
+      "start": 924.415,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 930.065
+    },
+    {
+      "id": "p0218",
+      "text": "Luke frowned.",
+      "start": 930.065,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 931.585
+    },
+    {
+      "id": "p0219",
+      "text": "\"The chamber was built around something?\"",
+      "start": 931.585,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 933.885
+    },
+    {
+      "id": "p0220",
+      "text": "\"Yes.\"",
+      "start": 933.885,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 935.305
+    },
+    {
+      "id": "p0221",
+      "text": "\"What?\"",
+      "start": 935.305,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 935.865
+    },
+    {
+      "id": "p0222",
+      "text": "Yoda looked toward the distant clouds.",
+      "start": 935.865,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 939.545
+    },
+    {
+      "id": "p0223",
+      "text": "\"A wound, perhaps. A place where fear and memory gather. Explain it fully, I cannot.\"",
+      "start": 939.545,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 946.795
+    },
+    {
+      "id": "p0224",
+      "text": "Luke studied him.",
+      "start": 946.795,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 948.325
+    },
+    {
+      "id": "p0225",
+      "text": "\"You lived near it for years.\"",
+      "start": 948.325,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 950.155
+    },
+    {
+      "id": "p0226",
+      "text": "\"Yes.\"",
+      "start": 950.155,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 951.505
+    },
+    {
+      "id": "p0227",
+      "text": "\"Why?\"",
+      "start": 951.505,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 952.325
+    },
+    {
+      "id": "p0228",
+      "text": "Yoda considered the question.",
+      "start": 952.325,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 954.405
+    },
+    {
+      "id": "p0229",
+      "text": "\"Strong in the dark side, the cave is. Hidden within its shadow, my own presence was difficult to perceive.\"",
+      "start": 954.405,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 962.465
+    },
+    {
+      "id": "p0230",
+      "text": "Luke stared.",
+      "start": 962.465,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 963.905
+    },
+    {
+      "id": "p0231",
+      "text": "\"You used the cave to hide from the Emperor?\"",
+      "start": 963.905,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 966.145
+    },
+    {
+      "id": "p0232",
+      "text": "\"In part.\"",
+      "start": 966.145,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 967.395
+    },
+    {
+      "id": "p0233",
+      "text": "\"Then Palpatine knew about it?\"",
+      "start": 967.395,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 969.115
+    },
+    {
+      "id": "p0234",
+      "text": "\"His servants found it. Examined it. Tried to measure what they did not understand.\"",
+      "start": 969.115,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 975.095
+    },
+    {
+      "id": "p0235",
+      "text": "\"Did they find you?\"",
+      "start": 975.095,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 976.295
+    },
+    {
+      "id": "p0236",
+      "text": "\"No.\"",
+      "start": 976.295,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 977.415
+    },
+    {
+      "id": "p0237",
+      "text": "Luke considered this.",
+      "start": 977.415,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 979.335
+    },
+    {
+      "id": "p0238",
+      "text": "\"Why didn't you stop them?\"",
+      "start": 979.335,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 980.995
+    },
+    {
+      "id": "p0239",
+      "text": "Yoda's expression grew distant.",
+      "start": 980.995,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 983.165
+    },
+    {
+      "id": "p0240",
+      "text": "\"Risk much, intervention would have.\"",
+      "start": 983.165,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 985.965
+    },
+    {
+      "id": "p0241",
+      "text": "\"But they were experimenting on people.\"",
+      "start": 985.965,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 988.115
+    },
+    {
+      "id": "p0242",
+      "text": "\"Know what they intended, I did not. Their machines came and went. Their presence faded. And remain hidden, I chose.\"",
+      "start": 988.115,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 996.915
+    },
+    {
+      "id": "p0243",
+      "text": "There was regret in his voice. Luke looked at him.",
+      "start": 996.915,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1000.795
+    },
+    {
+      "id": "p0244",
+      "text": "\"Do you think that was a mistake?\"",
+      "start": 1000.795,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1002.855
+    },
+    {
+      "id": "p0245",
+      "text": "Yoda was silent for a long moment.",
+      "start": 1002.855,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1005.495
+    },
+    {
+      "id": "p0246",
+      "text": "\"Perhaps.\"",
+      "start": 1005.495,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1006.745
+    },
+    {
+      "id": "p0247",
+      "text": "The answer surprised Luke. He had become accustomed to thinking of Yoda as someone who possessed answers to questions Luke had barely learned to ask. Hearing uncertainty from him was strangely reassuring.",
+      "start": 1006.745,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1021.335
+    },
+    {
+      "id": "p0248",
+      "text": "\"Even Jedi Masters make mistakes?\"",
+      "start": 1021.335,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1023.625
+    },
+    {
+      "id": "p0249",
+      "text": "Yoda gave him a sharp look.",
+      "start": 1023.625,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1025.745
+    },
+    {
+      "id": "p0250",
+      "text": "\"Many.\"",
+      "start": 1025.745,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1026.945
+    },
+    {
+      "id": "p0251",
+      "text": "Luke smiled.",
+      "start": 1026.945,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1028.305
+    },
+    {
+      "id": "p0252",
+      "text": "\"Good to know.\"",
+      "start": 1028.305,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1029.265
+    },
+    {
+      "id": "p0253",
+      "text": "\"Learn from them, we must.\"",
+      "start": 1029.265,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1031.545
+    },
+    {
+      "id": "p0254",
+      "text": "Luke sat on the bench. Yoda remained standing beside him.",
+      "start": 1031.545,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1036.025
+    },
+    {
+      "id": "p0255",
+      "text": "\"Master, there's something else.\"",
+      "start": 1036.025,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1037.675
+    },
+    {
+      "id": "p0256",
+      "text": "\"Hmm?\"",
+      "start": 1037.675,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1038.445
+    },
+    {
+      "id": "p0257",
+      "text": "\"The Imperial researchers were using the cave's effects to manipulate people's memories. They made prisoners hear familiar voices giving them commands.\"",
+      "start": 1038.445,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1045.825
+    },
+    {
+      "id": "p0258",
+      "text": "Yoda's expression darkened.",
+      "start": 1045.825,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1047.985
+    },
+    {
+      "id": "p0259",
+      "text": "\"Dangerous, such knowledge is.\"",
+      "start": 1047.985,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1050.995
+    },
+    {
+      "id": "p0260",
+      "text": "\"Can the Force really do that?\"",
+      "start": 1050.995,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1052.725
+    },
+    {
+      "id": "p0261",
+      "text": "\"Influence the mind, it can. Cloud judgment. Awaken fear. But create loyalty from nothing?\"",
+      "start": 1052.725,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1060.665
+    },
+    {
+      "id": "p0262",
+      "text": "He shook his head.",
+      "start": 1060.665,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1062.095
+    },
+    {
+      "id": "p0263",
+      "text": "\"No.\"",
+      "start": 1062.095,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1063.295
+    },
+    {
+      "id": "p0264",
+      "text": "Luke considered this.",
+      "start": 1063.295,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1065.295
+    },
+    {
+      "id": "p0265",
+      "text": "\"Then what were the scientists doing?\"",
+      "start": 1065.295,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1067.485
+    },
+    {
+      "id": "p0266",
+      "text": "\"Using what already exists.\"",
+      "start": 1067.485,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1070.125
+    },
+    {
+      "id": "p0267",
+      "text": "\"Memories?\"",
+      "start": 1070.125,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1071.215
+    },
+    {
+      "id": "p0268",
+      "text": "\"Yes. Fear. Love. Regret. Hope.\"",
+      "start": 1071.215,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1075.855
+    },
+    {
+      "id": "p0269",
+      "text": "Yoda turned toward him.",
+      "start": 1075.855,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1077.755
+    },
+    {
+      "id": "p0270",
+      "text": "\"These things, powerful they are. But the choice of what to do with them belongs to the living.\"",
+      "start": 1077.755,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1083.595
+    },
+    {
+      "id": "p0271",
+      "text": "Luke thought of Darren. The man who had begged someone to stop forcing words from his mouth.",
+      "start": 1083.595,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1090.675
+    },
+    {
+      "id": "p0272",
+      "text": "\"Can someone lose that choice?\"",
+      "start": 1090.675,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1092.345
+    },
+    {
+      "id": "p0273",
+      "text": "\"For a time, perhaps.\"",
+      "start": 1092.345,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1094.425
+    },
+    {
+      "id": "p0274",
+      "text": "\"Can it be restored?\"",
+      "start": 1094.425,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1095.825
+    },
+    {
+      "id": "p0275",
+      "text": "Yoda looked at him.",
+      "start": 1095.825,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1097.565
+    },
+    {
+      "id": "p0276",
+      "text": "\"Restore it for another, you cannot.\"",
+      "start": 1097.565,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1100.655
+    },
+    {
+      "id": "p0277",
+      "text": "Luke frowned.",
+      "start": 1100.655,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1102.015
+    },
+    {
+      "id": "p0278",
+      "text": "\"Why not?\"",
+      "start": 1102.015,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1102.945
+    },
+    {
+      "id": "p0279",
+      "text": "\"Because a choice made for someone else is not their choice.\"",
+      "start": 1102.945,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1107.005
+    },
+    {
+      "id": "p0280",
+      "text": "Luke considered the words.",
+      "start": 1107.005,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1109.125
+    },
+    {
+      "id": "p0281",
+      "text": "\"Then how do I help?\"",
+      "start": 1109.125,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1110.475
+    },
+    {
+      "id": "p0282",
+      "text": "\"Remind them.\"",
+      "start": 1110.475,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1111.895
+    },
+    {
+      "id": "p0283",
+      "text": "\"Of what?\"",
+      "start": 1111.895,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1112.725
+    },
+    {
+      "id": "p0284",
+      "text": "\"Who they are.\"",
+      "start": 1112.725,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1114.105
+    },
+    {
+      "id": "p0285",
+      "text": "The old Jedi looked toward the distant city.",
+      "start": 1114.105,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1117.215
+    },
+    {
+      "id": "p0286",
+      "text": "\"A command tells a person what to do. A memory tells them what has been. A vision shows what might be.\"",
+      "start": 1117.215,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1125.155
+    },
+    {
+      "id": "p0287",
+      "text": "He turned back.",
+      "start": 1125.155,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1126.515
+    },
+    {
+      "id": "p0288",
+      "text": "\"Confuse these things, the darkness would have you do.\"",
+      "start": 1126.515,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1130.275
+    },
+    {
+      "id": "p0289",
+      "text": "Luke slowly nodded. That was the distinction. The Imperial scientists had been attempting to transform memories into commands. They wanted people to experience an instruction as though it belonged to their own past. As though obedience were not something imposed upon them, but something they had always chosen. And perhaps that was why the prisoners remained resistant. Because deep within them, they remembered otherwise. Luke looked toward Yoda.",
+      "start": 1130.275,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1160.805
+    },
+    {
+      "id": "p0290",
+      "text": "\"There's a phrase in the recordings.\"",
+      "start": 1160.805,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1162.515
+    },
+    {
+      "id": "p0291",
+      "text": "\"What phrase?\"",
+      "start": 1162.515,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1164.025
+    },
+    {
+      "id": "p0292",
+      "text": "\"I remember the garden.\"",
+      "start": 1164.025,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1165.695
+    },
+    {
+      "id": "p0293",
+      "text": "Yoda became very still. Luke noticed.",
+      "start": 1165.695,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1169.245
+    },
+    {
+      "id": "p0294",
+      "text": "\"You know it?\"",
+      "start": 1169.245,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1170.205
+    },
+    {
+      "id": "p0295",
+      "text": "The old Jedi did not answer immediately.",
+      "start": 1170.205,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1173.295
+    },
+    {
+      "id": "p0296",
+      "text": "Then he said, \"Heard it before, I have.\"",
+      "start": 1173.295,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1176.295
+    },
+    {
+      "id": "p0297",
+      "text": "Luke leaned forward.",
+      "start": 1176.295,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1178.015
+    },
+    {
+      "id": "p0298",
+      "text": "\"Where?\"",
+      "start": 1178.015,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1178.885
+    },
+    {
+      "id": "p0299",
+      "text": "\"Long ago. Before the Empire.\"",
+      "start": 1178.885,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1181.905
+    },
+    {
+      "id": "p0300",
+      "text": "\"From whom?\"",
+      "start": 1181.905,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1182.815
+    },
+    {
+      "id": "p0301",
+      "text": "Yoda closed his eyes.",
+      "start": 1182.815,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1184.895
+    },
+    {
+      "id": "p0302",
+      "text": "\"A voice. Heard by those who entered the darkness. Different to each, yet the words remained.\"",
+      "start": 1184.895,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1190.925
+    },
+    {
+      "id": "p0303",
+      "text": "Luke felt a chill.",
+      "start": 1190.925,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1192.595
+    },
+    {
+      "id": "p0304",
+      "text": "\"So the phrase was there before Palpatine's experiments?\"",
+      "start": 1192.595,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1195.555
+    },
+    {
+      "id": "p0305",
+      "text": "\"Yes.\"",
+      "start": 1195.555,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1196.745
+    },
+    {
+      "id": "p0306",
+      "text": "\"Before Plagueis?\"",
+      "start": 1196.745,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1198.145
+    },
+    {
+      "id": "p0307",
+      "text": "Yoda opened his eyes. Luke watched him carefully.",
+      "start": 1198.145,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1202.165
+    },
+    {
+      "id": "p0308",
+      "text": "\"Master?\"",
+      "start": 1202.165,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1203.175
+    },
+    {
+      "id": "p0309",
+      "text": "The old Jedi looked toward the clouds.",
+      "start": 1203.175,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1206.155
+    },
+    {
+      "id": "p0310",
+      "text": "\"Plagueis sought many things. Life without death. Knowledge without wisdom. Power without consequence.\"",
+      "start": 1206.155,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1214.055
+    },
+    {
+      "id": "p0311",
+      "text": "\"Did you know him?\"",
+      "start": 1214.055,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1215.315
+    },
+    {
+      "id": "p0312",
+      "text": "\"Of him, I knew.\"",
+      "start": 1215.315,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1217.185
+    },
+    {
+      "id": "p0313",
+      "text": "\"Did he discover the cave?\"",
+      "start": 1217.185,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1218.845
+    },
+    {
+      "id": "p0314",
+      "text": "\"Found it, perhaps. Understood it?\"",
+      "start": 1218.845,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1222.195
+    },
+    {
+      "id": "p0315",
+      "text": "Yoda shook his head.",
+      "start": 1222.195,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1223.795
+    },
+    {
+      "id": "p0316",
+      "text": "\"No.\"",
+      "start": 1223.795,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1225.135
+    },
+    {
+      "id": "p0317",
+      "text": "Luke considered the implications.",
+      "start": 1225.135,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1227.935
+    },
+    {
+      "id": "p0318",
+      "text": "\"Then the phrase isn't something the Emperor invented.\"",
+      "start": 1227.935,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1230.655
+    },
+    {
+      "id": "p0319",
+      "text": "\"No.\"",
+      "start": 1230.655,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1231.915
+    },
+    {
+      "id": "p0320",
+      "text": "\"What does it mean?\"",
+      "start": 1231.915,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1233.185
+    },
+    {
+      "id": "p0321",
+      "text": "Yoda's expression grew solemn.",
+      "start": 1233.185,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1235.355
+    },
+    {
+      "id": "p0322",
+      "text": "\"That, young Skywalker, I do not know.\"",
+      "start": 1235.355,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1238.495
+    },
+    {
+      "id": "p0323",
+      "text": "For a moment, Luke felt a familiar frustration. He had traveled across the galaxy, investigated ancient chambers, and recovered classified Imperial records. And still the answer remained beyond his reach. Yoda seemed to sense his thoughts.",
+      "start": 1238.495,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1254.525
+    },
+    {
+      "id": "p0324",
+      "text": "\"An answer, you seek.\"",
+      "start": 1254.525,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1256.525
+    },
+    {
+      "id": "p0325",
+      "text": "\"Yes.\"",
+      "start": 1256.525,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1257.385
+    },
+    {
+      "id": "p0326",
+      "text": "\"Perhaps the wrong question, you ask.\"",
+      "start": 1257.385,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1259.845
+    },
+    {
+      "id": "p0327",
+      "text": "Luke sighed.",
+      "start": 1259.845,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1261.285
+    },
+    {
+      "id": "p0328",
+      "text": "\"You're going to make me figure it out myself, aren't you?\"",
+      "start": 1261.285,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1264.045
+    },
+    {
+      "id": "p0329",
+      "text": "Yoda smiled.",
+      "start": 1264.045,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1265.405
+    },
+    {
+      "id": "p0330",
+      "text": "\"Learning, you are.\"",
+      "start": 1265.405,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1267.585
+    },
+    {
+      "id": "p0331",
+      "text": "The wind strengthened. Yoda's luminous form began to fade.",
+      "start": 1267.585,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1271.915
+    },
+    {
+      "id": "p0332",
+      "text": "\"Master, wait.\"",
+      "start": 1271.915,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1273.275
+    },
+    {
+      "id": "p0333",
+      "text": "The old Jedi looked at him.",
+      "start": 1273.275,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1275.305
+    },
+    {
+      "id": "p0334",
+      "text": "\"One more question.\"",
+      "start": 1275.305,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1276.655
+    },
+    {
+      "id": "p0335",
+      "text": "\"Hmm?\"",
+      "start": 1276.655,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1277.645
+    },
+    {
+      "id": "p0336",
+      "text": "\"Were you afraid of the cave?\"",
+      "start": 1277.645,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1279.235
+    },
+    {
+      "id": "p0337",
+      "text": "Yoda was silent. Then he nodded.",
+      "start": 1279.235,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1282.195
+    },
+    {
+      "id": "p0338",
+      "text": "\"Yes.\"",
+      "start": 1282.195,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1283.345
+    },
+    {
+      "id": "p0339",
+      "text": "Luke stared.",
+      "start": 1283.345,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1284.735
+    },
+    {
+      "id": "p0340",
+      "text": "\"Why?\"",
+      "start": 1284.735,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1285.645
+    },
+    {
+      "id": "p0341",
+      "text": "\"Not of dying within it, was I afraid.\"",
+      "start": 1285.645,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1288.515
+    },
+    {
+      "id": "p0342",
+      "text": "\"Then what?\"",
+      "start": 1288.515,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1289.395
+    },
+    {
+      "id": "p0343",
+      "text": "Yoda looked toward the darkening sky.",
+      "start": 1289.395,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1292.435
+    },
+    {
+      "id": "p0344",
+      "text": "\"Failure, I had known. The Jedi destroyed. The Republic fallen. Friends lost.\"",
+      "start": 1292.435,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1299.925
+    },
+    {
+      "id": "p0345",
+      "text": "His voice became very quiet.",
+      "start": 1299.925,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1302.345
+    },
+    {
+      "id": "p0346",
+      "text": "\"Many things I wished to change.\"",
+      "start": 1302.345,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1304.975
+    },
+    {
+      "id": "p0347",
+      "text": "Luke listened.",
+      "start": 1304.975,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1306.295
+    },
+    {
+      "id": "p0348",
+      "text": "\"In that cave, perhaps, a thousand ways to prevent those losses I might have seen.\"",
+      "start": 1306.295,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1312.855
+    },
+    {
+      "id": "p0349",
+      "text": "He paused.",
+      "start": 1312.855,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1313.975
+    },
+    {
+      "id": "p0350",
+      "text": "\"And in believing I could control what had already happened, lose myself I might have.\"",
+      "start": 1313.975,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1319.625
+    },
+    {
+      "id": "p0351",
+      "text": "Luke thought of his own vision. The older man promising peace through obedience. The temptation to prevent suffering by removing choice. He understood. Yoda had feared the same thing. Not a monster. Not an enemy. The possibility of believing that good intentions justified terrible means. Luke looked at him.",
+      "start": 1319.625,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1343.485
+    },
+    {
+      "id": "p0352",
+      "text": "\"Thank you, Master.\"",
+      "start": 1343.485,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1344.805
+    },
+    {
+      "id": "p0353",
+      "text": "Yoda smiled.",
+      "start": 1344.805,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1346.325
+    },
+    {
+      "id": "p0354",
+      "text": "\"Remember, Luke. Protect life, you must. Command it, you must not.\"",
+      "start": 1346.325,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1352.485
+    },
+    {
+      "id": "p0355",
+      "text": "His form faded. Then he was gone. Luke remained on the terrace for a long time. The wind moved through his hair. Far below, the clouds rolled slowly across the planet. He felt strangely peaceful. Not because the mystery had been solved. But because he understood a little more clearly what kind of Jedi he wanted to become.",
+      "start": 1352.485,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1377.115
+    },
+    {
+      "id": "p0356",
+      "text": "When Luke returned to the examination room, Artoo was waiting beside the terminal. The little droid gave an excited series of whistles. Luke smiled.",
+      "start": 1377.115,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1387.115
+    },
+    {
+      "id": "p0357",
+      "text": "\"Found something?\"",
+      "start": 1387.115,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1388.235
+    },
+    {
+      "id": "p0358",
+      "text": "Artoo chirped. Threepio approached.",
+      "start": 1388.235,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1391.835
+    },
+    {
+      "id": "p0359",
+      "text": "\"Master Luke, Artoo has been comparing the Dagobah recordings with the material recovered from the Bespin laboratory.\"",
+      "start": 1391.835,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1398.355
+    },
+    {
+      "id": "p0360",
+      "text": "\"And?\"",
+      "start": 1398.355,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1398.835
+    },
+    {
+      "id": "p0361",
+      "text": "\"He believes he has identified a common signal.\"",
+      "start": 1398.835,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1401.835
+    },
+    {
+      "id": "p0362",
+      "text": "Venn activated the display. Two waveforms appeared. One from Dagobah. One from Bespin. At first, they looked entirely different. But Artoo isolated the underlying pulses. The patterns aligned almost perfectly. Luke leaned closer.",
+      "start": 1401.835,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1418.555
+    },
+    {
+      "id": "p0363",
+      "text": "\"That's the same signal.\"",
+      "start": 1418.555,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1420.075
+    },
+    {
+      "id": "p0364",
+      "text": "\"Precisely,\" Threepio said.",
+      "start": 1420.075,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1422.395
+    },
+    {
+      "id": "p0365",
+      "text": "Venn opened a third recording. This one came from the secret archive on Coruscant. The interrogation of Darren. Again, the same pattern appeared. Luke frowned.",
+      "start": 1422.395,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1434.875
+    },
+    {
+      "id": "p0366",
+      "text": "\"Three locations.\"",
+      "start": 1434.875,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1436.625
+    },
+    {
+      "id": "p0367",
+      "text": "Artoo whistled. A fourth waveform appeared. The communications buoy Han had captured near Tatooine. The patterns aligned. Lando leaned forward.",
+      "start": 1436.625,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1447.745
+    },
+    {
+      "id": "p0368",
+      "text": "\"All four stations are using the same signal.\"",
+      "start": 1447.745,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1450.735
+    },
+    {
+      "id": "p0369",
+      "text": "\"Not quite,\" Venn replied.",
+      "start": 1450.735,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1453.593
+    },
+    {
+      "id": "p0370",
+      "text": "She enlarged the display.",
+      "start": 1453.593,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1455.713
+    },
+    {
+      "id": "p0371",
+      "text": "\"The signal isn't being transmitted continuously. It appears only when certain records are accessed.\"",
+      "start": 1455.713,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1462.263
+    },
+    {
+      "id": "p0372",
+      "text": "Han frowned.",
+      "start": 1462.263,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1463.623
+    },
+    {
+      "id": "p0373",
+      "text": "\"Like a security notification?\"",
+      "start": 1463.623,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1465.613
+    },
+    {
+      "id": "p0374",
+      "text": "\"Possibly.\"",
+      "start": 1465.613,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1466.873
+    },
+    {
+      "id": "p0375",
+      "text": "Luke examined the timestamps. The most recent activation had occurred six days earlier. The day Palpatine's private archive had been accessed. The day someone using Sim Aloo's credentials had opened the Witness Station directory. And the day the search for Darren's missing prism had apparently begun.",
+      "start": 1466.873,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1487.803
+    },
+    {
+      "id": "p0376",
+      "text": "\"Artoo,\" Luke said, \"can you determine where the signal originated?\"",
+      "start": 1487.803,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1491.903
+    },
+    {
+      "id": "p0377",
+      "text": "The droid worked for several seconds. Then a set of coordinates appeared. Venn examined them.",
+      "start": 1491.903,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1498.928
+    },
+    {
+      "id": "p0378",
+      "text": "\"That's not possible.\"",
+      "start": 1498.928,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1500.478
+    },
+    {
+      "id": "p0379",
+      "text": "Leia stepped closer.",
+      "start": 1500.478,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1502.338
+    },
+    {
+      "id": "p0380",
+      "text": "\"What?\"",
+      "start": 1502.338,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1503.138
+    },
+    {
+      "id": "p0381",
+      "text": "\"The transmission appears to have originated from the Dagobah station.\"",
+      "start": 1503.138,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1507.858
+    },
+    {
+      "id": "p0382",
+      "text": "Luke frowned.",
+      "start": 1507.858,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1509.228
+    },
+    {
+      "id": "p0383",
+      "text": "\"But that facility was flooded when I left.\"",
+      "start": 1509.228,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1511.668
+    },
+    {
+      "id": "p0384",
+      "text": "\"According to the logs, its primary equipment stopped operating. However, a separate transmitter activated shortly afterward.\"",
+      "start": 1511.668,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1520.138
+    },
+    {
+      "id": "p0385",
+      "text": "Artoo whistled. Threepio translated.",
+      "start": 1520.138,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1523.488
+    },
+    {
+      "id": "p0386",
+      "text": "\"He says the transmission was sent toward an Imperial communications relay.\"",
+      "start": 1523.488,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1527.738
+    },
+    {
+      "id": "p0387",
+      "text": "Venn brought up the destination. A routing code appeared. Luke stared at it. He recognized the format. The same type of segmented transport reference Leia had been investigating.",
+      "start": 1527.738,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1540.103
+    },
+    {
+      "id": "p0388",
+      "text": "\"Can we identify the recipient?\"",
+      "start": 1540.103,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1541.963
+    },
+    {
+      "id": "p0389",
+      "text": "Artoo chirped. The screen changed. A familiar vessel designation appeared. IMPERIAL TRANSPORT MERIDIAN. Leia went very still.",
+      "start": 1541.963,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1552.643
+    },
+    {
+      "id": "p0390",
+      "text": "\"The prisoners.\"",
+      "start": 1552.643,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1553.783
+    },
+    {
+      "id": "p0391",
+      "text": "Han leaned forward.",
+      "start": 1553.783,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1555.763
+    },
+    {
+      "id": "p0392",
+      "text": "\"That ship again.\"",
+      "start": 1555.763,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1557.103
+    },
+    {
+      "id": "p0393",
+      "text": "Venn examined the transmission.",
+      "start": 1557.103,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1559.978
+    },
+    {
+      "id": "p0394",
+      "text": "\"The Meridian received a signal from Dagobah six days ago. But the packet doesn't contain ordinary navigation data.\"",
+      "start": 1559.978,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1567.268
+    },
+    {
+      "id": "p0395",
+      "text": "\"What does it contain?\" Luke asked.",
+      "start": 1567.268,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1569.928
+    },
+    {
+      "id": "p0396",
+      "text": "Venn hesitated.",
+      "start": 1569.928,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1571.795
+    },
+    {
+      "id": "p0397",
+      "text": "\"An instruction.\"",
+      "start": 1571.795,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1573.215
+    },
+    {
+      "id": "p0398",
+      "text": "The room became quiet. She opened the file. A short line of text appeared. PRIMARY WITNESS STATUS: UNCONFIRMED. Below it was another. ACTIVATE SECONDARY RETRIEVAL PROTOCOL. Han frowned.",
+      "start": 1573.215,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1589.255
+    },
+    {
+      "id": "p0399",
+      "text": "\"What's that supposed to mean?\"",
+      "start": 1589.255,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1590.855
+    },
+    {
+      "id": "p0400",
+      "text": "Luke looked toward Leia. The black prism. Darren. The man who had apparently been compelled to steal the object and leap from the Emperor's office. Someone had issued an instruction concerning the Primary Witness. And the transport carrying the Alderaanian prisoners had received it.",
+      "start": 1590.855,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1611.785
+    },
+    {
+      "id": "p0401",
+      "text": "\"Artoo,\" Luke said, \"was the signal sent before or after Darren jumped?\"",
+      "start": 1611.785,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1616.165
+    },
+    {
+      "id": "p0402",
+      "text": "The droid checked the timestamps. A brief whistle. Threepio translated.",
+      "start": 1616.165,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1621.925
+    },
+    {
+      "id": "p0403",
+      "text": "\"Before, Master Luke.\"",
+      "start": 1621.925,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1623.485
+    },
+    {
+      "id": "p0404",
+      "text": "\"How long before?\"",
+      "start": 1623.485,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1624.875
+    },
+    {
+      "id": "p0405",
+      "text": "The display changed. TWENTY-THREE MINUTES. Leia stared at the screen. Twenty-three minutes. The signal had left Dagobah less than half an hour before Darren lost control inside Palpatine's office. Han folded his arms.",
+      "start": 1624.875,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1641.555
+    },
+    {
+      "id": "p0406",
+      "text": "\"Well, that's not a coincidence.\"",
+      "start": 1641.555,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1643.385
+    },
+    {
+      "id": "p0407",
+      "text": "Luke studied the routing history. The transmission had passed through several Imperial relays before reaching the Meridian. One of those relays had also delivered the command recovered from the Mos Eisley station. He looked toward Leia.",
+      "start": 1643.385,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1657.385
+    },
+    {
+      "id": "p0408",
+      "text": "\"Someone activated the network.\"",
+      "start": 1657.385,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1659.185
+    },
+    {
+      "id": "p0409",
+      "text": "She nodded slowly.",
+      "start": 1659.185,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1660.825
+    },
+    {
+      "id": "p0410",
+      "text": "\"And Darren was part of it.\"",
+      "start": 1660.825,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1662.305
+    },
+    {
+      "id": "p0411",
+      "text": "Luke considered what Yoda had told him. A memory. A vision. A command. Three very different things. The Emperor's scientists had spent decades attempting to make them indistinguishable. But the people they controlled still remembered. They still resisted. And perhaps, given the chance, they could choose again. Luke looked toward the ship designation.",
+      "start": 1662.305,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1688.485
+    },
+    {
+      "id": "p0412",
+      "text": "\"The Meridian isn't just transporting prisoners.\"",
+      "start": 1688.485,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1690.935
+    },
+    {
+      "id": "p0413",
+      "text": "Leia turned.",
+      "start": 1690.935,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1692.295
+    },
+    {
+      "id": "p0414",
+      "text": "\"What do you mean?\"",
+      "start": 1692.295,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1693.365
+    },
+    {
+      "id": "p0415",
+      "text": "He pointed to the transmission.",
+      "start": 1693.365,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1695.445
+    },
+    {
+      "id": "p0416",
+      "text": "\"Someone sent it an activation instruction before Darren took the prism. The ship may be part of the mechanism they're using to control him.\"",
+      "start": 1695.445,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1701.925
+    },
+    {
+      "id": "p0417",
+      "text": "Han frowned.",
+      "start": 1701.925,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1703.285
+    },
+    {
+      "id": "p0418",
+      "text": "\"Which means?\"",
+      "start": 1703.285,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1704.565
+    },
+    {
+      "id": "p0419",
+      "text": "\"Which means if we want to understand what happened to Darren, we need to find that ship.\"",
+      "start": 1704.565,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1708.795
+    },
+    {
+      "id": "p0420",
+      "text": "Leia looked at the screen. Forty-three prisoners. A missing Imperial officer. A stolen black prism. And a secret network that had been operating since before the fall of the Republic. For the first time, the separate mysteries seemed to be converging.",
+      "start": 1708.795,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1727.735
+    },
+    {
+      "id": "p0421",
+      "text": "\"Then that's what we'll do,\" she said.",
+      "start": 1727.735,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1730.155
+    },
+    {
+      "id": "p0422",
+      "text": "Far away, beneath the flooded ruins of the Dagobah installation, a small recording device remained active. Its casing was cracked. Water seeped through the ancient stone around it. The Imperial machinery had long since failed. But the device continued operating. A faint red light blinked. A transmission arrived. The receiver activated. For several seconds, there was only static. Then a voice spoke. Soft. Measured. Almost kindly.",
+      "start": 1730.155,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1761.585
+    },
+    {
+      "id": "p0423",
+      "text": "\"The subject remembers.\"",
+      "start": 1761.585,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1763.185
+    },
+    {
+      "id": "p0424",
+      "text": "A pause.",
+      "start": 1763.185,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1764.285
+    },
+    {
+      "id": "p0425",
+      "text": "\"Continue.\"",
+      "start": 1764.285,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1765.325
+    },
+    {
+      "id": "p0426",
+      "text": "The light blinked again. And somewhere in the darkness beneath the swamp, something answered.",
+      "start": 1765.325,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1771.915
+    },
+    {
+      "id": "p0427",
+      "text": "End of Chapter Fourteen.",
+      "start": 1771.915,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1773.515
+    }
+  ]
+}

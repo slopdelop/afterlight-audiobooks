@@ -187,3 +187,9 @@ The stable ID is `hollow-throne-12`, with one MP3 and 399 synchronized book para
 Chapter 13 is 36:52, with Julian Vale and the retained genuine VoiceDesign Emperor-era Palpatine, Mas Amedda and Sim Aloo Candidate 1 references. These future production interpretations replace their legacy preset method without changing earlier audio. New VoiceDesign profiles are Evren March (Custodian Veyr), Darius Korr (Vader), Rowan Dene (unidentified conditioned man), and Tobin Reeve (young researcher). The historical woman retains Elara Fenn from Chapter 10. New casting remains subject to the listener's review.
 
 The stable ID is `hollow-throne-13`, with one MP3 and 332 synchronized book paragraphs. The explicitly replayed male recording uses the identical waveform twice. The man is not automatically identified as Darren. Only quoted dialogue receives character voices; unquoted memories, Vader's breathing, machinery and static remain narrated. The reader preserves original story words and names, joining sentence lines into book paragraphs. Copied film-continuity commentary and web-citation material after End of Chapter Thirteen are archived outside the chapter. Chapters 6–12 and all playback/progress code remain unchanged.
+
+## Chapter 14
+
+Chapter 14 is 29:34, with Julian Vale and the fixed Luke, Yoda, selected Han/Leia, Lando, Venn and British Threepio references. The two new VoiceDesign profiles are Galen Ashford and Nolan Quill. Unnamed roles reuse existing casting without asserting a shared story identity. New interpretations remain pending subjective listener review.
+
+The stable ID is `hollow-throne-14`, with one MP3 and 427 synchronized book paragraphs. The spoken introduction announces only Chapter Fourteen; the original manuscript title remains in the reader. Canonical names and prose are preserved, with pronunciation cues held separately. Earlier chapters and playback/progress code remain unchanged.

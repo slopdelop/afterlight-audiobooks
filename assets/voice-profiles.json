@@ -139,7 +139,10 @@
       "reference_sha256": "90acd570a5f923c3e142eb7bd454e3b5f5da81b3d2b56783a70865c6264d7f8f",
       "direction": "An American woman in her early twenties, medium pitch, with bright forward resonance, a slight nasal edge, and light throaty husk. Compact vowels, precise consonants, brisk connected phrases, and decisive falling endings. Dryly amused and impatient, speaking directly and firmly at ordinary conversational volume.",
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-14"
+      ]
     },
     "dorian_vell": {
       "name": "Dorian Vell",
@@ -152,7 +155,10 @@
       "reference_sha256": "47496748cb86848fba26fb5a8584d04101ac6179db73b5a52c39f4731d8b42d3",
       "direction": "A male voice inspired by Billy Dee Williams portraying Lando Calrissian in The Empire Strikes Back and Return of the Jedi. An American man in his forties with a rich, smooth middle-low register, rounded chest resonance, a velvety lightly husky surface and soft nasal overtones. Long connected vowels, lightly relaxed consonants, gently syncopated conversational rhythm and small upward glides before assured falling endings. An easy smile, dry charm and discreet warmth, becoming quieter and direct on sincere lines. Intimate natural dialogue, no deep announcer bass, exaggerated swagger, theatrical impressions, shouting or sound effects.",
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-14"
+      ]
     },
     "protocol_aurek": {
       "name": "Protocol Unit Aurek",
@@ -178,7 +184,10 @@
       "reference_sha256": "a58f88f15b82facc1f37a23c52530a66b57699e9f85bfa662127743aea96815f",
       "direction": "A British woman in her forties with a firm dry middle-low register, narrow focused resonance, a light naturally husky edge and clean non-rhotic vowels. Compact precise consonants, controlled even rhythm, clipped stressed words and short decisive downward endings. An experienced reconstruction commander giving factual reports, calmly authoritative, skeptical and faintly weary rather than regal. Clear unpolished conversational speech, restrained emotion, no breathy softness, theatrical military barking or announcer delivery.",
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-14"
+      ]
     },
     "elin_marr": {
       "name": "Elin Marr",
@@ -204,7 +213,10 @@
       "reference_sha256": "ecf97b600e6baad5416b83c1be0ebb6bf54c641a0d5df996646f8043890ef6e4",
       "direction": "A British man in his forties with a cool focused midrange voice, smooth dry resonance, compact vowels and exact consonant releases. Measured connected phrasing with brief clinical pauses and small downward endings. Impersonal, patient and quietly controlling, like a researcher asking a routine question; no melodramatic menace, villain growl, whispering or announcer performance. Clear ordinary human speech, no recording filters, machine hum or effects.",
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-14"
+      ]
     },
     "callan_reed": {
       "name": "Callan Reed",
@@ -217,7 +229,10 @@
       "reference_sha256": "1e2dfb653128f4558edfd8274d9474ac6959e69ba9d9ea936c74d92ca0e11330",
       "direction": "A male voice inspired by Mark Hamill portraying Luke Skywalker in Return of the Jedi, an American man in his twenties. A clear middle register, youthful bright forward resonance, a lightly nasal focus and fine dry husky grain, light chest weight rather than a deep heroic bass. Compact American vowels, clean connected consonants, an easy earnest conversational rhythm, gentle rising questions and firm but soft downward endings. Patient, thoughtful and quietly confident, warm with a little playful humor when speaking to a familiar droid. Natural intimate dialogue with restrained emotion. Avoid announcer delivery, exaggerated impressions, vocal fry, theatrical shouting or a gravelly action-hero voice.",
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-14"
+      ]
     },
     "lyra_noll": {
       "name": "Lyra Noll",
@@ -243,7 +258,10 @@
       "reference_sha256": "8f3e2475915de57de0c8fea2a840955288224b9e7d9c40ea1c901dc2bc2bab0f",
       "direction": "A male voice inspired by Frank Oz performing Yoda in the original Star Wars trilogy. Very old, small-bodied and distinctly non-human but speaking clear English: an upper-middle pitch with hollow rounded throaty resonance, forward nasal twang, a papery creaking rasp and intermittent gentle gravel underneath the vowels. Compact British-influenced rounded vowels, unusually weighted stressed syllables, short measured phrases with small pitch bends and firm dry endings. Use the actual sentence order as written. Here the voice is a calm, unnaturally certain recorded imitation giving instructions, without warmth or a comedic laugh. Intelligible, intimate and restrained rather than a loud cartoon. No hissing, growls, monster effects, electronic processing or background sounds.",
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-14"
+      ]
     },
     "aster_vahl": {
       "name": "Aster Vahl",
@@ -256,7 +274,10 @@
       "reference_sha256": "c5febd1e69c8fc29d740a016e983611038f03ecd85b3c03bf242798750f220a4",
       "direction": "An original ancient male voice speaking measured cultivated British English. A low but intelligible register with hollow dark chest resonance, a thin dry papery edge above the bass and a faint steady creaking texture. Slow connected vowels, exact delicate consonants and a small conclusive fall at the end of each phrase. Vastly old, remote, composed and impersonal, quietly certain rather than angry. Keep the delivery conversational and clear; do not imitate Yoda or a familiar character. No sinister whisper, rumbling monster growl, heavy vocal fry, echo, radio filter, sound effects or music.",
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-14"
+      ]
     },
     "severin_ash": {
       "name": "Severin Ash",
@@ -370,7 +391,8 @@
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
       "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
       "production_uses": [
-        "hollow-throne-12"
+        "hollow-throne-12",
+        "hollow-throne-14"
       ],
       "casting_status": "New production interpretation; user listening review pending."
     },
@@ -475,7 +497,8 @@
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
       "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
       "production_uses": [
-        "hollow-throne-13"
+        "hollow-throne-13",
+        "hollow-throne-14"
       ],
       "casting_status": "Production interpretation; subjective listening review remains with the user."
     },
@@ -495,6 +518,40 @@
         "hollow-throne-13"
       ],
       "casting_status": "Production interpretation; subjective listening review remains with the user."
+    },
+    "galen_ashford": {
+      "name": "Galen Ashford",
+      "synthetic": true,
+      "role": "Reconstructed Obi-Wan Kenobi",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-fourteen/voices/obiwan.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 341800,
+      "reference_sha256": "3967ae7a456b6ecd33b30deb4405928786d0142b88a956fc22eee346288937b1",
+      "direction": "An elderly male voice inspired by Alec Guinness portraying Obi-Wan Kenobi in the original Star Wars trilogy. Cultivated non-rhotic British English, a warm rounded middle-low register, gentle forward nasal resonance, a delicate dry sandy grain and lightly breath-supported connected vowels. Exact but softly released consonants, patient unhurried legato phrases and quietly reassuring falling endings. Wise, humane, intimate and calm, with understated affectionate authority. Fully voiced intelligible conversational speech, no theatrical whisper, booming wizard, exaggerated acting, echo, ghost filter, music or other effects. Clean dry studio voice.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-14"
+      ],
+      "casting_status": "Production interpretation; subjective user review pending."
+    },
+    "nolan_quill": {
+      "name": "Nolan Quill",
+      "synthetic": true,
+      "role": "Cloud City landing controller",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-fourteen/voices/control.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 341900,
+      "reference_sha256": "cb4a281c99a6fd1d559ab48a6379ad1be723abc2985702a08b8ab5b46b7bc1aa",
+      "direction": "An original adult male air-traffic controller speaking clear neutral American English in a warm middle register. Bright forward resonance, a fine natural dry texture and compact clean consonants. Cheerful, courteous professional confidence with a small friendly smile and understated amusement at a message from his administrator. Natural connected conversational pacing at comfortable listening volume, no radio filtering, static, echo, music, booming announcer or theatrical acting. Clean dry studio speech.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-14"
+      ],
+      "casting_status": "Production interpretation; subjective user review pending."
     }
   }
 }
