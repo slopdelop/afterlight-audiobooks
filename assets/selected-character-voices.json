@@ -34,9 +34,10 @@
       "asr_screen": "Well, the canteen is still standing. Found your secret station. Found some recordings. Nearly got killed by a security droid. Listen, sweetheart, we found something about Darren. Don't thank me yet, I haven't sent you the bill.",
       "synthetic": true,
       "production_uses": [
-        "hollow-throne-11"
+        "hollow-throne-11",
+        "hollow-throne-12"
       ],
-      "production_screen": "Original selected WAV and transcript retained. Chapter 11 uses full-reference conditioning with automated content/signal checks; subjective review remains with the listener."
+      "production_screen": "Exact selected reference retained in Chapter 12 with automated content/signal checks; subjective listening review remains with the user."
     },
     "leia": {
       "name": "vd2_leia_a_1",
@@ -69,11 +70,12 @@
       "production_uses": [
         "hollow-throne-08",
         "hollow-throne-09",
-        "hollow-throne-11"
+        "hollow-throne-11",
+        "hollow-throne-12"
       ],
-      "production_screen": "Original selected WAV and transcript retained. Chapter 11 uses full-reference conditioning with automated content/signal checks; subjective review remains with the listener."
+      "production_screen": "Exact selected reference retained in Chapter 12 with automated content/signal checks; subjective listening review remains with the user."
     }
   },
-  "next_step": "Selected Han Candidate 07 and Leia Candidate 01 are in Chapter 11, including fabricated transmissions; original references retained. Subjective listening review remains with the user.",
+  "next_step": "Han 07 and Leia 01 remain fixed. Chapter 12 introduces a fresh British Threepio design (Protocol Unit Cyril) for the user to review in the chapter; no rejected audition reference or unselected effect was reused.",
   "existing_chapters_changed": false
 }

@@ -60,6 +60,14 @@
           "src": "audio/hollow-throne/chapter-11.mp3",
           "duration": 1636.323,
           "transcript": "text/hollow-throne/chapter-11.json"
+        },
+        {
+          "id": "hollow-throne-12",
+          "number": 12,
+          "title": "The Carbon Room",
+          "src": "audio/hollow-throne/chapter-12.mp3",
+          "duration": 1969.878,
+          "transcript": "text/hollow-throne/chapter-12.json"
         }
       ],
       "narratorId": "julian_vale"

@@ -335,6 +335,40 @@
       "direction": "An adult male Imperial officer in his late thirties speaking formal British English. Firm low-middle pitch, focused front-of-mouth resonance, slightly narrow dry vowels and a tight, restrained throat texture. Exceptionally crisp t, k and s consonants, compact military stresses and evenly connected clauses with brief exact pauses. A calm administrative order, precise and impersonal with quiet authority, not an announcer or a villain's growl. Slight natural vocal grain; no radio filtering, static, echoes, distortion or robotic effects. Clear human speech at normal conversational volume.",
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
       "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
+    },
+    "alden_marlow": {
+      "name": "Alden Marlow",
+      "synthetic": true,
+      "role": "Bail Organa, as perceived by Leia",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-twelve/voices/bail.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 321700,
+      "reference_sha256": "841e9471e283e5b8a3e4ec17e75a3fc33448bc8512b7d77996a6613e6c0e14e9",
+      "direction": "A mature American male voice inspired by Jimmy Smits portraying Bail Organa in the Star Wars prequels. A warm rounded middle-low baritone, smooth chest resonance with a fine natural dry grain, gentle forward clarity and relaxed precise consonants. Connected American vowels, unhurried conversational phrasing and soft conclusive endings. A thoughtful, kind father and experienced statesman: affectionate, reassuring, quietly dignified and slightly tired. Keep the voice intimate and human, not an announcer, not a deep booming monarch, not theatrical or whispered. Clean dry studio speech, no music, echo, distortion or background effects.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-12"
+      ],
+      "casting_status": "New production interpretation; user listening review pending."
+    },
+    "protocol_cyril": {
+      "name": "Protocol Unit Cyril",
+      "synthetic": true,
+      "role": "C-3PO / Threepio",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-twelve/voices/c3po.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 321800,
+      "reference_sha256": "f2fdbd6054bd86b0110185e3186cb1225f16d91531f39d56dcb7b3e4955c22f3",
+      "direction": "A male protocol droid with a distinctly cultivated London Received Pronunciation British accent, reminiscent of C-3PO in the original Star Wars trilogy. A light, slender high tenor in an elevated upper-middle register, thin reedy forward nasal resonance, bright pinched vowels and a taut slightly quivery edge. Very precise t and k consonants, clear s sounds, rounded clipped British vowels and non-rhotic endings. Brisk connected legato phrases with small fussy rises and tidy decisive falls. Politely meticulous and mildly anxious, an expressive fastidious valet explaining a historical fact. Light vocal weight with very little low bass; avoid a rich low butler, an American accent, a flat monotone, a monster voice or a child. Comfortable clear conversational volume and restrained natural expression. Dry studio recording, no ring modulation, robot buzz, vocoder, reverb, static, music or other effects.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-12"
+      ],
+      "casting_status": "New production interpretation; user listening review pending."
     }
   }
 }

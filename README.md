@@ -175,3 +175,9 @@ The stable chapter ID is `hollow-throne-10`. The single MP3 has 408 synchronized
 Chapter 11 is 27:16 with Julian Vale, the exact selected Han Candidate 07 and Leia Candidate 01 references, and the Chapter 8 Lando and interviewer references. Reconstructed Han and Leia transmissions deliberately share the real characters' voice identities. Darren uses the retained genuine VoiceDesign officer Candidate 1 under the working profile Adrian Holt; the new medical captain uses Nerys Bell. No English speech or effects were invented for Chewbacca.
 
 The stable ID is `hollow-throne-11`, with one MP3 and 296 synchronized book paragraphs. All original names and manuscript words remain in the reader. Voice-specific synthesis aliases and pronunciation/context repairs are recorded separately in local production metadata. Chapters 6–10, playback logic and progress storage keys remain unchanged.
+
+## Chapter 12: The Carbon Room
+
+Chapter 12 is 32:50, with Julian Vale, the exact selected Han Candidate 07 and Leia Candidate 01 references, and the established Chapter 8 Lando, Venn, interviewer and recorded-woman references. Bail uses the new synthetic design Alden Marlow. Threepio uses the fresh cultivated British design Protocol Unit Cyril; none of the rejected auditions or unselected robot effects were reused. Both new interpretations await the listener's review.
+
+The stable ID is `hollow-throne-12`, with one MP3 and 399 synchronized book paragraphs. The archive's garden line uses Bail's voice to match Leia's explicitly described perception; the preceding manuscript description and other characters' differing perceptions remain intact. No English dialogue or effects were invented for Chewbacca. Original manuscript names and characters remain in the reader, including the mixed-script archive label. Pronunciation cues and focused repairs are stored separately in local production records. Chapters 6–11, playback logic and progress storage keys remain unchanged.

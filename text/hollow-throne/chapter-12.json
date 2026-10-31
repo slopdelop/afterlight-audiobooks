@@ -1,0 +1,3200 @@
+{
+  "version": 1,
+  "chapterId": "hollow-throne-12",
+  "duration": 1969.878,
+  "alignment": "Book paragraphs use synthesis boundaries and cached local Whisper word timestamps; unmatched starts are interpolated.",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "STAR WARS: THE HOLLOW THRONE",
+      "start": 0.0,
+      "timing": "segment",
+      "kind": "title",
+      "end": 2.52
+    },
+    {
+      "id": "p0002",
+      "text": "Chapter Twelve: The Carbon Room",
+      "start": 2.52,
+      "timing": "segment",
+      "kind": "title",
+      "end": 5.36
+    },
+    {
+      "id": "p0003",
+      "text": "Cloud City, Bespin. Three months after the Battle of Endor.",
+      "start": 5.36,
+      "timing": "segment",
+      "kind": "title",
+      "end": 10.65
+    },
+    {
+      "id": "p0004",
+      "text": "Han Solo had once been delivered to Cloud City in chains. This time, he arrived carrying the key. It was a small, unremarkable piece of Imperial technology, scarcely larger than a credit chip. Chewbacca had removed it from the communications buoy they had captured near Tatooine, and Han had spent most of the journey examining it. He understood very little about how it worked.",
+      "start": 10.65,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 37.85
+    },
+    {
+      "id": "p0005",
+      "text": "He did, however, understand what it was worth. Somebody had gone to considerable trouble to prevent him from obtaining it. Two armed interceptors, a falsified security authorization, and a small explosive charge were not the usual precautions taken to protect an ordinary communications component. Which meant it probably opened something interesting. And interesting things, Han had discovered, were frequently dangerous. The Millennium Falcon descended toward Cloud City's upper landing platforms.",
+      "start": 37.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 69.58
+    },
+    {
+      "id": "p0006",
+      "text": "Beyond the cockpit windows, the city gleamed in the sunlight. Its elegant towers rose above a vast ocean of golden clouds, looking every bit as peaceful as they had on his previous visit. Han frowned.",
+      "start": 69.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 82.86
+    },
+    {
+      "id": "p0007",
+      "text": "\"Still looks too nice.\"",
+      "start": 82.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 84.5
+    },
+    {
+      "id": "p0008",
+      "text": "Chewbacca growled.",
+      "start": 84.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 86.24
+    },
+    {
+      "id": "p0009",
+      "text": "\"Yeah, well, last time I said that, we ended up having a pretty lousy vacation.\"",
+      "start": 86.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 90.76
+    },
+    {
+      "id": "p0010",
+      "text": "The Wookiee gave a more elaborate response.",
+      "start": 90.76,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 93.72
+    },
+    {
+      "id": "p0011",
+      "text": "\"You're right. Lando did apologize.\"",
+      "start": 93.72,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 96.16
+    },
+    {
+      "id": "p0012",
+      "text": "Another growl.",
+      "start": 96.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 97.64
+    },
+    {
+      "id": "p0013",
+      "text": "\"No, I haven't forgotten the part where he handed us over to Vader.\"",
+      "start": 97.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 101.13
+    },
+    {
+      "id": "p0014",
+      "text": "Chewbacca looked at him. Han sighed.",
+      "start": 101.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 104.45
+    },
+    {
+      "id": "p0015",
+      "text": "\"All right. We forgave him. Doesn't mean I can't complain.\"",
+      "start": 104.45,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 107.4
+    },
+    {
+      "id": "p0016",
+      "text": "He guided the Falcon toward the landing platform. Leia was waiting beside Lando Calrissian. Han smiled.",
+      "start": 107.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 117.31
+    },
+    {
+      "id": "p0017",
+      "text": "\"At least the welcoming committee's improved.\"",
+      "start": 117.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 119.98
+    },
+    {
+      "id": "p0018",
+      "text": "Leia embraced him before he could make another joke. For a moment, Han simply held her. Then she stepped back and examined his face.",
+      "start": 119.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 129.93
+    },
+    {
+      "id": "p0019",
+      "text": "\"You look tired.\"",
+      "start": 129.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 131.2
+    },
+    {
+      "id": "p0020",
+      "text": "\"Long trip.\"",
+      "start": 131.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 132.43
+    },
+    {
+      "id": "p0021",
+      "text": "\"Any trouble?\"",
+      "start": 132.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 133.53
+    },
+    {
+      "id": "p0022",
+      "text": "\"Nothing worth mentioning.\"",
+      "start": 133.53,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 135.12
+    },
+    {
+      "id": "p0023",
+      "text": "Chewbacca emerged from the Falcon and released an enormous, incredulous roar. Han closed his eyes.",
+      "start": 135.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 142.9
+    },
+    {
+      "id": "p0024",
+      "text": "\"All right, some trouble.\"",
+      "start": 142.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 144.36
+    },
+    {
+      "id": "p0025",
+      "text": "Leia laughed. Lando approached with his arms spread.",
+      "start": 144.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 148.97
+    },
+    {
+      "id": "p0026",
+      "text": "\"Han! Welcome back to Cloud City!\"",
+      "start": 148.97,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 151.99
+    },
+    {
+      "id": "p0027",
+      "text": "Han regarded him suspiciously.",
+      "start": 151.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 154.52
+    },
+    {
+      "id": "p0028",
+      "text": "\"You're not going to offer me refreshments, are you?\"",
+      "start": 154.52,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 156.86
+    },
+    {
+      "id": "p0029",
+      "text": "Lando's smile faltered.",
+      "start": 156.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 159.05
+    },
+    {
+      "id": "p0030",
+      "text": "\"That was a long time ago.\"",
+      "start": 159.05,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 160.76
+    },
+    {
+      "id": "p0031",
+      "text": "\"Still remember it.\"",
+      "start": 160.76,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 162.15
+    },
+    {
+      "id": "p0032",
+      "text": "\"I've apologized.\"",
+      "start": 162.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 163.55
+    },
+    {
+      "id": "p0033",
+      "text": "\"Several times.\"",
+      "start": 163.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 165.0
+    },
+    {
+      "id": "p0034",
+      "text": "\"And I'll apologize again if you like.\"",
+      "start": 165.0,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 167.27
+    },
+    {
+      "id": "p0035",
+      "text": "Han considered this.",
+      "start": 167.27,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 169.03
+    },
+    {
+      "id": "p0036",
+      "text": "\"Actually, I kind of would.\"",
+      "start": 169.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 170.7
+    },
+    {
+      "id": "p0037",
+      "text": "Lando sighed.",
+      "start": 170.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 173.075
+    },
+    {
+      "id": "p0038",
+      "text": "\"I'm sorry.\"",
+      "start": 173.075,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 174.715
+    },
+    {
+      "id": "p0039",
+      "text": "Han grinned.",
+      "start": 174.715,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 176.315
+    },
+    {
+      "id": "p0040",
+      "text": "\"See? Wasn't so hard.\"",
+      "start": 176.315,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 177.915
+    },
+    {
+      "id": "p0041",
+      "text": "Chewbacca gave a satisfied rumble. Lando looked toward the enormous Wookiee.",
+      "start": 177.915,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 184.645
+    },
+    {
+      "id": "p0042",
+      "text": "\"Wonderful. Now both of you are enjoying yourselves.\"",
+      "start": 184.645,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 188.575
+    },
+    {
+      "id": "p0043",
+      "text": "Leia shook her head.",
+      "start": 188.575,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 190.325
+    },
+    {
+      "id": "p0044",
+      "text": "\"Can we go? There's something important we need to examine.\"",
+      "start": 190.325,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 194.005
+    },
+    {
+      "id": "p0045",
+      "text": "Han held up the Imperial command key.",
+      "start": 194.005,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 196.965
+    },
+    {
+      "id": "p0046",
+      "text": "\"Funny. That's exactly why we're here.\"",
+      "start": 196.965,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 199.055
+    },
+    {
+      "id": "p0047",
+      "text": "Commander Venn had prepared a secure examination room in Cloud City's administrative complex. The recovered Imperial archive from the hidden laboratory had been transferred there after Leia and Lando's previous investigation. Most of the records were accessible. But one section remained locked behind a security system requiring authorization from the Emperor's private household. The same type of authorization used by the intercepted communications buoy.",
+      "start": 199.055,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 227.655
+    },
+    {
+      "id": "p0048",
+      "text": "Han placed the key on the table. Venn examined it.",
+      "start": 227.655,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 232.243
+    },
+    {
+      "id": "p0049",
+      "text": "\"Where did you get this?\"",
+      "start": 232.243,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 233.843
+    },
+    {
+      "id": "p0050",
+      "text": "\"Found it.\"",
+      "start": 233.843,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 234.803
+    },
+    {
+      "id": "p0051",
+      "text": "She looked at him.",
+      "start": 234.803,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 236.083
+    },
+    {
+      "id": "p0052",
+      "text": "\"Found it where?\"",
+      "start": 236.083,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 237.222
+    },
+    {
+      "id": "p0053",
+      "text": "\"Floating around.\"",
+      "start": 237.222,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 238.593
+    },
+    {
+      "id": "p0054",
+      "text": "\"In space?\"",
+      "start": 238.593,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 239.852
+    },
+    {
+      "id": "p0055",
+      "text": "\"Yeah.\"",
+      "start": 239.852,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 240.722
+    },
+    {
+      "id": "p0056",
+      "text": "Venn regarded him for several seconds.",
+      "start": 240.722,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 243.942
+    },
+    {
+      "id": "p0057",
+      "text": "\"General Solo, this is an Imperial executive authorization module.\"",
+      "start": 243.942,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 248.792
+    },
+    {
+      "id": "p0058",
+      "text": "\"Is it?\"",
+      "start": 248.792,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 249.583
+    },
+    {
+      "id": "p0059",
+      "text": "\"It could provide access to restricted military facilities across several sectors.\"",
+      "start": 249.583,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 254.773
+    },
+    {
+      "id": "p0060",
+      "text": "Han smiled.",
+      "start": 254.773,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 256.283
+    },
+    {
+      "id": "p0061",
+      "text": "\"Well, that sounds useful.\"",
+      "start": 256.283,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 257.882
+    },
+    {
+      "id": "p0062",
+      "text": "\"It is also probably being tracked.\"",
+      "start": 257.882,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 260.392
+    },
+    {
+      "id": "p0063",
+      "text": "His smile faded.",
+      "start": 260.392,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 262.233
+    },
+    {
+      "id": "p0064",
+      "text": "\"Less useful.\"",
+      "start": 262.233,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 263.473
+    },
+    {
+      "id": "p0065",
+      "text": "Lando leaned forward.",
+      "start": 263.473,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 265.173
+    },
+    {
+      "id": "p0066",
+      "text": "\"Can you isolate it?\"",
+      "start": 265.173,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 266.402
+    },
+    {
+      "id": "p0067",
+      "text": "\"Possibly. But I'd like to know what information it contains before we connect it to anything.\"",
+      "start": 266.402,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 272.543
+    },
+    {
+      "id": "p0068",
+      "text": "Chewbacca produced a low, approving growl. Han glanced at him.",
+      "start": 272.543,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 277.663
+    },
+    {
+      "id": "p0069",
+      "text": "\"Yeah, yeah. Security first.\"",
+      "start": 277.663,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 279.752
+    },
+    {
+      "id": "p0070",
+      "text": "Venn examined the module beneath a scanner. A series of symbols appeared. Then a name. SIM ALOO. Leia moved closer.",
+      "start": 279.752,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 290.188
+    },
+    {
+      "id": "p0071",
+      "text": "\"Again.\"",
+      "start": 290.188,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 291.118
+    },
+    {
+      "id": "p0072",
+      "text": "Venn looked up.",
+      "start": 291.118,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 292.783
+    },
+    {
+      "id": "p0073",
+      "text": "\"You recognize it?\"",
+      "start": 292.783,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 294.012
+    },
+    {
+      "id": "p0074",
+      "text": "\"One of Palpatine's advisers. He was aboard the second Death Star.\"",
+      "start": 294.012,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 298.332
+    },
+    {
+      "id": "p0075",
+      "text": "\"And presumed dead,\" Lando added.",
+      "start": 298.332,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 301.342
+    },
+    {
+      "id": "p0076",
+      "text": "Venn examined the authorization.",
+      "start": 301.342,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 304.49
+    },
+    {
+      "id": "p0077",
+      "text": "\"Well, someone has been using his credentials.\"",
+      "start": 304.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 307.848
+    },
+    {
+      "id": "p0078",
+      "text": "\"We know,\" Han said. \"That's how somebody sent fake orders to a medical transport.\"",
+      "start": 307.848,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 313.267
+    },
+    {
+      "id": "p0079",
+      "text": "Venn frowned.",
+      "start": 313.267,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 315.562
+    },
+    {
+      "id": "p0080",
+      "text": "\"These aren't merely copied credentials. The authorization contains a valid private signature.\"",
+      "start": 315.562,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 321.632
+    },
+    {
+      "id": "p0081",
+      "text": "\"What does that mean?\" Leia asked.",
+      "start": 321.632,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 323.952
+    },
+    {
+      "id": "p0082",
+      "text": "\"It means whoever issued this had access to one of the original authentication devices.\"",
+      "start": 323.952,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 329.413
+    },
+    {
+      "id": "p0083",
+      "text": "Lando looked at Han.",
+      "start": 329.413,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 332.07
+    },
+    {
+      "id": "p0084",
+      "text": "\"Like the one you brought.\"",
+      "start": 332.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 333.5
+    },
+    {
+      "id": "p0085",
+      "text": "\"Exactly.\"",
+      "start": 333.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 334.54
+    },
+    {
+      "id": "p0086",
+      "text": "Venn enlarged the display. The command key had been used repeatedly since the Battle of Endor. Most of its activity concerned administrative systems. But several entries were more troubling. Military transport authorizations. Classified prisoner transfers. Access to former Imperial research facilities. Leia studied the list.",
+      "start": 334.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 357.51
+    },
+    {
+      "id": "p0087",
+      "text": "\"Whoever's using this has been moving through the Empire's remaining infrastructure.\"",
+      "start": 357.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 361.6
+    },
+    {
+      "id": "p0088",
+      "text": "\"Quite freely,\" Venn replied.",
+      "start": 361.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 364.44
+    },
+    {
+      "id": "p0089",
+      "text": "Han folded his arms.",
+      "start": 364.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 366.36
+    },
+    {
+      "id": "p0090",
+      "text": "\"Pretty impressive for a dead guy.\"",
+      "start": 366.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 368.34
+    },
+    {
+      "id": "p0091",
+      "text": "Venn gave him a stern look.",
+      "start": 368.34,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 371.32
+    },
+    {
+      "id": "p0092",
+      "text": "\"General Solo, this is serious.\"",
+      "start": 371.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 374.15
+    },
+    {
+      "id": "p0093",
+      "text": "\"Yeah. That's usually when I make jokes.\"",
+      "start": 374.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 377.11
+    },
+    {
+      "id": "p0094",
+      "text": "The archive opened seventeen minutes later. Venn had connected the command key to an isolated terminal, copying its authorization sequence while preventing it from establishing a connection to the wider Imperial network. The result was a directory of sealed research files. Most were associated with carbon preservation. But several belonged to a different project. HOLLOW THRONE — BESПIN RESEARCH DIVISION. Leia leaned forward.",
+      "start": 377.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 408.49
+    },
+    {
+      "id": "p0095",
+      "text": "\"Open it.\"",
+      "start": 408.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 409.37
+    },
+    {
+      "id": "p0096",
+      "text": "The terminal requested a second authorization. Venn frowned.",
+      "start": 409.37,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 414.24
+    },
+    {
+      "id": "p0097",
+      "text": "\"That's unusual.\"",
+      "start": 414.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 415.78
+    },
+    {
+      "id": "p0098",
+      "text": "\"What is?\" Lando asked.",
+      "start": 415.78,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 417.9
+    },
+    {
+      "id": "p0099",
+      "text": "\"The system wants confirmation from an experimental subject.\"",
+      "start": 417.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 421.59
+    },
+    {
+      "id": "p0100",
+      "text": "Han stared at her.",
+      "start": 421.59,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 423.51
+    },
+    {
+      "id": "p0101",
+      "text": "\"You're kidding.\"",
+      "start": 423.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 424.68
+    },
+    {
+      "id": "p0102",
+      "text": "\"No.\"",
+      "start": 424.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 425.56
+    },
+    {
+      "id": "p0103",
+      "text": "\"What kind of subject?\"",
+      "start": 425.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 427.2
+    },
+    {
+      "id": "p0104",
+      "text": "Venn examined the interface.",
+      "start": 427.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 430.015
+    },
+    {
+      "id": "p0105",
+      "text": "\"Someone whose physiological profile was recorded during a previous trial.\"",
+      "start": 430.015,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 434.515
+    },
+    {
+      "id": "p0106",
+      "text": "Lando's expression changed. He looked at Han. Then at Leia.",
+      "start": 434.515,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 440.385
+    },
+    {
+      "id": "p0107",
+      "text": "\"Oh, no.\"",
+      "start": 440.385,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 441.885
+    },
+    {
+      "id": "p0108",
+      "text": "Han glanced between them.",
+      "start": 441.885,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 443.825
+    },
+    {
+      "id": "p0109",
+      "text": "\"What?\"",
+      "start": 443.825,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 444.765
+    },
+    {
+      "id": "p0110",
+      "text": "Lando hesitated.",
+      "start": 444.765,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 446.335
+    },
+    {
+      "id": "p0111",
+      "text": "\"Remember the records we found in the laboratory?\"",
+      "start": 446.335,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 448.955
+    },
+    {
+      "id": "p0112",
+      "text": "\"Which records?\"",
+      "start": 448.955,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 450.205
+    },
+    {
+      "id": "p0113",
+      "text": "\"The ones from when you were frozen.\"",
+      "start": 450.205,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 452.265
+    },
+    {
+      "id": "p0114",
+      "text": "Han stared. For a moment, the humor vanished from his face.",
+      "start": 452.265,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 457.355
+    },
+    {
+      "id": "p0115",
+      "text": "\"You found records of that?\"",
+      "start": 457.355,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 459.005
+    },
+    {
+      "id": "p0116",
+      "text": "Leia nodded.",
+      "start": 459.005,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 460.335
+    },
+    {
+      "id": "p0117",
+      "text": "\"Imperial scientists were monitoring the freezing process.\"",
+      "start": 460.335,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 463.815
+    },
+    {
+      "id": "p0118",
+      "text": "\"Vader's people?\"",
+      "start": 463.815,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 465.235
+    },
+    {
+      "id": "p0119",
+      "text": "\"We don't think Vader knew about it.\"",
+      "start": 465.235,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 466.995
+    },
+    {
+      "id": "p0120",
+      "text": "Han considered this. Then looked back at the terminal.",
+      "start": 466.995,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 470.885
+    },
+    {
+      "id": "p0121",
+      "text": "\"And somebody wants my permission to open the files?\"",
+      "start": 470.885,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 473.885
+    },
+    {
+      "id": "p0122",
+      "text": "\"Something like that,\" Venn replied.",
+      "start": 473.885,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 476.71
+    },
+    {
+      "id": "p0123",
+      "text": "He looked at Leia.",
+      "start": 476.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 478.03
+    },
+    {
+      "id": "p0124",
+      "text": "\"Well, this is new. Usually people ask before they experiment on me.\"",
+      "start": 478.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 481.96
+    },
+    {
+      "id": "p0125",
+      "text": "The terminal displayed a biometric authorization request. Venn examined the available data.",
+      "start": 481.96,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 489.4
+    },
+    {
+      "id": "p0126",
+      "text": "\"Apparently the researchers required the presence of an original observation subject to unlock the protected results.\"",
+      "start": 489.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 496.44
+    },
+    {
+      "id": "p0127",
+      "text": "\"Why?\" Leia asked.",
+      "start": 496.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 498.66
+    },
+    {
+      "id": "p0128",
+      "text": "\"That isn't clear.\"",
+      "start": 498.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 500.13
+    },
+    {
+      "id": "p0129",
+      "text": "Han stepped toward the scanner.",
+      "start": 500.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 502.52
+    },
+    {
+      "id": "p0130",
+      "text": "\"All right. Let's get it over with.\"",
+      "start": 502.52,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 504.32
+    },
+    {
+      "id": "p0131",
+      "text": "Lando caught his arm.",
+      "start": 504.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 506.12
+    },
+    {
+      "id": "p0132",
+      "text": "\"Han, wait.\"",
+      "start": 506.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 507.41
+    },
+    {
+      "id": "p0133",
+      "text": "\"What?\"",
+      "start": 507.41,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 508.12
+    },
+    {
+      "id": "p0134",
+      "text": "\"We don't know what this machine does.\"",
+      "start": 508.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 510.19
+    },
+    {
+      "id": "p0135",
+      "text": "\"It's a hand scanner.\"",
+      "start": 510.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 511.74
+    },
+    {
+      "id": "p0136",
+      "text": "\"That's what it looks like.\"",
+      "start": 511.74,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 513.16
+    },
+    {
+      "id": "p0137",
+      "text": "Han studied the equipment. Then he slowly withdrew his hand.",
+      "start": 513.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 518.12
+    },
+    {
+      "id": "p0138",
+      "text": "\"Good point.\"",
+      "start": 518.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 519.1
+    },
+    {
+      "id": "p0139",
+      "text": "Venn examined the scanner again. A faint smile crossed her face.",
+      "start": 519.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 524.053
+    },
+    {
+      "id": "p0140",
+      "text": "\"Fortunately, the original identification records contain enough biometric information to reconstruct the authorization.\"",
+      "start": 524.053,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 530.812
+    },
+    {
+      "id": "p0141",
+      "text": "She entered a sequence of commands. The terminal flashed. SUBJECT IDENTIFIED: HAN SOLO. A second line appeared. PRIMARY OBSERVATION SUBJECT: LEIA ORGANA. Han frowned.",
+      "start": 530.812,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 544.582
+    },
+    {
+      "id": "p0142",
+      "text": "\"Primary?\"",
+      "start": 544.582,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 545.592
+    },
+    {
+      "id": "p0143",
+      "text": "Leia stared at the display. The next message appeared. EXPERIMENTAL RECORD ACCESS GRANTED. The directory opened. Han looked at Leia.",
+      "start": 545.592,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 556.982
+    },
+    {
+      "id": "p0144",
+      "text": "\"Why do I get the feeling I'm not going to like this?\"",
+      "start": 556.982,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 559.543
+    },
+    {
+      "id": "p0145",
+      "text": "The first recording showed the carbon-freezing chamber. Han recognized it immediately. The platform. The machinery. The enormous conduits running along the ceiling. He remembered the cold. The sound of Chewbacca roaring. Leia standing just beyond the platform. Then the terrible moment when the machinery began lowering him into the freezing pit. He had not seen the recording before. He had not particularly wanted to. Lando stood beside him.",
+      "start": 559.543,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 591.452
+    },
+    {
+      "id": "p0146",
+      "text": "\"Han, you don't have to watch.\"",
+      "start": 591.452,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 593.472
+    },
+    {
+      "id": "p0147",
+      "text": "Han looked at the image. His younger self stood on the platform, trying to appear considerably less frightened than he actually was.",
+      "start": 593.472,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 602.122
+    },
+    {
+      "id": "p0148",
+      "text": "\"Yeah,\" he said quietly. \"I do.\"",
+      "start": 602.122,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 605.043
+    },
+    {
+      "id": "p0149",
+      "text": "The recording continued. Vader watched from the shadows. Imperial technicians worked at their controls. The platform descended. Then the image changed. A series of measurements appeared. Heart rate. Respiration. Neural activity. Memory-state indicators. Han stared.",
+      "start": 605.043,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 626.732
+    },
+    {
+      "id": "p0150",
+      "text": "\"What's all this?\"",
+      "start": 626.732,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 628.043
+    },
+    {
+      "id": "p0151",
+      "text": "Venn studied the results.",
+      "start": 628.043,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 630.928
+    },
+    {
+      "id": "p0152",
+      "text": "\"They were monitoring your neurological activity during carbon preservation.\"",
+      "start": 630.928,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 635.957
+    },
+    {
+      "id": "p0153",
+      "text": "\"Why?\"",
+      "start": 635.957,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 636.847
+    },
+    {
+      "id": "p0154",
+      "text": "\"Apparently to determine whether complex memories and learned behaviors survived the process.\"",
+      "start": 636.847,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 642.567
+    },
+    {
+      "id": "p0155",
+      "text": "Han frowned.",
+      "start": 642.567,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 644.168
+    },
+    {
+      "id": "p0156",
+      "text": "\"So I was an experiment.\"",
+      "start": 644.168,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 645.878
+    },
+    {
+      "id": "p0157",
+      "text": "\"An involuntary observation subject,\" Venn clarified.",
+      "start": 645.878,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 651.062
+    },
+    {
+      "id": "p0158",
+      "text": "Han looked at her.",
+      "start": 651.062,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 652.582
+    },
+    {
+      "id": "p0159",
+      "text": "\"That's a fancy way of saying experiment.\"",
+      "start": 652.582,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 655.023
+    },
+    {
+      "id": "p0160",
+      "text": "She did not argue. The recording advanced. The carbon-freezing process completed. A display confirmed that Han's brain activity had entered a state of suspended preservation. Then another series of readings appeared. These were not his. Leia recognized them immediately. They had been collected from the observation platform above the freezing chamber. From her. She watched as the data changed. Her heart rate accelerated. Her breathing became irregular.",
+      "start": 655.023,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 686.362
+    },
+    {
+      "id": "p0161",
+      "text": "The monitoring equipment recorded an intense emotional response. And then something unexpected happened. The scientists' own commentary appeared beside the readings. Primary observation subject displays attachment response significantly exceeding expected parameters. A second note followed. Response persists despite termination of direct sensory contact. Leia frowned.",
+      "start": 686.362,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 713.972
+    },
+    {
+      "id": "p0162",
+      "text": "\"What does that mean?\"",
+      "start": 713.972,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 715.242
+    },
+    {
+      "id": "p0163",
+      "text": "Venn examined the data.",
+      "start": 715.242,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 717.712
+    },
+    {
+      "id": "p0164",
+      "text": "\"The researchers expected your physiological response to decline once Han was removed from view.\"",
+      "start": 717.712,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 723.722
+    },
+    {
+      "id": "p0165",
+      "text": "\"But it didn't?\"",
+      "start": 723.722,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 724.753
+    },
+    {
+      "id": "p0166",
+      "text": "\"Apparently not.\"",
+      "start": 724.753,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 726.122
+    },
+    {
+      "id": "p0167",
+      "text": "Han looked at Leia.",
+      "start": 726.122,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 727.793
+    },
+    {
+      "id": "p0168",
+      "text": "\"You were worried about me.\"",
+      "start": 727.793,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 729.433
+    },
+    {
+      "id": "p0169",
+      "text": "She gave him a look.",
+      "start": 729.433,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 730.952
+    },
+    {
+      "id": "p0170",
+      "text": "\"Han.\"",
+      "start": 730.952,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 732.405
+    },
+    {
+      "id": "p0171",
+      "text": "\"Just making sure.\"",
+      "start": 732.405,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 733.755
+    },
+    {
+      "id": "p0172",
+      "text": "Lando sighed.",
+      "start": 733.755,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 735.275
+    },
+    {
+      "id": "p0173",
+      "text": "\"Can we concentrate?\"",
+      "start": 735.275,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 736.515
+    },
+    {
+      "id": "p0174",
+      "text": "Han smiled faintly. But he was no longer entirely joking. He remembered what Leia had said before he was frozen. He remembered believing he might never see her again. And he remembered the warmth of her face amid the terrible cold. He turned back toward the recording.",
+      "start": 736.515,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 754.155
+    },
+    {
+      "id": "p0175",
+      "text": "\"Keep going.\"",
+      "start": 754.155,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 755.195
+    },
+    {
+      "id": "p0176",
+      "text": "The next file was a research memorandum. It had been written several days after Han's freezing, then amended following his recovery from carbonite on Tatooine. The report confirmed that his memories and personality had survived the process. That much was obvious. Han could remember being frozen. He could remember waking. He could certainly remember the discomfort of being temporarily blind. But the researchers had been interested in something more complicated.",
+      "start": 755.195,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 785.585
+    },
+    {
+      "id": "p0177",
+      "text": "Venn read the report aloud.",
+      "start": 785.585,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 788.43
+    },
+    {
+      "id": "p0178",
+      "text": "\"The experiment demonstrates that complex autobiographical memory can persist through prolonged physical suspension. However, attempts to isolate individual emotional associations have produced inconsistent results.\"",
+      "start": 788.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 802.54
+    },
+    {
+      "id": "p0179",
+      "text": "Lando frowned.",
+      "start": 802.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 803.98
+    },
+    {
+      "id": "p0180",
+      "text": "\"Individual emotional associations?\"",
+      "start": 803.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 806.33
+    },
+    {
+      "id": "p0181",
+      "text": "\"Memories connected to particular people,\" Venn explained. \"Relationships. Attachments. Things that matter to us personally.\"",
+      "start": 806.33,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 816.553
+    },
+    {
+      "id": "p0182",
+      "text": "She continued reading.",
+      "start": 816.553,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 818.072
+    },
+    {
+      "id": "p0183",
+      "text": "\"The scientists believed certain memories could be altered or suppressed without affecting the subject's professional abilities. But they encountered a persistent difficulty.\"",
+      "start": 818.072,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 827.842
+    },
+    {
+      "id": "p0184",
+      "text": "Leia leaned closer.",
+      "start": 827.842,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 829.462
+    },
+    {
+      "id": "p0185",
+      "text": "\"What difficulty?\"",
+      "start": 829.462,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 830.722
+    },
+    {
+      "id": "p0186",
+      "text": "Venn opened an attached file. A hologram appeared. A woman sat in a chair inside a laboratory. She appeared calm. An unseen interviewer spoke.",
+      "start": 830.722,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 841.99
+    },
+    {
+      "id": "p0187",
+      "text": "\"Your brother is dead.\"",
+      "start": 841.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 843.6
+    },
+    {
+      "id": "p0188",
+      "text": "The woman nodded.",
+      "start": 843.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 844.97
+    },
+    {
+      "id": "p0189",
+      "text": "\"Yes.\"",
+      "start": 844.97,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 845.93
+    },
+    {
+      "id": "p0190",
+      "text": "\"How did he die?\"",
+      "start": 845.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 847.29
+    },
+    {
+      "id": "p0191",
+      "text": "\"He was executed for treason.\"",
+      "start": 847.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 849.27
+    },
+    {
+      "id": "p0192",
+      "text": "\"And how do you feel about that?\"",
+      "start": 849.27,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 851.06
+    },
+    {
+      "id": "p0193",
+      "text": "\"Nothing.\"",
+      "start": 851.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 852.12
+    },
+    {
+      "id": "p0194",
+      "text": "Her voice was flat. The interviewer paused.",
+      "start": 852.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 855.97
+    },
+    {
+      "id": "p0195",
+      "text": "\"Do you remember loving him?\"",
+      "start": 855.97,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 857.75
+    },
+    {
+      "id": "p0196",
+      "text": "\"No.\"",
+      "start": 857.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 858.96
+    },
+    {
+      "id": "p0197",
+      "text": "\"Do you remember his name?\"",
+      "start": 858.96,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 860.68
+    },
+    {
+      "id": "p0198",
+      "text": "\"No.\"",
+      "start": 860.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 861.71
+    },
+    {
+      "id": "p0199",
+      "text": "The recording continued. The interviewer placed a small object on the table. A child's toy. A battered little landspeeder. The woman's expression changed. Her fingers began trembling.",
+      "start": 861.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 873.63
+    },
+    {
+      "id": "p0200",
+      "text": "\"Where did you get that?\"",
+      "start": 873.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 875.1
+    },
+    {
+      "id": "p0201",
+      "text": "The interviewer said nothing. She reached for the toy. Then stopped. Tears filled her eyes.",
+      "start": 875.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 882.09
+    },
+    {
+      "id": "p0202",
+      "text": "\"That's his.\"",
+      "start": 882.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 883.24
+    },
+    {
+      "id": "p0203",
+      "text": "The interviewer leaned forward.",
+      "start": 883.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 885.13
+    },
+    {
+      "id": "p0204",
+      "text": "\"Whose?\"",
+      "start": 885.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 886.15
+    },
+    {
+      "id": "p0205",
+      "text": "The woman struggled to speak. Her breathing became irregular. Then she whispered a name. The recording stopped. Leia stared at the empty hologram.",
+      "start": 886.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 897.15
+    },
+    {
+      "id": "p0206",
+      "text": "\"They made her forget her brother.\"",
+      "start": 897.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 898.86
+    },
+    {
+      "id": "p0207",
+      "text": "Venn nodded.",
+      "start": 898.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 900.722
+    },
+    {
+      "id": "p0208",
+      "text": "\"Or believed they had.\"",
+      "start": 900.722,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 902.793
+    },
+    {
+      "id": "p0209",
+      "text": "\"But the toy brought the memory back.\"",
+      "start": 902.793,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 904.903
+    },
+    {
+      "id": "p0210",
+      "text": "\"Yes.\"",
+      "start": 904.903,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 905.862
+    },
+    {
+      "id": "p0211",
+      "text": "Lando frowned.",
+      "start": 905.862,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 907.303
+    },
+    {
+      "id": "p0212",
+      "text": "\"So the conditioning failed.\"",
+      "start": 907.303,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 909.253
+    },
+    {
+      "id": "p0213",
+      "text": "\"Not entirely. According to the report, the woman continued obeying most imposed commands.\"",
+      "start": 909.253,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 915.273
+    },
+    {
+      "id": "p0214",
+      "text": "\"Then what changed?\"",
+      "start": 915.273,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 916.553
+    },
+    {
+      "id": "p0215",
+      "text": "Venn examined the accompanying analysis.",
+      "start": 916.553,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 919.895
+    },
+    {
+      "id": "p0216",
+      "text": "\"The researchers discovered that certain memories remained accessible through associations they had not identified or suppressed.\"",
+      "start": 919.895,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 926.765
+    },
+    {
+      "id": "p0217",
+      "text": "Leia looked at the little toy frozen in the last frame.",
+      "start": 926.765,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 930.825
+    },
+    {
+      "id": "p0218",
+      "text": "\"A thing someone loved.\"",
+      "start": 930.825,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 932.375
+    },
+    {
+      "id": "p0219",
+      "text": "\"Yes.\"",
+      "start": 932.375,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 933.225
+    },
+    {
+      "id": "p0220",
+      "text": "\"A memory connected to another person.\"",
+      "start": 933.225,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 935.675
+    },
+    {
+      "id": "p0221",
+      "text": "Venn nodded.",
+      "start": 935.675,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 937.59
+    },
+    {
+      "id": "p0222",
+      "text": "\"And the stronger the connection, the harder it was to remove.\"",
+      "start": 937.59,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 941.08
+    },
+    {
+      "id": "p0223",
+      "text": "Han leaned against the wall. He had heard enough. Not because the experiment was difficult to understand. Because he understood it too well. For years, he had thought of himself as a man who needed nobody. No obligations. No attachments. Just a ship, a good copilot, and enough money to stay ahead of his creditors. Then he had met Luke. And Leia.",
+      "start": 941.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 965.57
+    },
+    {
+      "id": "p0224",
+      "text": "And somewhere along the way, he had discovered that the people he once considered inconvenient had become the most important things in his life. The Empire had tried to take those things from him. Vader had frozen him. Jabba had displayed him like a trophy. And now he was discovering that Imperial scientists had studied the experience as though it were an interesting laboratory procedure. He felt anger rising.",
+      "start": 965.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 992.13
+    },
+    {
+      "id": "p0225",
+      "text": "Leia noticed. She approached him.",
+      "start": 992.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 994.85
+    },
+    {
+      "id": "p0226",
+      "text": "\"Han?\"",
+      "start": 994.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 995.69
+    },
+    {
+      "id": "p0227",
+      "text": "\"I'm fine.\"",
+      "start": 995.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 996.7
+    },
+    {
+      "id": "p0228",
+      "text": "\"You're not.\"",
+      "start": 996.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 997.57
+    },
+    {
+      "id": "p0229",
+      "text": "He looked at her. For a moment, he considered making a joke. Then decided against it.",
+      "start": 997.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1004.01
+    },
+    {
+      "id": "p0230",
+      "text": "\"They were watching us.\"",
+      "start": 1004.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1005.59
+    },
+    {
+      "id": "p0231",
+      "text": "\"I know.\"",
+      "start": 1005.59,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1006.47
+    },
+    {
+      "id": "p0232",
+      "text": "\"All that time.\"",
+      "start": 1006.47,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1007.59
+    },
+    {
+      "id": "p0233",
+      "text": "She nodded.",
+      "start": 1007.59,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1008.75
+    },
+    {
+      "id": "p0234",
+      "text": "\"And they were using what happened to us to hurt other people.\"",
+      "start": 1008.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1011.59
+    },
+    {
+      "id": "p0235",
+      "text": "He looked back toward the terminal. The woman from the recording had remembered her brother. Despite everything. Despite the conditioning. Despite the Empire's efforts to erase him. Han exhaled slowly.",
+      "start": 1011.59,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1025.04
+    },
+    {
+      "id": "p0236",
+      "text": "\"Then I hope she got out.\"",
+      "start": 1025.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1026.62
+    },
+    {
+      "id": "p0237",
+      "text": "Leia touched his arm.",
+      "start": 1026.62,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1028.39
+    },
+    {
+      "id": "p0238",
+      "text": "\"So do I.\"",
+      "start": 1028.39,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1029.52
+    },
+    {
+      "id": "p0239",
+      "text": "The next file was considerably older. It had been stored within a restricted directory labeled: WITNESS ZERO — ORIGINAL FAILURE. Venn frowned.",
+      "start": 1029.52,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1039.63
+    },
+    {
+      "id": "p0240",
+      "text": "\"That's strange.\"",
+      "start": 1039.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1041.01
+    },
+    {
+      "id": "p0241",
+      "text": "\"What?\" Lando asked.",
+      "start": 1041.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1043.45
+    },
+    {
+      "id": "p0242",
+      "text": "\"The file predates the Bespin laboratory by more than twenty years.\"",
+      "start": 1043.45,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1047.85
+    },
+    {
+      "id": "p0243",
+      "text": "Leia moved closer.",
+      "start": 1047.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1049.53
+    },
+    {
+      "id": "p0244",
+      "text": "\"Before the Empire?\"",
+      "start": 1049.53,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1050.95
+    },
+    {
+      "id": "p0245",
+      "text": "\"Yes.\"",
+      "start": 1050.95,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1051.81
+    },
+    {
+      "id": "p0246",
+      "text": "The directory contained several scientific reports, though most were incomplete. The earliest records described an experiment conducted under the supervision of an unnamed private researcher. A man had been brought into a laboratory and exposed to a reconstructed voice. The researchers expected the subject to respond emotionally. Instead, he reported hearing something impossible. A voice belonging to someone who had died decades earlier. The next test produced a different result.",
+      "start": 1051.81,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1086.56
+    },
+    {
+      "id": "p0247",
+      "text": "Another subject heard the same words, but in a different voice. Venn examined the transcript.",
+      "start": 1086.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1094.085
+    },
+    {
+      "id": "p0248",
+      "text": "\"That's peculiar.\"",
+      "start": 1094.085,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1095.415
+    },
+    {
+      "id": "p0249",
+      "text": "\"What is?\" Han asked.",
+      "start": 1095.415,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1097.455
+    },
+    {
+      "id": "p0250",
+      "text": "\"Every subject reports hearing the same sentence.\"",
+      "start": 1097.455,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1100.905
+    },
+    {
+      "id": "p0251",
+      "text": "\"Well, what sentence?\"",
+      "start": 1100.905,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1102.315
+    },
+    {
+      "id": "p0252",
+      "text": "Venn opened the recording. A woman's voice filled the room. Soft. Familiar. Leia froze. She knew that voice. She had not heard it in years.",
+      "start": 1102.315,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1115.02
+    },
+    {
+      "id": "p0253",
+      "text": "\"Bail?\"",
+      "start": 1115.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1115.85
+    },
+    {
+      "id": "p0254",
+      "text": "Han turned toward her.",
+      "start": 1115.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1117.85
+    },
+    {
+      "id": "p0255",
+      "text": "\"What?\"",
+      "start": 1117.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1118.64
+    },
+    {
+      "id": "p0256",
+      "text": "The voice continued.",
+      "start": 1118.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1120.23
+    },
+    {
+      "id": "p0257",
+      "text": "\"I remember the garden.\"",
+      "start": 1120.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1122.15
+    },
+    {
+      "id": "p0258",
+      "text": "Leia felt the blood drain from her face. It was her father's voice. Bail Organa. Not an approximation. Not a recording she recognized. His voice as she remembered it from childhood. Warm. Gentle. A little tired. She had heard it countless times in the gardens of the royal palace on Alderaan. She stared at the terminal.",
+      "start": 1122.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1146.07
+    },
+    {
+      "id": "p0259",
+      "text": "\"Where did you get that?\"",
+      "start": 1146.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1147.3
+    },
+    {
+      "id": "p0260",
+      "text": "Venn looked confused.",
+      "start": 1147.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1149.662
+    },
+    {
+      "id": "p0261",
+      "text": "\"Get what?\"",
+      "start": 1149.662,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1150.733
+    },
+    {
+      "id": "p0262",
+      "text": "\"My father's voice.\"",
+      "start": 1150.733,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1152.193
+    },
+    {
+      "id": "p0263",
+      "text": "Han frowned.",
+      "start": 1152.193,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1153.852
+    },
+    {
+      "id": "p0264",
+      "text": "\"Leia, that wasn't your father's voice.\"",
+      "start": 1153.852,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1156.182
+    },
+    {
+      "id": "p0265",
+      "text": "She turned toward him.",
+      "start": 1156.182,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1157.783
+    },
+    {
+      "id": "p0266",
+      "text": "\"What?\"",
+      "start": 1157.783,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1158.572
+    },
+    {
+      "id": "p0267",
+      "text": "\"It was yours.\"",
+      "start": 1158.572,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1159.922
+    },
+    {
+      "id": "p0268",
+      "text": "Silence. Lando stared at both of them.",
+      "start": 1159.922,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1163.922
+    },
+    {
+      "id": "p0269",
+      "text": "\"No.\"",
+      "start": 1163.922,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1164.943
+    },
+    {
+      "id": "p0270",
+      "text": "Han looked at him.",
+      "start": 1164.943,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1166.463
+    },
+    {
+      "id": "p0271",
+      "text": "\"What do you mean, no?\"",
+      "start": 1166.463,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1167.882
+    },
+    {
+      "id": "p0272",
+      "text": "\"I heard my own voice.\"",
+      "start": 1167.882,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1169.622
+    },
+    {
+      "id": "p0273",
+      "text": "Nobody spoke. Venn examined the audio file. The waveform displayed only a brief burst of static. She replayed it through an isolated analysis system. Static again. Then the recording ended. Venn looked troubled.",
+      "start": 1169.622,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1184.483
+    },
+    {
+      "id": "p0274",
+      "text": "\"The original audio is corrupted.\"",
+      "start": 1184.483,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1186.862
+    },
+    {
+      "id": "p0275",
+      "text": "Leia shook her head.",
+      "start": 1186.862,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1188.382
+    },
+    {
+      "id": "p0276",
+      "text": "\"No. I heard him.\"",
+      "start": 1188.382,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1189.902
+    },
+    {
+      "id": "p0277",
+      "text": "Han nodded.",
+      "start": 1189.902,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1191.342
+    },
+    {
+      "id": "p0278",
+      "text": "\"And I heard you.\"",
+      "start": 1191.342,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1192.533
+    },
+    {
+      "id": "p0279",
+      "text": "Lando folded his arms.",
+      "start": 1192.533,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1194.632
+    },
+    {
+      "id": "p0280",
+      "text": "\"And I heard myself.\"",
+      "start": 1194.632,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1196.023
+    },
+    {
+      "id": "p0281",
+      "text": "They stared at the terminal. The transcript remained visible. I REMEMBER THE GARDEN. Leia read the words again. Her father had loved gardens. He had maintained a small private one in the palace, where he sometimes retreated after difficult Senate sessions. She remembered sitting beside him as a child, watching him tend delicate flowering plants brought from distant worlds. Had the machine somehow found that memory?",
+      "start": 1196.023,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1226.023
+    },
+    {
+      "id": "p0282",
+      "text": "Or had something else happened? Venn examined the technical notes.",
+      "start": 1226.023,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1231.672
+    },
+    {
+      "id": "p0283",
+      "text": "\"The original researchers encountered the same phenomenon. Different subjects perceived different voices, even though the recording contained no identifiable speech.\"",
+      "start": 1231.672,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1242.602
+    },
+    {
+      "id": "p0284",
+      "text": "Han frowned.",
+      "start": 1242.602,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1244.043
+    },
+    {
+      "id": "p0285",
+      "text": "\"That's impossible.\"",
+      "start": 1244.043,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1245.533
+    },
+    {
+      "id": "p0286",
+      "text": "\"Under conventional acoustic principles, yes.\"",
+      "start": 1245.533,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1249.783
+    },
+    {
+      "id": "p0287",
+      "text": "Lando leaned closer.",
+      "start": 1249.783,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1251.703
+    },
+    {
+      "id": "p0288",
+      "text": "\"What happened to the original experiment?\"",
+      "start": 1251.703,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1253.803
+    },
+    {
+      "id": "p0289",
+      "text": "Venn opened the final page. A short entry appeared. WITNESS ZERO — PROCEDURE TERMINATED. SUBJECT RESPONSE: INCONSISTENT. SOURCE IDENTITY: UNRESOLVED. RECOMMENDATION: DO NOT REPEAT WITHOUT DIRECT SUPERVISION. Leia stared at the final line.",
+      "start": 1253.803,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1273.688
+    },
+    {
+      "id": "p0290",
+      "text": "\"Who was supervising?\"",
+      "start": 1273.688,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1275.158
+    },
+    {
+      "id": "p0291",
+      "text": "Venn searched the metadata. Most of the information had been erased. But one field remained. ORIGINAL SPONSOR: DAMASK HOLDINGS. Lando frowned.",
+      "start": 1275.158,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1286.608
+    },
+    {
+      "id": "p0292",
+      "text": "\"Damask?\"",
+      "start": 1286.608,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1287.578
+    },
+    {
+      "id": "p0293",
+      "text": "Han shook his head.",
+      "start": 1287.578,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1289.328
+    },
+    {
+      "id": "p0294",
+      "text": "\"Never heard of it.\"",
+      "start": 1289.328,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1290.447
+    },
+    {
+      "id": "p0295",
+      "text": "Leia looked toward Threepio, who had been quietly examining the records.",
+      "start": 1290.447,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1296.148
+    },
+    {
+      "id": "p0296",
+      "text": "\"Threepio?\"",
+      "start": 1296.148,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1297.148
+    },
+    {
+      "id": "p0297",
+      "text": "The droid tilted his head.",
+      "start": 1297.148,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1299.388
+    },
+    {
+      "id": "p0298",
+      "text": "\"Damask Holdings was a prominent financial organization during the final years of the Republic, Princess. It was controlled by a Muun financier named Hego Damask.\"",
+      "start": 1299.388,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1309.287
+    },
+    {
+      "id": "p0299",
+      "text": "\"Who was he?\"",
+      "start": 1309.287,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1310.388
+    },
+    {
+      "id": "p0300",
+      "text": "\"A wealthy businessman with extensive political connections. He died shortly before Palpatine became Supreme Chancellor.\"",
+      "start": 1310.388,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1317.458
+    },
+    {
+      "id": "p0301",
+      "text": "Leia stared at the name. The timing troubled her. An experiment involving voices and memories. Conducted before the Empire existed. Financed by a man who died just as Palpatine rose to power. She made a note.",
+      "start": 1317.458,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1334.048
+    },
+    {
+      "id": "p0302",
+      "text": "\"Keep that name.\"",
+      "start": 1334.048,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1336.348
+    },
+    {
+      "id": "p0303",
+      "text": "The final archive contained the records Leia had been searching for. AUREL SEVEN — SUBJECT RETENTION PROGRAM. Forty-three prisoners. Alderaanian origin. Long-term experimental custody. The files included medical evaluations, psychological assessments, and transport records. Most names were concealed. But the accompanying notes revealed something the Emperor's researchers had struggled to understand. The prisoners had been unusually resistant to conditioning. Not because they possessed extraordinary abilities.",
+      "start": 1336.348,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1371.268
+    },
+    {
+      "id": "p0304",
+      "text": "Not because they were immune to the machinery. But because they had repeatedly reinforced one another's memories. The researchers had attempted to isolate them. Even so, the captives developed elaborate methods of preserving their identities. Shared stories. Private jokes. Old songs. Memories of people they had loved. A report described one prisoner who had begun forgetting her own name. Another captive had spent three consecutive nights repeating it to her.",
+      "start": 1371.268,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1402.528
+    },
+    {
+      "id": "p0305",
+      "text": "Along with the names of her parents. The street where she grew up. The flowers that bloomed beside her childhood home. By the fourth day, the prisoner remembered. The researchers classified the incident as a failure of memory suppression. Leia read it differently. The woman had been saved by someone who refused to let her disappear. She thought of Alderaan. Of the people she had lost. Of her father.",
+      "start": 1402.528,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1430.048
+    },
+    {
+      "id": "p0306",
+      "text": "Of the thousands of stories that existed nowhere now except in the memories of those who had survived. And she understood something important. The Empire had destroyed her world. But it had not destroyed everything that world had been.",
+      "start": 1430.048,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1444.948
+    },
+    {
+      "id": "p0307",
+      "text": "\"Leia?\"",
+      "start": 1444.948,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1445.798
+    },
+    {
+      "id": "p0308",
+      "text": "Han's voice brought her back. She looked up. He was watching her.",
+      "start": 1445.798,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1451.068
+    },
+    {
+      "id": "p0309",
+      "text": "\"Are you all right?\"",
+      "start": 1451.068,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1452.238
+    },
+    {
+      "id": "p0310",
+      "text": "She nodded.",
+      "start": 1452.238,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1453.408
+    },
+    {
+      "id": "p0311",
+      "text": "\"Yes.\"",
+      "start": 1453.408,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1454.298
+    },
+    {
+      "id": "p0312",
+      "text": "Then she smiled.",
+      "start": 1454.298,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1455.688
+    },
+    {
+      "id": "p0313",
+      "text": "\"Actually, I think we've found something.\"",
+      "start": 1455.688,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1457.888
+    },
+    {
+      "id": "p0314",
+      "text": "Venn opened the final transport record. The most recent entry had been created two days earlier. It showed a transfer of forty-three living subjects from one Imperial custodial facility to another. Leia studied the figures.",
+      "start": 1457.888,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1472.285
+    },
+    {
+      "id": "p0315",
+      "text": "\"All forty-three?\"",
+      "start": 1472.285,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1473.525
+    },
+    {
+      "id": "p0316",
+      "text": "\"According to the manifest,\" Venn replied.",
+      "start": 1473.525,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1476.8
+    },
+    {
+      "id": "p0317",
+      "text": "\"Alive?\"",
+      "start": 1476.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1477.79
+    },
+    {
+      "id": "p0318",
+      "text": "\"The medical transport readings suggest so.\"",
+      "start": 1477.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1480.59
+    },
+    {
+      "id": "p0319",
+      "text": "Leia closed her eyes briefly. Forty-three. Not merely names on an old list. Not a bookkeeping error. Forty-three people who might still be waiting for someone to find them.",
+      "start": 1480.59,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1493.29
+    },
+    {
+      "id": "p0320",
+      "text": "\"Where were they taken?\"",
+      "start": 1493.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1494.57
+    },
+    {
+      "id": "p0321",
+      "text": "Venn examined the destination field.",
+      "start": 1494.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1498.133
+    },
+    {
+      "id": "p0322",
+      "text": "\"Encrypted.\"",
+      "start": 1498.133,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1499.283
+    },
+    {
+      "id": "p0323",
+      "text": "Han held up the command key.",
+      "start": 1499.283,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1501.553
+    },
+    {
+      "id": "p0324",
+      "text": "\"Can we use this?\"",
+      "start": 1501.553,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1502.963
+    },
+    {
+      "id": "p0325",
+      "text": "Venn tried. The terminal accepted the authorization. A series of routing references appeared. Then stopped. The destination remained concealed. Venn frowned.",
+      "start": 1502.963,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1515.853
+    },
+    {
+      "id": "p0326",
+      "text": "\"This isn't ordinary encryption.\"",
+      "start": 1515.853,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1518.143
+    },
+    {
+      "id": "p0327",
+      "text": "\"What is it?\" Lando asked.",
+      "start": 1518.143,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1520.213
+    },
+    {
+      "id": "p0328",
+      "text": "\"A segmented routing system. Each transfer station knows only the next destination. The complete route is held elsewhere.\"",
+      "start": 1520.213,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1529.363
+    },
+    {
+      "id": "p0329",
+      "text": "Leia sighed.",
+      "start": 1529.363,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1530.803
+    },
+    {
+      "id": "p0330",
+      "text": "\"So we can't follow it.\"",
+      "start": 1530.803,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1532.203
+    },
+    {
+      "id": "p0331",
+      "text": "\"Not directly.\"",
+      "start": 1532.203,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1533.583
+    },
+    {
+      "id": "p0332",
+      "text": "Venn enlarged the available records.",
+      "start": 1533.583,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1537.163
+    },
+    {
+      "id": "p0333",
+      "text": "\"But the transfer used a civilian supply corridor. We may be able to identify the vessel by comparing its departure time with registered traffic.\"",
+      "start": 1537.163,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1546.453
+    },
+    {
+      "id": "p0334",
+      "text": "Han smiled.",
+      "start": 1546.453,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1547.893
+    },
+    {
+      "id": "p0335",
+      "text": "\"Now you're speaking my language.\"",
+      "start": 1547.893,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1550.013
+    },
+    {
+      "id": "p0336",
+      "text": "He leaned over the terminal.",
+      "start": 1550.013,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1551.833
+    },
+    {
+      "id": "p0337",
+      "text": "\"Give me the departure window.\"",
+      "start": 1551.833,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1553.703
+    },
+    {
+      "id": "p0338",
+      "text": "Venn displayed it. A six-hour period. Several dozen vessels. Han began examining their registrations. Most were ordinary freighters. Medical transports. Supply ships. A handful of Imperial vessels operating under surrender agreements. Then he stopped.",
+      "start": 1553.703,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1572.583
+    },
+    {
+      "id": "p0339",
+      "text": "\"Hang on.\"",
+      "start": 1572.583,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1573.523
+    },
+    {
+      "id": "p0340",
+      "text": "Leia looked over his shoulder.",
+      "start": 1573.523,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1575.683
+    },
+    {
+      "id": "p0341",
+      "text": "\"What?\"",
+      "start": 1575.683,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1576.313
+    },
+    {
+      "id": "p0342",
+      "text": "Han pointed toward one entry. A medium transport registered to an Imperial logistics organization. Its departure time matched the encrypted transfer. Its cargo capacity was sufficient for forty-three passengers. And its declared cargo was medical equipment.",
+      "start": 1576.313,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1592.873
+    },
+    {
+      "id": "p0343",
+      "text": "\"Could be coincidence,\" Lando said.",
+      "start": 1592.873,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1595.553
+    },
+    {
+      "id": "p0344",
+      "text": "\"Sure.\"",
+      "start": 1595.553,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1596.703
+    },
+    {
+      "id": "p0345",
+      "text": "Han opened the vessel's history. The ship had made four journeys in the previous month. Each used a similar route. Each originated near a former Imperial detention facility. Each carried classified cargo. Han smiled.",
+      "start": 1596.703,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1612.733
+    },
+    {
+      "id": "p0346",
+      "text": "\"That's a lot of coincidences.\"",
+      "start": 1612.733,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1614.663
+    },
+    {
+      "id": "p0347",
+      "text": "Leia leaned closer.",
+      "start": 1614.663,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1616.393
+    },
+    {
+      "id": "p0348",
+      "text": "\"Can we find where it went?\"",
+      "start": 1616.393,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1617.923
+    },
+    {
+      "id": "p0349",
+      "text": "\"Not yet. But we know what ship we're looking for.\"",
+      "start": 1617.923,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1620.943
+    },
+    {
+      "id": "p0350",
+      "text": "He copied the registration. IMPERIAL TRANSPORT VESSEL — MERIDIAN. Leia repeated the name quietly.",
+      "start": 1620.943,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1630.323
+    },
+    {
+      "id": "p0351",
+      "text": "\"Meridian.\"",
+      "start": 1630.323,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1631.393
+    },
+    {
+      "id": "p0352",
+      "text": "For the first time since arriving on Coruscant, they had something more useful than a mysterious code. A ship. A real vessel moving through known space. Somewhere aboard it, or at the end of its journey, might be the people she had been searching for. The meeting ended shortly before midnight.",
+      "start": 1631.393,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1651.633
+    },
+    {
+      "id": "p0353",
+      "text": "Venn arranged to continue the traffic analysis with Cloud City's security specialists, while Threepio remained behind to organize the recovered research files. Lando departed to inspect the city's industrial systems. He had discovered that several old Imperial contractors were still drawing money from accounts the city believed had been closed. He seemed rather enthusiastic about confronting them. Han and Leia returned to the Falcon.",
+      "start": 1651.633,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1680.803
+    },
+    {
+      "id": "p0354",
+      "text": "For a while, they sat together in the main hold. Neither spoke. The ship was quiet. Chewbacca was repairing something in the engineering compartment, occasionally punctuating his work with irritated growls. Han looked toward Leia.",
+      "start": 1680.803,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1695.083
+    },
+    {
+      "id": "p0355",
+      "text": "\"You know something?\"",
+      "start": 1695.083,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1696.233
+    },
+    {
+      "id": "p0356",
+      "text": "\"What?\"",
+      "start": 1696.233,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1697.053
+    },
+    {
+      "id": "p0357",
+      "text": "\"I think I'm starting to hate Imperial laboratories.\"",
+      "start": 1697.053,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1699.863
+    },
+    {
+      "id": "p0358",
+      "text": "She smiled faintly.",
+      "start": 1699.863,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1701.663
+    },
+    {
+      "id": "p0359",
+      "text": "\"Only starting?\"",
+      "start": 1701.663,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1702.833
+    },
+    {
+      "id": "p0360",
+      "text": "\"Well, I wasn't a big fan of the last one.\"",
+      "start": 1702.833,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1705.353
+    },
+    {
+      "id": "p0361",
+      "text": "He leaned back.",
+      "start": 1705.353,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1707.193
+    },
+    {
+      "id": "p0362",
+      "text": "\"Still, nice to find out I was helping advance science.\"",
+      "start": 1707.193,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1710.343
+    },
+    {
+      "id": "p0363",
+      "text": "Leia laughed despite herself. Then her expression softened.",
+      "start": 1710.343,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1715.303
+    },
+    {
+      "id": "p0364",
+      "text": "\"Han.\"",
+      "start": 1715.303,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1716.578
+    },
+    {
+      "id": "p0365",
+      "text": "\"Yeah?\"",
+      "start": 1716.578,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1717.408
+    },
+    {
+      "id": "p0366",
+      "text": "\"I'm sorry.\"",
+      "start": 1717.408,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1718.458
+    },
+    {
+      "id": "p0367",
+      "text": "He frowned.",
+      "start": 1718.458,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1719.638
+    },
+    {
+      "id": "p0368",
+      "text": "\"For what?\"",
+      "start": 1719.638,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1720.688
+    },
+    {
+      "id": "p0369",
+      "text": "\"For having to watch that recording again.\"",
+      "start": 1720.688,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1722.878
+    },
+    {
+      "id": "p0370",
+      "text": "Han considered her. Then he shrugged.",
+      "start": 1722.878,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1725.838
+    },
+    {
+      "id": "p0371",
+      "text": "\"Could've been worse.\"",
+      "start": 1725.838,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1727.168
+    },
+    {
+      "id": "p0372",
+      "text": "\"How?\"",
+      "start": 1727.168,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1728.038
+    },
+    {
+      "id": "p0373",
+      "text": "\"They could've made me watch the entire thing with Lando explaining every mistake he made.\"",
+      "start": 1728.038,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1732.458
+    },
+    {
+      "id": "p0374",
+      "text": "She smiled. Han reached for her hand.",
+      "start": 1732.458,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1735.848
+    },
+    {
+      "id": "p0375",
+      "text": "\"Hey.\"",
+      "start": 1735.848,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1736.628
+    },
+    {
+      "id": "p0376",
+      "text": "She looked at him.",
+      "start": 1736.628,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1737.928
+    },
+    {
+      "id": "p0377",
+      "text": "\"They didn't win.\"",
+      "start": 1737.928,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1739.108
+    },
+    {
+      "id": "p0378",
+      "text": "Leia was silent. Han continued.",
+      "start": 1739.108,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1742.388
+    },
+    {
+      "id": "p0379",
+      "text": "\"Vader. Jabba. Whoever those scientists were. They tried to take everything from us.\"",
+      "start": 1742.388,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1748.378
+    },
+    {
+      "id": "p0380",
+      "text": "He squeezed her hand.",
+      "start": 1748.378,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1750.108
+    },
+    {
+      "id": "p0381",
+      "text": "\"And we're still here.\"",
+      "start": 1750.108,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1751.578
+    },
+    {
+      "id": "p0382",
+      "text": "Leia leaned against him. For several minutes, they sat quietly. Then she spoke.",
+      "start": 1751.578,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1759.608
+    },
+    {
+      "id": "p0383",
+      "text": "\"Do you think those prisoners know Alderaan is gone?\"",
+      "start": 1759.608,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1762.298
+    },
+    {
+      "id": "p0384",
+      "text": "Han considered the question.",
+      "start": 1762.298,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1764.458
+    },
+    {
+      "id": "p0385",
+      "text": "\"I don't know.\"",
+      "start": 1764.458,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1765.468
+    },
+    {
+      "id": "p0386",
+      "text": "\"What if they don't?\"",
+      "start": 1765.468,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1766.738
+    },
+    {
+      "id": "p0387",
+      "text": "\"Then somebody's going to have to tell them.\"",
+      "start": 1766.738,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1768.818
+    },
+    {
+      "id": "p0388",
+      "text": "She closed her eyes.",
+      "start": 1768.818,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1770.648
+    },
+    {
+      "id": "p0389",
+      "text": "\"I don't know how to do that.\"",
+      "start": 1770.648,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1772.078
+    },
+    {
+      "id": "p0390",
+      "text": "Han put his arm around her.",
+      "start": 1772.078,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1774.958
+    },
+    {
+      "id": "p0391",
+      "text": "\"You'll find a way.\"",
+      "start": 1774.958,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1776.448
+    },
+    {
+      "id": "p0392",
+      "text": "She rested her head against his shoulder. Outside the Falcon, Cloud City's lights glimmered beneath the stars. Somewhere in the galaxy, forty-three people from Alderaan remained prisoners of an Empire that no longer officially existed. And somewhere else, a man named Veyr was continuing experiments begun long before Palpatine became Emperor. Leia thought of the strange recording. I remember the garden. Her father's voice.",
+      "start": 1776.448,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1804.338
+    },
+    {
+      "id": "p0393",
+      "text": "Or something that sounded exactly like it. She wondered what the original researchers had discovered. And why the experiment had frightened them enough to abandon it. She had a feeling Luke would want to know. Deep within Cloud City's administrative complex, Commander Venn continued examining the transport records. The Meridian's registration had led her to a second vessel. Then a third.",
+      "start": 1804.338,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1828.148
+    },
+    {
+      "id": "p0394",
+      "text": "The ships belonged to different companies, but their ownership records all converged on the same organization. A private logistics consortium. One that had existed for decades. Venn opened its corporate registry. The company had changed names repeatedly. It had survived the Clone Wars, the rise of the Empire, and the collapse of Imperial authority. Its current directors were listed as confidential. But the original corporate charter remained accessible.",
+      "start": 1828.148,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1858.988
+    },
+    {
+      "id": "p0395",
+      "text": "Venn stared at the screen. The organization's founder had been a financial holding company. DAMASK HOLDINGS. She frowned. The same name that appeared in the Witness Zero experiment. She opened the original registration. The company had been established more than thirty years earlier. Its first director was listed as Hego Damask. The man whose research had apparently preceded the Emperor's experiments.",
+      "start": 1858.988,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1885.448
+    },
+    {
+      "id": "p0396",
+      "text": "The man who had died on the eve of Palpatine's election. Venn examined the ownership history. The company had continued operating after his death. Its assets had been transferred to a private trust. And that trust had eventually been absorbed into the Emperor's personal estate. She leaned back. For a moment, she considered the implications. Palpatine's experiments had not begun with the Empire. They had begun before the Republic fell.",
+      "start": 1885.448,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1913.455
+    },
+    {
+      "id": "p0397",
+      "text": "Before the Clone Wars. Before anyone outside the Jedi Order knew that the Sith still existed. And someone had preserved the original research for decades. Venn reached for her communicator. Then stopped. A new entry had appeared in the corporate registry. One added only six days earlier. AUTHORIZED EXECUTOR: CUSTODIAN VEYR. She stared at the name. Then another notification appeared. ARCHIVE ACCESS DETECTED. Venn frowned.",
+      "start": 1913.455,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1943.898
+    },
+    {
+      "id": "p0398",
+      "text": "She had disconnected the terminal from the external network. The command key had been copied into an isolated system. There should have been no incoming communications. Yet the screen displayed a new message. THANK YOU FOR LOCATING THE MERIDIAN. Venn's blood ran cold. A second line appeared. YOUR ASSISTANCE HAS BEEN NOTED. Then the terminal went dark.",
+      "start": 1943.898,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1968.178
+    },
+    {
+      "id": "p0399",
+      "text": "End of Chapter Twelve.",
+      "start": 1968.178,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1969.878
+    }
+  ]
+}
