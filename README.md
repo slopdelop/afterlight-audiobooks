@@ -210,3 +210,7 @@ The stable ID is `hollow-throne-15`, with one MP3 and 301 synchronized book para
 Chapter 16 is 36:49, with Julian Vale and the established Palpatine, Mas Amedda and Veyr identities. Four new genuine VoiceDesign references are Iris Wren, Finn Alder, Alden Birch and Ronan Flint. Unnamed laboratory dialogue reuses Corin Hale as casting without asserting a shared individual. The historical setting retains the existing character identities without an age filter. New interpretations await subjective listener review.
 
 The stable ID is `hollow-throne-16`, with one MP3 and 440 synchronized book paragraphs. The spoken introduction contains the chapter number only. Canonical text and names remain intact; phonetic inputs, independent recognition and any complete-utterance repairs remain separate. Earlier chapters and playback/progress code are unchanged.
+
+## Page turns
+
+In Pages reading mode, next/back arrows, horizontal swipes and page-navigation keys turn a sheet with a brief fold and soft shadow. Reading position saves immediately; rapid turns remain responsive. Scrolling, restoring your place and audio-follow navigation keep their existing behavior. System Reduce Motion uses instant page changes.

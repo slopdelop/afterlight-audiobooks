@@ -3,13 +3,13 @@ import assert from 'node:assert/strict';
 import {createReaderPager} from '../reader.js';
 import {initialState,restoreState} from '../core.js';
 
-function fixture(){
+function fixture(pageTurnEffect){
  const events={},changes=[],turns=[];
  const viewport={clientWidth:300,clientHeight:600,scrollLeft:0,scrollTo({left}){this.scrollLeft=left;},getBoundingClientRect(){return {left:20,right:20+this.clientWidth};},addEventListener(type,fn){events[type]=fn;}};
  // A long paragraph spans the first two columns; no text is cloned or omitted.
  const fragments=[[0],[0,1],[1],[2]],blocks=fragments.map(pages=>({getClientRects:()=>pages.map(page=>({left:20+page*(viewport.clientWidth+32)-viewport.scrollLeft,right:20+page*(viewport.clientWidth+32)+viewport.clientWidth-viewport.scrollLeft,width:viewport.clientWidth}))}));
  const content={style:{setProperty(){}},get scrollWidth(){return 3*(viewport.clientWidth+32)-32;},querySelectorAll:()=>blocks};
- const pager=createReaderPager({viewport,content,onChange:c=>changes.push(c),onTurn:i=>turns.push(i)});
+ const pager=createReaderPager({viewport,content,onChange:c=>changes.push(c),onTurn:i=>turns.push(i),pageTurnEffect});
  pager.setEnabled(true);pager.layout(0);return {pager,viewport,events,changes,turns,content};
 }
 
@@ -49,4 +49,24 @@ test('keyboard page navigation works in both directions and leaves modified shor
  key('PageDown');assert.equal(changes.at(-1).page,1);key('ArrowRight');assert.equal(changes.at(-1).page,2);
  key(' ',{shiftKey:true});assert.equal(changes.at(-1).page,1);key('PageUp');assert.equal(changes.at(-1).page,0);
  key('ArrowRight',{ctrlKey:true});assert.equal(changes.at(-1).page,0);assert.equal(prevented,4);
+});
+
+test('visual turns commit reading position immediately and preserve rapid forward/back intent',()=>{
+ const directions=[],revealed=[];let f;
+ const effect={cancel(){},prepare(direction){directions.push(direction);const from=f.viewport.scrollLeft;return ()=>revealed.push([from,f.viewport.scrollLeft]);}};
+ f=fixture(effect);
+ f.pager.turn(1);assert.deepEqual(f.turns,[1]);
+ f.pager.turn(1);f.pager.turn(-1);
+ assert.deepEqual(directions,[1,1,-1]);assert.deepEqual(revealed,[[0,332],[332,664],[664,332]]);
+ assert.deepEqual(f.turns,[1,3,1]);assert.equal(f.viewport.scrollLeft,332);
+ f.pager.turn(-1);f.pager.turn(-1);assert.equal(directions.length,4);assert.deepEqual(f.turns,[1,3,1,0]);
+});
+
+test('resize, restore and leaving page mode cancel visual copies without saving new progress',()=>{
+ let cancelled=0;const f=fixture({cancel(){cancelled++;},prepare(){return ()=>{};}});
+ f.pager.turn(1);const before=cancelled;
+ f.pager.showParagraph(2);assert.equal(cancelled,before); // already visible: do not interrupt a manual turn
+ f.pager.layout(3);assert.equal(cancelled,before+1);assert.deepEqual(f.turns,[1]);
+ f.pager.showParagraph(0);assert.equal(cancelled,before+2);assert.deepEqual(f.turns,[1]);
+ f.pager.setEnabled(false);assert.equal(cancelled,before+3);assert.equal(f.viewport.scrollLeft,0);
 });
