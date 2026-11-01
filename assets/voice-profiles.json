@@ -215,7 +215,8 @@
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
       "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
       "production_uses": [
-        "hollow-throne-14"
+        "hollow-throne-14",
+        "hollow-throne-16"
       ]
     },
     "callan_reed": {
@@ -409,7 +410,8 @@
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
       "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
       "production_uses": [
-        "hollow-throne-13"
+        "hollow-throne-13",
+        "hollow-throne-16"
       ],
       "casting_status": "Production interpretation; subjective listening review remains with the user.",
       "source_audition": "cast_palpatine_1"
@@ -427,7 +429,8 @@
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
       "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
       "production_uses": [
-        "hollow-throne-13"
+        "hollow-throne-13",
+        "hollow-throne-16"
       ],
       "casting_status": "Production interpretation; subjective listening review remains with the user.",
       "source_audition": "cast_amedda_1"
@@ -463,7 +466,8 @@
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
       "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
       "production_uses": [
-        "hollow-throne-13"
+        "hollow-throne-13",
+        "hollow-throne-16"
       ],
       "casting_status": "Production interpretation; subjective listening review remains with the user."
     },
@@ -601,6 +605,74 @@
       "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
       "production_uses": [
         "hollow-throne-15"
+      ],
+      "casting_status": "Production interpretation; subjective user review pending."
+    },
+    "iris_wren": {
+      "name": "Iris Wren",
+      "synthetic": true,
+      "role": "Sela",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-sixteen/voices/sela.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 361500,
+      "reference_sha256": "3552e3b4d974a5cf74954c024ff23cc1b6254055bc549ec7328756c4b56ad253",
+      "direction": "An original young girl around ten years old speaking clear soft British English. A light youthful upper-middle register, small forward resonance, smooth natural vowels and gentle clean consonants. Thoughtful, observant and quietly determined, with restrained vulnerability and small sincere questions. Natural connected unhurried conversation, fully voiced and clearly intelligible at a comfortable steady volume. Understated emotion suitable for extended audiobook dialogue. No adult sultry breathiness, squeaky cartoon baby voice, singing, sobbing, whispering, shouting, music, echo or effects. Clean dry studio speech.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-16"
+      ],
+      "casting_status": "Production interpretation; subjective user review pending."
+    },
+    "finn_alder": {
+      "name": "Finn Alder",
+      "synthetic": true,
+      "role": "Iven",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-sixteen/voices/iven.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 361600,
+      "reference_sha256": "8bd6b1ab09683ffda62918c5d7c48f46afaaf7d4b861bc20a180cd00d8afab7c",
+      "direction": "An original boy around thirteen years old speaking clear natural British English. A youthful middle register beginning to deepen, light rounded forward resonance and a fine natural dry grain. Precise but unforced consonants, connected conversational vowels, thoughtful and quietly stubborn. Guarded courage and restrained skepticism, never an adult booming officer or a squeaky cartoon child. Comfortable steady dialogue with clear words, no theatrical acting, shouting, whispering, gasping, sound effects, music or echo. Clean dry studio speech.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-16"
+      ],
+      "casting_status": "Production interpretation; subjective user review pending."
+    },
+    "alden_birch": {
+      "name": "Alden Birch",
+      "synthetic": true,
+      "role": "Reconstructed recording of Master Varo",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-sixteen/voices/varo.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 361700,
+      "reference_sha256": "9b9730960603b13878997d5a1db22f9b59812ea088b98038fd333bad78836a42",
+      "direction": "An original elderly male teacher with cultivated non-rhotic British English. Warm middle-low register, softly rounded resonance, a delicate dry sandy edge, precise gently released consonants and smooth connected vowels. Patient, humane and quietly reassuring, gentle authority without sounding frail. Natural conversational cadence, comfortable consistent volume, no booming wizard, theatrical whisper, breath effects, music, echo or electronic processing. Clean dry close studio speech.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-16"
+      ],
+      "casting_status": "Production interpretation; subjective user review pending."
+    },
+    "ronan_flint": {
+      "name": "Ronan Flint",
+      "synthetic": true,
+      "role": "Stormtrooper guard",
+      "engine": "voice_design_reference",
+      "reference": "outputs/chapter-sixteen/voices/guard.wav",
+      "conditioning": "full audio and transcript",
+      "source_seed": 361800,
+      "reference_sha256": "0bf0943c54439467603a2f50d2639d11939328ed613e9341ec8f8b503e283beb",
+      "direction": "An original adult male guard speaking clear neutral British English in a middle-low register. Firm compact tone with a slightly dry edge and clipped precise consonants, practical impersonal military delivery. Ordinary connected conversational volume, restrained and intelligible rather than shouting. No helmet filter, radio static, breathing, robotic effects, music or echo. Clean dry studio speech.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-16"
       ],
       "casting_status": "Production interpretation; subjective user review pending."
     }

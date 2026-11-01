@@ -92,6 +92,14 @@
           "src": "audio/hollow-throne/chapter-15.mp3",
           "duration": 1822.47,
           "transcript": "text/hollow-throne/chapter-15.json"
+        },
+        {
+          "id": "hollow-throne-16",
+          "number": 16,
+          "title": "The Children Who Were Never Found",
+          "src": "audio/hollow-throne/chapter-16.mp3",
+          "duration": 2209.045,
+          "transcript": "text/hollow-throne/chapter-16.json"
         }
       ],
       "narratorId": "julian_vale"

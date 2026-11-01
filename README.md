@@ -204,3 +204,9 @@ The stable ID is `hollow-throne-14`, with one MP3 and 427 synchronized book para
 Chapter 15 is 30:22, with Julian Vale and the exact selected Han/Leia voices. Three additional genuine VoiceDesign references are Edwin Rook, Elin Ward and Security Unit Lumen. The explicit imitations of Han and Leia reuse those same selected identities; the generic security announcement is not Threepio. One English sentence attributed to Chewbacca is read as translated narration, retaining every written word without invented Wookiee speech or growls. New interpretations remain pending subjective listener review.
 
 The stable ID is `hollow-throne-15`, with one MP3 and 301 synchronized book paragraphs. The spoken chapter introduction contains only the chapter number; the canonical title remains in the reader. Pronunciation cues and any complete-utterance repairs stay separate from the original manuscript. Earlier chapters and playback/progress code remain unchanged.
+
+## Chapter 16
+
+Chapter 16 is 36:49, with Julian Vale and the established Palpatine, Mas Amedda and Veyr identities. Four new genuine VoiceDesign references are Iris Wren, Finn Alder, Alden Birch and Ronan Flint. Unnamed laboratory dialogue reuses Corin Hale as casting without asserting a shared individual. The historical setting retains the existing character identities without an age filter. New interpretations await subjective listener review.
+
+The stable ID is `hollow-throne-16`, with one MP3 and 440 synchronized book paragraphs. The spoken introduction contains the chapter number only. Canonical text and names remain intact; phonetic inputs, independent recognition and any complete-utterance repairs remain separate. Earlier chapters and playback/progress code are unchanged.
