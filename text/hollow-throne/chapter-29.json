@@ -1,0 +1,1114 @@
+{
+  "version": 1,
+  "chapterId": "hollow-throne-29",
+  "duration": 830.41,
+  "alignment": "Canonical book paragraphs use fixed synthesis boundaries and cached local Whisper word timestamps; unmatched starts are interpolated.",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Chapter Twenty-Nine: The Promise of a Jedi",
+      "start": 0.0,
+      "timing": "segment",
+      "kind": "title",
+      "end": 1.78
+    },
+    {
+      "id": "p0002",
+      "text": "The upper room smelled of heated insulation and the sharp cleansing fluid used in medical wards. Veyr had brought a chair to the edge of the control floor. Beside it stood a small cup, a folded cloth and an injector in a transparent sleeve. He had prepared for a long night.",
+      "start": 1.78,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 20.22
+    },
+    {
+      "id": "p0003",
+      "text": "Luke stopped at the top of the stair. From here he could see the reference vault through the floor's curved window. Leia was helping the six people find shelter behind the lower cabinets. Artoo's lamp moved steadily along a row of sockets. Darren sat with one leg extended, watching Threepio unpack the contact kit.",
+      "start": 20.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 40.38
+    },
+    {
+      "id": "p0004",
+      "text": "Veyr followed his gaze.",
+      "start": 40.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 42.922
+    },
+    {
+      "id": "p0005",
+      "text": "\"They should not be in that area.\"",
+      "start": 42.922,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 44.572
+    },
+    {
+      "id": "p0006",
+      "text": "\"You could open a safe way out.\"",
+      "start": 44.572,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 46.333
+    },
+    {
+      "id": "p0007",
+      "text": "\"I have been trying to provide one for a very long time.\"",
+      "start": 46.333,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 49.583
+    },
+    {
+      "id": "p0008",
+      "text": "Luke looked at the room itself. The prism stood on a raised plinth near the center. Silver arms held it within a ring of emitters, their tips moving fractionally as the pattern changed. A narrow bridge connected the plinth to a console beneath the far window. Beside the console was a black credential reader. A thin wafer protruded from its slot.",
+      "start": 49.583,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 72.312
+    },
+    {
+      "id": "p0009",
+      "text": "On either side of the room, guards waited behind waist-high barriers. Three people in the gray uniforms of palace facilities security. Their weapons were aimed low. One woman's face was streaked with tears.",
+      "start": 72.312,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 85.452
+    },
+    {
+      "id": "p0010",
+      "text": "Luke let his lightsaber hang at his side.",
+      "start": 85.452,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 88.853
+    },
+    {
+      "id": "p0011",
+      "text": "\"You have people with guns watching a man who hasn't drawn his weapon.\"",
+      "start": 88.853,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 92.213
+    },
+    {
+      "id": "p0012",
+      "text": "\"I know what you can do.\"",
+      "start": 92.213,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 93.733
+    },
+    {
+      "id": "p0013",
+      "text": "\"Then you know how little those guns protect you.\"",
+      "start": 93.733,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 96.132
+    },
+    {
+      "id": "p0014",
+      "text": "Veyr rested his hand on the console. \"They are here to protect the apparatus.\"",
+      "start": 96.132,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 100.938
+    },
+    {
+      "id": "p0015",
+      "text": "The distinction settled coldly in Luke's mind. He looked at the woman behind the left barrier. Her forefinger lay straight along the side of her weapon. She was keeping it there with such effort that her whole hand shook.",
+      "start": 100.938,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 115.147
+    },
+    {
+      "id": "p0016",
+      "text": "\"My name is Luke,\" he told her. \"I'm going to try to get you out.\"",
+      "start": 115.147,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 119.498
+    },
+    {
+      "id": "p0017",
+      "text": "Veyr touched a control.",
+      "start": 119.498,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 121.698
+    },
+    {
+      "id": "p0018",
+      "text": "Her finger moved onto the trigger.",
+      "start": 121.698,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 123.878
+    },
+    {
+      "id": "p0019",
+      "text": "Luke ignited his lightsaber before the first shot crossed the room. He turned the bolt into the ceiling, moved left and caught the second against the green blade. Fragments of hot composite fell behind him. The woman was trying to close her eyes.",
+      "start": 123.878,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 138.938
+    },
+    {
+      "id": "p0020",
+      "text": "\"Stop making her do that,\" Luke said.",
+      "start": 138.938,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 141.458
+    },
+    {
+      "id": "p0021",
+      "text": "\"Put down the weapon.\"",
+      "start": 141.458,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 142.787
+    },
+    {
+      "id": "p0022",
+      "text": "The guards fired together.",
+      "start": 142.787,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 144.907
+    },
+    {
+      "id": "p0023",
+      "text": "Luke took two steps back into the shelter of the stair wall. A bolt tore through the place where his head had been. He heard a cry from the vault below.",
+      "start": 144.907,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 153.988
+    },
+    {
+      "id": "p0024",
+      "text": "He could end the exchange quickly. The thought arrived with perfect clarity: cross the room, strike Veyr, deal with the rest afterward.",
+      "start": 153.988,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 163.828
+    },
+    {
+      "id": "p0025",
+      "text": "Below him were people who would pay for whatever afterward contained.",
+      "start": 163.828,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 167.947
+    },
+    {
+      "id": "p0026",
+      "text": "Luke drew a loose inspection cover from its mounting and sent it sliding across the floor. The nearest guard followed it with his weapon, compelled by the movement. Luke moved in the other direction. He reached the left barrier, cut the woman's blaster across its power housing and caught her arm as a short blue arc leaped from the severed casing.",
+      "start": 167.947,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 192.118
+    },
+    {
+      "id": "p0027",
+      "text": "\"Let go,\" he said.",
+      "start": 192.118,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 194.388
+    },
+    {
+      "id": "p0028",
+      "text": "She could not.",
+      "start": 194.388,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 195.828
+    },
+    {
+      "id": "p0029",
+      "text": "He opened her fingers one at a time, keeping his own hand between the hot weapon and her skin. Then he placed the dead blaster on the far side of the barrier.",
+      "start": 195.828,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 205.597
+    },
+    {
+      "id": "p0030",
+      "text": "\"Stay here.\"",
+      "start": 205.597,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 206.637
+    },
+    {
+      "id": "p0031",
+      "text": "He paused.",
+      "start": 206.637,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 207.998
+    },
+    {
+      "id": "p0032",
+      "text": "\"If you can.\"",
+      "start": 207.998,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 209.127
+    },
+    {
+      "id": "p0033",
+      "text": "The second guard swung toward him. Luke ducked beneath the muzzle and used the barrier to push it upward. A bolt struck the ventilation grille. The fan behind it broke apart with a metallic shriek.",
+      "start": 209.127,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 222.087
+    },
+    {
+      "id": "p0034",
+      "text": "The room's steady draft faltered.",
+      "start": 222.087,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 225.007
+    },
+    {
+      "id": "p0035",
+      "text": "Veyr glanced at the damaged vent, then at the reference lights below. He made a small movement of his neck. Luke saw a pale disk beneath his collar flash once.",
+      "start": 225.007,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 236.367
+    },
+    {
+      "id": "p0036",
+      "text": "His expression cleared.",
+      "start": 236.367,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 237.507
+    },
+    {
+      "id": "p0037",
+      "text": "He entered a short sequence on the console.",
+      "start": 237.507,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 240.787
+    },
+    {
+      "id": "p0038",
+      "text": "Steel covers began sliding across the vault windows.",
+      "start": 240.787,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 243.838
+    },
+    {
+      "id": "p0039",
+      "text": "\"Leia!\" Luke called.",
+      "start": 243.838,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 246.838
+    },
+    {
+      "id": "p0040",
+      "text": "Her voice came through his comlink. \"I see it.\"",
+      "start": 246.838,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 250.127
+    },
+    {
+      "id": "p0041",
+      "text": "\"He's closing you in.\"",
+      "start": 250.127,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 251.507
+    },
+    {
+      "id": "p0042",
+      "text": "\"Keep him away from the board.\"",
+      "start": 251.507,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 253.088
+    },
+    {
+      "id": "p0043",
+      "text": "Luke caught the second guard's wrist, turned the blaster toward the empty stairwell and struck its release with his thumb. The power pack fell free. He kicked it beneath a cabinet.",
+      "start": 253.088,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 264.768
+    },
+    {
+      "id": "p0044",
+      "text": "The man's other hand seized Luke by the throat.",
+      "start": 264.768,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 267.877
+    },
+    {
+      "id": "p0045",
+      "text": "They staggered against the barrier. The guard was heavier, his body working with the unhesitating strength of someone who had been denied every reason to protect himself. Luke could feel the fear inside him. It did nothing to weaken his grip.",
+      "start": 267.877,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 282.327
+    },
+    {
+      "id": "p0046",
+      "text": "Luke brought his own arm over the man's elbow and turned with the pressure. They fell together. He struck the floor hard enough to jar the air from his lungs, rolled clear and pulled a length of torn grille across the man's forearms. It held them apart without cutting him.",
+      "start": 282.327,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 300.788
+    },
+    {
+      "id": "p0047",
+      "text": "\"I'm sorry,\" Luke said.",
+      "start": 300.788,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 303.437
+    },
+    {
+      "id": "p0048",
+      "text": "The man stared at him, trying to breathe.",
+      "start": 303.437,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 306.617
+    },
+    {
+      "id": "p0049",
+      "text": "Behind them, Veyr moved toward the central plinth.",
+      "start": 306.617,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 311.998
+    },
+    {
+      "id": "p0050",
+      "text": "Leia heard the change in the vault's air before the window covers met.",
+      "start": 311.998,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 316.428
+    },
+    {
+      "id": "p0051",
+      "text": "A hiss came from the ceiling. Along the upper wall, six narrow valves opened in succession. The room smelled briefly of dust, then of nothing at all.",
+      "start": 316.428,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 327.008
+    },
+    {
+      "id": "p0052",
+      "text": "Threepio looked up from the contact kit.",
+      "start": 327.008,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 329.697
+    },
+    {
+      "id": "p0053",
+      "text": "\"Oh, dear.\"",
+      "start": 329.697,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 330.777
+    },
+    {
+      "id": "p0054",
+      "text": "Artoo abandoned his socket and rolled toward the nearest wall panel. His tool struck the valve casing once, twice. It barely dented.",
+      "start": 330.777,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 340.858
+    },
+    {
+      "id": "p0055",
+      "text": "\"What is it?\" Leia asked.",
+      "start": 340.858,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 342.988
+    },
+    {
+      "id": "p0056",
+      "text": "\"The preservation circuit,\" Darren said.",
+      "start": 342.988,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 346.417
+    },
+    {
+      "id": "p0057",
+      "text": "He was looking at the ceiling with an expression she had hoped never to see again.",
+      "start": 346.417,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 350.967
+    },
+    {
+      "id": "p0058",
+      "text": "\"They used it when the cabinets needed treatment. No people were supposed to be down here.\"",
+      "start": 350.967,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 355.817
+    },
+    {
+      "id": "p0059",
+      "text": "Leia drew her blaster.",
+      "start": 355.817,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 357.737
+    },
+    {
+      "id": "p0060",
+      "text": "Artoo gave a warning screech.",
+      "start": 357.737,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 360.368
+    },
+    {
+      "id": "p0061",
+      "text": "\"He says firing into the valve may release its full contents,\" Threepio said. \"He needs the service control on the other side of the room.\"",
+      "start": 360.368,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 368.697
+    },
+    {
+      "id": "p0062",
+      "text": "Leia took the little droid's lamp from its bracket and shone it across the vault. A square cover stood behind the cabinet farthest from the stair. Two of the evacuees were crouched beneath it.",
+      "start": 368.697,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 381.548
+    },
+    {
+      "id": "p0063",
+      "text": "\"Help me move this,\" she told the records clerk.",
+      "start": 381.548,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 384.968
+    },
+    {
+      "id": "p0064",
+      "text": "Together they pulled the first person clear. The second, a young man in a maintenance shirt, kept his hands over his head. Leia knelt where he could see her.",
+      "start": 384.968,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 395.158
+    },
+    {
+      "id": "p0065",
+      "text": "\"There is air coming into this room that we should not breathe. I need that panel. You can sit by the door.\"",
+      "start": 395.158,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 401.098
+    },
+    {
+      "id": "p0066",
+      "text": "He shook his head violently.",
+      "start": 401.098,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 403.298
+    },
+    {
+      "id": "p0067",
+      "text": "Tessa knelt beside him. She said something too softly for Leia to hear and held out the shoe she had carried through the rooms. The man looked at it, bewildered. She put it on the floor near the stair, then returned for him.",
+      "start": 403.298,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 416.738
+    },
+    {
+      "id": "p0068",
+      "text": "This time he followed her.",
+      "start": 416.738,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 418.478
+    },
+    {
+      "id": "p0069",
+      "text": "Artoo reached the panel. His saw began to whine.",
+      "start": 418.478,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 422.798
+    },
+    {
+      "id": "p0070",
+      "text": "Leia held the lamp steady. Above them, she heard a lightsaber strike metal.",
+      "start": 422.798,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 428.438
+    },
+    {
+      "id": "p0071",
+      "text": "Veyr reached beneath the plinth and drew a compact weapon from a recess.",
+      "start": 428.438,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 433.757
+    },
+    {
+      "id": "p0072",
+      "text": "Luke saw the movement through the silver arms. He was too far away to seize the gun without turning his attention from the third guard, who had climbed onto the narrow bridge beside the core.",
+      "start": 433.757,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 445.548
+    },
+    {
+      "id": "p0073",
+      "text": "\"Move away from it,\" Luke said.",
+      "start": 445.548,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 448.248
+    },
+    {
+      "id": "p0074",
+      "text": "The guard stepped backward.",
+      "start": 448.248,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 450.428
+    },
+    {
+      "id": "p0075",
+      "text": "Behind his heel, a section of safety rail had folded down to permit equipment transfer. Luke saw the open space as Veyr raised the weapon.",
+      "start": 450.428,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 460.217
+    },
+    {
+      "id": "p0076",
+      "text": "\"Hold your position,\" Veyr said.",
+      "start": 460.217,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 463.327
+    },
+    {
+      "id": "p0077",
+      "text": "The guard stopped. His body swayed over the gap.",
+      "start": 463.327,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 468.547
+    },
+    {
+      "id": "p0078",
+      "text": "Luke threw his lightsaber.",
+      "start": 468.547,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 470.348
+    },
+    {
+      "id": "p0079",
+      "text": "The green blade passed through the guard's weapon and continued into a wall support. At the same instant, Luke reached for the falling man.",
+      "start": 470.348,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 479.978
+    },
+    {
+      "id": "p0080",
+      "text": "The guard struck the side of the bridge and slid. Luke caught his weight through the Force, but the man's jacket was trapped on the broken rail. He could not pull him up without tearing him free.",
+      "start": 479.978,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 492.378
+    },
+    {
+      "id": "p0081",
+      "text": "Veyr fired.",
+      "start": 492.378,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 494.158
+    },
+    {
+      "id": "p0082",
+      "text": "Luke turned enough to take the edge of the stun bolt across his upper arm rather than his chest. His fingers went numb. The guard dropped half a meter.",
+      "start": 494.158,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 505.338
+    },
+    {
+      "id": "p0083",
+      "text": "Luke went to one knee.",
+      "start": 505.338,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 507.397
+    },
+    {
+      "id": "p0084",
+      "text": "He could feel the man's terror. The hold-position command kept one hand clenched on an empty length of air while the other clawed at his jacket. He wanted to help himself. He could not reach the buckle.",
+      "start": 507.397,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 521.317
+    },
+    {
+      "id": "p0085",
+      "text": "Luke drew him against the bridge, got his good hand under the rail and pulled the trapped fabric away. The jacket tore. The man rose above the edge and collapsed across Luke's legs.",
+      "start": 521.317,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 533.807
+    },
+    {
+      "id": "p0086",
+      "text": "Veyr adjusted the weapon.",
+      "start": 533.807,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 536.397
+    },
+    {
+      "id": "p0087",
+      "text": "Luke drew his lightsaber from the wall.",
+      "start": 536.397,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 538.878
+    },
+    {
+      "id": "p0088",
+      "text": "It flew into his hand as the second bolt left the muzzle. He turned the blade and sent the discharge into the plinth's outer casing.",
+      "start": 538.878,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 547.317
+    },
+    {
+      "id": "p0089",
+      "text": "One silver arm fell sideways. The pattern around the prism became ragged.",
+      "start": 547.317,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 553.377
+    },
+    {
+      "id": "p0090",
+      "text": "Veyr's hand went to his neck.",
+      "start": 553.377,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 556.378
+    },
+    {
+      "id": "p0091",
+      "text": "This time Luke saw the whole sequence. A movement toward alarm, the contact, a tiny pulse against the skin. The alarm disappeared from his face. Veyr looked at the broken arm, then began entering the same sequence he had used before.",
+      "start": 556.378,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 572.678
+    },
+    {
+      "id": "p0092",
+      "text": "Luke got the guard safely onto the floor and stood.",
+      "start": 572.678,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 576.457
+    },
+    {
+      "id": "p0093",
+      "text": "\"It isn't helping you.\"",
+      "start": 576.457,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 577.658
+    },
+    {
+      "id": "p0094",
+      "text": "Veyr did not look up. \"The apparatus requires a stable reference.\"",
+      "start": 577.658,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 582.492
+    },
+    {
+      "id": "p0095",
+      "text": "\"I meant the thing on your neck.\"",
+      "start": 582.492,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 584.133
+    },
+    {
+      "id": "p0096",
+      "text": "His fingers stopped over the controls.",
+      "start": 584.133,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 587.733
+    },
+    {
+      "id": "p0097",
+      "text": "For the first time, Veyr's composure seemed effortful.",
+      "start": 587.733,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 592.442
+    },
+    {
+      "id": "p0098",
+      "text": "\"An operator must not introduce unnecessary variation.\"",
+      "start": 592.442,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 595.812
+    },
+    {
+      "id": "p0099",
+      "text": "Luke could see small scars where earlier contacts had rested beneath the man's ear. The latest disk was connected to the console by a fine wire hidden along his sleeve.",
+      "start": 595.812,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 608.122
+    },
+    {
+      "id": "p0100",
+      "text": "\"How long have you been doing that?\"",
+      "start": 608.122,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 609.753
+    },
+    {
+      "id": "p0101",
+      "text": "\"Long enough to know its value.\"",
+      "start": 609.753,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 611.633
+    },
+    {
+      "id": "p0102",
+      "text": "Veyr straightened. He looked tired now, with the light falling directly across his face. Beneath the preserved calm was a man who had spent years returning himself to the same narrow decision.",
+      "start": 611.633,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 624.013
+    },
+    {
+      "id": "p0103",
+      "text": "\"You have felt uncertainty,\" he said. \"You have allowed it to cost lives. So have I. There comes a point when continuing to indulge it is simply negligence.\"",
+      "start": 624.013,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 633.942
+    },
+    {
+      "id": "p0104",
+      "text": "Luke remembered the man he had carried from the Death Star. There had been uncertainty in every step of that rescue. He would have accepted all of it again.",
+      "start": 633.942,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 643.433
+    },
+    {
+      "id": "p0105",
+      "text": "\"You knew what was happening to the children.\"",
+      "start": 643.433,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 645.753
+    },
+    {
+      "id": "p0106",
+      "text": "Veyr's eyes shifted toward the lower cabinets.",
+      "start": 645.753,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 649.822
+    },
+    {
+      "id": "p0107",
+      "text": "\"I preserved the observations.\"",
+      "start": 649.822,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 651.913
+    },
+    {
+      "id": "p0108",
+      "text": "\"You could have helped them.\"",
+      "start": 651.913,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 653.423
+    },
+    {
+      "id": "p0109",
+      "text": "\"I did help them.\"",
+      "start": 653.423,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 654.683
+    },
+    {
+      "id": "p0110",
+      "text": "The pale disk flashed.",
+      "start": 654.683,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 656.373
+    },
+    {
+      "id": "p0111",
+      "text": "Veyr's expression smoothed. He raised the weapon.",
+      "start": 656.373,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 660.923
+    },
+    {
+      "id": "p0112",
+      "text": "Luke crossed the remaining distance before he could fire. His blade cut the gun in two. His free hand caught Veyr's wrist, turning it away from the hot casing. The scientist struck at the console with his other hand.",
+      "start": 660.923,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 674.153
+    },
+    {
+      "id": "p0113",
+      "text": "Luke pulled him back. A sequence began scrolling beneath Veyr's palm.",
+      "start": 674.153,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 679.653
+    },
+    {
+      "id": "p0114",
+      "text": "From below, Leia's voice came through the comlink.",
+      "start": 679.653,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 683.673
+    },
+    {
+      "id": "p0115",
+      "text": "\"We've stopped the gas. The door is still locked.\"",
+      "start": 683.673,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 686.793
+    },
+    {
+      "id": "p0116",
+      "text": "Luke brought Veyr against the side of the plinth. The fine wire along his sleeve snapped. The disk beneath his collar went dark.",
+      "start": 686.793,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 695.913
+    },
+    {
+      "id": "p0117",
+      "text": "Veyr made a sound of real fear.",
+      "start": 695.913,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 698.893
+    },
+    {
+      "id": "p0118",
+      "text": "He struggled with sudden, awkward violence, trying to get his hand back to his neck. Luke held him until the struggle weakened, then guided him to the floor. He used the restraints from the guard's equipment, checking the tightness before securing them to a solid bracket.",
+      "start": 698.893,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 717.212
+    },
+    {
+      "id": "p0119",
+      "text": "\"You need medical help,\" Luke said.",
+      "start": 717.212,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 719.683
+    },
+    {
+      "id": "p0120",
+      "text": "\"Reconnect it.\"",
+      "start": 719.683,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 720.862
+    },
+    {
+      "id": "p0121",
+      "text": "\"No.\"",
+      "start": 720.862,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 721.622
+    },
+    {
+      "id": "p0122",
+      "text": "Veyr looked at the console. The sequence continued.",
+      "start": 721.622,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 726.36
+    },
+    {
+      "id": "p0123",
+      "text": "\"You cannot simply abandon people to the condition you found them in.\"",
+      "start": 726.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 729.59
+    },
+    {
+      "id": "p0124",
+      "text": "Luke crouched before him.",
+      "start": 729.59,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 731.65
+    },
+    {
+      "id": "p0125",
+      "text": "\"We aren't abandoning them.\"",
+      "start": 731.65,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 733.11
+    },
+    {
+      "id": "p0126",
+      "text": "For an instant he thought Veyr might answer. Instead, the scientist turned his face away. His thumb continued searching for the contact beneath his collar, though his hands could no longer reach it.",
+      "start": 733.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 745.65
+    },
+    {
+      "id": "p0127",
+      "text": "Luke stood and moved to the console.",
+      "start": 745.65,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 747.98
+    },
+    {
+      "id": "p0128",
+      "text": "The thin signing wafer was still in its reader. Beside it, the display showed a list of active sessions. Some were marked for renewal. Others had been put into a pending queue.",
+      "start": 747.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 760.58
+    },
+    {
+      "id": "p0129",
+      "text": "He could cut the power. The temptation was as immediate as the thought of striking Veyr had been. One clean stroke, and the lights would go out.",
+      "start": 760.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 770.74
+    },
+    {
+      "id": "p0130",
+      "text": "Below him were patients' files, locked doors, prepared instructions waiting in machinery beyond the room. He put his hand to the comlink.",
+      "start": 770.74,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 780.07
+    },
+    {
+      "id": "p0131",
+      "text": "\"Veyr is secured. I have the core and the wafer. Tell me what to do.\"",
+      "start": 780.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 784.73
+    },
+    {
+      "id": "p0132",
+      "text": "Artoo answered with a shrill burst of tones. Threepio spoke over him.",
+      "start": 784.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 790.25
+    },
+    {
+      "id": "p0133",
+      "text": "\"Master Luke, please do not remove either one yet. The system has begun renewing its last authorized cycle. We must clear the sessions while the read channel remains available.\"",
+      "start": 790.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 801.27
+    },
+    {
+      "id": "p0134",
+      "text": "Luke looked at the scrolling list. Veyr's last action had not been an appeal, a warning or an offer. He had done what he had always done when an experiment resisted him. He had scheduled it to run again.",
+      "start": 801.27,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 815.48
+    },
+    {
+      "id": "p0135",
+      "text": "The guard Luke had caught was sitting up. He looked toward the scientist on the floor, then toward his own empty hands.",
+      "start": 815.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 823.21
+    },
+    {
+      "id": "p0136",
+      "text": "\"Is it finished?\" he asked.",
+      "start": 823.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 825.69
+    },
+    {
+      "id": "p0137",
+      "text": "Luke returned his lightsaber to his belt.",
+      "start": 825.69,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 828.45
+    },
+    {
+      "id": "p0138",
+      "text": "\"Almost,\" he said. \"Stay with me.\"",
+      "start": 828.45,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 830.41
+    }
+  ]
+}

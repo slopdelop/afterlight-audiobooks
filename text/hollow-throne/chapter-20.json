@@ -1,0 +1,1181 @@
+{
+  "version": 1,
+  "chapterId": "hollow-throne-20",
+  "duration": 1116.018,
+  "alignment": "Canonical book paragraphs use fixed synthesis boundaries and cached local Whisper word timestamps; unmatched starts are interpolated.",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Chapter Twenty: The Emperor's Fear",
+      "start": 0.0,
+      "timing": "segment",
+      "kind": "title",
+      "end": 1.48
+    },
+    {
+      "id": "p0002",
+      "text": "Lando had found a use for the palace's old banquet kitchen.",
+      "start": 1.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 5.44
+    },
+    {
+      "id": "p0003",
+      "text": "Its refrigerated stores were empty, its serving lifts had been disconnected, and somebody had already removed the chandeliers from the adjoining dining room. It did, however, have a separate power supply and work surfaces large enough to lay a transport engine on. When Han returned to Coruscant the following night, he found three of those surfaces covered in machinery.",
+      "start": 5.44,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 27.67
+    },
+    {
+      "id": "p0004",
+      "text": "\"We're cooking now?\" he asked.",
+      "start": 27.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 30.0
+    },
+    {
+      "id": "p0005",
+      "text": "Lando looked up from a valve assembly. \"Only if you brought something better than the last emergency ration you served me.\"",
+      "start": 30.0,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 36.83
+    },
+    {
+      "id": "p0006",
+      "text": "Han set a sealed carrying case on the counter. \"Ancient droid. Lightly irradiated.\"",
+      "start": 36.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 42.39
+    },
+    {
+      "id": "p0007",
+      "text": "\"I'll ask Threepio about a wine.\"",
+      "start": 42.39,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 44.58
+    },
+    {
+      "id": "p0008",
+      "text": "Leia came through the pantry door carrying two cups. She put one into Han's hand before he could ask what was happening. The drink was hot and bitter, and he had never been happier to see it.",
+      "start": 44.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 57.0
+    },
+    {
+      "id": "p0009",
+      "text": "\"Lando and Venn landed four hours ago,\" she said. \"We've moved the analysis out of the palace network. Orl found us an independent line for municipal records. Everything else stays disconnected.\"",
+      "start": 57.0,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 68.36
+    },
+    {
+      "id": "p0010",
+      "text": "Han looked past her. Luke was coming in with Artoo, and Chewbacca had already found the counter holding the damaged retrieval controller. Across the room, Threepio stood in front of a padded clamp that held the old memory core.",
+      "start": 68.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 84.79
+    },
+    {
+      "id": "p0011",
+      "text": "\"Has anybody slept?\"",
+      "start": 84.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 86.18
+    },
+    {
+      "id": "p0012",
+      "text": "\"Some of us had a comfortable shuttle,\" Lando said.",
+      "start": 86.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 90.59
+    },
+    {
+      "id": "p0013",
+      "text": "Leia took Han's empty cup.",
+      "start": 90.59,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 92.84
+    },
+    {
+      "id": "p0014",
+      "text": "\"Eat something before you start.\"",
+      "start": 92.84,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 94.62
+    },
+    {
+      "id": "p0015",
+      "text": "He looked at the covered plate she had left beside the case. Actual food. A fork. For a brief, irrational moment, all the work awaiting them seemed manageable.",
+      "start": 94.62,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 107.51
+    },
+    {
+      "id": "p0016",
+      "text": "The droid in the memory block had no voice left.",
+      "start": 107.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 110.93
+    },
+    {
+      "id": "p0017",
+      "text": "Threepio could identify its old interface conventions, recover material checks, and read the little observations written between its formal records. It had recorded a cracked case hinge, a substituted seal, the temperature of a cabinet whose regulator repeatedly failed. Its last entry was a service shutdown acknowledgment, eleven years before Endor.",
+      "start": 110.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 132.27
+    },
+    {
+      "id": "p0018",
+      "text": "Luke stood beside him while the oldest records opened on a separate display.",
+      "start": 132.27,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 137.71
+    },
+    {
+      "id": "p0019",
+      "text": "\"Its master asked it to preserve the experimental observations in their original form,\" Threepio said. \"Subsequent owners were permitted to move or examine them. They were not permitted to replace the originals with amended conclusions.\"",
+      "start": 137.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 151.3
+    },
+    {
+      "id": "p0020",
+      "text": "Venn studied the custody sequence. \"That explains the separate compartment.\"",
+      "start": 151.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 157.31
+    },
+    {
+      "id": "p0021",
+      "text": "\"Quite so. The ceramic reference was carried as an archaeological object. Its associated observations went with the household machine rather than the research archive.\"",
+      "start": 157.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 168.15
+    },
+    {
+      "id": "p0022",
+      "text": "Han swallowed his last mouthful. \"So the Emperor missed a copy.\"",
+      "start": 168.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 172.71
+    },
+    {
+      "id": "p0023",
+      "text": "\"He inherited a servant following an inconvenient instruction,\" Threepio replied. \"It continued reporting that the material was present. Apparently very few people asked what the material was.\"",
+      "start": 172.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 184.2
+    },
+    {
+      "id": "p0024",
+      "text": "Luke watched the old entries pass. He could not sense a person in the core. The droid had preserved a record of its work, with the persistence Artoo devoted to far more recent obligations. There was something sad about its final acknowledgment, so brief after decades of observation.",
+      "start": 184.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 203.28
+    },
+    {
+      "id": "p0025",
+      "text": "The ceramic spindle lay in its sheath beside the clamp. Venn had tested it without connecting it to a transmitter. Its worn contours fitted the old reference diagrams from Dagobah.",
+      "start": 203.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 216.96
+    },
+    {
+      "id": "p0026",
+      "text": "\"A focus?\" Luke asked.",
+      "start": 216.96,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 218.65
+    },
+    {
+      "id": "p0027",
+      "text": "Venn nodded. \"A passive one. The early apparatus measured its position against the field around the chamber. Later equipment used those measurements as a calibration reference. They don't need this exact object every time they run a session.\"",
+      "start": 218.65,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 233.46
+    },
+    {
+      "id": "p0028",
+      "text": "\"And it doesn't contain a voice,\" Luke said.",
+      "start": 233.46,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 236.29
+    },
+    {
+      "id": "p0029",
+      "text": "\"No conventional recording.\"",
+      "start": 236.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 238.22
+    },
+    {
+      "id": "p0030",
+      "text": "Threepio opened a surviving observation from the original experiment. The record described the widower, the voice he had expected to hear, and the words that had surprised him. Its margins held corrections from later trials: different subjects, different familiar voices, the same occasional reference to a garden.",
+      "start": 238.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 258.343
+    },
+    {
+      "id": "p0031",
+      "text": "Leia came to stand beside Luke. He could feel her attention settle on the display.",
+      "start": 258.343,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 263.853
+    },
+    {
+      "id": "p0032",
+      "text": "\"He said he'd never had a garden with his wife,\" she said.",
+      "start": 263.853,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 266.983
+    },
+    {
+      "id": "p0033",
+      "text": "\"Yoda had heard the words before Plagueis,\" Luke replied. \"Whatever first left that impression in the cave, the researchers didn't create it.\"",
+      "start": 266.983,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 274.333
+    },
+    {
+      "id": "p0034",
+      "text": "\"But they found a way to carry something of it away.\"",
+      "start": 274.333,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 276.833
+    },
+    {
+      "id": "p0035",
+      "text": "\"Enough to provoke a response.\"",
+      "start": 276.833,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 278.603
+    },
+    {
+      "id": "p0036",
+      "text": "He looked at the little spindle. Every person who had heard the recording had brought someone of their own to it. The machine's cruelty lay in how readily it could make that private act serve somebody else.",
+      "start": 278.603,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 289.863
+    },
+    {
+      "id": "p0037",
+      "text": "Leia reached past him and closed the observation.",
+      "start": 289.863,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 293.503
+    },
+    {
+      "id": "p0038",
+      "text": "\"We have the response,\" she said. \"We need the man attaching orders to it.\"",
+      "start": 293.503,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 298.153
+    },
+    {
+      "id": "p0039",
+      "text": "Venn had put the captured command key inside a transparent box.",
+      "start": 298.153,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 303.286
+    },
+    {
+      "id": "p0040",
+      "text": "Han approved of that. He approved even more when he saw that Chewbacca had removed its small transmitter, set it beside the box, and crushed the antenna coupling between two pliers.",
+      "start": 303.286,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 314.218
+    },
+    {
+      "id": "p0041",
+      "text": "\"That thing thanked you for finding the Meridian,\" he said to Venn.",
+      "start": 314.218,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 318.048
+    },
+    {
+      "id": "p0042",
+      "text": "\"It did.\"",
+      "start": 318.048,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 319.058
+    },
+    {
+      "id": "p0043",
+      "text": "She connected a reader to one exposed contact. On a spare terminal, the familiar message appeared. Beneath it, a counter advanced through several stored responses.",
+      "start": 319.058,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 330.363
+    },
+    {
+      "id": "p0044",
+      "text": "Venn stopped it.",
+      "start": 330.363,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 331.768
+    },
+    {
+      "id": "p0045",
+      "text": "\"A local program. It watched which directory we opened and chose a message from a set. No signal crossed the air gap.\"",
+      "start": 331.768,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 339.898
+    },
+    {
+      "id": "p0046",
+      "text": "\"It bluffed,\" Lando said.",
+      "start": 339.898,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 342.538
+    },
+    {
+      "id": "p0047",
+      "text": "\"Very convincingly.\"",
+      "start": 342.538,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 344.208
+    },
+    {
+      "id": "p0048",
+      "text": "Han leaned toward the box. The key had looked small and unimpressive when he first stole it. He was beginning to dislike how many kinds of harm people could arrange inside a small, unimpressive object.",
+      "start": 344.208,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 357.808
+    },
+    {
+      "id": "p0049",
+      "text": "\"Can we turn off the rest of its authority?\"",
+      "start": 357.808,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 360.058
+    },
+    {
+      "id": "p0050",
+      "text": "Threepio moved closer. \"We can withdraw its delegated permissions. Whether that safely ends existing sessions is a separate question.\"",
+      "start": 360.058,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 369.78
+    },
+    {
+      "id": "p0051",
+      "text": "Venn indicated the valve assembly on Lando's counter.",
+      "start": 369.78,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 374.128
+    },
+    {
+      "id": "p0052",
+      "text": "\"That's why we brought a test load. No people connected.\"",
+      "start": 374.128,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 377.668
+    },
+    {
+      "id": "p0053",
+      "text": "The assembly came from a Bespin laboratory support cabinet. Lando had fitted it to a small pump and an empty pressure flask. It represented the sort of machinery the program used to stabilize a patient's environment during treatment. A light on its control plate showed a harmless authorized maintenance cycle.",
+      "start": 377.668,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 397.448
+    },
+    {
+      "id": "p0054",
+      "text": "Threepio read the proposed withdrawal to Artoo. The astromech applied it.",
+      "start": 397.448,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 403.288
+    },
+    {
+      "id": "p0055",
+      "text": "The pump stopped. A metal shutter snapped across the valve inlet. The green light turned red.",
+      "start": 403.288,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 410.248
+    },
+    {
+      "id": "p0056",
+      "text": "Lando put his hand on the flask.",
+      "start": 410.248,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 412.178
+    },
+    {
+      "id": "p0057",
+      "text": "\"That would leave a patient isolated. Ventilation's shut, access locked, waiting for an approved attendant.\"",
+      "start": 412.178,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 418.768
+    },
+    {
+      "id": "p0058",
+      "text": "Han looked at the closed inlet.",
+      "start": 418.768,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 422.248
+    },
+    {
+      "id": "p0059",
+      "text": "Forty-three people, wherever they were. He had been about to suggest that they shut down every command carrying Sim Aloo's seal.",
+      "start": 422.248,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 431.688
+    },
+    {
+      "id": "p0060",
+      "text": "\"We don't send that to the ship.\"",
+      "start": 431.688,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 433.558
+    },
+    {
+      "id": "p0061",
+      "text": "\"Agreed,\" Leia said.",
+      "start": 433.558,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 436.228
+    },
+    {
+      "id": "p0062",
+      "text": "Threepio consulted the withdrawal text again. \"The system treats an uncertain authority as a reason to hold the current patient condition. It was designed to prevent a transfer being interrupted. Unfortunately, it makes the treatment controller exceptionally difficult to dismiss.\"",
+      "start": 436.228,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 452.888
+    },
+    {
+      "id": "p0063",
+      "text": "Lando reset the valve by hand. \"Then we separate treatment from command first.\"",
+      "start": 452.888,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 459.178
+    },
+    {
+      "id": "p0064",
+      "text": "\"If we can identify which connections are which,\" Venn said.",
+      "start": 459.178,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 463.448
+    },
+    {
+      "id": "p0065",
+      "text": "Chewbacca tapped the physical valve with a thick finger, then pointed to its independent safety release. His growl was patient and emphatic.",
+      "start": 463.448,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 472.428
+    },
+    {
+      "id": "p0066",
+      "text": "Han nodded. \"Chewie says we don't have to trust their definition of safety. We can build our own air supply.\"",
+      "start": 472.428,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 479.078
+    },
+    {
+      "id": "p0067",
+      "text": "Leia looked from the little flask to the command key in its box.",
+      "start": 479.078,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 483.468
+    },
+    {
+      "id": "p0068",
+      "text": "\"Show us what that takes.\"",
+      "start": 483.468,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 485.288
+    },
+    {
+      "id": "p0069",
+      "text": "Orl's call arrived while they were taking the test assembly apart.",
+      "start": 485.288,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 490.048
+    },
+    {
+      "id": "p0070",
+      "text": "He had gone to a municipal medical dispatch exchange in a tower below the palace. A set of orders marked as clinical continuity was occupying its emergency channels. Ambulances were waiting for routing confirmations that would not come. The attendants had tried to cancel the orders; each cancellation returned the vehicles to their original queues.",
+      "start": 490.048,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 511.028
+    },
+    {
+      "id": "p0071",
+      "text": "\"Nobody has been hurt yet,\" Orl said. \"We are getting close to the point where that changes.\"",
+      "start": 511.028,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 516.968
+    },
+    {
+      "id": "p0072",
+      "text": "Leia was already pulling on her coat.",
+      "start": 516.968,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 519.528
+    },
+    {
+      "id": "p0073",
+      "text": "\"We'll meet you there.\"",
+      "start": 519.528,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 520.678
+    },
+    {
+      "id": "p0074",
+      "text": "The exchange smelled of overheated dust and stale tea. Through a broad window beyond the control gallery, small rescue craft waited in a circular holding bay. Their running lights reflected off the floor. A stretcher team stood beside one with a patient under a silver warming sheet.",
+      "start": 520.678,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 538.978
+    },
+    {
+      "id": "p0075",
+      "text": "Han moved toward the gallery rail. One of the craft had been assigned a route through a sealed Imperial checkpoint. Its driver had refused the direction. The exchange would not release it to take another.",
+      "start": 538.978,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 552.418
+    },
+    {
+      "id": "p0076",
+      "text": "\"Can they fly manually?\" he asked.",
+      "start": 552.418,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 554.588
+    },
+    {
+      "id": "p0077",
+      "text": "Orl pointed to the bay doors. \"Certainly. Once the dispatch locks let them go.\"",
+      "start": 554.588,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 560.518
+    },
+    {
+      "id": "p0078",
+      "text": "Lando went to the control cabinet while Leia spoke with the waiting driver. She did not ask for the patient's name. She asked how long they had before the transfer became dangerous.",
+      "start": 560.518,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 573.898
+    },
+    {
+      "id": "p0079",
+      "text": "\"We have to open this bay,\" she told Lando.",
+      "start": 573.898,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 576.758
+    },
+    {
+      "id": "p0080",
+      "text": "\"We will.\"",
+      "start": 576.758,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 577.858
+    },
+    {
+      "id": "p0081",
+      "text": "He examined the cabinet's diagram. Three separate generations of equipment had been installed over one another. The old Imperial scheduler sat behind the current municipal display, its cables disappearing into a heavier distribution trunk.",
+      "start": 577.858,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 593.568
+    },
+    {
+      "id": "p0082",
+      "text": "Han recognized the small symbol beside one connection. It matched the maintenance address recovered from the Endor notary.",
+      "start": 593.568,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 601.928
+    },
+    {
+      "id": "p0083",
+      "text": "\"There,\" he said. \"Our clinic trust.\"",
+      "start": 601.928,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 605.008
+    },
+    {
+      "id": "p0084",
+      "text": "Venn made the comparison on her own reader.",
+      "start": 605.008,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 608.985
+    },
+    {
+      "id": "p0085",
+      "text": "The trust had leased a permanent priority port in the exchange. With Sim's delegated signature, it could reserve treatment transfers, hold vehicles, and ask for power to remain available at specific berths. The authority had survived the fall of the Empire because nobody wanted to be the administrator who switched off an unknown patient's care.",
+      "start": 608.985,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 629.005
+    },
+    {
+      "id": "p0086",
+      "text": "Lando ran his hand down the cabinet.",
+      "start": 629.005,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 631.735
+    },
+    {
+      "id": "p0087",
+      "text": "\"The new dispatch board is still letting this thing approve every movement.\"",
+      "start": 631.735,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 635.775
+    },
+    {
+      "id": "p0088",
+      "text": "\"Can you bypass it?\" Leia asked.",
+      "start": 635.775,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 638.325
+    },
+    {
+      "id": "p0089",
+      "text": "\"We can put the bay on local control. The lifts and landing field stay powered. We lose automatic spacing until the municipal controller takes over.\"",
+      "start": 638.325,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 649.205
+    },
+    {
+      "id": "p0090",
+      "text": "Han looked through the window. Six craft, two ready to launch, one needing its ramp retracted. A small set of problems he understood.",
+      "start": 649.205,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 660.635
+    },
+    {
+      "id": "p0091",
+      "text": "\"I'll space them.\"",
+      "start": 660.635,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 662.035
+    },
+    {
+      "id": "p0092",
+      "text": "He went into the bay with Chewbacca.",
+      "start": 662.035,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 664.855
+    },
+    {
+      "id": "p0093",
+      "text": "For the next several minutes Leia moved between the waiting crews while Han stood beneath the gallery window, directing craft into a departure order. Chewbacca freed a ramp that had stopped halfway up and held its manual catch while the driver brought it home. Lando spoke with Orl over an open line, counting circuits as Venn isolated the old controller.",
+      "start": 664.855,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 688.49
+    },
+    {
+      "id": "p0094",
+      "text": "Artoo remained attached to a record port. Luke watched the connections beside him, ready to pull him clear if another of the program's traps tried to keep him there.",
+      "start": 688.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 699.22
+    },
+    {
+      "id": "p0095",
+      "text": "\"This port only reads,\" Venn told him.",
+      "start": 699.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 702.4
+    },
+    {
+      "id": "p0096",
+      "text": "\"I've heard that before,\" Luke said.",
+      "start": 702.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 705.72
+    },
+    {
+      "id": "p0097",
+      "text": "Artoo beeped in firm agreement.",
+      "start": 705.72,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 708.32
+    },
+    {
+      "id": "p0098",
+      "text": "Threepio found the old lock's release form. He read its distinctions slowly, checking each scope against the diagram: release the movement reservation; retain the patient's treatment record; preserve emergency power. The clauses used different terms in an older administrative dialect, and an automatic translation had rendered all three as terminate.",
+      "start": 708.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 730.94
+    },
+    {
+      "id": "p0099",
+      "text": "\"A rather unfortunate simplification,\" he observed.",
+      "start": 730.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 734.58
+    },
+    {
+      "id": "p0100",
+      "text": "\"Ready,\" Lando said.",
+      "start": 734.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 737.29
+    },
+    {
+      "id": "p0101",
+      "text": "Han raised his hand below the window.",
+      "start": 737.29,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 739.757
+    },
+    {
+      "id": "p0102",
+      "text": "Orl threw the bay's local control switch.",
+      "start": 739.757,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 743.7
+    },
+    {
+      "id": "p0103",
+      "text": "For a moment nothing changed. Then the red bars beneath the two waiting craft went dark. The first driver eased forward. Han guided her toward the open circle of Coruscant's night, then brought the next craft off its pad.",
+      "start": 743.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 759.18
+    },
+    {
+      "id": "p0104",
+      "text": "By the time the last emergency transfer left, the old scheduler was lying on the gallery floor with its priority cable disconnected.",
+      "start": 759.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 767.67
+    },
+    {
+      "id": "p0105",
+      "text": "Leia watched its little status light blink against the tiles. It had occupied the lives of an entire dispatch shift while doing exactly what its orders required.",
+      "start": 767.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 778.94
+    },
+    {
+      "id": "p0106",
+      "text": "Artoo's recovered records put the Meridian in a near-orbital industrial transfer berth.",
+      "start": 778.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 784.86
+    },
+    {
+      "id": "p0107",
+      "text": "It was registered as a mobile clinical support vessel, entitled to power, waste handling, and priority medical transfers from the very exchange they had just released. The public berth schedule showed no passengers. Its supply reservations showed food and treatment support for more people than its listed crew.",
+      "start": 784.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 803.48
+    },
+    {
+      "id": "p0108",
+      "text": "Venn laid those figures beside the old transfer manifest. Forty-three Alderaanians, recently moved. The current support address matched the notary ledger and the Damask trust.",
+      "start": 803.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 816.6
+    },
+    {
+      "id": "p0109",
+      "text": "\"Three independent records,\" Leia said.",
+      "start": 816.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 820.24
+    },
+    {
+      "id": "p0110",
+      "text": "Han looked toward the night beyond the bay. \"And a place we can reach.\"",
+      "start": 820.24,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 824.73
+    },
+    {
+      "id": "p0111",
+      "text": "Luke crouched beside Artoo. The droid had opened a second comparison while reading the exchange logs.",
+      "start": 824.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 832.25
+    },
+    {
+      "id": "p0112",
+      "text": "\"There's something we got wrong on Bespin,\" Luke said.",
+      "start": 832.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 835.74
+    },
+    {
+      "id": "p0113",
+      "text": "He turned the display toward Leia. Two timestamps sat beside the retrieval packet from Dagobah. One recorded its creation, twenty-three minutes before Darren's fall. The other belonged to the separate transmitter that had replayed it after the flooded station lost power.",
+      "start": 835.74,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 853.56
+    },
+    {
+      "id": "p0114",
+      "text": "\"The relay preserved the old packet date,\" Luke said. \"We treated the new acknowledgment as part of the original event. The instruction was already waiting before I went into the installation. My visit triggered a retransmission.\"",
+      "start": 853.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 866.49
+    },
+    {
+      "id": "p0115",
+      "text": "Venn read the sender fields. \"The independent channel kept the routine alive. Someone has been checking its replies.\"",
+      "start": 866.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 875.275
+    },
+    {
+      "id": "p0116",
+      "text": "\"Veyr?\" Leia asked.",
+      "start": 875.275,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 878.073
+    },
+    {
+      "id": "p0117",
+      "text": "\"His maintenance authority,\" Venn said. \"It doesn't make the old source conscious. It gives him a way to keep using it.\"",
+      "start": 878.073,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 886.073
+    },
+    {
+      "id": "p0118",
+      "text": "Luke let the comparison close. He had wondered whether something had prepared the cave for him. The possibility had troubled his memories of it. Some of what he had experienced was machinery exploiting a place it did not understand; some was what he himself had carried in. He did not need to make either part into an all-knowing enemy.",
+      "start": 886.073,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 907.253
+    },
+    {
+      "id": "p0119",
+      "text": "On a clean sheet from Orl's folder, Leia drew five circles.",
+      "start": 907.253,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 912.373
+    },
+    {
+      "id": "p0120",
+      "text": "They filled them with what they had actually found. Mos Eisley had supplied voices, traffic, and routing histories. Bespin had enrolled subjects and measured what could survive physical suspension. Dagobah had supplied the calibration the other instruments copied. Endor held the notary and the old authority chain. The palace connected sessions to people and renewed them.",
+      "start": 912.373,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 935.783
+    },
+    {
+      "id": "p0121",
+      "text": "Han set the captured key beside the paper.",
+      "start": 935.783,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 938.673
+    },
+    {
+      "id": "p0122",
+      "text": "\"And this is how a dead man's office keeps answering the phone.\"",
+      "start": 938.673,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 941.823
+    },
+    {
+      "id": "p0123",
+      "text": "Threepio indicated the last circle. \"Within a delegated scope. The missing reference is what permits that scope to be applied reliably to particular subjects again.\"",
+      "start": 941.823,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 952.653
+    },
+    {
+      "id": "p0124",
+      "text": "Leia thought of the prism in Darren's hands. \"The Primary Witness.\"",
+      "start": 952.653,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 957.153
+    },
+    {
+      "id": "p0125",
+      "text": "Venn nodded. \"The early core records describe two parts of a single reference. Observations of the people, and an index of the authority attached to them. Copies of voices can repeat old instructions without it. Stable new bindings require the root.\"",
+      "start": 957.153,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 973.638
+    },
+    {
+      "id": "p0126",
+      "text": "\"So Veyr can keep doing harm while it's missing,\" Han said.",
+      "start": 973.638,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 977.648
+    },
+    {
+      "id": "p0127",
+      "text": "\"Yes.\"",
+      "start": 977.648,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 978.528
+    },
+    {
+      "id": "p0128",
+      "text": "\"But he needs it back.\"",
+      "start": 978.528,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 979.978
+    },
+    {
+      "id": "p0129",
+      "text": "\"Very much.\"",
+      "start": 979.978,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 981.168
+    },
+    {
+      "id": "p0130",
+      "text": "Luke looked at the closed valve assembly they had brought from Bespin. They could find a ship, board it, and physically remove the people inside. Getting those people safely away from the machinery built into their treatment would require more care.",
+      "start": 981.168,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 996.828
+    },
+    {
+      "id": "p0131",
+      "text": "\"We need someone who knows what those sessions feel like,\" he said. \"Someone who can tell us when our safe test isn't safe.\"",
+      "start": 996.828,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1002.818
+    },
+    {
+      "id": "p0132",
+      "text": "Orl closed his folder.",
+      "start": 1002.818,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1004.968
+    },
+    {
+      "id": "p0133",
+      "text": "\"I believe we may have been invited to meet him.\"",
+      "start": 1004.968,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1008.328
+    },
+    {
+      "id": "p0134",
+      "text": "The invitation had come through a woman who distributed clean bedding to unregistered clinics.",
+      "start": 1008.328,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 1014.718
+    },
+    {
+      "id": "p0135",
+      "text": "Orl had asked her about a cancelled supply order. She had refused to discuss it. He had given her his office number, then crossed it out and written the address of a public repair stall whose owner he trusted. That evening, a return note had been left at the stall. It specified an hour, an old pump concourse, and no uniforms.",
+      "start": 1014.718,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1037.168
+    },
+    {
+      "id": "p0136",
+      "text": "Leia read the note twice, then put it away.",
+      "start": 1037.168,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 1041.538
+    },
+    {
+      "id": "p0137",
+      "text": "\"You told her we knew he was alive?\"",
+      "start": 1041.538,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1043.788
+    },
+    {
+      "id": "p0138",
+      "text": "\"I told her we were looking for someone who might be injured. I said the people asking would not insist upon bringing palace security.\"",
+      "start": 1043.788,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1051.208
+    },
+    {
+      "id": "p0139",
+      "text": "Han glanced at the open bay. \"That's a generous promise.\"",
+      "start": 1051.208,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1055.118
+    },
+    {
+      "id": "p0140",
+      "text": "\"It wasn't a promise,\" Orl said. \"It was a test.\"",
+      "start": 1055.118,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1058.598
+    },
+    {
+      "id": "p0141",
+      "text": "Leia looked toward the lift that would take them down into the older city.",
+      "start": 1058.598,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1064.078
+    },
+    {
+      "id": "p0142",
+      "text": "She had spent years asking people to trust what the Rebellion might become. Below them were people who had survived by trusting almost nobody. An escort, a tracking transmitter, a reassuring official seal: each could be a sensible precaution from her side of the meeting and a threat from theirs.",
+      "start": 1064.078,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1082.228
+    },
+    {
+      "id": "p0143",
+      "text": "\"We'll take your shuttle,\" she said. \"Han comes with us. Everyone else keeps working on how to separate those care connections.\"",
+      "start": 1082.228,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1089.238
+    },
+    {
+      "id": "p0144",
+      "text": "Luke nodded. Lando began packing the test assembly before she finished speaking.",
+      "start": 1089.238,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1095.158
+    },
+    {
+      "id": "p0145",
+      "text": "Han picked up his jacket from the gallery rail and fell into step beside her. As they entered the lift, one of the rescue craft they had released swept past the window, rising toward a hospital somewhere above the clouds.",
+      "start": 1095.158,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1109.768
+    },
+    {
+      "id": "p0146",
+      "text": "For the first time that night, Leia allowed herself to watch it all the way out of sight.",
+      "start": 1109.768,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1116.018
+    }
+  ]
+}

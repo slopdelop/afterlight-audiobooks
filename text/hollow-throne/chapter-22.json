@@ -1,0 +1,1130 @@
+{
+  "version": 1,
+  "chapterId": "hollow-throne-22",
+  "duration": 1041.97,
+  "alignment": "Canonical book paragraphs use fixed synthesis boundaries and cached local Whisper word timestamps; unmatched starts are interpolated.",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Chapter Twenty-Two: The Emperor's Final Night",
+      "start": 0.0,
+      "timing": "segment",
+      "kind": "title",
+      "end": 1.64
+    },
+    {
+      "id": "p0002",
+      "text": "The second Death Star. Hours before the Battle of Endor.",
+      "start": 1.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 7.04
+    },
+    {
+      "id": "p0003",
+      "text": "The last courier shuttle was already gone when the Emperor ordered the hangars sealed.",
+      "start": 7.04,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 12.36
+    },
+    {
+      "id": "p0004",
+      "text": "Sim Aloo watched its departure code vanish from the traffic display. For an instant he could still see the little vessel through the observation window, turning across the immense unfinished curve of the station. Then it passed behind a construction spar. The green point beside its name became a grey one.",
+      "start": 12.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 30.96
+    },
+    {
+      "id": "p0005",
+      "text": "He moved his hand away from the display before the Emperor noticed where he had been looking. The shuttle carried a few personal reserves and the sealed accounts that might one day buy their owner a passage. The authorization wafer had taken a different route from Coruscant before the Emperor's departure. Sim had been careful never to put every means of escape aboard the same ship.",
+      "start": 30.96,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 52.91
+    },
+    {
+      "id": "p0006",
+      "text": "\"A busy morning, Sim?\"",
+      "start": 52.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 54.57
+    },
+    {
+      "id": "p0007",
+      "text": "Palpatine had not turned from the window. The forest moon hung below them, bright enough to cast a pale reflection on the polished floor. In the adjoining room, workers were removing the last of the instruments used to prepare his private audience chamber. They carried each piece with the exaggerated care of men who wished to become invisible.",
+      "start": 54.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 76.19
+    },
+    {
+      "id": "p0008",
+      "text": "\"Routine supplies, Majesty. The construction office has requested authority for three further departures.\"",
+      "start": 76.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 83.28
+    },
+    {
+      "id": "p0009",
+      "text": "\"Denied.\"",
+      "start": 83.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 84.66
+    },
+    {
+      "id": "p0010",
+      "text": "Sim lowered his eyes to the list. One of those ships was his. Its destination was a storage vessel beyond the edge of the fleet, where he had placed spare clothing, credit reserves and a small collection of objects that belonged, incontrovertibly, to him.",
+      "start": 84.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 102.11
+    },
+    {
+      "id": "p0011",
+      "text": "\"The departures were approved yesterday.\"",
+      "start": 102.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 105.06
+    },
+    {
+      "id": "p0012",
+      "text": "\"Yesterday I had not refused them.\"",
+      "start": 105.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 107.3
+    },
+    {
+      "id": "p0013",
+      "text": "\"Of course.\"",
+      "start": 107.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 108.42
+    },
+    {
+      "id": "p0014",
+      "text": "\"Clear the service bays. Military traffic only. No private vessels, no advisers' errands, no urgent discoveries that somebody has forgotten an indispensable possession on Coruscant.\"",
+      "start": 108.42,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 119.94
+    },
+    {
+      "id": "p0015",
+      "text": "Sim entered the instruction. A red border appeared around the departure schedule. The ships remaining in the bays were now little more than numbered rooms.",
+      "start": 119.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 130.07
+    },
+    {
+      "id": "p0016",
+      "text": "Palpatine turned. His gaze rested on the traffic display, and Sim felt the unpleasant certainty that the courier's grey point was still visible beneath the new instructions.",
+      "start": 130.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 141.43
+    },
+    {
+      "id": "p0017",
+      "text": "\"You have already sent your personal effects ahead, I trust.\"",
+      "start": 141.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 145.33
+    },
+    {
+      "id": "p0018",
+      "text": "\"Nothing of consequence, Majesty.\"",
+      "start": 145.33,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 148.06
+    },
+    {
+      "id": "p0019",
+      "text": "The Emperor studied him for a moment. Then he held out his hand.",
+      "start": 148.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 153.24
+    },
+    {
+      "id": "p0020",
+      "text": "Sim gave him the authorization slate.",
+      "start": 153.24,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 156.06
+    },
+    {
+      "id": "p0021",
+      "text": "They crossed into the unfinished operations room behind the audience chamber. Here the station still showed its bones. Bundles of temporary cable ran along the floor inside yellow guards. A technician knelt beside an open panel, testing the circuit that would connect the Emperor's chair to his private communications network. When Palpatine entered, the man tried to stand too quickly and struck his shoulder against the panel's edge.",
+      "start": 156.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 183.27
+    },
+    {
+      "id": "p0022",
+      "text": "\"Continue,\" Palpatine said.",
+      "start": 183.27,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 187.05
+    },
+    {
+      "id": "p0023",
+      "text": "The technician returned to his work with both hands trembling.",
+      "start": 187.05,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 190.77
+    },
+    {
+      "id": "p0024",
+      "text": "A holographic image of Custodian Veyr waited above a small console. Signal interference made the edges of his sleeves shiver, although the man himself stood very still. On Coruscant it would be night. He had apparently dressed for the summons before it arrived.",
+      "start": 190.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 208.08
+    },
+    {
+      "id": "p0025",
+      "text": "\"We will conclude this matter now,\" Palpatine told him.",
+      "start": 208.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 211.45
+    },
+    {
+      "id": "p0026",
+      "text": "Veyr inclined his head. \"The cessation instructions are prepared.\"",
+      "start": 211.45,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 215.64
+    },
+    {
+      "id": "p0027",
+      "text": "\"Prepared is a word you have employed for several days. I would prefer a different one.\"",
+      "start": 215.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 220.58
+    },
+    {
+      "id": "p0028",
+      "text": "Sim laid the slate on the console. Five administrative branches unfolded across its surface. Beneath each were acknowledgments from research officers, transport supervisors and medical custodians. Most carried the same small green mark.",
+      "start": 220.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 237.22
+    },
+    {
+      "id": "p0029",
+      "text": "Palpatine touched one.",
+      "start": 237.22,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 238.98
+    },
+    {
+      "id": "p0030",
+      "text": "\"What does this signify?\"",
+      "start": 238.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 240.91
+    },
+    {
+      "id": "p0031",
+      "text": "\"Enrollment suspended,\" Veyr said. \"No new subject may be entered. No new authority binding may be established.\"",
+      "start": 240.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 248.16
+    },
+    {
+      "id": "p0032",
+      "text": "\"And this?\"",
+      "start": 248.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 249.18
+    },
+    {
+      "id": "p0033",
+      "text": "\"Active trials concluded.\"",
+      "start": 249.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 251.05
+    },
+    {
+      "id": "p0034",
+      "text": "The Emperor selected a third mark. A narrow line opened beneath it: CONTINUITY EXEMPTION.",
+      "start": 251.05,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 258.45
+    },
+    {
+      "id": "p0035",
+      "text": "Veyr answered before he was asked. \"Patients requiring medical observation remain in care. Sudden withdrawal of their support systems would invalidate the cessation procedure.\"",
+      "start": 258.45,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 268.96
+    },
+    {
+      "id": "p0036",
+      "text": "Palpatine looked up. \"Would it?\"",
+      "start": 268.96,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 271.16
+    },
+    {
+      "id": "p0037",
+      "text": "There was no interest in the patients in that question. Sim could hear it clearly. The Emperor wanted to know which part of his instruction had acquired a meaning he had not given it.",
+      "start": 271.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 282.29
+    },
+    {
+      "id": "p0038",
+      "text": "\"Several facilities share their environmental controllers with the reference apparatus,\" Veyr said. \"We have separated the experimental permissions from the clinical services. The remaining exceptions preserve the latter.\"",
+      "start": 282.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 293.54
+    },
+    {
+      "id": "p0039",
+      "text": "That was almost true. Sim had inspected the arrangement himself. The permissions had different names, different administrative owners and different headings on the slate. In several crucial places they still depended upon the same maintenance sessions. Veyr had made an exemption large enough to shelter the work, then filled its entrance with patients whom no diligent clerk would dare to disconnect without further orders.",
+      "start": 293.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 320.01
+    },
+    {
+      "id": "p0040",
+      "text": "The Emperor returned the slate to the console.",
+      "start": 320.01,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 322.9
+    },
+    {
+      "id": "p0041",
+      "text": "\"How many living witnesses?\"",
+      "start": 322.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 325.05
+    },
+    {
+      "id": "p0042",
+      "text": "\"The complete accounting is attached.\"",
+      "start": 325.05,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 327.09
+    },
+    {
+      "id": "p0043",
+      "text": "\"I did not ask where it was attached.\"",
+      "start": 327.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 329.17
+    },
+    {
+      "id": "p0044",
+      "text": "Veyr gave the number. Sim watched the technician by the wall press a connector into place and withdraw his hand as though it might be burned. The man was trying not to listen. It made every word in the room seem louder.",
+      "start": 329.17,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 342.87
+    },
+    {
+      "id": "p0045",
+      "text": "Palpatine read the accounting without comment. Then he opened the final page.",
+      "start": 342.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 348.99
+    },
+    {
+      "id": "p0046",
+      "text": "It contained a command none of the green acknowledgments could execute. A physical notary unit aboard the station held the means to authenticate it, but the final confirmation belonged to the Emperor alone. Once issued and received by each local controller, it would end the active bindings, erase the writable authority index and make the recovered reference apparatus incapable of renewing a command session. The old observations could be retained under seal. Palpatine did not care who read a medical interview fifty years after everyone in it had ceased to matter.",
+      "start": 348.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 385.64
+    },
+    {
+      "id": "p0047",
+      "text": "He cared very much who could order a living person to move.",
+      "start": 385.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 389.56
+    },
+    {
+      "id": "p0048",
+      "text": "\"This confirmation should be placed in a timed queue,\" Veyr said. \"In the event that the battle interrupts communications, the work could still be completed.\"",
+      "start": 389.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 397.98
+    },
+    {
+      "id": "p0049",
+      "text": "Sim wished the scientist had kept silent.",
+      "start": 397.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 402.04
+    },
+    {
+      "id": "p0050",
+      "text": "Palpatine lifted his head slowly.",
+      "start": 402.04,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 404.37
+    },
+    {
+      "id": "p0051",
+      "text": "\"In the event that I am unable to give an order, you would like my machinery to decide that I have given it.\"",
+      "start": 404.37,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 409.86
+    },
+    {
+      "id": "p0052",
+      "text": "\"A restricted contingency, Majesty. It would do only what you have already instructed.\"",
+      "start": 409.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 415.34
+    },
+    {
+      "id": "p0053",
+      "text": "\"Then it would do nothing. I have instructed you to await my confirmation.\"",
+      "start": 415.34,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 420.32
+    },
+    {
+      "id": "p0054",
+      "text": "The image of Veyr flickered. Sim could not tell whether the pause belonged to the signal or the man.",
+      "start": 420.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 427.92
+    },
+    {
+      "id": "p0055",
+      "text": "\"Understood.\"",
+      "start": 427.92,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 428.9
+    },
+    {
+      "id": "p0056",
+      "text": "\"You will stop enrollment immediately. You will cease the trials immediately. You will place the distribution apparatus in restricted maintenance. Final destruction will follow my personal confirmation after the Rebel fleet has been dealt with.\"",
+      "start": 428.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 440.54
+    },
+    {
+      "id": "p0057",
+      "text": "He rested one finger on the sealed page.",
+      "start": 440.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 443.55
+    },
+    {
+      "id": "p0058",
+      "text": "\"No substitute. No presumption. No interpretation.\"",
+      "start": 443.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 448.25
+    },
+    {
+      "id": "p0059",
+      "text": "Veyr bowed. The movement carried his face through a broken line of blue light.",
+      "start": 448.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 453.8
+    },
+    {
+      "id": "p0060",
+      "text": "\"You have my acknowledgment.\"",
+      "start": 453.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 455.38
+    },
+    {
+      "id": "p0061",
+      "text": "\"I have several of your acknowledgments. Sim will verify what they mean.\"",
+      "start": 455.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 460.06
+    },
+    {
+      "id": "p0062",
+      "text": "The Emperor ended the connection himself.",
+      "start": 460.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 463.18
+    },
+    {
+      "id": "p0063",
+      "text": "For a few moments the room contained only the small noises of the technician finishing his work. A tool clicked against the floor. The man bent to retrieve it and remained crouched.",
+      "start": 463.18,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 475.26
+    },
+    {
+      "id": "p0064",
+      "text": "\"The notary packet,\" Palpatine said.",
+      "start": 475.26,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 478.44
+    },
+    {
+      "id": "p0065",
+      "text": "Sim opened a narrow cabinet. Inside, under a transparent cover, lay the small dark memory core that had once belonged to Damask's household droid. Beside it, the ceramic spindle rested in its fitted reference cartridge, a protective sheath lined with the original calibration markings. Both objects had travelled far to become things in a cabinet on a battle station.",
+      "start": 478.44,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 501.77
+    },
+    {
+      "id": "p0066",
+      "text": "The droid had been dismantled years earlier. Its last intact memories had been kept because the machine's chain of custody was inconveniently thorough. Transfers, corrections, cancelled instructions and preserved observations all remained, each with the date at which a living official had attempted to change its meaning. The Emperor had ordered the packet brought to Endor as part of the final destruction accounting. Veyr had called its inclusion unnecessary. Palpatine had insisted.",
+      "start": 501.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 531.93
+    },
+    {
+      "id": "p0067",
+      "text": "Sim had never touched it without feeling that somebody had left a witness in the room.",
+      "start": 531.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 537.05
+    },
+    {
+      "id": "p0068",
+      "text": "\"It is sealed, Majesty. Paired to the disposal warrant and ready for the final instruction.\"",
+      "start": 537.05,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 543.24
+    },
+    {
+      "id": "p0069",
+      "text": "\"Keep it so.\"",
+      "start": 543.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 544.58
+    },
+    {
+      "id": "p0070",
+      "text": "Palpatine closed the cover. He did not issue the instruction.",
+      "start": 544.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 548.98
+    },
+    {
+      "id": "p0071",
+      "text": "A chime sounded at the communications desk. The technician rose this time without striking anything.",
+      "start": 548.98,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 555.89
+    },
+    {
+      "id": "p0072",
+      "text": "\"My lord. The private circuit is ready. May I test the authority channel?\"",
+      "start": 555.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 560.66
+    },
+    {
+      "id": "p0073",
+      "text": "Palpatine gave a slight movement of assent.",
+      "start": 560.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 563.84
+    },
+    {
+      "id": "p0074",
+      "text": "The man touched the panel. A familiar voice emerged from the room's speakers, calm and perfectly audible.",
+      "start": 563.84,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 571.85
+    },
+    {
+      "id": "p0075",
+      "text": "\"You may proceed.\"",
+      "start": 571.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 573.2
+    },
+    {
+      "id": "p0076",
+      "text": "Sim stopped breathing.",
+      "start": 573.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 575.92
+    },
+    {
+      "id": "p0077",
+      "text": "It was the Emperor's voice. An old instruction, taken from the work authorization, reproduced exactly as it had been spoken earlier that morning. The technician's expression changed before the sound had finished.",
+      "start": 575.92,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 589.78
+    },
+    {
+      "id": "p0078",
+      "text": "Palpatine crossed the room. He did not hurry. The man moved backward until his shoulders touched the open panel.",
+      "start": 589.78,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 597.22
+    },
+    {
+      "id": "p0079",
+      "text": "\"Why,\" the Emperor asked, \"am I giving that instruction?\"",
+      "start": 597.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 601.16
+    },
+    {
+      "id": "p0080",
+      "text": "\"It is the circuit test, my lord. The stored approval confirms—\"",
+      "start": 601.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 605.69
+    },
+    {
+      "id": "p0081",
+      "text": "The final word failed. The technician's lips remained parted. One hand rose to his throat.",
+      "start": 605.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 613.41
+    },
+    {
+      "id": "p0082",
+      "text": "Palpatine watched him struggle for enough breath to understand the question.",
+      "start": 613.41,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 617.44
+    },
+    {
+      "id": "p0083",
+      "text": "\"I gave permission to install a circuit. Did I give permission to install it again?\"",
+      "start": 617.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 622.59
+    },
+    {
+      "id": "p0084",
+      "text": "The man's knees bent. He shook his head.",
+      "start": 622.59,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 626.27
+    },
+    {
+      "id": "p0085",
+      "text": "\"Did I give permission for anyone who presses that panel to proceed with whatever he chooses?\"",
+      "start": 626.27,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 631.58
+    },
+    {
+      "id": "p0086",
+      "text": "Another desperate movement of the head.",
+      "start": 631.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 634.78
+    },
+    {
+      "id": "p0087",
+      "text": "Palpatine released him. The technician fell against the wall and slid to the floor, coughing. Sim kept his eyes on the cable guards. There were no qualifications on them, no exemptions, nothing that required him to decide whether he had seen too much.",
+      "start": 634.78,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 650.59
+    },
+    {
+      "id": "p0088",
+      "text": "\"Remove the stored approval,\" the Emperor said. \"The circuit will acknowledge an instruction without repeating it.\"",
+      "start": 650.59,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 657.13
+    },
+    {
+      "id": "p0089",
+      "text": "The technician crawled toward the panel.",
+      "start": 657.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 660.45
+    },
+    {
+      "id": "p0090",
+      "text": "Palpatine turned to Sim. \"This is how it begins. An obedient man keeps a useful scrap of authority. Another obedient man finds a different use for it. Eventually I discover I have been issuing orders in rooms I have never entered.\"",
+      "start": 660.45,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 675.69
+    },
+    {
+      "id": "p0091",
+      "text": "Sim could feel the empty place beneath his sleeve where the diverted wafer should have been.",
+      "start": 675.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 681.63
+    },
+    {
+      "id": "p0092",
+      "text": "\"The final procedure will prevent that, Majesty.\"",
+      "start": 681.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 685.16
+    },
+    {
+      "id": "p0093",
+      "text": "\"The final procedure will occur when I direct it. Until then, nothing will be transferred or destroyed without my knowledge.\"",
+      "start": 685.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 692.12
+    },
+    {
+      "id": "p0094",
+      "text": "He left the operations room. At the doorway he paused.",
+      "start": 692.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 696.66
+    },
+    {
+      "id": "p0095",
+      "text": "\"And cancel the household departures personally, Sim. I would dislike discovering that my advisers had mistaken a temporary absence for permission to leave.\"",
+      "start": 696.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 705.65
+    },
+    {
+      "id": "p0096",
+      "text": "Janus Greejatus was waiting beside Sim's quarters, wearing travelling robes beneath his ceremonial collar. When Sim shook his head, the other man looked down the corridor toward the lifts.",
+      "start": 705.65,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 717.41
+    },
+    {
+      "id": "p0097",
+      "text": "\"All the bays?\"",
+      "start": 717.41,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 718.86
+    },
+    {
+      "id": "p0098",
+      "text": "\"Every one available to us.\"",
+      "start": 718.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 721.37
+    },
+    {
+      "id": "p0099",
+      "text": "\"There are construction tenders.\"",
+      "start": 721.37,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 723.52
+    },
+    {
+      "id": "p0100",
+      "text": "\"Military control has the manifests. The Emperor wants us near him.\"",
+      "start": 723.52,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 729.22
+    },
+    {
+      "id": "p0101",
+      "text": "Greejatus rubbed a thumb along the edge of his collar. It was an old habit, usually concealed behind a sleeve. Sim had never seen him do it in an open corridor.",
+      "start": 729.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 740.14
+    },
+    {
+      "id": "p0102",
+      "text": "\"Your dispatch?\"",
+      "start": 740.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 741.58
+    },
+    {
+      "id": "p0103",
+      "text": "\"Gone before the restriction.\"",
+      "start": 741.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 743.65
+    },
+    {
+      "id": "p0104",
+      "text": "\"Then recall it. Tell the pilot there has been an error and that we must inspect the consignment ourselves. He can request a landing on the outer gantry.\"",
+      "start": 743.65,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 752.82
+    },
+    {
+      "id": "p0105",
+      "text": "Sim looked at him.",
+      "start": 752.82,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 754.8
+    },
+    {
+      "id": "p0106",
+      "text": "For years the two of them had preserved their lives by giving each other incomplete accounts of ordinary matters. Now Greejatus had suggested surrendering their one surviving advantage in order to obtain a ship they would almost certainly not be allowed to board.",
+      "start": 754.8,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 771.13
+    },
+    {
+      "id": "p0107",
+      "text": "\"The consignee is already responsible for it,\" Sim said.",
+      "start": 771.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 775.64
+    },
+    {
+      "id": "p0108",
+      "text": "\"Veyr.\"",
+      "start": 775.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 776.59
+    },
+    {
+      "id": "p0109",
+      "text": "Sim did not answer. Behind Greejatus, two naval officers passed carrying a case of communication components. They were talking about the coming fleet engagement. One of them sounded pleased.",
+      "start": 776.59,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 790.34
+    },
+    {
+      "id": "p0110",
+      "text": "Greejatus waited until they had gone.",
+      "start": 790.34,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 793.08
+    },
+    {
+      "id": "p0111",
+      "text": "\"You believe he will honor his arrangements?\"",
+      "start": 793.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 795.78
+    },
+    {
+      "id": "p0112",
+      "text": "\"I believe he has something of ours he cannot explain possessing.\"",
+      "start": 795.78,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 799.48
+    },
+    {
+      "id": "p0113",
+      "text": "\"That is an excellent reason to kill us.\"",
+      "start": 799.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 802.62
+    },
+    {
+      "id": "p0114",
+      "text": "\"Only if we become inconvenient.\"",
+      "start": 802.62,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 805.42
+    },
+    {
+      "id": "p0115",
+      "text": "Greejatus looked toward the lift again. Sim opened his door and allowed him inside.",
+      "start": 805.42,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 811.95
+    },
+    {
+      "id": "p0116",
+      "text": "The quarters were smaller than his rooms aboard the shuttle. His travel case remained beneath the bed. He had left it unpacked, an absurd private assumption that the station was a place to pass through. He sat at the desk and opened a maintenance channel with a disposable identifier.",
+      "start": 811.95,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 829.04
+    },
+    {
+      "id": "p0117",
+      "text": "Veyr answered in text. No image, no voice.",
+      "start": 829.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 833.08
+    },
+    {
+      "id": "p0118",
+      "text": "The scientist reconfirmed delivery of the wafer under the earlier medical courier's manifest. The original had left Coruscant by a separate route, while Sim brought the blank and its impeccable return receipt to Endor. Its signing permissions had already allowed the session chain to be diverted. The maintenance acknowledgments now led to the Custodian's custody rather than to the Emperor's suspended research office.",
+      "start": 833.08,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 858.02
+    },
+    {
+      "id": "p0119",
+      "text": "Sim asked whether the clinical exceptions were still intact.",
+      "start": 858.02,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 861.22
+    },
+    {
+      "id": "p0120",
+      "text": "Veyr replied that the patients would remain stable.",
+      "start": 861.22,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 865.06
+    },
+    {
+      "id": "p0121",
+      "text": "It was an answer to a question Sim had not asked.",
+      "start": 865.06,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 868.89
+    },
+    {
+      "id": "p0122",
+      "text": "He typed that the Emperor had retained the destruction confirmation. The reply came after a longer interval. Until that confirmation was received, no destruction order existed for the remote controllers to obey. The local cessation receipts were complete. The maintenance sessions would continue to renew only what their existing permissions allowed.",
+      "start": 868.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 889.93
+    },
+    {
+      "id": "p0123",
+      "text": "Sim read the sentence twice. The arrangement had been designed as insurance: a useful asset to sell back to the Emperor after the battle, perhaps, or leverage against a new military administration if the victory proved less complete than promised. Veyr's language already treated it as an enduring institution.",
+      "start": 889.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 908.94
+    },
+    {
+      "id": "p0124",
+      "text": "Greejatus leaned over his shoulder. \"Ask about us.\"",
+      "start": 908.94,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 912.83
+    },
+    {
+      "id": "p0125",
+      "text": "Sim did. He wrote that the departure restrictions had changed their circumstances.",
+      "start": 912.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 918.79
+    },
+    {
+      "id": "p0126",
+      "text": "This reply was brief. No civilian vessel could pass the new blockade. No instruction held by the Custodian could override it. He recommended remaining close to the Emperor.",
+      "start": 918.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 931.11
+    },
+    {
+      "id": "p0127",
+      "text": "Greejatus straightened. \"How helpful.\"",
+      "start": 931.11,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 934.57
+    },
+    {
+      "id": "p0128",
+      "text": "Sim deleted the exchange. He could still recall the original wafer in his fingers, warm from the seal reader, and the small pleasure of placing its replacement under an official receipt. At the time it had felt like freedom.",
+      "start": 934.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 949.31
+    },
+    {
+      "id": "p0129",
+      "text": "He closed the desk and took his ceremonial gloves from the travel case.",
+      "start": 949.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 954.32
+    },
+    {
+      "id": "p0130",
+      "text": "The Emperor's private channel chimed while Sim was returning to the audience level. He entered the operations room to find Palpatine seated before the array of acknowledgments. Every branch displayed green. Beneath the suspended trials, medical continuity remained in force.",
+      "start": 954.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 972.8
+    },
+    {
+      "id": "p0131",
+      "text": "\"Completed?\" the Emperor asked.",
+      "start": 972.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 975.4
+    },
+    {
+      "id": "p0132",
+      "text": "\"The hangar instructions have been delivered personally, Majesty.\"",
+      "start": 975.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 979.69
+    },
+    {
+      "id": "p0133",
+      "text": "\"And the Custodian?\"",
+      "start": 979.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 981.24
+    },
+    {
+      "id": "p0134",
+      "text": "\"His receipts confirm local cessation. Final destruction awaits your confirmation.\"",
+      "start": 981.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 987.1
+    },
+    {
+      "id": "p0135",
+      "text": "Palpatine held out his hand. Sim placed the slate in it. If the Emperor selected the maintenance exemptions and followed them through every subordinate controller, the whole arrangement would be visible. There was no elegant lie left to insert between those records and the man reading them.",
+      "start": 987.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1005.14
+    },
+    {
+      "id": "p0136",
+      "text": "Outside, construction lights moved along the unfinished rim. The Rebel fleet had not yet appeared. Somewhere beyond that rim, a courier was taking the last small piece of Sim's independence farther away.",
+      "start": 1005.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1018.9
+    },
+    {
+      "id": "p0137",
+      "text": "Palpatine sealed the final page without opening it.",
+      "start": 1018.9,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1021.93
+    },
+    {
+      "id": "p0138",
+      "text": "\"After the victory,\" he said. \"We shall settle the remaining accounts together.\"",
+      "start": 1021.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1026.71
+    },
+    {
+      "id": "p0139",
+      "text": "He rose and passed into the audience chamber. Sim followed as far as the threshold. The new circuit acknowledged the Emperor's presence with a quiet tone. This time it used no voice.",
+      "start": 1026.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1039.69
+    },
+    {
+      "id": "p0140",
+      "text": "Below them, the moon continued to turn.",
+      "start": 1039.69,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1041.97
+    }
+  ]
+}

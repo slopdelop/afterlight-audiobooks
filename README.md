@@ -38,7 +38,7 @@ Opening a library book or Continue card only opens it. Start playback explicitly
 
 Listening position, settings and bookmarks live in localStorage on the current device and web-app origin. Downloaded/imported MP3s live in IndexedDB. No cross-device sync. Safari and an installed Home Screen app may have separate storage; use export/import to transfer progress. iOS can evict web storage under pressure, and clearing website data deletes it. Keep a progress backup. A progress JSON backup does not include audio bytes.
 
-The GitHub repository and GitHub Pages site are public. The included Chapter 6 MP3 is served publicly. Imported MP3s and listening progress stay on the importing device. GitHub Pages is suitable for this MVP; move large libraries to an audio CDN later because Pages has size and bandwidth limits.
+The GitHub repository and GitHub Pages site are public. Bundled audiobook MP3s and reading text are served publicly. Imported MP3s and listening progress stay on the importing device. GitHub Pages is suitable for this MVP; move large libraries to an audio CDN later because Pages has size and bandwidth limits.
 
 ## Add chapters or books for all devices
 
@@ -85,7 +85,7 @@ Old application-shell caches are cleaned up after activation. IndexedDB audio an
 
 ## Read / Listen (MVP 2)
 
-Chapters 6 and 7 include synchronized reading text in conventional book paragraphs (220 and 229 paragraphs). Open **Read** from the player: audio pauses and the current paragraph is brought into view. Scroll normally to read; the paragraph near the upper part of the screen becomes your saved reading place. Tap a paragraph to select and save it, or use Up/Down while the current paragraph is focused. **Listen** opens the player at that place, still paused; press Play to start. There is no playback bar in reading mode. **Aa** offers named text sizes and a follow-text option for playback started through external media controls.
+All included chapters have synchronized reading text in conventional book paragraphs. Open **Read** from the player: audio pauses and the current paragraph is brought into view. Scroll normally to read; the paragraph near the upper part of the screen becomes your saved reading place. Tap a paragraph to select and save it, or use Up/Down while the current paragraph is focused. **Listen** opens the player at that place, still paused; press Play to start. There is no playback bar in reading mode. **Aa** offers named text sizes and a follow-text option for playback started through external media controls.
 
 Reading and audio share the existing per-chapter progress, which is retained across reloads and progress backups. Returning from the library in reading mode offers Continue reading. Updates do not interrupt an active reading view; an explicitly requested update restores that view afterward. Paragraph text is cached with the application, so reading works offline even without a downloaded MP3. Offline listening still requires a downloaded audio file.
 
@@ -214,3 +214,13 @@ The stable ID is `hollow-throne-16`, with one MP3 and 440 synchronized book para
 ## Page turns
 
 In Pages reading mode, next/back arrows, horizontal swipes and page-navigation keys turn a sheet with a brief fold and soft shadow. Reading position saves immediately; rapid turns remain responsive. Scrolling, restoring your place and audio-follow navigation keep their existing behavior. System Reduce Motion uses instant page changes.
+
+## Chapters 17–31
+
+The completed continuation adds fifteen chapters: 40,894 manuscript words, 15,963.644 seconds of audio (about 4 hours 26 minutes), 2,467 production clips and 2,317 synchronized reading paragraphs. Each chapter has one MP3, original-spelling reader text and a canonical manuscript under `manuscript/hollow-throne/`. Spoken introductions announce only the chapter number.
+
+The established narrator and selected character references retain their recorded identities. Pronunciation cues remain separate from book text, including the user-approved Layuh and See Threepio defaults. All fifteen final assemblies passed silent source, reference, current-wave review, timing and artifact-hash checks. Speech-recognition disagreements remain explicitly documented, including name vowels, coda segmentation, weak articles and connected-speech inflections; these checks do not certify exact pronunciation or subjective listening quality. See `VALIDATION.md` and the manuscript's `editorial-notes.md` for the production record.
+
+Chapter 6–16 MP3s and reader files remain byte-for-byte unchanged. This addition does not change the runtime player, storage keys or saved listening progress. The existing catalog and automatic-update flow delivers the new content after deployment; physical iPhone playback was not tested for this content release.
+
+All 120 deterministic app tests and the production build pass. Live deployment and byte verification are separate release checks.

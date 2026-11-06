@@ -10,8 +10,8 @@
       "cover": "assets/hollow-throne.png",
       "artwork": "assets/hollow-throne-square.png",
       "description": "A familiar den of scum. An Imperial archive beneath a cantina. Orders that outlive an Emperor.",
-      "note": "Chapters 1–5 were listened to elsewhere. Your library begins at Chapter 6. More chapters will be added later.",
-      "ongoing": true,
+      "note": "Complete through Chapter 31. Chapters 1–5 were listened to elsewhere; this library begins at Chapter 6.",
+      "ongoing": false,
       "chapters": [
         {
           "id": "hollow-throne-06",
@@ -100,6 +100,126 @@
           "src": "audio/hollow-throne/chapter-16.mp3",
           "duration": 2209.045,
           "transcript": "text/hollow-throne/chapter-16.json"
+        },
+        {
+          "id": "hollow-throne-17",
+          "number": 17,
+          "title": "The Emperor's Last Order",
+          "src": "audio/hollow-throne/chapter-17.mp3",
+          "duration": 1050.382,
+          "transcript": "text/hollow-throne/chapter-17.json"
+        },
+        {
+          "id": "hollow-throne-18",
+          "number": 18,
+          "title": "The Wreck of the Second Sun",
+          "src": "audio/hollow-throne/chapter-18.mp3",
+          "duration": 1066.235,
+          "transcript": "text/hollow-throne/chapter-18.json"
+        },
+        {
+          "id": "hollow-throne-19",
+          "number": 19,
+          "title": "The Men Behind the Throne",
+          "src": "audio/hollow-throne/chapter-19.mp3",
+          "duration": 915.32,
+          "transcript": "text/hollow-throne/chapter-19.json"
+        },
+        {
+          "id": "hollow-throne-20",
+          "number": 20,
+          "title": "The Emperor's Fear",
+          "src": "audio/hollow-throne/chapter-20.mp3",
+          "duration": 1116.018,
+          "transcript": "text/hollow-throne/chapter-20.json"
+        },
+        {
+          "id": "hollow-throne-21",
+          "number": 21,
+          "title": "The Forty-Fourth Prisoner",
+          "src": "audio/hollow-throne/chapter-21.mp3",
+          "duration": 1245.663,
+          "transcript": "text/hollow-throne/chapter-21.json"
+        },
+        {
+          "id": "hollow-throne-22",
+          "number": 22,
+          "title": "The Emperor's Final Night",
+          "src": "audio/hollow-throne/chapter-22.mp3",
+          "duration": 1041.97,
+          "transcript": "text/hollow-throne/chapter-22.json"
+        },
+        {
+          "id": "hollow-throne-23",
+          "number": 23,
+          "title": "Speak with My Voice",
+          "src": "audio/hollow-throne/chapter-23.mp3",
+          "duration": 1064.26,
+          "transcript": "text/hollow-throne/chapter-23.json"
+        },
+        {
+          "id": "hollow-throne-24",
+          "number": 24,
+          "title": "Forty-Three",
+          "src": "audio/hollow-throne/chapter-24.mp3",
+          "duration": 1429.763,
+          "transcript": "text/hollow-throne/chapter-24.json"
+        },
+        {
+          "id": "hollow-throne-25",
+          "number": 25,
+          "title": "The Hollow Throne Awakens",
+          "src": "audio/hollow-throne/chapter-25.mp3",
+          "duration": 1058.63,
+          "transcript": "text/hollow-throne/chapter-25.json"
+        },
+        {
+          "id": "hollow-throne-26",
+          "number": 26,
+          "title": "No One Has to Obey",
+          "src": "audio/hollow-throne/chapter-26.mp3",
+          "duration": 964.973,
+          "transcript": "text/hollow-throne/chapter-26.json"
+        },
+        {
+          "id": "hollow-throne-27",
+          "number": 27,
+          "title": "The Fifth Chamber",
+          "src": "audio/hollow-throne/chapter-27.mp3",
+          "duration": 1043.328,
+          "transcript": "text/hollow-throne/chapter-27.json"
+        },
+        {
+          "id": "hollow-throne-28",
+          "number": 28,
+          "title": "The False Father",
+          "src": "audio/hollow-throne/chapter-28.mp3",
+          "duration": 845.367,
+          "transcript": "text/hollow-throne/chapter-28.json"
+        },
+        {
+          "id": "hollow-throne-29",
+          "number": 29,
+          "title": "The Promise of a Jedi",
+          "src": "audio/hollow-throne/chapter-29.mp3",
+          "duration": 830.41,
+          "transcript": "text/hollow-throne/chapter-29.json"
+        },
+        {
+          "id": "hollow-throne-30",
+          "number": 30,
+          "title": "The Last Command",
+          "src": "audio/hollow-throne/chapter-30.mp3",
+          "duration": 1130.94,
+          "transcript": "text/hollow-throne/chapter-30.json"
+        },
+        {
+          "id": "hollow-throne-31",
+          "number": 31,
+          "title": "The Open Door",
+          "src": "audio/hollow-throne/chapter-31.mp3",
+          "duration": 1160.385,
+          "transcript": "text/hollow-throne/chapter-31.json"
         }
       ],
       "narratorId": "julian_vale"

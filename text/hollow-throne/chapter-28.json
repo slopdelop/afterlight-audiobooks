@@ -1,0 +1,1131 @@
+{
+  "version": 1,
+  "chapterId": "hollow-throne-28",
+  "duration": 845.367,
+  "alignment": "Canonical book paragraphs use fixed synthesis boundaries and cached local Whisper word timestamps; unmatched starts are interpolated.",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Chapter Twenty-Eight: The False Father",
+      "start": 0.0,
+      "timing": "segment",
+      "kind": "title",
+      "end": 1.79
+    },
+    {
+      "id": "p0002",
+      "text": "For one breath, Leia was a child listening from the stairs.",
+      "start": 1.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 6.6
+    },
+    {
+      "id": "p0003",
+      "text": "Her father had come home late. She could hear him in the room below, speaking quietly so he would not wake her, and the sound itself was enough to put the house in order. Whatever had troubled him at the Senate could wait outside the door. He was home.",
+      "start": 6.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 24.06
+    },
+    {
+      "id": "p0004",
+      "text": "\"Leia.\"",
+      "start": 24.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 25.24
+    },
+    {
+      "id": "p0005",
+      "text": "She looked up from the woman's restraint.",
+      "start": 25.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 27.68
+    },
+    {
+      "id": "p0006",
+      "text": "The little chamber had changed without changing shape. Its white wall seemed farther away. Light fell across it in the broad, gold slant of an Alderaanian afternoon. Somewhere there should have been an open door, a terrace, the irregular outline of a tree her mother had wanted pruned and her father had stubbornly protected.",
+      "start": 27.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 47.72
+    },
+    {
+      "id": "p0007",
+      "text": "The woman in the chair made a small choking sound.",
+      "start": 47.72,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 51.82
+    },
+    {
+      "id": "p0008",
+      "text": "Leia looked down. The strap had tightened against the woman's chest when the descending door caught its free end. She could breathe, but only shallowly. Her eyes were fixed upon Leia with an urgency the golden light could not soften.",
+      "start": 51.82,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 66.77
+    },
+    {
+      "id": "p0009",
+      "text": "\"I need you to lean toward me,\" Leia said.",
+      "start": 66.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 69.54
+    },
+    {
+      "id": "p0010",
+      "text": "\"I can't.\"",
+      "start": 69.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 70.5
+    },
+    {
+      "id": "p0011",
+      "text": "\"As much as you can. I'll take your weight.\"",
+      "start": 70.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 72.85
+    },
+    {
+      "id": "p0012",
+      "text": "Her father's voice came again.",
+      "start": 72.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 75.2
+    },
+    {
+      "id": "p0013",
+      "text": "\"You have done enough.\"",
+      "start": 75.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 76.72
+    },
+    {
+      "id": "p0014",
+      "text": "Leia put an arm behind the woman's shoulders. The chair was bolted to the floor. She felt for the release at its side and found an empty socket where someone had removed the handle.",
+      "start": 76.72,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 88.69
+    },
+    {
+      "id": "p0015",
+      "text": "\"It is time to let someone help you.\"",
+      "start": 88.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 91.07
+    },
+    {
+      "id": "p0016",
+      "text": "She had imagined hearing those words so often that recognizing the trap did very little to protect her from it.",
+      "start": 91.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 98.78
+    },
+    {
+      "id": "p0017",
+      "text": "For years, people had come to her because she could keep moving. Through the war, through the loss of Alderaan, through the endless adjustments of victory. She knew how to put grief somewhere it would not interrupt the next meeting. There were days when she feared she had become good at nothing else.",
+      "start": 98.78,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 117.22
+    },
+    {
+      "id": "p0018",
+      "text": "She wanted to stand up and walk toward that voice.",
+      "start": 117.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 121.1
+    },
+    {
+      "id": "p0019",
+      "text": "\"My name is Tessa,\" the woman said.",
+      "start": 121.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 123.55
+    },
+    {
+      "id": "p0020",
+      "text": "\"I'm Leia.\"",
+      "start": 123.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 124.64
+    },
+    {
+      "id": "p0021",
+      "text": "\"I know.\"",
+      "start": 124.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 125.66
+    },
+    {
+      "id": "p0022",
+      "text": "The chamber speaker clicked. The warm light deepened.",
+      "start": 125.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 129.36
+    },
+    {
+      "id": "p0023",
+      "text": "\"Listen to me, my dear.\"",
+      "start": 129.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 131.37
+    },
+    {
+      "id": "p0024",
+      "text": "Leia knew the pause before the final word. Her father had used it at a public reception once, calling to a young volunteer who had lost her way among the guests. Somewhere an Imperial observer had preserved that harmless moment. Now it had been taken apart and offered back to his daughter.",
+      "start": 131.37,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 149.7
+    },
+    {
+      "id": "p0025",
+      "text": "She eased the woman's loose sleeve under the strap to protect her skin.",
+      "start": 149.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 154.63
+    },
+    {
+      "id": "p0026",
+      "text": "\"They brought me down because I wouldn't certify the relocation orders,\" the woman said. \"I told them the delegates weren't medical patients.\"",
+      "start": 154.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 161.97
+    },
+    {
+      "id": "p0027",
+      "text": "\"You were right.\"",
+      "start": 161.97,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 162.99
+    },
+    {
+      "id": "p0028",
+      "text": "Leia lifted her blaster, checked the angle twice, and placed the muzzle against the exposed length of restraint just above the floor.",
+      "start": 162.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 172.43
+    },
+    {
+      "id": "p0029",
+      "text": "\"Turn your face toward my shoulder.\"",
+      "start": 172.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 174.39
+    },
+    {
+      "id": "p0030",
+      "text": "Tessa obeyed. Leia fired a brief, low-powered pulse.",
+      "start": 174.39,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 179.61
+    },
+    {
+      "id": "p0031",
+      "text": "The strap parted with a sharp smell of burned fiber. The woman pitched forward into her arms, coughing. Beyond the chamber, the shutter Luke held shuddered downward another hand's width.",
+      "start": 179.61,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 192.15
+    },
+    {
+      "id": "p0032",
+      "text": "\"Come back,\" the speaker said.",
+      "start": 192.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 194.98
+    },
+    {
+      "id": "p0033",
+      "text": "Leia held the woman until she could stand. One bare foot pressed against the cold floor. The other was still in its shoe.",
+      "start": 194.98,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 203.66
+    },
+    {
+      "id": "p0034",
+      "text": "\"The gallery leads to a stair behind the cabinets,\" Leia told her. \"Can you walk?\"",
+      "start": 203.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 208.71
+    },
+    {
+      "id": "p0035",
+      "text": "The woman nodded, then reached for the shoe she had been clutching when the guards brought her in.",
+      "start": 208.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 215.87
+    },
+    {
+      "id": "p0036",
+      "text": "Leia picked it up for her.",
+      "start": 215.87,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 217.48
+    },
+    {
+      "id": "p0037",
+      "text": "\"I remember the garden,\" her father said.",
+      "start": 217.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 220.79
+    },
+    {
+      "id": "p0038",
+      "text": "The words stopped her more effectively than the restraint had stopped the woman.",
+      "start": 220.79,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 226.41
+    },
+    {
+      "id": "p0039",
+      "text": "She could see it now: not the room, but the garden itself, the walk curving between low beds, the place where the stone held the afternoon's warmth after the air began to cool. Her father sat on a bench with a report he had promised not to read. He looked up at her, smiling because he had been caught.",
+      "start": 226.41,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 246.98
+    },
+    {
+      "id": "p0040",
+      "text": "There would never be another chance to find him there.",
+      "start": 246.98,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 250.4
+    },
+    {
+      "id": "p0041",
+      "text": "Tessa touched her arm.",
+      "start": 250.4,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 252.23
+    },
+    {
+      "id": "p0042",
+      "text": "Leia closed her eyes. She let herself remember the bench, the report, his face. Then she opened them and looked at the person beside her.",
+      "start": 252.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 262.41
+    },
+    {
+      "id": "p0043",
+      "text": "\"Let's get you out.\"",
+      "start": 262.41,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 263.9
+    },
+    {
+      "id": "p0044",
+      "text": "Luke's shoulder was beginning to shake.",
+      "start": 263.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 266.64
+    },
+    {
+      "id": "p0045",
+      "text": "The shutter was too heavy to hold by strength alone. He had spread its weight through the frame, the wall and the narrow bridge beneath his feet. Each new strain in the metal arrived in his body as a small, exact warning. Something in the upper track was bending.",
+      "start": 266.64,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 283.03
+    },
+    {
+      "id": "p0046",
+      "text": "There were people behind him. He could feel their fear, and the particular stillness of one man who had been told to remain in his room and could not make himself cross the threshold.",
+      "start": 283.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 293.61
+    },
+    {
+      "id": "p0047",
+      "text": "From the shutter came his father's voice.",
+      "start": 293.61,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 296.13
+    },
+    {
+      "id": "p0048",
+      "text": "\"Luke. You can stop this.\"",
+      "start": 296.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 298.55
+    },
+    {
+      "id": "p0049",
+      "text": "His first impulse was so fierce that he nearly lost the door.",
+      "start": 298.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 303.23
+    },
+    {
+      "id": "p0050",
+      "text": "On the Death Star he had wanted more time. Even while the station broke around them, with the weight of his father's body in his arms, he had thought of everything they had never said. Ordinary questions had waited beneath the great one that had occupied his life. What had Anakin found funny? What had he done on a morning when nobody needed him to fight? What would he have said about the farm?",
+      "start": 303.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 325.79
+    },
+    {
+      "id": "p0051",
+      "text": "Now a voice untroubled by breath offered him the beginning of an answer.",
+      "start": 325.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 330.66
+    },
+    {
+      "id": "p0052",
+      "text": "\"You have carried this alone long enough.\"",
+      "start": 330.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 333.02
+    },
+    {
+      "id": "p0053",
+      "text": "Luke shifted his feet. Metal tore above him.",
+      "start": 333.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 336.93
+    },
+    {
+      "id": "p0054",
+      "text": "There was no presence beyond the sound. He reached toward it and found the same closed circuit he had felt in the cave's laboratory: a pattern turning his attention back upon itself. His own longing supplied the distance, the warmth, the impression of someone standing just out of sight.",
+      "start": 336.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 354.87
+    },
+    {
+      "id": "p0055",
+      "text": "Knowing this did not make the voice less welcome.",
+      "start": 354.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 358.2
+    },
+    {
+      "id": "p0056",
+      "text": "\"Help me,\" he said.",
+      "start": 358.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 360.57
+    },
+    {
+      "id": "p0057",
+      "text": "For a moment the speaker was silent.",
+      "start": 360.57,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 363.67
+    },
+    {
+      "id": "p0058",
+      "text": "Luke turned his head toward the man in the doorway.",
+      "start": 363.67,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 366.73
+    },
+    {
+      "id": "p0059",
+      "text": "\"I need you to take the cable from the wall. The yellow one. Can you do that?\"",
+      "start": 366.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 370.6
+    },
+    {
+      "id": "p0060",
+      "text": "The man stared at his hands.",
+      "start": 370.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 372.54
+    },
+    {
+      "id": "p0061",
+      "text": "\"I was told to stay here.\"",
+      "start": 372.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 374.12
+    },
+    {
+      "id": "p0062",
+      "text": "\"I know. You can put it on the floor inside the room. I can reach it from there.\"",
+      "start": 374.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 377.72
+    },
+    {
+      "id": "p0063",
+      "text": "The speaker resumed.",
+      "start": 377.72,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 379.32
+    },
+    {
+      "id": "p0064",
+      "text": "\"They will keep asking you to save them. There will always be another war.\"",
+      "start": 379.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 383.8
+    },
+    {
+      "id": "p0065",
+      "text": "Luke remembered a child's room on Tatooine, its door closed against the wind, his aunt setting out a meal while his uncle worried about the harvest. There had been so much he had thought he needed to leave behind. He would have given a great deal to ask either of them a small, ordinary question now.",
+      "start": 383.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 402.75
+    },
+    {
+      "id": "p0066",
+      "text": "The man reached for the yellow cable. His hand stopped, moved back, then tried again. He managed to pull a coil from its bracket. It landed on the floor with a sound almost lost beneath the shutter's grinding.",
+      "start": 402.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 416.75
+    },
+    {
+      "id": "p0067",
+      "text": "\"That's good,\" Luke said. \"Thank you.\"",
+      "start": 416.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 419.63
+    },
+    {
+      "id": "p0068",
+      "text": "He drew the loose end toward him through the Force and passed it around the shutter's lower guide. A maintenance cleat stood half a meter above his head. He threaded the line through it and pulled it tight.",
+      "start": 419.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 432.05
+    },
+    {
+      "id": "p0069",
+      "text": "\"You could give them peace,\" his father's voice said.",
+      "start": 432.05,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 435.78
+    },
+    {
+      "id": "p0070",
+      "text": "Luke eased a fraction of the weight onto the cable. Fibers stretched. The cleat held.",
+      "start": 435.78,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 442.5
+    },
+    {
+      "id": "p0071",
+      "text": "\"He gave me a chance,\" Luke said softly.",
+      "start": 442.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 446.08
+    },
+    {
+      "id": "p0072",
+      "text": "He was speaking to the memory of the man on the Death Star, rather than the apparatus in the wall. His father had not asked him to rule anyone. At the end, he had asked to see his son.",
+      "start": 446.08,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 458.51
+    },
+    {
+      "id": "p0073",
+      "text": "Luke brought the cable down to the second cleat and tied it off. Then he lowered the shutter by the width of a finger.",
+      "start": 458.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 466.72
+    },
+    {
+      "id": "p0074",
+      "text": "The line held.",
+      "start": 466.72,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 468.15
+    },
+    {
+      "id": "p0075",
+      "text": "He stepped from beneath the door, breathing hard. The man in the room was watching him.",
+      "start": 468.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 474.04
+    },
+    {
+      "id": "p0076",
+      "text": "\"Will it fall?\"",
+      "start": 474.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 475.24
+    },
+    {
+      "id": "p0077",
+      "text": "\"Eventually. We should be gone before then.\"",
+      "start": 475.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 477.77
+    },
+    {
+      "id": "p0078",
+      "text": "Luke went to him and held out his hand without taking hold of the man's wrist. There was time for a choice, even here. After several seconds, the man placed his hand in Luke's.",
+      "start": 477.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 489.35
+    },
+    {
+      "id": "p0079",
+      "text": "Together they crossed the threshold.",
+      "start": 489.35,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 492.61
+    },
+    {
+      "id": "p0080",
+      "text": "Darren reached the lower landing before his leg gave way.",
+      "start": 492.61,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 496.59
+    },
+    {
+      "id": "p0081",
+      "text": "Threepio caught the stick, which was helpful, and then tried to catch Darren, which nearly put them both down the remaining steps. Artoo rolled beneath the rail and braced against Darren's boot. Between them they managed to lower him onto a shallow ledge.",
+      "start": 496.59,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 512.07
+    },
+    {
+      "id": "p0082",
+      "text": "\"I do wish people would stop designing important facilities with stairs,\" Threepio said.",
+      "start": 512.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 517.87
+    },
+    {
+      "id": "p0083",
+      "text": "Darren laughed once, painfully.",
+      "start": 517.87,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 520.11
+    },
+    {
+      "id": "p0084",
+      "text": "He could hear the speakers above, but the words had blurred into the machinery. That was enough to trouble him. He reached toward the case Threepio carried. A small, blunt ridge met his skin.",
+      "start": 520.11,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 532.79
+    },
+    {
+      "id": "p0085",
+      "text": "It was an edge of the contact kit's case. Threepio carried the rest, including the broad treadle Darren could work with his left heel. He touched the case until the sound above became only sound again.",
+      "start": 532.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 546.45
+    },
+    {
+      "id": "p0086",
+      "text": "Threepio glanced back up the stairs.",
+      "start": 546.45,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 549.2
+    },
+    {
+      "id": "p0087",
+      "text": "\"Princess Leia will be here shortly.\"",
+      "start": 549.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 551.61
+    },
+    {
+      "id": "p0088",
+      "text": "\"I'm not waiting for her to carry me.\"",
+      "start": 551.61,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 553.69
+    },
+    {
+      "id": "p0089",
+      "text": "\"I was rather hoping you would wait for her to carry the equipment.\"",
+      "start": 553.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 557.16
+    },
+    {
+      "id": "p0090",
+      "text": "Darren looked at the droid. The gold face gave nothing away.",
+      "start": 557.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 562.268
+    },
+    {
+      "id": "p0091",
+      "text": "\"You meant that.\"",
+      "start": 562.268,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 563.428
+    },
+    {
+      "id": "p0092",
+      "text": "\"The equipment is quite heavy.\"",
+      "start": 563.428,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 565.467
+    },
+    {
+      "id": "p0093",
+      "text": "Artoo whistled urgently from the vault door. Threepio helped Darren stand. This time he offered an arm before Darren needed it.",
+      "start": 565.467,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 574.768
+    },
+    {
+      "id": "p0094",
+      "text": "Through the glass-fronted cabinets, the reference vault glowed in narrow rows. Each cabinet held flat data wafers in sliding frames. Handwritten labels survived beneath several of the printed numbers. The older records had been transferred again and again, their storage media replaced while the names underneath became less legible.",
+      "start": 574.768,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 595.518
+    },
+    {
+      "id": "p0095",
+      "text": "Darren stopped at one marked with the familiar program designation.",
+      "start": 595.518,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 599.747
+    },
+    {
+      "id": "p0096",
+      "text": "\"This is where they kept the interviews.\"",
+      "start": 599.747,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 601.817
+    },
+    {
+      "id": "p0097",
+      "text": "Artoo connected to the first cabinet. The light above his socket turned red.",
+      "start": 601.817,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 607.717
+    },
+    {
+      "id": "p0098",
+      "text": "An acknowledgment appeared on the door display. It identified Darren by his old number and instructed the station to hold him for reassessment.",
+      "start": 607.717,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 616.557
+    },
+    {
+      "id": "p0099",
+      "text": "He looked away before the next line could form.",
+      "start": 616.557,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 619.207
+    },
+    {
+      "id": "p0100",
+      "text": "\"Don't read it aloud.\"",
+      "start": 619.207,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 620.607
+    },
+    {
+      "id": "p0101",
+      "text": "\"Certainly not,\" Threepio said. \"Artoo, restrict output to the diagnostic channel. No speech rendering.\"",
+      "start": 620.607,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 628.497
+    },
+    {
+      "id": "p0102",
+      "text": "The little droid replied, offended at the need to be told. Then he changed the display to columns of plain reference marks.",
+      "start": 628.497,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 637.137
+    },
+    {
+      "id": "p0103",
+      "text": "Darren put his hand on the door.",
+      "start": 637.137,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 639.207
+    },
+    {
+      "id": "p0104",
+      "text": "Somewhere in these cabinets were accounts he had given while hungry, drugged, lonely, desperate to please the person who might let him sleep. There would also be things he had meant: names, places, directions home. The thought of Leia reading any of them made him want to run. The thought of destroying them before the others could see their own was worse.",
+      "start": 639.207,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 663.168
+    },
+    {
+      "id": "p0105",
+      "text": "He found the manual latch beneath the cabinet and showed Threepio where to place the read-only adapter.",
+      "start": 663.168,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 670.368
+    },
+    {
+      "id": "p0106",
+      "text": "Behind them, footsteps reached the landing.",
+      "start": 670.368,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 673.317
+    },
+    {
+      "id": "p0107",
+      "text": "Leia stood in the vault doorway with Tessa. Four other people followed her. Luke came last, helping a man who kept looking back toward the stairs.",
+      "start": 673.317,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 683.317
+    },
+    {
+      "id": "p0108",
+      "text": "\"Six,\" Leia said quietly.",
+      "start": 683.317,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 686.348
+    },
+    {
+      "id": "p0109",
+      "text": "Darren counted them himself. Six people down from the middle gallery. They were alive, frightened, and standing where they had not been permitted to stand.",
+      "start": 686.348,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 696.108
+    },
+    {
+      "id": "p0110",
+      "text": "Tessa looked up toward the speakers. \"Are they still doing it?\"",
+      "start": 696.108,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 700.058
+    },
+    {
+      "id": "p0111",
+      "text": "Leia listened. Her father's voice had become indistinct through the machinery, but she could still catch the cadence.",
+      "start": 700.058,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 708.117
+    },
+    {
+      "id": "p0112",
+      "text": "\"Yes,\" she said.",
+      "start": 708.117,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 709.888
+    },
+    {
+      "id": "p0113",
+      "text": "\"You knew it wasn't real?\"",
+      "start": 709.888,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 711.288
+    },
+    {
+      "id": "p0114",
+      "text": "Leia considered the question. \"I knew who was playing it.\"",
+      "start": 711.288,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 714.747
+    },
+    {
+      "id": "p0115",
+      "text": "The woman looked at her for a moment, then sat on the lowest step to put on her shoe.",
+      "start": 714.747,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 721.077
+    },
+    {
+      "id": "p0116",
+      "text": "Luke walked with Leia to the far side of the vault. Above them, the upper control floor projected over the shaft. Its access stair was on the opposite side, behind a barrier of clear composite.",
+      "start": 721.077,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 733.857
+    },
+    {
+      "id": "p0117",
+      "text": "\"Veyr is up there,\" he said.",
+      "start": 733.857,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 736.187
+    },
+    {
+      "id": "p0118",
+      "text": "Leia could see the effort he was making to keep his breathing even.",
+      "start": 736.187,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 740.168
+    },
+    {
+      "id": "p0119",
+      "text": "\"What did you hear?\"",
+      "start": 740.168,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 741.317
+    },
+    {
+      "id": "p0120",
+      "text": "\"Our father.\"",
+      "start": 741.317,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 742.388
+    },
+    {
+      "id": "p0121",
+      "text": "She looked at him. He had said it without hesitation, and the word still unsettled her in ways she did not have time to examine.",
+      "start": 742.388,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 751.747
+    },
+    {
+      "id": "p0122",
+      "text": "\"Anakin,\" he added gently.",
+      "start": 751.747,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 754.608
+    },
+    {
+      "id": "p0123",
+      "text": "She nodded. \"Bail.\"",
+      "start": 754.608,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 756.278
+    },
+    {
+      "id": "p0124",
+      "text": "For a moment they stood beside one another, each holding a loss the other could not make simple.",
+      "start": 756.278,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 763.698
+    },
+    {
+      "id": "p0125",
+      "text": "Luke touched her shoulder.",
+      "start": 763.698,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 765.597
+    },
+    {
+      "id": "p0126",
+      "text": "\"We should find somewhere better to talk about them.\"",
+      "start": 765.597,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 767.987
+    },
+    {
+      "id": "p0127",
+      "text": "\"We will.\"",
+      "start": 767.987,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 768.798
+    },
+    {
+      "id": "p0128",
+      "text": "Threepio called from the cabinet. A portion of the reference evidence had begun transferring to the isolated store Artoo carried. The droid needed Leia to verify that the next operation concerned the authority index, not the patients' files.",
+      "start": 768.798,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 786.038
+    },
+    {
+      "id": "p0129",
+      "text": "Above them, the clear barrier slid aside.",
+      "start": 786.038,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 788.888
+    },
+    {
+      "id": "p0130",
+      "text": "Veyr stood at the top of the stair. No guards accompanied him. His clothing was neat, and one hand rested lightly at the base of his neck.",
+      "start": 788.888,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 798.408
+    },
+    {
+      "id": "p0131",
+      "text": "He looked past Luke toward the people gathered in the vault.",
+      "start": 798.408,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 801.727
+    },
+    {
+      "id": "p0132",
+      "text": "\"You should bring them back to their rooms. The interruption is placing them under considerable strain.\"",
+      "start": 801.727,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 806.918
+    },
+    {
+      "id": "p0133",
+      "text": "Luke started toward the stair.",
+      "start": 806.918,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 809.378
+    },
+    {
+      "id": "p0134",
+      "text": "\"Then turn it off.\"",
+      "start": 809.378,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 810.577
+    },
+    {
+      "id": "p0135",
+      "text": "Veyr lowered his hand. \"You have damaged equipment you do not understand.\"",
+      "start": 810.577,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 814.857
+    },
+    {
+      "id": "p0136",
+      "text": "\"I understand what it was doing to them.\"",
+      "start": 814.857,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 817.087
+    },
+    {
+      "id": "p0137",
+      "text": "Leia stepped toward her brother, but he glanced back at Artoo's light, at Darren beside the cabinet, at the six people waiting for a way out.",
+      "start": 817.087,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 827.217
+    },
+    {
+      "id": "p0138",
+      "text": "\"Stay with them,\" he said.",
+      "start": 827.217,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 828.998
+    },
+    {
+      "id": "p0139",
+      "text": "She caught his hand briefly and let it go.",
+      "start": 828.998,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 831.898
+    },
+    {
+      "id": "p0140",
+      "text": "Luke climbed the stair. Behind him, Leia knelt beside Tessa and asked whether she would help the others find seats. Tessa looked around the vault, chose a clear space beside the cabinets, and began.",
+      "start": 831.898,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 845.367
+    }
+  ]
+}

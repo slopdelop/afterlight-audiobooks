@@ -1,0 +1,1601 @@
+{
+  "version": 1,
+  "chapterId": "hollow-throne-30",
+  "duration": 1130.94,
+  "alignment": "Canonical book paragraphs use fixed synthesis boundaries and cached local Whisper word timestamps; unmatched starts are interpolated.",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Chapter Thirty: The Last Command",
+      "start": 0.0,
+      "timing": "segment",
+      "kind": "title",
+      "end": 1.4
+    },
+    {
+      "id": "p0002",
+      "text": "The freight lever would not move.",
+      "start": 1.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 4.16
+    },
+    {
+      "id": "p0003",
+      "text": "Han put his shoulder against it and pushed until the muscles in his back began to spasm. Nothing happened. Across the junction room, the two technicians sat where Chewbacca had put them. The one who had asked for help watched the lever with naked concern.",
+      "start": 4.16,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 22.03
+    },
+    {
+      "id": "p0004",
+      "text": "\"Interlock,\" he said.",
+      "start": 22.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 24.48
+    },
+    {
+      "id": "p0005",
+      "text": "Han stopped pushing.",
+      "start": 24.48,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 26.26
+    },
+    {
+      "id": "p0006",
+      "text": "The man's hand jerked toward the switchboard. He pinned it beneath his other arm.",
+      "start": 26.26,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 31.49
+    },
+    {
+      "id": "p0007",
+      "text": "\"Under the cradle.\"",
+      "start": 31.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 32.93
+    },
+    {
+      "id": "p0008",
+      "text": "Chewbacca was already on his knees. He reached into the dust beneath the command cable and found a metal tongue seated in a deep slot. It had been driven down when the palace sealed the district.",
+      "start": 32.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 46.44
+    },
+    {
+      "id": "p0009",
+      "text": "The lever controlled the freight points. The tongue prevented anyone moving them while the main cable cradle remained locked.",
+      "start": 46.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 54.34
+    },
+    {
+      "id": "p0010",
+      "text": "\"Of course,\" Han muttered.",
+      "start": 54.34,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 56.64
+    },
+    {
+      "id": "p0011",
+      "text": "His comlink crackled.",
+      "start": 56.64,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 58.52
+    },
+    {
+      "id": "p0012",
+      "text": "\"I've got the driver,\" Lando said. \"He's ready to take your line.\"",
+      "start": 58.52,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 62.64
+    },
+    {
+      "id": "p0013",
+      "text": "\"We're having a small disagreement with the track.\"",
+      "start": 62.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 65.11
+    },
+    {
+      "id": "p0014",
+      "text": "Chewbacca took hold of the tongue. It rose a little, scraping against the slot. The thick command cable shifted above him.",
+      "start": 65.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 74.27
+    },
+    {
+      "id": "p0015",
+      "text": "Han saw the exposed contacts inside the cradle.",
+      "start": 74.27,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 77.63
+    },
+    {
+      "id": "p0016",
+      "text": "\"Hold it there.\"",
+      "start": 77.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 78.84
+    },
+    {
+      "id": "p0017",
+      "text": "Chewbacca gave him a look that required no translation.",
+      "start": 78.84,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 82.98
+    },
+    {
+      "id": "p0018",
+      "text": "Han took the insulated cable from his friend's belt and looped it around the cradle. If the assembly moved much farther, it would pull the medical bypass loose with the command line. They needed one to live and the other to die.",
+      "start": 82.98,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 97.03
+    },
+    {
+      "id": "p0019",
+      "text": "\"Lando, tell me you've still got those three medical boards.\"",
+      "start": 97.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 100.31
+    },
+    {
+      "id": "p0020",
+      "text": "\"All three.\"",
+      "start": 100.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 101.64
+    },
+    {
+      "id": "p0021",
+      "text": "\"Then keep them. This is about to get untidy.\"",
+      "start": 101.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 105.26
+    },
+    {
+      "id": "p0022",
+      "text": "Artoo projected a small diagram onto the reference cabinet. Threepio leaned close, one hand braced against the wall as the vault lights dimmed.",
+      "start": 105.26,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 115.79
+    },
+    {
+      "id": "p0023",
+      "text": "\"There,\" he said. \"The phrase applies to the issuing authority. It does not instruct the subject to abandon the memory associated with it.\"",
+      "start": 115.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 124.41
+    },
+    {
+      "id": "p0024",
+      "text": "The little droid whistled sharply.",
+      "start": 124.41,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 127.09
+    },
+    {
+      "id": "p0025",
+      "text": "\"Yes, I appreciate that the shorter formulation would fit the maintenance field. It would also invalidate the patients' reference evidence. Please use the extended clause.\"",
+      "start": 127.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 137.18
+    },
+    {
+      "id": "p0026",
+      "text": "Leia held the lamp while Darren positioned the contact kit beneath the cabinet. Threepio had connected its copper arm to the exposed service terminal. When the broad treadle went down, the arm would draw clear and put the active output against ground instead of carrying it into the read channel.",
+      "start": 137.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 156.42
+    },
+    {
+      "id": "p0027",
+      "text": "Darren tested it with his left heel.",
+      "start": 156.42,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 159.44
+    },
+    {
+      "id": "p0028",
+      "text": "A tiny gap appeared between the contacts.",
+      "start": 159.44,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 162.82
+    },
+    {
+      "id": "p0029",
+      "text": "He lifted his foot. The gap closed.",
+      "start": 162.82,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 166.35
+    },
+    {
+      "id": "p0030",
+      "text": "\"I have it,\" he said.",
+      "start": 166.35,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 168.39
+    },
+    {
+      "id": "p0031",
+      "text": "Leia looked at his face. \"If you need to stop, we stop.\"",
+      "start": 168.39,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 172.55
+    },
+    {
+      "id": "p0032",
+      "text": "\"I know.\"",
+      "start": 172.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 173.5
+    },
+    {
+      "id": "p0033",
+      "text": "Above them, Luke waited beside the plinth. Through the comlink they could hear a guard breathing too fast and Veyr repeatedly asking to have his contact restored.",
+      "start": 173.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 184.34
+    },
+    {
+      "id": "p0034",
+      "text": "Artoo finished the last reference check. On his projector, the copy held separate patient files, identified by their original sources. No active sessions, no executable patterns. Threepio read the verification aloud, slowly enough for Leia to compare the marks herself.",
+      "start": 184.34,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 203.99
+    },
+    {
+      "id": "p0035",
+      "text": "She removed the first storage wafer and put it inside a shielded case. Then she checked the second.",
+      "start": 203.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 210.99
+    },
+    {
+      "id": "p0036",
+      "text": "Tessa sat with the other five evacuees near the stair. She was helping the frightened young man count the fasteners in the wall. He had reached seventeen twice. Neither of them seemed troubled by beginning again.",
+      "start": 210.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 225.29
+    },
+    {
+      "id": "p0037",
+      "text": "\"Reference evidence secure,\" Leia said.",
+      "start": 225.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 228.74
+    },
+    {
+      "id": "p0038",
+      "text": "Luke answered. \"Ready here.\"",
+      "start": 228.74,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 230.7
+    },
+    {
+      "id": "p0039",
+      "text": "Threepio turned toward Darren.",
+      "start": 230.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 233.02
+    },
+    {
+      "id": "p0040",
+      "text": "\"The service read will identify you again. We have disabled the cabinet's speech output, but the upper distribution channel is still live until General Solo breaks it. The old reassessment sequence may be released during the change.\"",
+      "start": 233.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 246.35
+    },
+    {
+      "id": "p0041",
+      "text": "Darren looked at the treadle beneath his heel.",
+      "start": 246.35,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 249.34
+    },
+    {
+      "id": "p0042",
+      "text": "\"I understand.\"",
+      "start": 249.34,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 250.6
+    },
+    {
+      "id": "p0043",
+      "text": "\"Would you like a different position?\" Leia asked.",
+      "start": 250.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 253.53
+    },
+    {
+      "id": "p0044",
+      "text": "\"No. This is the one I tested.\"",
+      "start": 253.53,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 256.15
+    },
+    {
+      "id": "p0045",
+      "text": "He looked up at her.",
+      "start": 256.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 257.67
+    },
+    {
+      "id": "p0046",
+      "text": "\"Three taps, if I lose where I am. Just so I know somebody's still here.\"",
+      "start": 257.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 262.64
+    },
+    {
+      "id": "p0047",
+      "text": "She set her fingers against the metal frame where he would be able to feel them.",
+      "start": 262.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 267.85
+    },
+    {
+      "id": "p0048",
+      "text": "Artoo opened the service read.",
+      "start": 267.85,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 271.13
+    },
+    {
+      "id": "p0049",
+      "text": "Lando had arranged the operators by the sounds they could make.",
+      "start": 271.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 275.25
+    },
+    {
+      "id": "p0050",
+      "text": "The depot's patched equipment could not carry six conversations at once. Orl had found a row of old inspection buzzers, and Elin had wired each to a different circuit. The children's center would sound twice when its independent supply held. The civilian clinic would sound once, steadily. The outer transit board had a bell with a cracked note nobody could mistake for either of the others.",
+      "start": 275.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 301.07
+    },
+    {
+      "id": "p0051",
+      "text": "It was a ridiculous way to coordinate a city.",
+      "start": 301.07,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 304.02
+    },
+    {
+      "id": "p0052",
+      "text": "It was also the first communications system that evening whose origin everyone in the room could see.",
+      "start": 304.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 310.96
+    },
+    {
+      "id": "p0053",
+      "text": "The children's center gave its two short sounds. The clinic followed.",
+      "start": 310.96,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 316.72
+    },
+    {
+      "id": "p0054",
+      "text": "Lando leaned over the transit map.",
+      "start": 316.72,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 318.86
+    },
+    {
+      "id": "p0055",
+      "text": "\"Driver, you will see a freight signal on your right. Ignore the palace display. Take the line only when the old mechanical arm rises.\"",
+      "start": 318.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 327.06
+    },
+    {
+      "id": "p0056",
+      "text": "The driver answered, \"I can see it. It's down.\"",
+      "start": 327.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 330.62
+    },
+    {
+      "id": "p0057",
+      "text": "\"I know.\"",
+      "start": 330.62,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 331.56
+    },
+    {
+      "id": "p0058",
+      "text": "Orl laid a hand on Lando's good shoulder. He pointed to the signal from Venn's security cordon. Republic personnel were holding both ends of the affected service district. They could keep people from entering, but there were still occupied buildings inside.",
+      "start": 331.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 347.6
+    },
+    {
+      "id": "p0059",
+      "text": "Lando looked at the dozens of little blocks on the paper.",
+      "start": 347.6,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 350.68
+    },
+    {
+      "id": "p0060",
+      "text": "\"Tell Venn the western line stays open. Put observers where they can see the train. Nobody fires at a maintenance carriage because a dispatch voice tells them to.\"",
+      "start": 350.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 359.62
+    },
+    {
+      "id": "p0061",
+      "text": "Orl took the message.",
+      "start": 359.62,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 362.1
+    },
+    {
+      "id": "p0062",
+      "text": "From the handset came the driver's quiet voice.",
+      "start": 362.1,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 365.45
+    },
+    {
+      "id": "p0063",
+      "text": "\"There are children in the front carriage.\"",
+      "start": 365.45,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 367.7
+    },
+    {
+      "id": "p0064",
+      "text": "Lando shut his eyes for half a second.",
+      "start": 367.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 370.38
+    },
+    {
+      "id": "p0065",
+      "text": "\"Then keep your braking distance. We're going to bring them through.\"",
+      "start": 370.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 374.3
+    },
+    {
+      "id": "p0066",
+      "text": "The mechanical tongue rose another few centimeters.",
+      "start": 374.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 378.02
+    },
+    {
+      "id": "p0067",
+      "text": "Chewbacca's fur had caught on a sharp edge inside the slot. He could free his arm or keep the interlock lifted. He could not do both.",
+      "start": 378.02,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 387.49
+    },
+    {
+      "id": "p0068",
+      "text": "Han wrapped the insulated line twice around a steel support and pulled it tight. The command cradle shifted against the loop. A blue arc snapped between two exposed contacts.",
+      "start": 387.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 399.71
+    },
+    {
+      "id": "p0069",
+      "text": "The technician on the floor flinched.",
+      "start": 399.71,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 401.65
+    },
+    {
+      "id": "p0070",
+      "text": "Han pointed to a loose insulating sleeve beside him.",
+      "start": 401.65,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 405.54
+    },
+    {
+      "id": "p0071",
+      "text": "\"Can you slide that over here?\"",
+      "start": 405.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 407.37
+    },
+    {
+      "id": "p0072",
+      "text": "The man tried to stand. His knees locked.",
+      "start": 407.37,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 410.89
+    },
+    {
+      "id": "p0073",
+      "text": "\"Stay sitting,\" Han said. \"Kick it.\"",
+      "start": 410.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 413.78
+    },
+    {
+      "id": "p0074",
+      "text": "The sleeve skidded over the floor. Han caught it with his boot and pushed it beneath the cradle, separating the thick command line from the bypass below.",
+      "start": 413.78,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 424.24
+    },
+    {
+      "id": "p0075",
+      "text": "Chewbacca roared.",
+      "start": 424.24,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 425.86
+    },
+    {
+      "id": "p0076",
+      "text": "\"I see it!\"",
+      "start": 425.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 426.89
+    },
+    {
+      "id": "p0077",
+      "text": "Han threw his weight against the freight lever.",
+      "start": 426.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 430.13
+    },
+    {
+      "id": "p0078",
+      "text": "This time it moved.",
+      "start": 430.13,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 431.94
+    },
+    {
+      "id": "p0079",
+      "text": "Far inside the wall came a heavy, answering clank. A faded indicator swung from red to white.",
+      "start": 431.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 438.74
+    },
+    {
+      "id": "p0080",
+      "text": "\"Lando, you've got your track.\"",
+      "start": 438.74,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 440.58
+    },
+    {
+      "id": "p0081",
+      "text": "He let go of the lever and seized the back of Chewbacca's harness. The Wookiee pulled his arm free, leaving fur and a narrow stripe of blood against the metal.",
+      "start": 440.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 451.1
+    },
+    {
+      "id": "p0082",
+      "text": "They stumbled away together.",
+      "start": 451.1,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 453.04
+    },
+    {
+      "id": "p0083",
+      "text": "The cradle dropped onto the insulating sleeve. Its lock remained open.",
+      "start": 453.04,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 457.82
+    },
+    {
+      "id": "p0084",
+      "text": "Han looked at his friend.",
+      "start": 457.82,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 460.26
+    },
+    {
+      "id": "p0085",
+      "text": "\"That was your plan?\"",
+      "start": 460.26,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 461.46
+    },
+    {
+      "id": "p0086",
+      "text": "Chewbacca grunted and reached for the cable cutters.",
+      "start": 461.46,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 464.85
+    },
+    {
+      "id": "p0087",
+      "text": "\"Fine. Mine wasn't better.\"",
+      "start": 464.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 467.43
+    },
+    {
+      "id": "p0088",
+      "text": "Darren heard his own voice from the stairwell.",
+      "start": 467.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 469.91
+    },
+    {
+      "id": "p0089",
+      "text": "It came softly at first, almost lost beneath the equipment. A man speaking with familiar, unhurried confidence. The voice he had used when explaining palace procedure to visitors who were nervous of making a mistake.",
+      "start": 469.91,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 484.12
+    },
+    {
+      "id": "p0090",
+      "text": "\"Preserve the Primary Witness.\"",
+      "start": 484.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 486.19
+    },
+    {
+      "id": "p0091",
+      "text": "His right hand moved toward the service connector.",
+      "start": 486.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 489.91
+    },
+    {
+      "id": "p0092",
+      "text": "Leia saw it happen. He could tell from the way she went still. She did not seize his arm. They had discussed that at the clinic. He had shown her the marks left by people who had tried to help that way.",
+      "start": 489.91,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 502.99
+    },
+    {
+      "id": "p0093",
+      "text": "His fingers closed around the cable.",
+      "start": 502.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 505.71
+    },
+    {
+      "id": "p0094",
+      "text": "He wanted to say her name. His mouth would not shape it.",
+      "start": 505.71,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 509.59
+    },
+    {
+      "id": "p0095",
+      "text": "\"Restore the reference path.\"",
+      "start": 509.59,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 511.54
+    },
+    {
+      "id": "p0096",
+      "text": "His hand pulled.",
+      "start": 511.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 513.48
+    },
+    {
+      "id": "p0097",
+      "text": "Three taps passed through the cabinet frame beneath his other palm.",
+      "start": 513.48,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 518.41
+    },
+    {
+      "id": "p0098",
+      "text": "For an instant he was back in the clinic, hearing Sela make the same small sound while he learned where to put his foot. He remembered the irritability with which he had asked her to move the stool. He had wanted his heel farther to the left. She had moved it. Nobody had argued that the other position should have been good enough.",
+      "start": 518.41,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 538.08
+    },
+    {
+      "id": "p0099",
+      "text": "He could still feel that left heel.",
+      "start": 538.08,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 540.24
+    },
+    {
+      "id": "p0100",
+      "text": "He pressed it down.",
+      "start": 540.24,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 542.19
+    },
+    {
+      "id": "p0101",
+      "text": "The treadle traveled beneath his weight. The copper arm lifted clear. Current snapped against the ground contact with a hard, bright sound.",
+      "start": 542.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 552.2
+    },
+    {
+      "id": "p0102",
+      "text": "His hand continued pulling at the cable, but it no longer carried the active output.",
+      "start": 552.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 557.88
+    },
+    {
+      "id": "p0103",
+      "text": "Leia kept her fingers on the frame.",
+      "start": 557.88,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 559.93
+    },
+    {
+      "id": "p0104",
+      "text": "Artoo gave a rising whistle. The station's reply had arrived.",
+      "start": 559.93,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 564.71
+    },
+    {
+      "id": "p0105",
+      "text": "Threepio read the operative clause and sent it through the authenticated service channel. It revoked the inherited authority, closed its active sessions and barred the diverted credential from renewing them. The historical record remained exactly that: a record. Nothing in it was permitted to issue another instruction.",
+      "start": 564.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 584.41
+    },
+    {
+      "id": "p0106",
+      "text": "Above them, Luke watched the first session mark go dark.",
+      "start": 584.41,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 589.3
+    },
+    {
+      "id": "p0107",
+      "text": "Han heard Threepio's confirmation over the comlink.",
+      "start": 589.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 593.24
+    },
+    {
+      "id": "p0108",
+      "text": "Chewbacca had placed the cutters around the command cable, keeping their jaws above the medical bypass. He looked at Han.",
+      "start": 593.24,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 600.71
+    },
+    {
+      "id": "p0109",
+      "text": "\"Do it.\"",
+      "start": 600.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 601.53
+    },
+    {
+      "id": "p0110",
+      "text": "The handles closed.",
+      "start": 601.53,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 602.63
+    },
+    {
+      "id": "p0111",
+      "text": "For a fraction of a second the cable held. Then the armored casing split, and a flash filled the cradle. Han flung an arm across his face. Something struck his sleeve and burned through to the skin.",
+      "start": 602.63,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 617.09
+    },
+    {
+      "id": "p0112",
+      "text": "The junction lights went out.",
+      "start": 617.09,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 618.91
+    },
+    {
+      "id": "p0113",
+      "text": "Below the board, the medical indicator remained green.",
+      "start": 618.91,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 622.19
+    },
+    {
+      "id": "p0114",
+      "text": "Chewbacca pulled the cut ends apart and locked them into separate brackets. No settling cradle, no enthusiastic technician, no last instruction from the palace could put them back together without tools and a considerable amount of work.",
+      "start": 622.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 636.39
+    },
+    {
+      "id": "p0115",
+      "text": "The technician nearest the lever lowered his arm.",
+      "start": 636.39,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 639.31
+    },
+    {
+      "id": "p0116",
+      "text": "He stared at it.",
+      "start": 639.31,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 640.79
+    },
+    {
+      "id": "p0117",
+      "text": "Han crouched in front of him.",
+      "start": 640.79,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 642.38
+    },
+    {
+      "id": "p0118",
+      "text": "\"Can you stand now?\"",
+      "start": 642.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 643.69
+    },
+    {
+      "id": "p0119",
+      "text": "The man tried. This time his knees bent. Han helped him up, and Chewbacca went for the other worker.",
+      "start": 643.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 651.37
+    },
+    {
+      "id": "p0120",
+      "text": "Their comlink filled with the cracked note of the transit bell.",
+      "start": 651.37,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 655.43
+    },
+    {
+      "id": "p0121",
+      "text": "The freight signal rose in front of the train.",
+      "start": 655.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 659.21
+    },
+    {
+      "id": "p0122",
+      "text": "Lando watched Orl mark its first movement on the diagram. He could hear the carriage motors through the driver's open channel, then the change in pitch as they left the main line.",
+      "start": 659.21,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 669.58
+    },
+    {
+      "id": "p0123",
+      "text": "The old freight connection curved beneath the palace's eastern galleries. There was a short exposed span where the service district's defenses could see the carriages. Venn's observers had the same view.",
+      "start": 669.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 682.86
+    },
+    {
+      "id": "p0124",
+      "text": "\"Entering the bend,\" the driver said.",
+      "start": 682.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 685.62
+    },
+    {
+      "id": "p0125",
+      "text": "Elin counted under her breath. Lando watched the relay indicators instead. The command trunk was dead. Three local controllers still showed stored sessions.",
+      "start": 685.62,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 697.74
+    },
+    {
+      "id": "p0126",
+      "text": "One cleared.",
+      "start": 697.74,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 698.36
+    },
+    {
+      "id": "p0127",
+      "text": "Another.",
+      "start": 698.36,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 699.54
+    },
+    {
+      "id": "p0128",
+      "text": "The third stayed amber.",
+      "start": 699.54,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 701.58
+    },
+    {
+      "id": "p0129",
+      "text": "\"Clinic operator,\" Lando said. \"You have an acknowledgment on the small board behind you. Pull the blue handle only.\"",
+      "start": 701.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 708.94
+    },
+    {
+      "id": "p0130",
+      "text": "A chair scraped over the open channel.",
+      "start": 708.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 711.76
+    },
+    {
+      "id": "p0131",
+      "text": "\"I can't read it.\"",
+      "start": 711.76,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 712.87
+    },
+    {
+      "id": "p0132",
+      "text": "\"You don't need to. The blue handle is below the glass.\"",
+      "start": 712.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 716.31
+    },
+    {
+      "id": "p0133",
+      "text": "\"There are two.\"",
+      "start": 716.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 717.43
+    },
+    {
+      "id": "p0134",
+      "text": "Lando looked at Orl.",
+      "start": 717.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 719.61
+    },
+    {
+      "id": "p0135",
+      "text": "The inspector leaned over the handset. \"The lower one. It has a broken edge on the left. I inspected that board last winter.\"",
+      "start": 719.61,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 727.74
+    },
+    {
+      "id": "p0136",
+      "text": "A pause.",
+      "start": 727.74,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 728.92
+    },
+    {
+      "id": "p0137",
+      "text": "The last amber light went out.",
+      "start": 728.92,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 731.72
+    },
+    {
+      "id": "p0138",
+      "text": "The driver breathed into the microphone.",
+      "start": 731.72,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 734.3
+    },
+    {
+      "id": "p0139",
+      "text": "\"We're across.\"",
+      "start": 734.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 735.5
+    },
+    {
+      "id": "p0140",
+      "text": "Lando sat down too abruptly and sent a bolt of pain through his shoulder. He scarcely felt it.",
+      "start": 735.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 743.57
+    },
+    {
+      "id": "p0141",
+      "text": "\"Keep going,\" he said. \"There are people waiting for you at the other end.\"",
+      "start": 743.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 748.35
+    },
+    {
+      "id": "p0142",
+      "text": "The lights around the prism dimmed.",
+      "start": 748.35,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 750.75
+    },
+    {
+      "id": "p0143",
+      "text": "Luke waited for Threepio's next instruction. He stood between the plinth and Veyr, with the three guards safely on the stair side of the room. The woman had found a dressing from the medical supplies and was wrapping her burned fingers. The man Luke had caught from the bridge held the end steady for her.",
+      "start": 750.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 769.53
+    },
+    {
+      "id": "p0144",
+      "text": "On the console, the last external session vanished.",
+      "start": 769.53,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 773.48
+    },
+    {
+      "id": "p0145",
+      "text": "\"Master Luke,\" Threepio said, \"Artoo confirms the authority registry is closed. The detached controllers have received the revocation or have been physically isolated. You may remove the signing wafer.\"",
+      "start": 773.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 786.14
+    },
+    {
+      "id": "p0146",
+      "text": "Luke drew it from the black reader.",
+      "start": 786.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 788.86
+    },
+    {
+      "id": "p0147",
+      "text": "It was a plain thing, thin enough to disappear inside a sleeve. He turned it toward the small camera on his comlink while Threepio compared its serial to the surviving Endor manifest.",
+      "start": 788.86,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 801.34
+    },
+    {
+      "id": "p0148",
+      "text": "\"That is the diverted original,\" the droid said. \"Its signature is now recorded as revoked. Please destroy the signing element.\"",
+      "start": 801.34,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 809.43
+    },
+    {
+      "id": "p0149",
+      "text": "Luke laid the wafer on the plinth's empty metal rim. He ignited his lightsaber and passed the tip through it. The small crystal inside the casing melted. He moved the blade again, leaving the wafer in two separate pieces.",
+      "start": 809.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 824.82
+    },
+    {
+      "id": "p0150",
+      "text": "Veyr watched from the floor.",
+      "start": 824.82,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 827.11
+    },
+    {
+      "id": "p0151",
+      "text": "\"You will need that knowledge again.\"",
+      "start": 827.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 829.17
+    },
+    {
+      "id": "p0152",
+      "text": "Luke extinguished the blade.",
+      "start": 829.17,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 831.58
+    },
+    {
+      "id": "p0153",
+      "text": "\"We kept what belongs to the patients.\"",
+      "start": 831.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 833.86
+    },
+    {
+      "id": "p0154",
+      "text": "He waited for Leia's confirmation from below. She read the last evidence check herself. Artoo sent a matching signal. The safe copies had no physical connection to the write bridge.",
+      "start": 833.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 846.5
+    },
+    {
+      "id": "p0155",
+      "text": "Luke cut through the ring supporting the silver arms.",
+      "start": 846.5,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 850.02
+    },
+    {
+      "id": "p0156",
+      "text": "They fell away from the prism one by one, striking the floor with brittle, ringing blows. He severed the calibrated bridge beneath the plinth, then the power paths feeding its emitters. The apparatus lost its light.",
+      "start": 850.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 866.42
+    },
+    {
+      "id": "p0157",
+      "text": "Only the black core remained.",
+      "start": 866.42,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 869.02
+    },
+    {
+      "id": "p0158",
+      "text": "Leia's voice reached him.",
+      "start": 869.02,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 870.98
+    },
+    {
+      "id": "p0159",
+      "text": "\"We're clear of the service contacts.\"",
+      "start": 870.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 872.98
+    },
+    {
+      "id": "p0160",
+      "text": "Luke drew the prism out of its cradle with the Force and held it over the empty metal basin below. For a moment its surfaces reflected the green of his blade.",
+      "start": 872.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 883.54
+    },
+    {
+      "id": "p0161",
+      "text": "Then he brought the blade down.",
+      "start": 883.54,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 885.81
+    },
+    {
+      "id": "p0162",
+      "text": "The core split. The cut edges flared and went dull. He separated the pieces, cut each again and left them in the basin while the residual heat bled into the metal.",
+      "start": 885.81,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 898.15
+    },
+    {
+      "id": "p0163",
+      "text": "No voice came from them. No presence escaped.",
+      "start": 898.15,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 902.09
+    },
+    {
+      "id": "p0164",
+      "text": "Below him, the vault door opened.",
+      "start": 902.09,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 904.74
+    },
+    {
+      "id": "p0165",
+      "text": "Darren's right hand let go of the cable.",
+      "start": 904.74,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 907.56
+    },
+    {
+      "id": "p0166",
+      "text": "He did not notice immediately. He was still pressing his heel against the treadle, waiting for the next thing his body would do.",
+      "start": 907.56,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 915.16
+    },
+    {
+      "id": "p0167",
+      "text": "Leia touched the floor beside his boot.",
+      "start": 915.16,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 917.46
+    },
+    {
+      "id": "p0168",
+      "text": "\"The contact is clear. You can leave it down if you want.\"",
+      "start": 917.46,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 920.54
+    },
+    {
+      "id": "p0169",
+      "text": "He looked at his hand. Its fingers were half closed. He opened them, slowly, and laid them flat upon his knee.",
+      "start": 920.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 929.13
+    },
+    {
+      "id": "p0170",
+      "text": "\"Did it work?\"",
+      "start": 929.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 930.17
+    },
+    {
+      "id": "p0171",
+      "text": "\"The command system is down.\"",
+      "start": 930.17,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 932.0
+    },
+    {
+      "id": "p0172",
+      "text": "He nodded. His eyes moved toward the stair. There would be other sounds, other mornings, other moments when his body mistook the past for something happening now. He could feel that much already.",
+      "start": 932.0,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 946.66
+    },
+    {
+      "id": "p0173",
+      "text": "\"I need to sit somewhere else,\" he said.",
+      "start": 946.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 949.29
+    },
+    {
+      "id": "p0174",
+      "text": "Leia helped him up.",
+      "start": 949.29,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 951.05
+    },
+    {
+      "id": "p0175",
+      "text": "They joined the six people at the door. Tessa had found a strip of cloth for the young man's hands; he was folding and unfolding it, counting the corners. Threepio carried the shielded evidence case. Artoo rolled beside him, one wheel squeaking with each turn.",
+      "start": 951.05,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 968.42
+    },
+    {
+      "id": "p0176",
+      "text": "Luke came down last with Veyr and the guards. The scientist was restrained, but Luke had wrapped his shoulders in a medical blanket. One of the guards carried the injector sleeve and folded cloth as evidence.",
+      "start": 968.42,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 981.87
+    },
+    {
+      "id": "p0177",
+      "text": "Leia looked at Veyr. She had imagined this moment often enough to expect something larger from it. He was a tired man with a mark at his neck, walking because someone had told him where the stairs were.",
+      "start": 981.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 995.33
+    },
+    {
+      "id": "p0178",
+      "text": "\"He needs a doctor,\" Luke said.",
+      "start": 995.33,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 997.6
+    },
+    {
+      "id": "p0179",
+      "text": "\"He'll have one.\"",
+      "start": 997.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 998.67
+    },
+    {
+      "id": "p0180",
+      "text": "They took him out with the others.",
+      "start": 998.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1001.09
+    },
+    {
+      "id": "p0181",
+      "text": "The first unbroken air Leia breathed outside the station smelled of hot rail grease.",
+      "start": 1001.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 1008.41
+    },
+    {
+      "id": "p0182",
+      "text": "Han and Chewbacca were waiting at the maintenance landing with both technicians. Han had wrapped a rag around his forearm. Chewbacca's injured arm was bare in a strip where the fur had torn away. Neither mentioned it.",
+      "start": 1008.41,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1022.99
+    },
+    {
+      "id": "p0183",
+      "text": "Through the open freight gate, the last carriage of the evacuation train was moving toward the western line. Faces looked out through the windows. A child waved at Chewbacca, then ducked when somebody in the carriage called her back.",
+      "start": 1022.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1037.95
+    },
+    {
+      "id": "p0184",
+      "text": "Han counted the people coming off the stair.",
+      "start": 1037.95,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1040.99
+    },
+    {
+      "id": "p0185",
+      "text": "\"Everybody?\"",
+      "start": 1040.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1042.01
+    },
+    {
+      "id": "p0186",
+      "text": "\"Everybody from the lower rooms,\" Leia said. \"Venn is clearing the assembly wing.\"",
+      "start": 1042.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1047.62
+    },
+    {
+      "id": "p0187",
+      "text": "He touched her cheek with the back of his uninjured hand. She leaned into it for a moment.",
+      "start": 1047.62,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1053.52
+    },
+    {
+      "id": "p0188",
+      "text": "Lando's voice came through the old inspection handset. The city operators had disconnected the remaining palace-issued sessions. Venn had taken the dispatch hub. The prisoner clinics were still on independent power, and the teams holding the assembly doors were laying down their weapons or being disarmed.",
+      "start": 1053.52,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1072.04
+    },
+    {
+      "id": "p0189",
+      "text": "There were injuries. People who would need help walking out. Names still being checked against room assignments.",
+      "start": 1072.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1080.18
+    },
+    {
+      "id": "p0190",
+      "text": "Leia gave him the count from the fifth station.",
+      "start": 1080.18,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1083.15
+    },
+    {
+      "id": "p0191",
+      "text": "\"And the Dagobah route?\" Luke asked.",
+      "start": 1083.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1086.75
+    },
+    {
+      "id": "p0192",
+      "text": "Artoo answered. Threepio translated with unusual care.",
+      "start": 1086.75,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1091.9
+    },
+    {
+      "id": "p0193",
+      "text": "\"Its relay authorization has been revoked and its physical Palace path is severed. Nothing there can address this network now. The recovered calibration identifiers will allow a disposal team to locate the surviving transmitter safely.\"",
+      "start": 1091.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1105.73
+    },
+    {
+      "id": "p0194",
+      "text": "Luke looked down at the little droid.",
+      "start": 1105.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1108.37
+    },
+    {
+      "id": "p0195",
+      "text": "\"We'll make sure they have everything you found.\"",
+      "start": 1108.37,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1110.59
+    },
+    {
+      "id": "p0196",
+      "text": "Artoo's reply was quiet.",
+      "start": 1110.59,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1112.87
+    },
+    {
+      "id": "p0197",
+      "text": "Beyond the gate, the freight signal returned to its resting position. Somewhere above them, the ordinary evening traffic continued. Leia stood beside Han and listened until she could distinguish it from the machinery at their backs.",
+      "start": 1112.87,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1127.99
+    },
+    {
+      "id": "p0198",
+      "text": "Then she asked Lando to connect her to the clinics.",
+      "start": 1127.99,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1130.94
+    }
+  ]
+}

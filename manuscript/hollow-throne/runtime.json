@@ -1,0 +1,29 @@
+{
+  "python": "3.10.11",
+  "system": "Windows",
+  "packages": {
+    "qwen-tts": "0.1.1",
+    "torch": "2.11.0+cu128",
+    "transformers": "4.57.3",
+    "faster-whisper": "1.2.1",
+    "ctranslate2": "4.8.4",
+    "soundfile": "0.14.0",
+    "numpy": "2.2.6",
+    "imageio-ffmpeg": "0.6.0",
+    "huggingface-hub": "0.36.2"
+  },
+  "models": {
+    "speech": {
+      "name": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+      "revision": "fd4b254389122332181a7c3db7f27e918eec64e3"
+    },
+    "voice_design": {
+      "name": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
+    },
+    "primary_asr": "small.en",
+    "independent_asr": "base.en"
+  },
+  "operation": "Cached local models, offline mode, no paid speech API calls.",
+  "qa": "Silent technical content and signal checks; no subjective listening certification."
+}

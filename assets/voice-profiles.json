@@ -9,7 +9,24 @@
       "engine": "reference",
       "speaker": null,
       "direction": "Use the existing audition reference unchanged; mature English audiobook narration.",
-      "reference": "work/voice-references/julian_vale.flac"
+      "reference": "work/voice-references/julian_vale.flac",
+      "production_uses": [
+        "hollow-throne-17",
+        "hollow-throne-18",
+        "hollow-throne-19",
+        "hollow-throne-20",
+        "hollow-throne-21",
+        "hollow-throne-22",
+        "hollow-throne-23",
+        "hollow-throne-24",
+        "hollow-throne-25",
+        "hollow-throne-26",
+        "hollow-throne-27",
+        "hollow-throne-28",
+        "hollow-throne-29",
+        "hollow-throne-30",
+        "hollow-throne-31"
+      ]
     },
     "cole_mercer": {
       "name": "Cole Mercer",
@@ -141,7 +158,19 @@
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
       "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
       "production_uses": [
-        "hollow-throne-14"
+        "hollow-throne-14",
+        "hollow-throne-17",
+        "hollow-throne-20",
+        "hollow-throne-21",
+        "hollow-throne-23",
+        "hollow-throne-24",
+        "hollow-throne-25",
+        "hollow-throne-26",
+        "hollow-throne-27",
+        "hollow-throne-28",
+        "hollow-throne-29",
+        "hollow-throne-30",
+        "hollow-throne-31"
       ]
     },
     "dorian_vell": {
@@ -157,7 +186,15 @@
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
       "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
       "production_uses": [
-        "hollow-throne-14"
+        "hollow-throne-14",
+        "hollow-throne-17",
+        "hollow-throne-20",
+        "hollow-throne-23",
+        "hollow-throne-24",
+        "hollow-throne-26",
+        "hollow-throne-27",
+        "hollow-throne-30",
+        "hollow-throne-31"
       ]
     },
     "protocol_aurek": {
@@ -186,7 +223,11 @@
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
       "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
       "production_uses": [
-        "hollow-throne-14"
+        "hollow-throne-14",
+        "hollow-throne-17",
+        "hollow-throne-20",
+        "hollow-throne-26",
+        "hollow-throne-31"
       ]
     },
     "elin_marr": {
@@ -216,7 +257,8 @@
       "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
       "production_uses": [
         "hollow-throne-14",
-        "hollow-throne-16"
+        "hollow-throne-16",
+        "hollow-throne-22"
       ]
     },
     "callan_reed": {
@@ -232,7 +274,18 @@
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
       "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
       "production_uses": [
-        "hollow-throne-14"
+        "hollow-throne-14",
+        "hollow-throne-17",
+        "hollow-throne-18",
+        "hollow-throne-20",
+        "hollow-throne-24",
+        "hollow-throne-25",
+        "hollow-throne-26",
+        "hollow-throne-27",
+        "hollow-throne-28",
+        "hollow-throne-29",
+        "hollow-throne-30",
+        "hollow-throne-31"
       ]
     },
     "lyra_noll": {
@@ -347,7 +400,10 @@
       "reference_sha256": "446cbc372626910417d8b3323244545a506354d6a522df5ee403b3adf322f407",
       "direction": "An original adult female medical transport captain speaking clear English with a light neutral British accent. A warm middle register, focused forward resonance with a small dry grain, compact precise consonants and natural flowing vowels. Professional, practical and conscientious, politely questioning an unexpected order, with restrained concern under calm control. Subtle uncertainty and urgency without shouting, melodrama, military barking or a breathy whisper. Natural intimate dialogue, comfortable clear listening, clean dry studio sound with no radio filter, music, effects or background noise.",
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-23"
+      ]
     },
     "adrian_holt_vd": {
       "name": "Adrian Holt",
@@ -360,7 +416,18 @@
       "reference_sha256": "1d5fa2bddd41899c34c08cca2793ef4ff2348898fd8234983d8f27a2f3c5e74f",
       "direction": "An adult male Imperial officer in his late thirties speaking formal British English. Firm low-middle pitch, focused front-of-mouth resonance, slightly narrow dry vowels and a tight, restrained throat texture. Exceptionally crisp t, k and s consonants, compact military stresses and evenly connected clauses with brief exact pauses. A calm administrative order, precise and impersonal with quiet authority, not an announcer or a villain's growl. Slight natural vocal grain; no radio filtering, static, echoes, distortion or robotic effects. Clear human speech at normal conversational volume.",
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3"
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "production_uses": [
+        "hollow-throne-21",
+        "hollow-throne-23",
+        "hollow-throne-25",
+        "hollow-throne-26",
+        "hollow-throne-27",
+        "hollow-throne-28",
+        "hollow-throne-29",
+        "hollow-throne-30",
+        "hollow-throne-31"
+      ]
     },
     "alden_marlow": {
       "name": "Alden Marlow",
@@ -375,7 +442,8 @@
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
       "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
       "production_uses": [
-        "hollow-throne-12"
+        "hollow-throne-12",
+        "hollow-throne-28"
       ],
       "casting_status": "New production interpretation; user listening review pending."
     },
@@ -411,7 +479,9 @@
       "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
       "production_uses": [
         "hollow-throne-13",
-        "hollow-throne-16"
+        "hollow-throne-16",
+        "hollow-throne-19",
+        "hollow-throne-22"
       ],
       "casting_status": "Production interpretation; subjective listening review remains with the user.",
       "source_audition": "cast_palpatine_1"
@@ -448,7 +518,9 @@
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
       "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
       "production_uses": [
-        "hollow-throne-13"
+        "hollow-throne-13",
+        "hollow-throne-19",
+        "hollow-throne-22"
       ],
       "casting_status": "Production interpretation; subjective listening review remains with the user.",
       "source_audition": "cast_sim_1"
@@ -467,7 +539,13 @@
       "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
       "production_uses": [
         "hollow-throne-13",
-        "hollow-throne-16"
+        "hollow-throne-16",
+        "hollow-throne-19",
+        "hollow-throne-22",
+        "hollow-throne-25",
+        "hollow-throne-28",
+        "hollow-throne-29",
+        "hollow-throne-30"
       ],
       "casting_status": "Production interpretation; subjective listening review remains with the user."
     },
@@ -570,7 +648,15 @@
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
       "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
       "production_uses": [
-        "hollow-throne-15"
+        "hollow-throne-15",
+        "hollow-throne-17",
+        "hollow-throne-20",
+        "hollow-throne-21",
+        "hollow-throne-23",
+        "hollow-throne-25",
+        "hollow-throne-26",
+        "hollow-throne-27",
+        "hollow-throne-30"
       ],
       "casting_status": "Production interpretation; subjective user review pending."
     },
@@ -587,7 +673,8 @@
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
       "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
       "production_uses": [
-        "hollow-throne-15"
+        "hollow-throne-15",
+        "hollow-throne-26"
       ],
       "casting_status": "Production interpretation; subjective user review pending."
     },
@@ -604,7 +691,8 @@
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
       "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
       "production_uses": [
-        "hollow-throne-15"
+        "hollow-throne-15",
+        "hollow-throne-17"
       ],
       "casting_status": "Production interpretation; subjective user review pending."
     },
@@ -672,9 +760,355 @@
       "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
       "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
       "production_uses": [
-        "hollow-throne-16"
+        "hollow-throne-16",
+        "hollow-throne-18",
+        "hollow-throne-24",
+        "hollow-throne-29"
       ],
       "casting_status": "Production interpretation; subjective user review pending."
+    },
+    "cole_mercer_completion": {
+      "name": "Cole Mercer",
+      "synthetic": true,
+      "role": "vd2_han_c_1",
+      "engine": "voice_design_reference",
+      "reference": "work/voice-references/vd2_han_c_1.wav",
+      "reference_sha256": "e20f707405110074f9f6ba849af4c846594d0c3f9152e9893a3e85587d3e6b0b",
+      "conditioning": "full audio and transcript",
+      "direction": "Established frozen reference.",
+      "model": null,
+      "revision": null,
+      "source_seed": null,
+      "production_uses": [
+        "hollow-throne-17",
+        "hollow-throne-18",
+        "hollow-throne-20",
+        "hollow-throne-21",
+        "hollow-throne-23",
+        "hollow-throne-24",
+        "hollow-throne-25",
+        "hollow-throne-26",
+        "hollow-throne-27",
+        "hollow-throne-30",
+        "hollow-throne-31"
+      ],
+      "casting_status": "Established selection or production interpretation; technical screening does not certify subjective listening quality."
+    },
+    "crispin_aster": {
+      "name": "Crispin Aster",
+      "synthetic": true,
+      "role": "C-3PO",
+      "engine": "voice_design_reference",
+      "reference": "outputs/book-voices/c3po.wav",
+      "reference_sha256": "97f8b8d1bc395479b26700a70a2affd86efffa1aab05ee53a3c68ae56d55b85e",
+      "conditioning": "full audio and transcript",
+      "direction": "An original adult male protocol droid character speaking cultivated non-rhotic British Received Pronunciation. A slender upper-middle male register, bright reedy forward resonance, fine nasal overtones and a dry lightly metallic natural vocal edge. Very precise consonants, rounded British vowels, fastidious formal phrasing and small restrained anxious rises. Polite, fussy, intelligent and practical; connected natural sentences at a comfortable steady listening volume. Maintain the same speaker throughout. No American accent, deep booming baritone, cartoon squeak, falsetto, shouting, exaggerated impressions, electronic processing, robot effect, music, echo or background noise. Clean dry studio speech.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "source_seed": 18007530,
+      "production_uses": [
+        "hollow-throne-17",
+        "hollow-throne-20",
+        "hollow-throne-23",
+        "hollow-throne-24",
+        "hollow-throne-25",
+        "hollow-throne-26",
+        "hollow-throne-27",
+        "hollow-throne-28",
+        "hollow-throne-29",
+        "hollow-throne-30"
+      ],
+      "casting_status": "Established selection or production interpretation; technical screening does not certify subjective listening quality."
+    },
+    "colin_rook": {
+      "name": "Colin Rook",
+      "synthetic": true,
+      "role": "Palace maintenance officer",
+      "engine": "voice_design_reference",
+      "reference": "outputs/book-voices/maintenance_officer.wav",
+      "reference_sha256": "cad04115f38e33d50ecd07a29082d1aac53ecad6f3068bc611860fd04f259ef9",
+      "conditioning": "full audio and transcript",
+      "direction": "An original adult man in his forties speaking clear lightly regional British English in a middle register. A dry slightly rough human voice with plain vowels and precise unforced consonants. Practical working technician, guarded uncertainty and restrained concern, fully voiced and steady rather than gasping or crying. Natural connected dialogue, no radio filter, shouting, whisper, music or effects. Clean dry studio speech.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "source_seed": 17698690,
+      "production_uses": [
+        "hollow-throne-17",
+        "hollow-throne-27",
+        "hollow-throne-30"
+      ],
+      "casting_status": "Established selection or production interpretation; technical screening does not certify subjective listening quality."
+    },
+    "ada_finch": {
+      "name": "Ada Finch",
+      "synthetic": true,
+      "role": "Palace contractor",
+      "engine": "voice_design_reference",
+      "reference": "outputs/book-voices/contractor.wav",
+      "reference_sha256": "bdbc27380d98dcab30fea09f510b2ccb3234fc46d1368bdda4efbdfb991ea3ac",
+      "conditioning": "full audio and transcript",
+      "direction": "An original adult woman speaking clear straightforward British English. A firm middle register, focused slightly bright resonance and a light dry grain. Practical, capable and direct, restrained urgency and irritation rather than panic. Connected everyday speech at steady comfortable volume. No whispering, theatrical shouting, music, radio static or effects. Clean dry studio speech.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "source_seed": 17352243,
+      "production_uses": [
+        "hollow-throne-17"
+      ],
+      "casting_status": "Established selection or production interpretation; technical screening does not certify subjective listening quality."
+    },
+    "lewis_pike": {
+      "name": "Lewis Pike",
+      "synthetic": true,
+      "role": "Rescued salvage worker",
+      "engine": "voice_design_reference",
+      "reference": "outputs/book-voices/salvager.wav",
+      "reference_sha256": "9fd108ae226207a920e8c77f791731c6812da134bfc1eb3be837ebb05cf98c23",
+      "conditioning": "full audio and transcript",
+      "direction": "An original adult man speaking clear conversational English with a neutral American accent. A light middle register with dry grain, rounded ordinary vowels and slightly uneven but intelligible phrasing. Guarded, exhausted and quietly concerned, no dramatic panic or gasping. Comfortable steady close speech, no radio filter, music, echo or effects. Clean dry studio speech.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "source_seed": 17505245,
+      "production_uses": [
+        "hollow-throne-18",
+        "hollow-throne-28"
+      ],
+      "casting_status": "Established selection or production interpretation; technical screening does not certify subjective listening quality."
+    },
+    "percival_ash_completion": {
+      "name": "Percival Ash",
+      "synthetic": true,
+      "role": "Janus Greejatus",
+      "engine": "voice_design_reference",
+      "reference": "outputs/book-voices/greejatus.wav",
+      "reference_sha256": "46bb298bd9532dca0bc40de0bd5e33d0dae00eff406daf22ae46aa3b137fe1e0",
+      "conditioning": "full audio and transcript",
+      "direction": "An elderly British male court adviser with a narrow, pinched middle-high register, dry reedy resonance, lightly breathy edges and fine nasal overtones. Carefully pursed vowels, very neat consonants, delicate stresses and small quick rises on skeptical questions. Speech is connected but lightly hesitant, with a faint brittle creak when a phrase settles. Formal, inquisitive and quietly disdainful, maintaining dignity at ordinary conversational volume. Make him sound physically slight and distinct from deep-voiced officials, without falsetto, caricature, cartoon villain delivery or effects.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "source_seed": 26030600,
+      "production_uses": [
+        "hollow-throne-19",
+        "hollow-throne-22"
+      ],
+      "casting_status": "Established selection or production interpretation; technical screening does not certify subjective listening quality."
+    },
+    "clara_wren": {
+      "name": "Clara Wren",
+      "synthetic": true,
+      "role": "Sela",
+      "engine": "voice_design_reference",
+      "reference": "outputs/book-voices/sela_adult.wav",
+      "reference_sha256": "9661625387bd45d2e4702418eec8a784de031f350dc5f81808366671712f54a3",
+      "conditioning": "full audio and transcript",
+      "direction": "An original woman around thirty-three speaking clear natural British English. A light adult middle register, smooth focused forward resonance, warm slightly dry grain and gently precise consonants. A grown woman with practical medical competence, watchful reserve and quiet stubbornness. Thoughtful and humane, with restrained vulnerability beneath matter-of-fact conversation. Connected unhurried speech, steady comfortable volume and subtle sincere emotion. Mature adult voice, never a young child, sultry whisper, aristocratic caricature or polished announcer. No sobbing, gasping, singing, music, echo or effects. Clean dry studio speech.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "source_seed": 17320490,
+      "production_uses": [
+        "hollow-throne-21",
+        "hollow-throne-23",
+        "hollow-throne-24",
+        "hollow-throne-25",
+        "hollow-throne-26",
+        "hollow-throne-31"
+      ],
+      "casting_status": "Established selection or production interpretation; technical screening does not certify subjective listening quality."
+    },
+    "martin_fen": {
+      "name": "Martin Fen",
+      "synthetic": true,
+      "role": "Municipal contract inspector",
+      "engine": "voice_design_reference",
+      "reference": "outputs/book-voices/quartermaster.wav",
+      "reference_sha256": "0effd727db9af2a95eb6c244955743eebbe4f7c3d98cf26794b8379a736ae9ed",
+      "conditioning": "full audio and transcript",
+      "direction": "An original adult male cargo quartermaster speaking clear neutral British English. A compact middle register with a flat dry edge, clipped practical consonants and ordinary connected vowels. Workmanlike, wary and impatient with confusing instructions, restrained concern beneath professional control. Natural steady conversation, no grand officer delivery, shouting, whisper, music or effects. Clean dry studio speech.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "source_seed": 17836660,
+      "production_uses": [
+        "hollow-throne-21",
+        "hollow-throne-24",
+        "hollow-throne-25"
+      ],
+      "casting_status": "Established selection or production interpretation; technical screening does not certify subjective listening quality."
+    },
+    "rowan_alder": {
+      "name": "Rowan Alder",
+      "synthetic": true,
+      "role": "Iven",
+      "engine": "voice_design_reference",
+      "reference": "outputs/book-voices/iven_adult.wav",
+      "reference_sha256": "105790f7248d9e18f9e7cacbf20440d11f4229ce86500d6d2b984b2c9b1c4db8",
+      "conditioning": "full audio and transcript",
+      "direction": "An original man around thirty-six speaking clear natural British English. A light middle-low adult register, rounded focused resonance with a fine dry grain, softly firm consonants and connected conversational vowels. Thoughtful, observant and quietly stubborn; a resourceful caretaker accustomed to listening before speaking. Restrained tiredness and warmth, gentle practical authority without an officer voice. Fully voiced steady comfortable speech. Never an adolescent, frail elderly man, booming bass, theatrical whisper, sobbing, music, echo or effects. Clean dry studio speech.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "source_seed": 17742853,
+      "production_uses": [
+        "hollow-throne-24",
+        "hollow-throne-26",
+        "hollow-throne-31"
+      ],
+      "casting_status": "Established selection or production interpretation; technical screening does not certify subjective listening quality."
+    },
+    "gareth_linden": {
+      "name": "Gareth Linden",
+      "synthetic": true,
+      "role": "Teren Daal",
+      "engine": "voice_design_reference",
+      "reference": "outputs/book-voices/teren.wav",
+      "reference_sha256": "810e2e30691b55648b7d4980c9580449ad5a1c3e8c7e180aed8fb098ae85d564",
+      "conditioning": "full audio and transcript",
+      "direction": "An original older man in his late sixties speaking clear British English with a mild northern warmth. A sturdy middle-low register, broad rounded vowels and a gentle dry gravel, precise practical consonants. Patient, observant, quietly stubborn and knowledgeable about machinery. Warm conversational clarity, steady volume, restrained weariness without frailty, no theatrical growl, whisper, music or effects. Clean dry studio speech.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "source_seed": 17527584,
+      "production_uses": [
+        "hollow-throne-24",
+        "hollow-throne-31"
+      ],
+      "casting_status": "Established selection or production interpretation; technical screening does not certify subjective listening quality."
+    },
+    "celia_rowan": {
+      "name": "Celia Rowan",
+      "synthetic": true,
+      "role": "Jessa",
+      "engine": "voice_design_reference",
+      "reference": "outputs/book-voices/jessa.wav",
+      "reference_sha256": "bb72a9a8c6037e6237061f85adaa0fed0e4b15ecfa6eafb4691263c617cc28ac",
+      "conditioning": "full audio and transcript",
+      "direction": "An original adult woman in her forties speaking clear natural British English. A full middle register, slightly husky dry warmth and compact firm consonants. Plainspoken, watchful and resourceful, with restrained humor and quiet determination. Smooth connected conversational sentences at comfortable steady volume, never a sultry whisper, little girl, grand aristocrat or theatrical victim. Clean dry studio speech, no music or effects.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "source_seed": 17891496,
+      "production_uses": [
+        "hollow-throne-24",
+        "hollow-throne-26",
+        "hollow-throne-31"
+      ],
+      "casting_status": "Established selection or production interpretation; technical screening does not certify subjective listening quality."
+    },
+    "tobin_ash": {
+      "name": "Tobin Ash",
+      "synthetic": true,
+      "role": "Sovan Kell",
+      "engine": "voice_design_reference",
+      "reference": "outputs/book-voices/sovan.wav",
+      "reference_sha256": "bfcd7089407bf42b3fc3a7ad4e8143690e87380fea6668b6085ebf2762b6b761",
+      "conditioning": "full audio and transcript",
+      "direction": "An original middle-aged man speaking calm natural English with a light neutral British accent. A clear medium baritone with soft rounded resonance, a fine sandy grain and carefully released consonants. Practical humane medical manner, attentive and quietly firm, restrained tiredness. Connected conversational phrasing and comfortable steady volume. No military bark, dramatic whisper, sobbing, radio filter, music or effects. Clean dry studio speech.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "source_seed": 18050472,
+      "production_uses": [
+        "hollow-throne-24",
+        "hollow-throne-26"
+      ],
+      "casting_status": "Established selection or production interpretation; technical screening does not certify subjective listening quality."
+    },
+    "evan_marlowe": {
+      "name": "Evan Marlowe",
+      "synthetic": true,
+      "role": "Republic receiving security officer",
+      "engine": "voice_design_reference",
+      "reference": "outputs/book-voices/security_officer.wav",
+      "reference_sha256": "fa4c9acf3f14dd7ce14f4cd1f2e45501ea3f450a491d3ff931a06a082a27a48d",
+      "conditioning": "full audio and transcript",
+      "direction": "An original adult male security officer speaking clear natural American English. A steady middle-low register, focused warm dry resonance, plain rounded vowels and compact precise consonants. Professional, observant and quietly reassuring, restrained urgency beneath calm control. Natural connected conversation, comfortable even volume, no heroic booming announcer, military shouting, whisper, radio filter, music or effects. Clean dry studio speech.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "source_seed": 18018411,
+      "production_uses": [
+        "hollow-throne-25"
+      ],
+      "casting_status": "Established selection or production interpretation; technical screening does not certify subjective listening quality."
+    },
+    "martha_vale": {
+      "name": "Martha Vale",
+      "synthetic": true,
+      "role": "Independent clinic operator",
+      "engine": "voice_design_reference",
+      "reference": "outputs/book-voices/clinic_operator.wav",
+      "reference_sha256": "d14c44cd28f998f4e83d542cc4cafc8331fa8620733d126561179a31f60325ac",
+      "conditioning": "full audio and transcript",
+      "direction": "An original adult woman in her fifties speaking clear natural British English. A practical middle register with a warm dry grain, forward intelligible resonance and tidy unforced consonants. Conscientious clinic supervisor, resourceful and calmly direct, small restrained questioning rises under pressure. Connected ordinary conversation at steady comfortable volume, no dramatic panic, whisper, radio filter, music or effects. Clean dry studio speech.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "source_seed": 17518759,
+      "production_uses": [
+        "hollow-throne-27",
+        "hollow-throne-30"
+      ],
+      "casting_status": "Established selection or production interpretation; technical screening does not certify subjective listening quality."
+    },
+    "elias_north": {
+      "name": "Elias North",
+      "synthetic": true,
+      "role": "Reconstructed unmasked Anakin Skywalker",
+      "engine": "voice_design_reference",
+      "reference": "outputs/book-voices/anakin.wav",
+      "reference_sha256": "870ef7f270f84fc14b1756e326037bbc065c0e724ba781f1ffc8f4c76c7465ed",
+      "conditioning": "full audio and transcript",
+      "direction": "An original adult man speaking natural clear American English in a warm middle-low register. Open rounded human resonance, a small dry grain and gently precise consonants. Quietly direct, intimate, sincere and steady, with restrained underlying sadness and patient reassurance. Connected conversational sentences at normal comfortable volume. A human father speaking without armor or a respirator; no booming dark villain bass, robot processing, breathing effect, echo, whisper, music or exaggerated acting. Clean dry studio speech.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "source_seed": 17505457,
+      "production_uses": [
+        "hollow-throne-28"
+      ],
+      "casting_status": "Established selection or production interpretation; technical screening does not certify subjective listening quality."
+    },
+    "rina_holt": {
+      "name": "Rina Holt",
+      "synthetic": true,
+      "role": "Assembly records clerk",
+      "engine": "voice_design_reference",
+      "reference": "outputs/book-voices/clerk.wav",
+      "reference_sha256": "ee25943ad1e5ca09a0544ce379dd20215f67e78c742b67c80c550925bd278334",
+      "conditioning": "full audio and transcript",
+      "direction": "An original adult woman in her thirties speaking clear neutral American English. A soft middle register with a dry steady center, focused resonance and natural precise consonants. Intelligent, reserved and quietly determined, tired but fully voiced and understandable. Human ordinary conversation, restrained emotional warmth, no child voice, whisper, sobbing, music or effects. Clean dry studio speech.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "source_seed": 18083036,
+      "production_uses": [
+        "hollow-throne-28"
+      ],
+      "casting_status": "Established selection or production interpretation; technical screening does not certify subjective listening quality."
+    },
+    "bennett_shaw": {
+      "name": "Bennett Shaw",
+      "synthetic": true,
+      "role": "Evacuation train driver",
+      "engine": "voice_design_reference",
+      "reference": "outputs/book-voices/transit_driver.wav",
+      "reference_sha256": "db65fc2b03f587cc4a7ca8f0617c211d7a3d337f5b8ef8ccffe77640ae7e255d",
+      "conditioning": "full audio and transcript",
+      "direction": "An original adult man in his fifties speaking clear neutral American English. A grounded middle-low register, slightly rough dry warmth, compact plain vowels and practical firm consonants. Experienced transit driver, steady under pressure, focused on passengers and machinery. Natural conversational clarity, restrained tension, no military shouting, whisper, radio filter, music or effects. Clean dry studio speech.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "source_seed": 18328083,
+      "production_uses": [
+        "hollow-throne-30"
+      ],
+      "casting_status": "Established selection or production interpretation; technical screening does not certify subjective listening quality."
+    },
+    "nora_linden": {
+      "name": "Nora Linden",
+      "synthetic": true,
+      "role": "Nemi",
+      "engine": "voice_design_reference",
+      "reference": "outputs/book-voices/nemi.wav",
+      "reference_sha256": "5d45c249254095888383862ef63837ec8acbbd8bb28a6197c0986a6272241922",
+      "conditioning": "full audio and transcript",
+      "direction": "An original adult woman in her thirties speaking clear natural British English. A warm rounded middle register, soft steady resonance, lightly textured edges and precise easy consonants. Practical, thoughtful and quietly funny, with calm lived-in confidence and restrained tenderness. Smooth connected conversational sentences, comfortable steady volume. No child voice, theatrical emotion, whisper, sobbing, music or effects. Clean dry studio speech.",
+      "model": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+      "revision": "5ecdb67327fd37bb2e042aab12ff7391903235d3",
+      "source_seed": 17610143,
+      "production_uses": [
+        "hollow-throne-31"
+      ],
+      "casting_status": "Established selection or production interpretation; technical screening does not certify subjective listening quality."
     }
   }
 }

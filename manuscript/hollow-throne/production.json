@@ -1,0 +1,541 @@
+{
+  "schemaVersion": 1,
+  "bookId": "hollow-throne",
+  "chapters": [
+    {
+      "number": 17,
+      "manuscript": "manuscript/hollow-throne/chapter-17.md",
+      "manuscript_sha256": "24ee25745c63d1989658cc906db6386a1dd2059696c77780859a0bed7afc6fec",
+      "heading_tts_text": "Chapter Seventeen.",
+      "reader_sha256": "0b650415efd7e7fc9c7fdbb0f5499720879d2c6ffb4b8470f47fa5d510b5e6f5",
+      "reader_text_sha256": "2962c36671b10ec3a738722c461a516f61d969fc710a5d1939d7353ceedfcb8b",
+      "audio_sha256": "f002a93910c240062538df0faac8f5b99ac224797e794c392321c876c19e8029",
+      "audio_bytes": 21009364,
+      "words": 2694,
+      "paragraphs": 147,
+      "clips": 171,
+      "duration": 1050.382,
+      "chapter": {
+        "id": "hollow-throne-17",
+        "number": 17,
+        "title": "The Emperor's Last Order",
+        "src": "audio/hollow-throne/chapter-17.mp3",
+        "duration": 1050.382,
+        "transcript": "text/hollow-throne/chapter-17.json"
+      }
+    },
+    {
+      "number": 18,
+      "manuscript": "manuscript/hollow-throne/chapter-18.md",
+      "manuscript_sha256": "062d5f0e9532461d1fde05787abe59030822b6f937de087ddbbdbfa233ddd558",
+      "heading_tts_text": "Chapter Eighteen.",
+      "reader_sha256": "243f82e9743837876d0ddd1aa72cf774ebff5c54e708bb13c8dbf0d04cd1bb0f",
+      "reader_text_sha256": "689039944f5fe7ceedc2fd34a6285e46891954550a285be1fafe43095729528d",
+      "audio_sha256": "3f99c219347ffaf437096d623d3eca02f2389df798173921650229f78e5caf39",
+      "audio_bytes": 21326646,
+      "words": 2689,
+      "paragraphs": 175,
+      "clips": 156,
+      "duration": 1066.235,
+      "chapter": {
+        "id": "hollow-throne-18",
+        "number": 18,
+        "title": "The Wreck of the Second Sun",
+        "src": "audio/hollow-throne/chapter-18.mp3",
+        "duration": 1066.235,
+        "transcript": "text/hollow-throne/chapter-18.json"
+      }
+    },
+    {
+      "number": 19,
+      "manuscript": "manuscript/hollow-throne/chapter-19.md",
+      "manuscript_sha256": "b35bbd57b638a2df9ee9af8d5c3624529dca9bc32fd8233265ecca035dd55360",
+      "heading_tts_text": "Chapter Nineteen.",
+      "reader_sha256": "20c5639816afb5d5ab84380d652f3f7634e19c23e4bc8f59c00dd402b3b68567",
+      "reader_text_sha256": "759955f512272b50de03f4501d6ba1795728e86989f78fad66309bab4d7f1d67",
+      "audio_sha256": "1d3e91394a27b231b3ac1d1263919514437a17516d9ad87058aac997c3ad498b",
+      "audio_bytes": 18308404,
+      "words": 2207,
+      "paragraphs": 157,
+      "clips": 154,
+      "duration": 915.32,
+      "chapter": {
+        "id": "hollow-throne-19",
+        "number": 19,
+        "title": "The Men Behind the Throne",
+        "src": "audio/hollow-throne/chapter-19.mp3",
+        "duration": 915.32,
+        "transcript": "text/hollow-throne/chapter-19.json"
+      }
+    },
+    {
+      "number": 20,
+      "manuscript": "manuscript/hollow-throne/chapter-20.md",
+      "manuscript_sha256": "02b0a4beb20cdad1c8645564604ccf7f54750c14e7062d70b285e9f3113e0527",
+      "heading_tts_text": "Chapter Twenty.",
+      "reader_sha256": "c13c84561dea3e955f3c8e21bc5039d82bb6047407980e6eefff182d2a28687a",
+      "reader_text_sha256": "92e811a3807894a6f36cf100545ffbfd3a52c436075357924584987c8a242ed3",
+      "audio_sha256": "ef3940e2489d01f81c32fe0d06127e86d019b10caffc6cdfc920509ea47b2fff",
+      "audio_bytes": 22322155,
+      "words": 2782,
+      "paragraphs": 146,
+      "clips": 188,
+      "duration": 1116.018,
+      "chapter": {
+        "id": "hollow-throne-20",
+        "number": 20,
+        "title": "The Emperor's Fear",
+        "src": "audio/hollow-throne/chapter-20.mp3",
+        "duration": 1116.018,
+        "transcript": "text/hollow-throne/chapter-20.json"
+      }
+    },
+    {
+      "number": 21,
+      "manuscript": "manuscript/hollow-throne/chapter-21.md",
+      "manuscript_sha256": "fabd3ec22f7afdc93df8b8ca88213d701b1404468f6c940128a3ad7954da93bf",
+      "heading_tts_text": "Chapter Twenty-One.",
+      "reader_sha256": "e7d47a65434d545bcfa6beac80b3437acf3eac07876cf195745e6ee3c8215c01",
+      "reader_text_sha256": "0c154f59bf8043745837cd81cc31a229967bbdac95a46295f080f27238c291bd",
+      "audio_sha256": "ee6619daed1e697cc71276514732e8f88c652d8a1458f31789d11adbd0ef8da6",
+      "audio_bytes": 24915126,
+      "words": 3334,
+      "paragraphs": 215,
+      "clips": 228,
+      "duration": 1245.663,
+      "chapter": {
+        "id": "hollow-throne-21",
+        "number": 21,
+        "title": "The Forty-Fourth Prisoner",
+        "src": "audio/hollow-throne/chapter-21.mp3",
+        "duration": 1245.663,
+        "transcript": "text/hollow-throne/chapter-21.json"
+      }
+    },
+    {
+      "number": 22,
+      "manuscript": "manuscript/hollow-throne/chapter-22.md",
+      "manuscript_sha256": "631081df4f02046d4f88552986b4b1f6bb52e6c511800c36e8a807e75e185e69",
+      "heading_tts_text": "Chapter Twenty-Two.",
+      "reader_sha256": "6b1e7a4e2044e3d800631c665cfde58b2ec40300daa62b50b7bb87675aa5a289",
+      "reader_text_sha256": "05e82527a9e8ea52d3ccca4289754f3fb854e2af733cd8f9d059db3f94bd85f1",
+      "audio_sha256": "055163b229d11ae6b06db083232a99ca0dbe6c50364b31d7102875feb91d63ce",
+      "audio_bytes": 20841366,
+      "words": 2555,
+      "paragraphs": 140,
+      "clips": 146,
+      "duration": 1041.97,
+      "chapter": {
+        "id": "hollow-throne-22",
+        "number": 22,
+        "title": "The Emperor's Final Night",
+        "src": "audio/hollow-throne/chapter-22.mp3",
+        "duration": 1041.97,
+        "transcript": "text/hollow-throne/chapter-22.json"
+      }
+    },
+    {
+      "number": 23,
+      "manuscript": "manuscript/hollow-throne/chapter-23.md",
+      "manuscript_sha256": "b2f491b686ab22b901ed9bc1967dcbf3b9b152502d5ec9799af28536839f6579",
+      "heading_tts_text": "Chapter Twenty-Three.",
+      "reader_sha256": "9f2969f22d6c8927b8edceaf1e938d1f500747433c394a149d1fb494e629f497",
+      "reader_text_sha256": "8ae5977c0817b9c61126604873983d74ed853b1f85654ca3217033e8a77c8d47",
+      "audio_sha256": "c0aa20e43d8316fcf1bbfc3c7a2e5874e7dfed152ef1f8d5acb32ff565811def",
+      "audio_bytes": 21287282,
+      "words": 2771,
+      "paragraphs": 127,
+      "clips": 173,
+      "duration": 1064.26,
+      "chapter": {
+        "id": "hollow-throne-23",
+        "number": 23,
+        "title": "Speak with My Voice",
+        "src": "audio/hollow-throne/chapter-23.mp3",
+        "duration": 1064.26,
+        "transcript": "text/hollow-throne/chapter-23.json"
+      }
+    },
+    {
+      "number": 24,
+      "manuscript": "manuscript/hollow-throne/chapter-24.md",
+      "manuscript_sha256": "af23541e3f121a62c47be1bf6797621fbf09fc3b6dcecc44e5f5886a8b05c37d",
+      "heading_tts_text": "Chapter Twenty-Four.",
+      "reader_sha256": "c5f1d439e6e1b52f91a25d26ad671ddeed90471b14cf2b282a93cdabe5d17938",
+      "reader_text_sha256": "75d3390dbe353b27a1be222cc05f8c7e79cd24122b475e116ab041bd400f5d5e",
+      "audio_sha256": "c858fd2863abc093410fc708da3b7c8b7dbdfad9f64b899a77e1e7458fee103e",
+      "audio_bytes": 28597193,
+      "words": 3627,
+      "paragraphs": 180,
+      "clips": 211,
+      "duration": 1429.763,
+      "chapter": {
+        "id": "hollow-throne-24",
+        "number": 24,
+        "title": "Forty-Three",
+        "src": "audio/hollow-throne/chapter-24.mp3",
+        "duration": 1429.763,
+        "transcript": "text/hollow-throne/chapter-24.json"
+      }
+    },
+    {
+      "number": 25,
+      "manuscript": "manuscript/hollow-throne/chapter-25.md",
+      "manuscript_sha256": "0e64bea2977f37ca9e053a60dbf40c2268201212af537a4d8c62b2a9505032ca",
+      "heading_tts_text": "Chapter Twenty-Five.",
+      "reader_sha256": "6a3eb63a73ddc4d3fec51188e7361f62efd1f61f10b9e97d8325f86af87cb074",
+      "reader_text_sha256": "c8090ba3032fe76bdc0dc19932197c6e6941c57ff8d1418280fa448f654cf947",
+      "audio_sha256": "7cee84326dff0b7c8384353d18782c21927439cd8d09f5e730f9b3280c61a6b5",
+      "audio_bytes": 21174487,
+      "words": 2741,
+      "paragraphs": 107,
+      "clips": 122,
+      "duration": 1058.63,
+      "chapter": {
+        "id": "hollow-throne-25",
+        "number": 25,
+        "title": "The Hollow Throne Awakens",
+        "src": "audio/hollow-throne/chapter-25.mp3",
+        "duration": 1058.63,
+        "transcript": "text/hollow-throne/chapter-25.json"
+      }
+    },
+    {
+      "number": 26,
+      "manuscript": "manuscript/hollow-throne/chapter-26.md",
+      "manuscript_sha256": "b2044a7775d659b3c17ac66b4b4b54eb1ef48be10098e0dbefe0b5cbd1289ce1",
+      "heading_tts_text": "Chapter Twenty-Six.",
+      "reader_sha256": "f3bcf868817a6a672c1d5b3d1d8f7eff6cdba66b18eb862e1010022dc365b2b1",
+      "reader_text_sha256": "d38f68929b582edb9fd88ee6d5c22ef406bb9b1b6c947356be8b03e3d0fee921",
+      "audio_sha256": "bc7ab9ad59020da32ffa220266b63fa87a051d1a5d5b3a024d3923c9c068b034",
+      "audio_bytes": 19301519,
+      "words": 2556,
+      "paragraphs": 116,
+      "clips": 150,
+      "duration": 964.973,
+      "chapter": {
+        "id": "hollow-throne-26",
+        "number": 26,
+        "title": "No One Has to Obey",
+        "src": "audio/hollow-throne/chapter-26.mp3",
+        "duration": 964.973,
+        "transcript": "text/hollow-throne/chapter-26.json"
+      }
+    },
+    {
+      "number": 27,
+      "manuscript": "manuscript/hollow-throne/chapter-27.md",
+      "manuscript_sha256": "e6d730b9b4689785374ba4dce6e3b64d3f1e28f705299b88a17b0bb2ef88debc",
+      "heading_tts_text": "Chapter Twenty-Seven.",
+      "reader_sha256": "c0a92d53ddfdde421f9b0ed24ff865a6bb4f7d039ca9c32ea19673fc5eb52573",
+      "reader_text_sha256": "1c3d2c463603e5a4e954624ddad7ec988244b0f7ed1c2a2ae24751184b85a843",
+      "audio_sha256": "df5776c0fcd02fd401e766216f854372810a2e44f471cab26578774780208afa",
+      "audio_bytes": 20868240,
+      "words": 2669,
+      "paragraphs": 158,
+      "clips": 167,
+      "duration": 1043.328,
+      "chapter": {
+        "id": "hollow-throne-27",
+        "number": 27,
+        "title": "The Fifth Chamber",
+        "src": "audio/hollow-throne/chapter-27.mp3",
+        "duration": 1043.328,
+        "transcript": "text/hollow-throne/chapter-27.json"
+      }
+    },
+    {
+      "number": 28,
+      "manuscript": "manuscript/hollow-throne/chapter-28.md",
+      "manuscript_sha256": "56353e4f7e9d7ea04b87d911ccec64c96b4dbecb7109c20e3f6ae8505dbf96ea",
+      "heading_tts_text": "Chapter Twenty-Eight.",
+      "reader_sha256": "ea9495f44ee82d48687b21d852e6a5bb6831767bee9f58933272f957ea1d49d3",
+      "reader_text_sha256": "2b9ec44e4516b220ba15ae09f04592186d704e06505d4d6a3e586576eea12e50",
+      "audio_sha256": "a1155c3d04b0b20d1af15c8784957a326ae3aa511300b4d51f0bb91dbbf4276d",
+      "audio_bytes": 16909199,
+      "words": 2263,
+      "paragraphs": 140,
+      "clips": 138,
+      "duration": 845.367,
+      "chapter": {
+        "id": "hollow-throne-28",
+        "number": 28,
+        "title": "The False Father",
+        "src": "audio/hollow-throne/chapter-28.mp3",
+        "duration": 845.367,
+        "transcript": "text/hollow-throne/chapter-28.json"
+      }
+    },
+    {
+      "number": 29,
+      "manuscript": "manuscript/hollow-throne/chapter-29.md",
+      "manuscript_sha256": "9716a83e2aa0816182bdbee825b476c6c19157829c426a80bfa4c53f6bc05be7",
+      "heading_tts_text": "Chapter Twenty-Nine.",
+      "reader_sha256": "e19c8f4eccc19565fcfba1e4d3bd9150b69f7b2d07095822877cc788069de0aa",
+      "reader_text_sha256": "4390924b0a3d5c55fcc27f38ee46cf11468492fa8b5ec2cc56c438ef1e88fa58",
+      "audio_sha256": "db7924bac51827b3fd8aca2174277c7d16e2a2a8e92b2fa7f824b3f159ec1104",
+      "audio_bytes": 16610163,
+      "words": 2180,
+      "paragraphs": 138,
+      "clips": 122,
+      "duration": 830.41,
+      "chapter": {
+        "id": "hollow-throne-29",
+        "number": 29,
+        "title": "The Promise of a Jedi",
+        "src": "audio/hollow-throne/chapter-29.mp3",
+        "duration": 830.41,
+        "transcript": "text/hollow-throne/chapter-29.json"
+      }
+    },
+    {
+      "number": 30,
+      "manuscript": "manuscript/hollow-throne/chapter-30.md",
+      "manuscript_sha256": "15076082556159afe957cefda297da3f5e495b558c94fd22c44a5b077ae4ca26",
+      "heading_tts_text": "Chapter Thirty.",
+      "reader_sha256": "61c973fb5bd1b0454b60aeed539c732f74829cc8c29c01c58e38dd4c1849d938",
+      "reader_text_sha256": "509848ce97abe898b95196939d1f6e894a36dcf55f99843bb4e915c364666342",
+      "audio_sha256": "c5fd5c39d31a34d3805b8ca9f46e47a9505704512383095dbef64047553bcae4",
+      "audio_bytes": 22620713,
+      "words": 2850,
+      "paragraphs": 198,
+      "clips": 164,
+      "duration": 1130.94,
+      "chapter": {
+        "id": "hollow-throne-30",
+        "number": 30,
+        "title": "The Last Command",
+        "src": "audio/hollow-throne/chapter-30.mp3",
+        "duration": 1130.94,
+        "transcript": "text/hollow-throne/chapter-30.json"
+      }
+    },
+    {
+      "number": 31,
+      "manuscript": "manuscript/hollow-throne/chapter-31.md",
+      "manuscript_sha256": "3a003a4ef087f690ba661e0cea5f4f8e71871cc79836705a227325de349f0e55",
+      "heading_tts_text": "Chapter Thirty-One.",
+      "reader_sha256": "73a448185544c398077aaae9db7db6e960a1eadb1353b037478b27dc7e19f24e",
+      "reader_text_sha256": "7c06aaf9db39d884ddef5ad6eab0e38804e1b19e332498f80fdd5900de471da8",
+      "audio_sha256": "f339a305fd5c7fbc6b41ceb48246d435801907ecae2609bc255aea5b7ab923c8",
+      "audio_bytes": 23209674,
+      "words": 2976,
+      "paragraphs": 173,
+      "clips": 177,
+      "duration": 1160.385,
+      "chapter": {
+        "id": "hollow-throne-31",
+        "number": 31,
+        "title": "The Open Door",
+        "src": "audio/hollow-throne/chapter-31.mp3",
+        "duration": 1160.385,
+        "transcript": "text/hollow-throne/chapter-31.json"
+      }
+    }
+  ],
+  "words": 40894,
+  "seconds": 15963.644000000002,
+  "previous_chapters_unchanged": true,
+  "previous_assets": [
+    {
+      "path": "text/hollow-throne/chapter-06.json",
+      "bytes": 50606,
+      "sha256": "b96b76fc8a0d0e6d074b3cc44373f396be3abe4b9651158d908b4d5a02471e9a"
+    },
+    {
+      "path": "text/hollow-throne/chapter-07.json",
+      "bytes": 57033,
+      "sha256": "d5a34276f441d260f51aa50891a2edd12108d1dae91a559eae6e51c0ffad5fb8"
+    },
+    {
+      "path": "text/hollow-throne/chapter-08.json",
+      "bytes": 62945,
+      "sha256": "6ec6e6c2deaafefc63a414a6e3c8755494e2de6723810add3e89e0d1523079d5"
+    },
+    {
+      "path": "text/hollow-throne/chapter-09.json",
+      "bytes": 60702,
+      "sha256": "af8db25cbb0c63e88639935d9d0ab784c46f1c3c748eb998bdccec534f5cfee4"
+    },
+    {
+      "path": "text/hollow-throne/chapter-10.json",
+      "bytes": 90777,
+      "sha256": "7cc972fe0addc9c00ee8c94103cd85f2082c7dc690898c977c74d4ff10b2753e"
+    },
+    {
+      "path": "text/hollow-throne/chapter-11.json",
+      "bytes": 68708,
+      "sha256": "14cc83d15a16b8000ca6aa234a00c640cb6395469f2285b3755e7c238ecd5586"
+    },
+    {
+      "path": "text/hollow-throne/chapter-12.json",
+      "bytes": 88382,
+      "sha256": "df967dc1829bb22e4f9fae4d89bc30a46cbbe618fb29c645fe42e086fed8d926"
+    },
+    {
+      "path": "text/hollow-throne/chapter-13.json",
+      "bytes": 81818,
+      "sha256": "1a4f8ef22a8d282ee6bdb94edff97d7503ad70fc8fb81b23e57fad58f5a56ab2"
+    },
+    {
+      "path": "text/hollow-throne/chapter-14.json",
+      "bytes": 89633,
+      "sha256": "bd9fea2e8044b153a45ec36e4af0df8fdc3612b3b98f3481c1f75e3437b09379"
+    },
+    {
+      "path": "text/hollow-throne/chapter-15.json",
+      "bytes": 70817,
+      "sha256": "510ed99cc4acba540d59eaa419fd410460a2ad1a759307e5882eef6657be2516"
+    },
+    {
+      "path": "text/hollow-throne/chapter-16.json",
+      "bytes": 98488,
+      "sha256": "93ca8955dd58fe3b0212d555fb13d9aa78cad98d3ebe42ad5b8943688fe7f8a8"
+    },
+    {
+      "path": "audio/hollow-throne/chapter-06.mp3",
+      "bytes": 23819281,
+      "sha256": "04833f31256aba8e2c9988726697cc57d003e931e0abda475df53e89eb3666f2"
+    },
+    {
+      "path": "audio/hollow-throne/chapter-07.mp3",
+      "bytes": 30162968,
+      "sha256": "7db726791f6c3872adedfeb05966d9f35cb046bdb4bc3ecdf5a06a412ded79c9"
+    },
+    {
+      "path": "audio/hollow-throne/chapter-08.mp3",
+      "bytes": 27260872,
+      "sha256": "9aeaf403d1e24e95abeecbd908ff187e93c67a2e5acbcd615c3f1e701e8438b5"
+    },
+    {
+      "path": "audio/hollow-throne/chapter-09.mp3",
+      "bytes": 40191593,
+      "sha256": "ba2e02b6948f4ab3dc22412296863768d0bc09678a3ef407f5b7dd6c4b82f67c"
+    },
+    {
+      "path": "audio/hollow-throne/chapter-10.mp3",
+      "bytes": 42242641,
+      "sha256": "242d440990b2be1ce348b2a0db1c49fa9f2cc3a7fa9b01ea8688b08f4a5cef5e"
+    },
+    {
+      "path": "audio/hollow-throne/chapter-11.mp3",
+      "bytes": 32728567,
+      "sha256": "fdea916e824a353585f4c28cb0ba5dd3d9a011adff8cab75cb0277a7a2b485fb"
+    },
+    {
+      "path": "audio/hollow-throne/chapter-12.mp3",
+      "bytes": 39399592,
+      "sha256": "9a2dd290bb3bc63208372a680404aa7e9da35ed19389058005b4e8a12ba25452"
+    },
+    {
+      "path": "audio/hollow-throne/chapter-13.mp3",
+      "bytes": 44239437,
+      "sha256": "204723a73d1bbc08cbe7105db4d85f4998bb1fdf84e6aaf0a1473537209c977f"
+    },
+    {
+      "path": "audio/hollow-throne/chapter-14.mp3",
+      "bytes": 35472235,
+      "sha256": "300c273e7357ec9fec087fd827c4d7a00ebe5fb16e12f3b92b172261c9a9a9f6"
+    },
+    {
+      "path": "audio/hollow-throne/chapter-15.mp3",
+      "bytes": 36451434,
+      "sha256": "da8df9f6c5c58a2288b6e70309ce16a4585d8d601a34ed5c34fd1d7dd50fca25"
+    },
+    {
+      "path": "audio/hollow-throne/chapter-16.mp3",
+      "bytes": 44182811,
+      "sha256": "4462024fd4bbdd68de8e0d752e4d41706ec57737b68a7850ab8063a74a9b923a"
+    }
+  ],
+  "previous_chapters": [
+    {
+      "id": "hollow-throne-06",
+      "number": 6,
+      "title": "A Familiar Den of Scum",
+      "src": "audio/hollow-throne/chapter-06.mp3",
+      "duration": 1190.86,
+      "transcript": "text/hollow-throne/chapter-06.json"
+    },
+    {
+      "id": "hollow-throne-07",
+      "number": 7,
+      "title": "The Day the Death Star Died",
+      "src": "audio/hollow-throne/chapter-07.mp3",
+      "duration": 1508.06,
+      "transcript": "text/hollow-throne/chapter-07.json"
+    },
+    {
+      "id": "hollow-throne-08",
+      "number": 8,
+      "title": "Below the Clouds",
+      "src": "audio/hollow-throne/chapter-08.mp3",
+      "duration": 1362.95,
+      "transcript": "text/hollow-throne/chapter-08.json"
+    },
+    {
+      "id": "hollow-throne-09",
+      "number": 9,
+      "title": "The Cave of Echoes",
+      "src": "audio/hollow-throne/chapter-09.mp3",
+      "duration": 2009.49,
+      "transcript": "text/hollow-throne/chapter-09.json"
+    },
+    {
+      "id": "hollow-throne-10",
+      "number": 10,
+      "title": "The Death of Darth Plagueis",
+      "src": "audio/hollow-throne/chapter-10.mp3",
+      "duration": 2112.04,
+      "transcript": "text/hollow-throne/chapter-10.json"
+    },
+    {
+      "id": "hollow-throne-11",
+      "number": 11,
+      "title": "The Voices Beneath the Cantina",
+      "src": "audio/hollow-throne/chapter-11.mp3",
+      "duration": 1636.323,
+      "transcript": "text/hollow-throne/chapter-11.json"
+    },
+    {
+      "id": "hollow-throne-12",
+      "number": 12,
+      "title": "The Carbon Room",
+      "src": "audio/hollow-throne/chapter-12.mp3",
+      "duration": 1969.878,
+      "transcript": "text/hollow-throne/chapter-12.json"
+    },
+    {
+      "id": "hollow-throne-13",
+      "number": 13,
+      "title": "The Trap at Bespin",
+      "src": "audio/hollow-throne/chapter-13.mp3",
+      "duration": 2211.88,
+      "transcript": "text/hollow-throne/chapter-13.json"
+    },
+    {
+      "id": "hollow-throne-14",
+      "number": 14,
+      "title": "What Yoda Feared",
+      "src": "audio/hollow-throne/chapter-14.mp3",
+      "duration": 1773.515,
+      "transcript": "text/hollow-throne/chapter-14.json"
+    },
+    {
+      "id": "hollow-throne-15",
+      "number": 15,
+      "title": "The Missing Body",
+      "src": "audio/hollow-throne/chapter-15.mp3",
+      "duration": 1822.47,
+      "transcript": "text/hollow-throne/chapter-15.json"
+    },
+    {
+      "id": "hollow-throne-16",
+      "number": 16,
+      "title": "The Children Who Were Never Found",
+      "src": "audio/hollow-throne/chapter-16.mp3",
+      "duration": 2209.045,
+      "transcript": "text/hollow-throne/chapter-16.json"
+    }
+  ]
+}

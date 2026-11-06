@@ -1,0 +1,1412 @@
+{
+  "version": 1,
+  "chapterId": "hollow-throne-18",
+  "duration": 1066.235,
+  "alignment": "Canonical book paragraphs use fixed synthesis boundaries and cached local Whisper word timestamps; unmatched starts are interpolated.",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Chapter Eighteen: The Wreck of the Second Sun",
+      "start": 0.0,
+      "timing": "segment",
+      "kind": "title",
+      "end": 1.48
+    },
+    {
+      "id": "p0002",
+      "text": "At first Han thought the dark line crossing Endor's clouds was a shadow.",
+      "start": 1.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 7.2
+    },
+    {
+      "id": "p0003",
+      "text": "Then the Falcon's range display settled, and he understood how far away the objects were. Pieces of the battle station filled a band of space wider than the distance between most planets and their moons. Sunlight caught an occasional surface and turned it silver. Everything else remained black against the forest world below.",
+      "start": 7.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 27.64
+    },
+    {
+      "id": "p0004",
+      "text": "He had flown out of that explosion. He had spent the intervening months enjoying the fact that it was behind him.",
+      "start": 27.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 34.81
+    },
+    {
+      "id": "p0005",
+      "text": "\"Tell me you brought a smaller job,\" he said.",
+      "start": 34.81,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 38.28
+    },
+    {
+      "id": "p0006",
+      "text": "Luke sat at the auxiliary station with the salvage estimates open on his knees. He and Artoo had joined the Falcon twelve hours earlier at Ackbar's staging vessel. Luke had slept through most of the journey. Han had tried to, and found himself listening to the ship instead.",
+      "start": 38.28,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 56.33
+    },
+    {
+      "id": "p0007",
+      "text": "\"Three possible custody beacons,\" Luke said. \"Two are empty mounting assemblies. The third is in that cluster.\"",
+      "start": 56.33,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 62.82
+    },
+    {
+      "id": "p0008",
+      "text": "He pointed toward a group of returns beyond the main debris band.",
+      "start": 62.82,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 67.03
+    },
+    {
+      "id": "p0009",
+      "text": "Han enlarged it. A ragged frame turned slowly around an invisible center. Something once cylindrical lay caught inside it. Two smaller objects followed the frame through the same rotation, connected by lengths of cable too fine for the sensors to resolve.",
+      "start": 67.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 84.57
+    },
+    {
+      "id": "p0010",
+      "text": "\"Of course it is.\"",
+      "start": 84.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 85.92
+    },
+    {
+      "id": "p0011",
+      "text": "Chewbacca made a low observation from the copilot's seat.",
+      "start": 85.92,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 90.32
+    },
+    {
+      "id": "p0012",
+      "text": "\"No, I wasn't hoping it would be in the easy one. I was keeping an open mind.\"",
+      "start": 90.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 95.1
+    },
+    {
+      "id": "p0013",
+      "text": "The Wookiee gave him the look that usually accompanied that particular explanation.",
+      "start": 95.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 100.28
+    },
+    {
+      "id": "p0014",
+      "text": "Luke leaned forward between them. \"Ackbar's team won't put a shuttle inside the cluster. The radiation goes up every time the broken reactor shield turns toward us.\"",
+      "start": 100.28,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 108.83
+    },
+    {
+      "id": "p0015",
+      "text": "Han watched the frame complete another fraction of its rotation. The notary pod was designed to leave the station in an emergency. Its little escape motor had done that much, then driven it into something larger moving almost the same way. Three months of patient orbital motion had twisted the collision into a knot.",
+      "start": 108.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 129.07
+    },
+    {
+      "id": "p0016",
+      "text": "\"How long?\"",
+      "start": 129.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 130.1
+    },
+    {
+      "id": "p0017",
+      "text": "Artoo projected a small red arc on the display.",
+      "start": 130.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 133.65
+    },
+    {
+      "id": "p0018",
+      "text": "\"On this pass?\" Luke said. \"Nine minutes before we need the Falcon's shielding between us and the source.\"",
+      "start": 133.65,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 139.6
+    },
+    {
+      "id": "p0019",
+      "text": "Han checked the retrieval bay's external cameras. Chewbacca had fitted its opening with the extra shielding at the staging point. It looked like an ugly patch on an already ugly ship.",
+      "start": 139.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 151.25
+    },
+    {
+      "id": "p0020",
+      "text": "\"Then let's make the first eight count.\"",
+      "start": 151.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 153.76
+    },
+    {
+      "id": "p0021",
+      "text": "They found the other salvagers when a cutting flare lit the frame from inside.",
+      "start": 153.76,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 159.37
+    },
+    {
+      "id": "p0022",
+      "text": "It was a precise green spark, followed by a fan of cooling metal. A small tug emerged behind it, edging backward on four widely separated thrusters. Its bow carried a cutting claw. Its transponder identified it as a sanitation tender licensed to clear military navigation hazards.",
+      "start": 159.37,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 179.05
+    },
+    {
+      "id": "p0023",
+      "text": "Han studied the tug's dorsal gun.",
+      "start": 179.05,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 182.29
+    },
+    {
+      "id": "p0024",
+      "text": "\"Busy sanitation business.\"",
+      "start": 182.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 184.32
+    },
+    {
+      "id": "p0025",
+      "text": "He opened the channel Ackbar had assigned to the salvage operation.",
+      "start": 184.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 189.01
+    },
+    {
+      "id": "p0026",
+      "text": "\"Tug inside the marked exclusion area, this is the Millennium Falcon. Shut down your cutters. You've got a radiation source turning toward you.\"",
+      "start": 189.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 197.64
+    },
+    {
+      "id": "p0027",
+      "text": "The tug continued backing away. Its claw was attached to one of the cables running through the frame.",
+      "start": 197.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 205.26
+    },
+    {
+      "id": "p0028",
+      "text": "Luke watched the growing angle between them.",
+      "start": 205.26,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 207.86
+    },
+    {
+      "id": "p0029",
+      "text": "\"They're pulling the pod out.\"",
+      "start": 207.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 209.38
+    },
+    {
+      "id": "p0030",
+      "text": "\"They're pulling the whole knot apart.\"",
+      "start": 209.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 211.32
+    },
+    {
+      "id": "p0031",
+      "text": "Han raised his voice.",
+      "start": 211.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 213.4
+    },
+    {
+      "id": "p0032",
+      "text": "\"Listen to me. Let that cable go.\"",
+      "start": 213.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 215.77
+    },
+    {
+      "id": "p0033",
+      "text": "A man answered, breathing hard.",
+      "start": 215.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 218.57
+    },
+    {
+      "id": "p0034",
+      "text": "\"Withdraw from the recovery boundary. This material is under executive custody.\"",
+      "start": 218.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 223.57
+    },
+    {
+      "id": "p0035",
+      "text": "\"I'm sure it is. We're here to check the receipts.\"",
+      "start": 223.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 226.57
+    },
+    {
+      "id": "p0036",
+      "text": "The tug's gun moved toward them.",
+      "start": 226.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 229.69
+    },
+    {
+      "id": "p0037",
+      "text": "Han lowered the Falcon beneath the frame before it fired. Red bolts passed overhead. One struck an old docking collar, throwing off a glittering sheet of fragments. Chewbacca brought their shields up, and the fragments swept across them with a patter Han could feel through his boots.",
+      "start": 229.69,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 247.14
+    },
+    {
+      "id": "p0038",
+      "text": "\"All right,\" he said. \"We can do it the other way.\"",
+      "start": 247.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 250.28
+    },
+    {
+      "id": "p0039",
+      "text": "He brought the bow around far enough to put the tug on the forward targeting display. Its engines were exposed beneath the aft hull. One burst would stop it pulling.",
+      "start": 250.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 261.78
+    },
+    {
+      "id": "p0040",
+      "text": "Luke caught his wrist.",
+      "start": 261.78,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 263.43
+    },
+    {
+      "id": "p0041",
+      "text": "\"There's someone outside.\"",
+      "start": 263.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 264.85
+    },
+    {
+      "id": "p0042",
+      "text": "Han looked again.",
+      "start": 264.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 266.77
+    },
+    {
+      "id": "p0043",
+      "text": "A pale shape moved along the tensioned cable between the tug and the wreckage. A worker in a pressure suit, no bigger than Han's thumb on the screen. The worker was trying to reach a mounting point on the frame. The cable shivered with every engine correction.",
+      "start": 266.77,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 283.29
+    },
+    {
+      "id": "p0044",
+      "text": "The tug fired again.",
+      "start": 283.29,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 285.01
+    },
+    {
+      "id": "p0045",
+      "text": "Han took his hand off the trigger.",
+      "start": 285.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 287.2
+    },
+    {
+      "id": "p0046",
+      "text": "\"I see him.\"",
+      "start": 287.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 288.25
+    },
+    {
+      "id": "p0047",
+      "text": "He pushed the Falcon farther down and around, keeping the great curve of a shattered coolant pipe between them and the gun. Chewbacca brought up the retrieval field. Its indicator flashed amber.",
+      "start": 288.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 300.91
+    },
+    {
+      "id": "p0048",
+      "text": "The Wookiee growled.",
+      "start": 300.91,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 302.61
+    },
+    {
+      "id": "p0049",
+      "text": "\"What do you mean the clamp won't unfold?\"",
+      "start": 302.61,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 304.96
+    },
+    {
+      "id": "p0050",
+      "text": "A sharp reply.",
+      "start": 304.96,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 307.26
+    },
+    {
+      "id": "p0051",
+      "text": "Han could hear the strain already, somewhere aft. Something the extra shielding had pressed out of alignment.",
+      "start": 307.26,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 315.26
+    },
+    {
+      "id": "p0052",
+      "text": "Luke was unfastening his harness.",
+      "start": 315.26,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 317.74
+    },
+    {
+      "id": "p0053",
+      "text": "\"I'll get the worker.\"",
+      "start": 317.74,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 318.93
+    },
+    {
+      "id": "p0054",
+      "text": "Han looked at the pale shape on the cable. The person had stopped moving forward.",
+      "start": 318.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 325.32
+    },
+    {
+      "id": "p0055",
+      "text": "\"Take the second tether.\"",
+      "start": 325.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 326.71
+    },
+    {
+      "id": "p0056",
+      "text": "\"I will.\"",
+      "start": 326.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 327.63
+    },
+    {
+      "id": "p0057",
+      "text": "\"And take Artoo. We don't have time for two trips.\"",
+      "start": 327.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 331.32
+    },
+    {
+      "id": "p0058",
+      "text": "The stars turned when Luke left the airlock.",
+      "start": 331.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 334.58
+    },
+    {
+      "id": "p0059",
+      "text": "For a moment he felt the movement in his stomach rather than his eyes: the Falcon matching the wreckage's rotation, the frame moving across the moon, the suit's small maneuvering jets working against his shoulder blades. He fixed his attention on the worker. Beyond that pressure helmet was a frightened living presence, close enough for him to feel its struggle without knowing the thoughts behind it.",
+      "start": 334.58,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 359.08
+    },
+    {
+      "id": "p0060",
+      "text": "Artoo came out after him in a simple thruster cradle. He protested at the tether attached to his dome.",
+      "start": 359.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 366.67
+    },
+    {
+      "id": "p0061",
+      "text": "\"You can complain when we're inside,\" Luke said.",
+      "start": 366.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 370.24
+    },
+    {
+      "id": "p0062",
+      "text": "The droid answered with a descending whistle.",
+      "start": 370.24,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 372.97
+    },
+    {
+      "id": "p0063",
+      "text": "\"Inside the Falcon.\"",
+      "start": 372.97,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 374.33
+    },
+    {
+      "id": "p0064",
+      "text": "Luke caught a handrail on the frame. It moved beneath his glove, transmitting a deep vibration. He clipped the second tether, checked Artoo's connection, and pushed toward the worker.",
+      "start": 374.33,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 388.63
+    },
+    {
+      "id": "p0065",
+      "text": "The cable snapped before he reached him.",
+      "start": 388.63,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 391.37
+    },
+    {
+      "id": "p0066",
+      "text": "There was no sound. A section of silver line whipped past Luke's faceplate, struck the handrail, and disappeared into space. The worker spun away with both arms extended. A torn hose trailed from the suit's side.",
+      "start": 391.37,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 406.03
+    },
+    {
+      "id": "p0067",
+      "text": "Luke reached into the Force.",
+      "start": 406.03,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 408.13
+    },
+    {
+      "id": "p0068",
+      "text": "The man's motion slowed. He was still rotating, but the widening distance between them stopped increasing. Luke drew him back carefully, using his jets to meet him. The worker struck his shoulder hard enough to push the air from his lungs.",
+      "start": 408.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 423.12
+    },
+    {
+      "id": "p0069",
+      "text": "They turned together. Luke found the man's harness and locked a tether onto it.",
+      "start": 423.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 428.97
+    },
+    {
+      "id": "p0070",
+      "text": "\"I have you,\" he said. \"Stop firing your pack.\"",
+      "start": 428.97,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 432.13
+    },
+    {
+      "id": "p0071",
+      "text": "The worker's boots kicked against his. Through the helmet Luke saw a face with its eyes squeezed shut.",
+      "start": 432.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 439.83
+    },
+    {
+      "id": "p0072",
+      "text": "\"Look at me.\"",
+      "start": 439.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 440.75
+    },
+    {
+      "id": "p0073",
+      "text": "The eyes opened.",
+      "start": 440.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 442.91
+    },
+    {
+      "id": "p0074",
+      "text": "Luke put a gloved hand over the torn hose and squeezed the suit's emergency clamp. A warning light changed from red to yellow.",
+      "start": 442.91,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 451.89
+    },
+    {
+      "id": "p0075",
+      "text": "\"You have reserve air. Follow the line back to the ship.\"",
+      "start": 451.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 455.41
+    },
+    {
+      "id": "p0076",
+      "text": "\"They're leaving,\" the man said.",
+      "start": 455.41,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 458.47
+    },
+    {
+      "id": "p0077",
+      "text": "Luke turned.",
+      "start": 458.47,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 459.95
+    },
+    {
+      "id": "p0078",
+      "text": "The tug had cut loose. It was backing out of the cluster, its gun turning after the Falcon. The freed frame had begun a new rotation. A great sheet of metal folded slowly across the space they had just occupied.",
+      "start": 459.95,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 473.42
+    },
+    {
+      "id": "p0079",
+      "text": "\"Han.\"",
+      "start": 473.42,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 474.31
+    },
+    {
+      "id": "p0080",
+      "text": "\"Working on it.\"",
+      "start": 474.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 475.35
+    },
+    {
+      "id": "p0081",
+      "text": "The Falcon surged across their view, putting its upper shields between the worker and the tug. Fire washed blue across the saucer. Luke heard Chewbacca roar over the open comm, followed by a crash from somewhere inside the ship.",
+      "start": 475.35,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 491.45
+    },
+    {
+      "id": "p0082",
+      "text": "Then the Falcon's retrieval arm opened.",
+      "start": 491.45,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 494.43
+    },
+    {
+      "id": "p0083",
+      "text": "\"There it is,\" Han said. \"Chewie, you're beautiful.\"",
+      "start": 494.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 498.08
+    },
+    {
+      "id": "p0084",
+      "text": "The tug turned away. Its pilot had evidently decided that leaving quickly mattered more than whatever the worker might say.",
+      "start": 498.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 507.17
+    },
+    {
+      "id": "p0085",
+      "text": "Luke brought the rescued man to the frame's lee side and clipped him to the line leading toward the Falcon. Artoo waited beside a cylindrical object wedged through a broken truss. On its side, beneath a layer of pitting and scorched insulation, was the number Leia had sent.",
+      "start": 507.17,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 523.91
+    },
+    {
+      "id": "p0086",
+      "text": "Nineteen.",
+      "start": 523.91,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 525.14
+    },
+    {
+      "id": "p0087",
+      "text": "Han did not follow the tug.",
+      "start": 525.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 527.7
+    },
+    {
+      "id": "p0088",
+      "text": "He watched its engine trace retreat toward the debris band's edge and hated the calculation that let it go. The Falcon could have caught it in open space. Luke and Artoo were outside, the radiation arc was moving steadily across the display, and the frame was now turning on an axis none of their estimates had predicted.",
+      "start": 527.7,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 548.84
+    },
+    {
+      "id": "p0089",
+      "text": "Chewbacca hauled himself back into the cockpit, one forearm blackened with lubricant. He had freed the retrieval clamp by entering its service recess while the gunfire struck the shields on the other side.",
+      "start": 548.84,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 561.76
+    },
+    {
+      "id": "p0090",
+      "text": "\"Nice work,\" Han said.",
+      "start": 561.76,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 563.97
+    },
+    {
+      "id": "p0091",
+      "text": "The Wookiee shoved him firmly back toward the controls.",
+      "start": 563.97,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 567.41
+    },
+    {
+      "id": "p0092",
+      "text": "\"Right. Compliments later.\"",
+      "start": 567.41,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 569.25
+    },
+    {
+      "id": "p0093",
+      "text": "They followed Luke's tether toward the pod. Han could see where it was caught. Two folded truss members had pinched the pod's mounting collar, and a tangle of cable held the far end against the frame. Pulling would drag several hundred tons of wreckage after it.",
+      "start": 569.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 586.29
+    },
+    {
+      "id": "p0094",
+      "text": "\"Luke, you've got to cut the collar.\"",
+      "start": 586.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 588.29
+    },
+    {
+      "id": "p0095",
+      "text": "\"I see it. Artoo needs another minute.\"",
+      "start": 588.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 590.69
+    },
+    {
+      "id": "p0096",
+      "text": "\"He can have half.\"",
+      "start": 590.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 592.02
+    },
+    {
+      "id": "p0097",
+      "text": "A protest came down the comm.",
+      "start": 592.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 594.09
+    },
+    {
+      "id": "p0098",
+      "text": "\"You can have the whole minute if you come back and fly this.\"",
+      "start": 594.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 597.3
+    },
+    {
+      "id": "p0099",
+      "text": "Han reduced thrust. The Falcon slipped closer to the turning frame, close enough that a sensor mast passed above the cockpit windows. Chewbacca made a delicate adjustment to the retrieval field. The pod's cylindrical body shifted.",
+      "start": 597.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 613.18
+    },
+    {
+      "id": "p0100",
+      "text": "Artoo had opened a hatch near its end. His dome was almost hidden inside it. Luke braced one boot against a truss member, helping him hold the access panel clear.",
+      "start": 613.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 625.7
+    },
+    {
+      "id": "p0101",
+      "text": "The rescued worker reached the Falcon's airlock. The outer indicator changed as the ship took him in.",
+      "start": 625.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 632.92
+    },
+    {
+      "id": "p0102",
+      "text": "One fewer person outside.",
+      "start": 632.92,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 635.08
+    },
+    {
+      "id": "p0103",
+      "text": "The radiation warning sounded.",
+      "start": 635.08,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 637.4
+    },
+    {
+      "id": "p0104",
+      "text": "Han switched it off. He knew where the red arc was.",
+      "start": 637.4,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 641.36
+    },
+    {
+      "id": "p0105",
+      "text": "\"Luke.\"",
+      "start": 641.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 642.21
+    },
+    {
+      "id": "p0106",
+      "text": "\"Almost.\"",
+      "start": 642.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 643.24
+    },
+    {
+      "id": "p0107",
+      "text": "A new glow appeared in the pod, faint and blue. Artoo drew back, holding something in his gripper. Luke took it, placed it in a pouch, and reached into the hatch himself. A second object emerged, longer and carefully wrapped in an old protective sheath.",
+      "start": 643.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 661.4
+    },
+    {
+      "id": "p0108",
+      "text": "\"That's enough,\" Han said.",
+      "start": 661.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 663.65
+    },
+    {
+      "id": "p0109",
+      "text": "Artoo extended his interface arm again.",
+      "start": 663.65,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 667.65
+    },
+    {
+      "id": "p0110",
+      "text": "Luke's voice came sharply over the comm.",
+      "start": 667.65,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 670.22
+    },
+    {
+      "id": "p0111",
+      "text": "\"No, Artoo. We have to go.\"",
+      "start": 670.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 672.61
+    },
+    {
+      "id": "p0112",
+      "text": "The nearest truss member moved.",
+      "start": 672.61,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 675.09
+    },
+    {
+      "id": "p0113",
+      "text": "It came down with the terrible slowness of a large object already carrying more momentum than anything around it could stop. Han could see the narrowing space between it and the pod. Luke was in that space.",
+      "start": 675.09,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 687.77
+    },
+    {
+      "id": "p0114",
+      "text": "Chewbacca caught Han's shoulder and pointed.",
+      "start": 687.77,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 690.61
+    },
+    {
+      "id": "p0115",
+      "text": "The broken mounting collar.",
+      "start": 690.61,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 692.51
+    },
+    {
+      "id": "p0116",
+      "text": "Han understood. He rolled the Falcon, pushing one edge of its shields against the loose end of the truss. The shields flared. A grinding vibration ran through the ship. For a few seconds, the truss stopped closing.",
+      "start": 692.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 707.39
+    },
+    {
+      "id": "p0117",
+      "text": "Luke's green blade ignited. He cut once through the mounting collar, then caught Artoo's cradle and pushed off.",
+      "start": 707.39,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 716.73
+    },
+    {
+      "id": "p0118",
+      "text": "The pod sprang free.",
+      "start": 716.73,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 718.85
+    },
+    {
+      "id": "p0119",
+      "text": "Chewbacca pulled it toward the retrieval bay. The added weight dragged at the Falcon's turn. Han fought the controls, keeping their shielding across the radiation source while the frame came apart behind them.",
+      "start": 718.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 733.02
+    },
+    {
+      "id": "p0120",
+      "text": "\"Luke, get clear!\"",
+      "start": 733.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 734.38
+    },
+    {
+      "id": "p0121",
+      "text": "Two suit lights moved toward the airlock. One belonged to Luke. The other was Artoo's cradle beacon, spinning wildly until Luke caught it.",
+      "start": 734.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 745.42
+    },
+    {
+      "id": "p0122",
+      "text": "Han waited for the outer lock indicator. It stayed red.",
+      "start": 745.42,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 749.28
+    },
+    {
+      "id": "p0123",
+      "text": "The frame struck their lower shields.",
+      "start": 749.28,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 751.81
+    },
+    {
+      "id": "p0124",
+      "text": "The Falcon shuddered. A display went dark. Chewbacca held the retrieval field steady with both hands on its manual controller.",
+      "start": 751.81,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 760.89
+    },
+    {
+      "id": "p0125",
+      "text": "The lock indicator turned amber.",
+      "start": 760.89,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 763.79
+    },
+    {
+      "id": "p0126",
+      "text": "Han drove the engines forward.",
+      "start": 763.79,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 765.88
+    },
+    {
+      "id": "p0127",
+      "text": "They came out of the cluster trailing pieces of burned insulation and one very expensive damaged shield emitter. The moon filled the windows. Sunlight returned to the cockpit in a broad warm sheet.",
+      "start": 765.88,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 779.58
+    },
+    {
+      "id": "p0128",
+      "text": "Han let himself breathe.",
+      "start": 779.58,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 781.46
+    },
+    {
+      "id": "p0129",
+      "text": "\"Everybody?\"",
+      "start": 781.46,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 782.52
+    },
+    {
+      "id": "p0130",
+      "text": "Luke answered after a moment. \"Everybody.\"",
+      "start": 782.52,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 785.6
+    },
+    {
+      "id": "p0131",
+      "text": "Artoo said something that did not sound grateful.",
+      "start": 785.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 790.38
+    },
+    {
+      "id": "p0132",
+      "text": "Chewbacca began to laugh.",
+      "start": 790.38,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 792.52
+    },
+    {
+      "id": "p0133",
+      "text": "The notary pod occupied most of the retrieval bay. Its outer shell had survived the explosion, the collision, and Han's extraction. The hatch Artoo had opened was now warped shut.",
+      "start": 792.52,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 805.6
+    },
+    {
+      "id": "p0134",
+      "text": "Luke laid the two recovered objects on the hold table. One was a rectangular memory core inside a shock cradle. The other, beneath its split sheath, was a small ceramic spindle with a cracked pale surface.",
+      "start": 805.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 819.15
+    },
+    {
+      "id": "p0135",
+      "text": "Han looked at it.",
+      "start": 819.15,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 821.14
+    },
+    {
+      "id": "p0136",
+      "text": "\"We just risked my ship for pottery.\"",
+      "start": 821.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 823.53
+    },
+    {
+      "id": "p0137",
+      "text": "Luke ran a finger along the sheath's printed label without touching the spindle itself.",
+      "start": 823.53,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 830.01
+    },
+    {
+      "id": "p0138",
+      "text": "\"And a droid's memory.\"",
+      "start": 830.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 831.36
+    },
+    {
+      "id": "p0139",
+      "text": "\"A useful droid?\"",
+      "start": 831.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 832.93
+    },
+    {
+      "id": "p0140",
+      "text": "Artoo made a pointed sound.",
+      "start": 832.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 835.17
+    },
+    {
+      "id": "p0141",
+      "text": "\"I'm asking.\"",
+      "start": 835.17,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 836.31
+    },
+    {
+      "id": "p0142",
+      "text": "Luke smiled, but there was exhaustion in it. His shoulder was bruised where the worker had struck him, and the sleeve of his pressure suit had a long shallow score across it.",
+      "start": 836.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 849.54
+    },
+    {
+      "id": "p0143",
+      "text": "\"The records inside the pod identify this as an original observation reference,\" he said. \"It was being held for destruction. Artoo got the custody ledger and the paired seal, but the main archive's damaged. We couldn't bring the rest of it.\"",
+      "start": 849.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 862.44
+    },
+    {
+      "id": "p0144",
+      "text": "Han looked toward the retrieval bay. The whole notary pod had proved heavier than he had liked. Even if they cut it open, its remaining memory banks had been exposed when the collar tore free. The radiation readings made the decision simple.",
+      "start": 862.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 877.73
+    },
+    {
+      "id": "p0145",
+      "text": "\"We'll let Ackbar's people take the shell. They can lose their hair working on it.\"",
+      "start": 877.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 882.0
+    },
+    {
+      "id": "p0146",
+      "text": "Chewbacca put a hand on his head.",
+      "start": 882.0,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 884.23
+    },
+    {
+      "id": "p0147",
+      "text": "\"You know what I mean.\"",
+      "start": 884.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 885.3
+    },
+    {
+      "id": "p0148",
+      "text": "The rescued worker was sitting on a bunk with a thermal blanket around his shoulders. Han had left the door open. The man had already asked twice whether he was a prisoner.",
+      "start": 885.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 896.95
+    },
+    {
+      "id": "p0149",
+      "text": "Luke went to him now, while Han and Chewbacca examined the custody ledger Artoo projected above the table.",
+      "start": 896.95,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 905.61
+    },
+    {
+      "id": "p0150",
+      "text": "Two seals appeared side by side. The first recorded an executive wafer placed in a destruction packet. The second certified the arrival of that same packet at the notary. Their weights were different by a fraction too small for an ordinary cargo scale to notice.",
+      "start": 905.61,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 922.91
+    },
+    {
+      "id": "p0151",
+      "text": "Below them ran a brief transport exception.",
+      "start": 922.91,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 926.29
+    },
+    {
+      "id": "p0152",
+      "text": "Han read it twice.",
+      "start": 926.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 928.49
+    },
+    {
+      "id": "p0153",
+      "text": "The original wafer had left in a maintenance courier before the destruction packet arrived. Its movement was recorded as a recertification loan. The destruction packet carried the matching number and a returned blank.",
+      "start": 928.49,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 941.39
+    },
+    {
+      "id": "p0154",
+      "text": "\"A receipt for the receipt,\" he said.",
+      "start": 941.39,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 944.03
+    },
+    {
+      "id": "p0155",
+      "text": "Chewbacca growled.",
+      "start": 944.03,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 945.51
+    },
+    {
+      "id": "p0156",
+      "text": "\"Yeah. And somebody accepted it.\"",
+      "start": 945.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 947.83
+    },
+    {
+      "id": "p0157",
+      "text": "The maintenance courier's onward address was mostly damaged. Enough remained to identify a private medical logistics authority, the same trust Venn had been tracing on Bespin. Artoo isolated a current licensed support reference beside it.",
+      "start": 947.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 965.39
+    },
+    {
+      "id": "p0158",
+      "text": "It did not tell them where the Meridian was. It told them who paid to keep her working.",
+      "start": 965.39,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 972.25
+    },
+    {
+      "id": "p0159",
+      "text": "From the bunk, the worker said, \"They said the old seals still counted.\"",
+      "start": 972.25,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 977.0
+    },
+    {
+      "id": "p0160",
+      "text": "Han turned.",
+      "start": 977.0,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 979.16
+    },
+    {
+      "id": "p0161",
+      "text": "The man was looking at the projection. Luke stood beside him, giving him room.",
+      "start": 979.16,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 985.07
+    },
+    {
+      "id": "p0162",
+      "text": "\"Who said that?\" Han asked.",
+      "start": 985.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 987.955
+    },
+    {
+      "id": "p0163",
+      "text": "\"The recovery broker. He gave us the pod's number. Said it had to be cleared before the Republic teams moved the field.\"",
+      "start": 987.955,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 994.375
+    },
+    {
+      "id": "p0164",
+      "text": "\"Did he give you his name?\"",
+      "start": 994.375,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 995.765
+    },
+    {
+      "id": "p0165",
+      "text": "The worker shook his head.",
+      "start": 995.765,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 997.695
+    },
+    {
+      "id": "p0166",
+      "text": "\"He paid through a clinic account. I thought it was abandoned medical property. Then the pilot got orders to cut loose.\"",
+      "start": 997.695,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1004.875
+    },
+    {
+      "id": "p0167",
+      "text": "His fingers tightened on the blanket.",
+      "start": 1004.875,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1007.295
+    },
+    {
+      "id": "p0168",
+      "text": "Han glanced at the retreating tug's trace. They had sent it to the salvage patrol as soon as they were clear. Perhaps the patrol would catch it; perhaps the pilot knew a route through the outer debris that Han did not. The worker was here because Luke had spent their safe firing opportunity saving him.",
+      "start": 1007.295,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1025.755
+    },
+    {
+      "id": "p0169",
+      "text": "\"We'll keep you away from the broker,\" Han said.",
+      "start": 1025.755,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1029.645
+    },
+    {
+      "id": "p0170",
+      "text": "The man looked toward the cockpit, where an encrypted link to Ackbar's staging vessel was waiting.",
+      "start": 1029.645,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1035.755
+    },
+    {
+      "id": "p0171",
+      "text": "\"I don't want my family contacted through that account.\"",
+      "start": 1035.755,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1038.775
+    },
+    {
+      "id": "p0172",
+      "text": "Luke sat on the other end of the bunk.",
+      "start": 1038.775,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1041.635
+    },
+    {
+      "id": "p0173",
+      "text": "\"Then we'll find another way.\"",
+      "start": 1041.635,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1043.155
+    },
+    {
+      "id": "p0174",
+      "text": "Han turned off the ledger projection. A line of afternoon light from Endor lay across the little spindle and the old droid's silent core. Somebody had brought them here to be destroyed under the Emperor's own seal. Instead, they were leaving in a smuggler's hold.",
+      "start": 1043.155,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1059.985
+    },
+    {
+      "id": "p0175",
+      "text": "For once, the Emperor's plans had been poorly served by Han Solo getting in the way.",
+      "start": 1059.985,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1066.235
+    }
+  ]
+}

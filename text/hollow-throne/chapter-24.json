@@ -1,0 +1,1454 @@
+{
+  "version": 1,
+  "chapterId": "hollow-throne-24",
+  "duration": 1429.763,
+  "alignment": "Canonical book paragraphs use fixed synthesis boundaries and cached local Whisper word timestamps; unmatched starts are interpolated.",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Chapter Twenty-Four: Forty-Three",
+      "start": 0.0,
+      "timing": "segment",
+      "kind": "title",
+      "end": 1.72
+    },
+    {
+      "id": "p0002",
+      "text": "The Meridian lay beneath an industrial loading spine, where the lights of Coruscant shone through layers of drifting exhaust. From the Far Lantern's forward window it looked like another tired transport waiting for parts. Frost streaked the coolant couplings along its flank. A maintenance cradle held it steady while cargo sleds passed above, carrying enough metal between them to have hidden a small fleet. The berth's independently powered work field kept breathable air around the cradle and its service collars. Blue boundary lines on Lando's display marked the edge of that protected pocket; outside them, the tenders needed their own sealed hulls.",
+      "start": 1.72,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 44.57
+    },
+    {
+      "id": "p0003",
+      "text": "Lando brought the tender alongside without turning toward the ship's principal docking port.",
+      "start": 44.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 50.92
+    },
+    {
+      "id": "p0004",
+      "text": "\"You're on the wrong side,\" the berth controller told him.",
+      "start": 50.92,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 54.39
+    },
+    {
+      "id": "p0005",
+      "text": "\"If I put a filtration crew through your passenger collar, they'll have to carry the contaminated cartridges past your clean stores. Shall I ask the inspection office to approve that?\"",
+      "start": 54.39,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 63.8
+    },
+    {
+      "id": "p0006",
+      "text": "The controller made them wait. Leia watched an amber beacon rotate across the Meridian's hull. The prism's case rested inside the harness beneath her jacket; she could feel its weight each time she breathed.",
+      "start": 63.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 77.6
+    },
+    {
+      "id": "p0007",
+      "text": "Permission came with an irritated warning about their service window. Lando thanked the controller as though the man had done him a considerable kindness.",
+      "start": 77.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 88.04
+    },
+    {
+      "id": "p0008",
+      "text": "The Far Lantern's collar settled against the filtration gallery. Chewbacca listened to the changing pitch of the clamp motors and held up one hand. Lando kept the seal pressure low until the Wookiee had checked the manual release. Only then did he complete the connection.",
+      "start": 88.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 105.43
+    },
+    {
+      "id": "p0009",
+      "text": "Artoo rolled toward the hatch carrying their narrow maintenance authorization in a sealed local key. Its old contingent payload was gone. He had tested that absence more than once.",
+      "start": 105.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 117.23
+    },
+    {
+      "id": "p0010",
+      "text": "Leia touched her comlink. \"Inside.\"",
+      "start": 117.23,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 120.48
+    },
+    {
+      "id": "p0011",
+      "text": "Han's reply came over the short-range circuit. \"I can see your collar. Try not to leave without it.\"",
+      "start": 120.48,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 127.21
+    },
+    {
+      "id": "p0012",
+      "text": "The Falcon was waiting below the loading spine, among the slow traffic used to move empty freight cradles. Luke's X-wing held farther out, watching the approach by which the Starling would arrive. Neither ship had broadcast the identity of anyone aboard.",
+      "start": 127.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 143.97
+    },
+    {
+      "id": "p0013",
+      "text": "Sela stood beside the hatch, looking at the black seal around its rim.",
+      "start": 143.97,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 149.09
+    },
+    {
+      "id": "p0014",
+      "text": "\"You don't have to be first,\" Leia said.",
+      "start": 149.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 151.62
+    },
+    {
+      "id": "p0015",
+      "text": "\"I know.\"",
+      "start": 151.62,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 152.63
+    },
+    {
+      "id": "p0016",
+      "text": "When the hatch opened, Sela stepped back and let Chewbacca pass her. The choice seemed to steady her. She followed Leia through.",
+      "start": 152.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 162.36
+    },
+    {
+      "id": "p0017",
+      "text": "A quartermaster met them in the filtration gallery. He wore a clean uniform over boots crusted with coolant residue. The incongruity made Leia trust him a little more than she trusted the ship's spotless passenger manifest.",
+      "start": 162.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 176.23
+    },
+    {
+      "id": "p0018",
+      "text": "Lando handed him the tender's work order. While the man inspected it, Chewbacca crouched beside the pressure manifold and removed its inspection plate.",
+      "start": 176.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 186.12
+    },
+    {
+      "id": "p0019",
+      "text": "\"No one mentioned replacing the regulator,\" the quartermaster said.",
+      "start": 186.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 190.02
+    },
+    {
+      "id": "p0020",
+      "text": "\"No one inspected the regulator,\" Lando replied. \"That's why they sent us.\"",
+      "start": 190.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 195.36
+    },
+    {
+      "id": "p0021",
+      "text": "The quartermaster glanced toward Chewbacca, then at the tiny service droid waiting behind him. Artoo made a cheerful noise. It was almost convincing.",
+      "start": 195.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 206.67
+    },
+    {
+      "id": "p0022",
+      "text": "A medical trolley crossed the far end of the passage. Its wheels had the soft, expensive hum of equipment meant to disturb nobody. The man lying on it turned his head as he passed. His eyes met Leia's, and his fingers moved against the edge of the blanket.",
+      "start": 206.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 223.91
+    },
+    {
+      "id": "p0023",
+      "text": "He was trying to attract her attention without lifting his hand.",
+      "start": 223.91,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 227.99
+    },
+    {
+      "id": "p0024",
+      "text": "Leia stepped away from Lando. The quartermaster moved into her path.",
+      "start": 227.99,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 232.77
+    },
+    {
+      "id": "p0025",
+      "text": "\"The ward is restricted.\"",
+      "start": 232.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 234.51
+    },
+    {
+      "id": "p0026",
+      "text": "She showed him the rescue warrant on a second reader, the one that had never touched the tender's service port.",
+      "start": 234.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 240.92
+    },
+    {
+      "id": "p0027",
+      "text": "\"I am Leia Organa. There are people aboard this ship who have been held illegally. Republic security has the berth number and our arrival time. I would like your help getting them off safely.\"",
+      "start": 240.92,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 252.68
+    },
+    {
+      "id": "p0028",
+      "text": "The quartermaster stared at the name beneath the warrant. Then he looked over her shoulder toward the outer hatch.",
+      "start": 252.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 259.57
+    },
+    {
+      "id": "p0029",
+      "text": "\"If I open that door, they know it was me.\"",
+      "start": 259.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 262.09
+    },
+    {
+      "id": "p0030",
+      "text": "\"If you don't, they'll still know we came through your gallery.\"",
+      "start": 262.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 264.89
+    },
+    {
+      "id": "p0031",
+      "text": "He swallowed. From the ward passage came the sound of an intercom requesting a supervisor. The trolley had stopped somewhere beyond sight.",
+      "start": 264.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 274.85
+    },
+    {
+      "id": "p0032",
+      "text": "Chewbacca held up the regulator plate. A wire had been spliced into the ordinary pressure control. It ran upward through the bulkhead, separate from the maintenance loom.",
+      "start": 274.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 285.89
+    },
+    {
+      "id": "p0033",
+      "text": "The quartermaster saw it. His face changed.",
+      "start": 285.89,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 289.26
+    },
+    {
+      "id": "p0034",
+      "text": "\"They said it was medical monitoring.\"",
+      "start": 289.26,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 291.38
+    },
+    {
+      "id": "p0035",
+      "text": "\"Which part?\" Lando asked.",
+      "start": 291.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 294.28
+    },
+    {
+      "id": "p0036",
+      "text": "The man looked at the closed ward door. Then he reached into his pocket and took out a mechanical key.",
+      "start": 294.28,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 301.61
+    },
+    {
+      "id": "p0037",
+      "text": "The first person Leia spoke to was an older man sitting beside an empty water jug. He had been given a chair, a blanket and a view of a wall painted with an imitation window. There were flowers in the picture. Someone had scratched a line through the glass so that it looked broken.",
+      "start": 301.61,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 319.89
+    },
+    {
+      "id": "p0038",
+      "text": "\"Teren Daal,\" he said when she asked his name. \"Unless you want the other one.\"",
+      "start": 319.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 325.413
+    },
+    {
+      "id": "p0039",
+      "text": "\"Teren is enough.\"",
+      "start": 325.413,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 326.652
+    },
+    {
+      "id": "p0040",
+      "text": "\"It used to be.\"",
+      "start": 326.652,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 327.923
+    },
+    {
+      "id": "p0041",
+      "text": "She told him there were ships outside and medical staff coming aboard. He kept his hands around the jug, although it contained nothing to drink.",
+      "start": 327.923,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 337.303
+    },
+    {
+      "id": "p0042",
+      "text": "\"Where are you taking us?\"",
+      "start": 337.303,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 338.902
+    },
+    {
+      "id": "p0043",
+      "text": "\"To civilian clinics on Coruscant. Separate places, with people who know what was done here. After that, you'll have a choice.\"",
+      "start": 338.902,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 346.853
+    },
+    {
+      "id": "p0044",
+      "text": "He studied her face. \"They told me once that you died.\"",
+      "start": 346.853,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 350.512
+    },
+    {
+      "id": "p0045",
+      "text": "Leia felt Sela come to a halt beside her.",
+      "start": 350.512,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 354.202
+    },
+    {
+      "id": "p0046",
+      "text": "\"They were wrong,\" Leia said.",
+      "start": 354.202,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 356.612
+    },
+    {
+      "id": "p0047",
+      "text": "Teren touched the jug's handle. \"I helped design flood gates on Alderaan. In the south. You wouldn't have seen them. They were ugly as anything.\"",
+      "start": 356.612,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 365.373
+    },
+    {
+      "id": "p0048",
+      "text": "\"I'd like to hear about them.\"",
+      "start": 365.373,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 366.942
+    },
+    {
+      "id": "p0049",
+      "text": "\"Later, perhaps.\"",
+      "start": 366.942,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 368.363
+    },
+    {
+      "id": "p0050",
+      "text": "He set the jug aside and stood with effort. The movement gave his answer more plainly than anything he could have said.",
+      "start": 368.363,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 374.993
+    },
+    {
+      "id": "p0051",
+      "text": "The principal ward held twenty-one people. In the adjoining rooms Leia found another sixteen. Several were awake and watching the doorway before she reached them; others lay beneath the light restraints the medical staff called supports. Three had been attached to the same reference controller. Artoo's first attempt to release its maintenance lock made an alarm pulse twice against the wall.",
+      "start": 374.993,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 400.433
+    },
+    {
+      "id": "p0052",
+      "text": "Every patient within hearing fell silent.",
+      "start": 400.433,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 403.462
+    },
+    {
+      "id": "p0053",
+      "text": "Sela lifted her hand, asking Leia to stop. A woman beside the controller had closed both eyes. Her fingers were travelling carefully along the inside of a folded seam in her sleeve.",
+      "start": 403.462,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 416.973
+    },
+    {
+      "id": "p0054",
+      "text": "\"Jessa,\" she told them. \"My name is Jessa.\"",
+      "start": 416.973,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 420.543
+    },
+    {
+      "id": "p0055",
+      "text": "Leia crouched so the woman did not have to look up at her. \"What are you counting?\"",
+      "start": 420.543,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 425.803
+    },
+    {
+      "id": "p0056",
+      "text": "Jessa turned the cuff inside out. Tiny knots marked the cloth. Some were grouped together. Others had been made in different colored threads, repaired whenever the sleeve began to wear.",
+      "start": 425.803,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 438.303
+    },
+    {
+      "id": "p0057",
+      "text": "\"The doors,\" she said. \"The people. They changed the room numbers. I didn't.\"",
+      "start": 438.303,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 444.022
+    },
+    {
+      "id": "p0058",
+      "text": "She touched each knot while Leia checked the names against the copied passenger list. Thirty-seven in the two wards. Four under observation forward of the stores. Two behind the treatment room, where no patient was supposed to be kept overnight.",
+      "start": 444.022,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 459.942
+    },
+    {
+      "id": "p0059",
+      "text": "Forty-three.",
+      "start": 459.942,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 461.072
+    },
+    {
+      "id": "p0060",
+      "text": "\"There's another man,\" Jessa said. \"They don't count him.\"",
+      "start": 461.072,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 464.803
+    },
+    {
+      "id": "p0061",
+      "text": "Sela's hand tightened around the back of the chair.",
+      "start": 464.803,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 468.583
+    },
+    {
+      "id": "p0062",
+      "text": "The ship's alarm changed pitch.",
+      "start": 468.583,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 471.243
+    },
+    {
+      "id": "p0063",
+      "text": "Two guards appeared at the ward entrance. Behind them, the quartermaster was being held against the wall by a third. Leia rose slowly, keeping her hands visible.",
+      "start": 471.243,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 482.353
+    },
+    {
+      "id": "p0064",
+      "text": "\"Put down your weapons,\" she said. \"There are medical patients in this room.\"",
+      "start": 482.353,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 486.522
+    },
+    {
+      "id": "p0065",
+      "text": "The nearest guard looked past her toward the controller. A small speaker above the door clicked. Its first words were a calm instruction to secure the ward.",
+      "start": 486.522,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 496.882
+    },
+    {
+      "id": "p0066",
+      "text": "Teren turned toward a locker. So did the woman standing beside him. Each reached for a metal service tool stored in a recess at knee height. Teren was trying to hold his arm against his body with his free hand. The woman was crying without making a sound.",
+      "start": 496.882,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 514.312
+    },
+    {
+      "id": "p0067",
+      "text": "Leia could have fired before either came near her. She lowered her blaster instead.",
+      "start": 514.312,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 520.622
+    },
+    {
+      "id": "p0068",
+      "text": "\"Chewie, the speaker.\"",
+      "start": 520.622,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 522.133
+    },
+    {
+      "id": "p0069",
+      "text": "The Wookiee wrenched it from the wall. His hand came away holding the broken grille and a length of wire. The voice stopped. Teren's arm continued forward.",
+      "start": 522.133,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 533.043
+    },
+    {
+      "id": "p0070",
+      "text": "Removing the sound had stopped the next instruction. It had not cancelled the one already given.",
+      "start": 533.043,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 539.633
+    },
+    {
+      "id": "p0071",
+      "text": "Leia stepped inside the reach of the tool and caught Teren's forearm. She turned with him rather than forcing the arm backward. Lando pulled an empty trolley between the woman and the nearest patient. Sela moved Jessa's chair clear.",
+      "start": 539.633,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 555.413
+    },
+    {
+      "id": "p0072",
+      "text": "The guard at the entrance raised his weapon. Chewbacca threw the ruined speaker into his face.",
+      "start": 555.413,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 562.043
+    },
+    {
+      "id": "p0073",
+      "text": "The blaster fired into the ceiling. Leia heard metal strike the floor and a heavy impact against the door. When she looked up, the Wookiee had driven two guards into the passage and was holding them there with the trolley. The third released the quartermaster and ran toward the bridge.",
+      "start": 562.043,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 579.242
+    },
+    {
+      "id": "p0074",
+      "text": "Teren's tool caught on the sleeve of Leia's jacket. She held him close enough that he could not swing it.",
+      "start": 579.242,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 586.622
+    },
+    {
+      "id": "p0075",
+      "text": "\"I'm going to take it,\" she told him. \"You'll feel my hand at your wrist.\"",
+      "start": 586.622,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 590.533
+    },
+    {
+      "id": "p0076",
+      "text": "He could not nod. His eyes remained fixed on hers. She worked the tool loose one finger at a time.",
+      "start": 590.533,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 597.933
+    },
+    {
+      "id": "p0077",
+      "text": "The woman behind the trolley had stopped moving. Lando had covered the sharp end of her implement with a folded blanket. He stayed with her until she opened her hand.",
+      "start": 597.933,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 607.463
+    },
+    {
+      "id": "p0078",
+      "text": "Artoo sounded an urgent warning.",
+      "start": 607.463,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 610.332
+    },
+    {
+      "id": "p0079",
+      "text": "The reference controller had closed its isolation valves. A row of indicators above the beds began counting down the remaining reserve in each local medical circuit. Somewhere forward, an automatic bulkhead was descending.",
+      "start": 610.332,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 625.442
+    },
+    {
+      "id": "p0080",
+      "text": "Leia's comlink crackled. Captain Vale had reached the medical collar. Its hatch would not open.",
+      "start": 625.442,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 632.163
+    },
+    {
+      "id": "p0081",
+      "text": "\"The ship won't accept an external clinical transfer,\" Threepio told them over the limited circuit. \"Its current session has not been released.\"",
+      "start": 632.163,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 641.013
+    },
+    {
+      "id": "p0082",
+      "text": "\"Then release it,\" Lando said.",
+      "start": 641.013,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 643.793
+    },
+    {
+      "id": "p0083",
+      "text": "\"Artoo cannot do that while those valves share the reference lock. He must separate the care channels first.\"",
+      "start": 643.793,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 650.383
+    },
+    {
+      "id": "p0084",
+      "text": "Chewbacca, pinning the guards behind the trolley, looked toward the ceiling. Leia followed his gaze. The spliced line from the filtration gallery had led here. It governed both the controller's authority feed and the valves keeping the beds supplied.",
+      "start": 650.383,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 667.073
+    },
+    {
+      "id": "p0085",
+      "text": "They had found the trap precisely where they had expected one. Expecting it did not give them more air.",
+      "start": 667.073,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 674.193
+    },
+    {
+      "id": "p0086",
+      "text": "Teren leaned against the wall, his empty hand still moving toward the command he could not complete.",
+      "start": 674.193,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 681.093
+    },
+    {
+      "id": "p0087",
+      "text": "\"Blue valve,\" he said through clenched teeth. \"Not the white one. Blue feeds the manual regulator.\"",
+      "start": 681.093,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 687.473
+    },
+    {
+      "id": "p0088",
+      "text": "Lando looked up. \"You know these?\"",
+      "start": 687.473,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 690.033
+    },
+    {
+      "id": "p0089",
+      "text": "\"A valve's a valve.\"",
+      "start": 690.033,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 691.683
+    },
+    {
+      "id": "p0090",
+      "text": "Chewbacca forced the trolley's brake down, trapping the guards on the far side. He reached the service panel in two strides and began opening the blue line's inspection housing. Artoo extended a probe into the controller. Its red indicator stayed lit.",
+      "start": 691.683,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 707.323
+    },
+    {
+      "id": "p0091",
+      "text": "The machine needed an authenticated comparison with the original reference before it would allow the independent clinical supply.",
+      "start": 707.323,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 716.063
+    },
+    {
+      "id": "p0092",
+      "text": "Leia unfastened the harness beneath her jacket.",
+      "start": 716.063,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 718.923
+    },
+    {
+      "id": "p0093",
+      "text": "\"We're using the prism,\" she told the others. \"Treat our approach and receiving route as exposed. Han, warn security now.\"",
+      "start": 718.923,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 726.673
+    },
+    {
+      "id": "p0094",
+      "text": "\"Already calling them.\"",
+      "start": 726.673,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 728.243
+    },
+    {
+      "id": "p0095",
+      "text": "She set the case on the table without handing it to anyone. Orl's shielding left only the narrow wired socket exposed. Artoo made the connection; she kept one hand on the case while his probe entered the controller's other port.",
+      "start": 728.243,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 744.383
+    },
+    {
+      "id": "p0096",
+      "text": "A green light crossed the prism's black surface.",
+      "start": 744.383,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 747.563
+    },
+    {
+      "id": "p0097",
+      "text": "For three seconds nothing changed. Then Chewbacca turned the blue regulator by hand. Air hissed through the medical lines. The indicators stopped counting down.",
+      "start": 747.563,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 759.303
+    },
+    {
+      "id": "p0098",
+      "text": "The clinical hatch opened.",
+      "start": 759.303,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 761.873
+    },
+    {
+      "id": "p0099",
+      "text": "Leia disconnected the prism, closed the shield and fastened the case back inside her harness. The whole exchange had taken less than half a minute. On Artoo's display she could see the outgoing acknowledgment: the Meridian's berth, its active service tender, the medical transfer session and the dispatch interface through which the receiving ships had been cleared.",
+      "start": 761.873,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 785.593
+    },
+    {
+      "id": "p0100",
+      "text": "It was enough to show someone where to look.",
+      "start": 785.593,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 788.313
+    },
+    {
+      "id": "p0101",
+      "text": "She covered the display. \"Get them out.\"",
+      "start": 788.313,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 791.163
+    },
+    {
+      "id": "p0102",
+      "text": "Sela found Iven in a service room behind the medical stores.",
+      "start": 791.163,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 795.603
+    },
+    {
+      "id": "p0103",
+      "text": "He was washing a cup. The room held a narrow bunk, a folded uniform and six more cups arranged beside a water heater. He had been there long enough to repair the handle of one with a careful winding of wire.",
+      "start": 795.603,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 809.073
+    },
+    {
+      "id": "p0104",
+      "text": "When she said his name, his hands stopped under the running water. He did not turn.",
+      "start": 809.073,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 815.363
+    },
+    {
+      "id": "p0105",
+      "text": "\"Can I come in?\" she asked.",
+      "start": 815.363,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 817.473
+    },
+    {
+      "id": "p0106",
+      "text": "\"The supervisor hasn't—\"",
+      "start": 817.473,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 819.073
+    },
+    {
+      "id": "p0107",
+      "text": "She tapped twice against the open door.",
+      "start": 819.073,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 822.193
+    },
+    {
+      "id": "p0108",
+      "text": "The water continued running. Iven set the cup down. Three uneven taps answered from the edge of the sink.",
+      "start": 822.193,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 829.753
+    },
+    {
+      "id": "p0109",
+      "text": "He turned then. Sela had prepared herself for someone taller, older, almost a stranger. She had not prepared for the way he stood: shoulders slightly forward, as if expecting a blow from somewhere he had been told not to watch.",
+      "start": 829.753,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 845.793
+    },
+    {
+      "id": "p0110",
+      "text": "\"Sela?\"",
+      "start": 845.793,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 846.783
+    },
+    {
+      "id": "p0111",
+      "text": "She nodded. For a moment that was all she could manage.",
+      "start": 846.783,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 850.943
+    },
+    {
+      "id": "p0112",
+      "text": "He looked at her hair, her hands, the ordinary coat she had worn aboard. His eyes went back to the open door.",
+      "start": 850.943,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 857.983
+    },
+    {
+      "id": "p0113",
+      "text": "\"Can you really leave?\"",
+      "start": 857.983,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 859.693
+    },
+    {
+      "id": "p0114",
+      "text": "\"Yes.\"",
+      "start": 859.693,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 860.523
+    },
+    {
+      "id": "p0115",
+      "text": "\"Whenever you want?\"",
+      "start": 860.523,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 861.833
+    },
+    {
+      "id": "p0116",
+      "text": "\"Usually.\" Her voice caught. \"Some days are harder.\"",
+      "start": 861.833,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 865.253
+    },
+    {
+      "id": "p0117",
+      "text": "He nodded as though that was an answer he could trust. Then he reached for the cup again.",
+      "start": 865.253,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 871.123
+    },
+    {
+      "id": "p0118",
+      "text": "\"They need water before they move them.\"",
+      "start": 871.123,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 873.193
+    },
+    {
+      "id": "p0119",
+      "text": "\"We'll take it with us.\"",
+      "start": 873.193,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 874.383
+    },
+    {
+      "id": "p0120",
+      "text": "She helped him fill a container. He would not come until the remaining cups were on the tray. Outside, a medic in a grey patient uniform took it from him and began giving people small drinks as they were brought toward the hatch.",
+      "start": 874.383,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 889.363
+    },
+    {
+      "id": "p0121",
+      "text": "\"Sovan Kell,\" the man told Leia when she asked whether he was one of the forty-three. \"Yes. I know which ones can sit up. Get me a clean blanket and I'll show your staff.\"",
+      "start": 889.363,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 900.523
+    },
+    {
+      "id": "p0122",
+      "text": "He had to brace one hand against the wall while he spoke. Leia signaled to the Starling's first attendant and let the two of them make the decision together.",
+      "start": 900.523,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 910.683
+    },
+    {
+      "id": "p0123",
+      "text": "Artoo projected the tally onto a blank section of wall. Each person who crossed the clinical hatch was checked against Jessa's knots, the recovered manifest and a name spoken by the person concerned whenever they could speak it. Thirty went to the Starling. Thirteen Alderaanians were directed toward the Far Lantern, with Iven recorded separately beside them.",
+      "start": 910.683,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 934.763
+    },
+    {
+      "id": "p0124",
+      "text": "Jessa stood beside the count until the last knot had been matched.",
+      "start": 934.763,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 939.703
+    },
+    {
+      "id": "p0125",
+      "text": "\"You can go now,\" Leia said.",
+      "start": 939.703,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 942.003
+    },
+    {
+      "id": "p0126",
+      "text": "\"So can you.\"",
+      "start": 942.003,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 943.193
+    },
+    {
+      "id": "p0127",
+      "text": "The deck shifted beneath their feet.",
+      "start": 943.193,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 945.943
+    },
+    {
+      "id": "p0128",
+      "text": "The loading spine had released the Meridian's maintenance cradle. On the service display, an emergency separation order carried the authorization of the guard who had fled toward the bridge. Berth security had accepted the local instruction while the rescue vessels were still attached.",
+      "start": 945.943,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 963.123
+    },
+    {
+      "id": "p0129",
+      "text": "Han saw the first clamp open from the Falcon's cockpit. The transport began drifting sideways while both rescue ships remained attached. A private berth-security turret turned toward the Far Lantern's power coupling.",
+      "start": 963.123,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 977.653
+    },
+    {
+      "id": "p0130",
+      "text": "He fired before the barrel finished moving. The shot tore through its exposed drive housing. A second turret opened fire from above the spine.",
+      "start": 977.653,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 988.623
+    },
+    {
+      "id": "p0131",
+      "text": "Luke's X-wing crossed its line of fire. Two precise bursts struck the turret's tracking arm. The barrel fell away, firing uselessly into a freight shield.",
+      "start": 988.623,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 999.443
+    },
+    {
+      "id": "p0132",
+      "text": "The Meridian kept moving. Its released cradle was dragging a torn service boom toward the Far Lantern's collar.",
+      "start": 999.443,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1007.813
+    },
+    {
+      "id": "p0133",
+      "text": "\"Lando, get your people clear.\"",
+      "start": 1007.813,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1009.893
+    },
+    {
+      "id": "p0134",
+      "text": "\"They aren't all aboard yet.\"",
+      "start": 1009.893,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1011.553
+    },
+    {
+      "id": "p0135",
+      "text": "\"Then use my ship. I'm coming up beneath you.\"",
+      "start": 1011.553,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1014.503
+    },
+    {
+      "id": "p0136",
+      "text": "Han brought the Falcon into the narrow space below the tender, keeping its upper hatch inside the work field's blue boundary. The loading spine filled half his view. He could feel the reflected thrust through the controls. On the other side of the Meridian, the Starling's captain was trying to retract a medical collar that had not been designed to release while a transport rolled against it.",
+      "start": 1014.503,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1039.273
+    },
+    {
+      "id": "p0137",
+      "text": "\"Luke, she needs room.\"",
+      "start": 1039.273,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1040.773
+    },
+    {
+      "id": "p0138",
+      "text": "\"I see it.\"",
+      "start": 1040.773,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1041.863
+    },
+    {
+      "id": "p0139",
+      "text": "The X-wing dropped behind the transport. Luke's fire cut the dragging cradle's remaining support. Its weight carried it down and away from the Starling. Captain Vale fired her maneuvering thrusters and broke clear with thirty passengers aboard.",
+      "start": 1041.863,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1057.143
+    },
+    {
+      "id": "p0140",
+      "text": "The Far Lantern's collar bent.",
+      "start": 1057.143,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1059.243
+    },
+    {
+      "id": "p0141",
+      "text": "Leia was standing at its inner hatch when the first section tore loose. She pushed Jessa through toward Sela, then turned back for the patient behind her. Lando was on the Meridian side, helping Sovan keep the man upright.",
+      "start": 1059.243,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1074.803
+    },
+    {
+      "id": "p0142",
+      "text": "A service boom struck the tender's upper hull. The corridor tilted. Lando shoved the patient toward Chewbacca as a brace came out of the wall and struck his left shoulder.",
+      "start": 1074.803,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1087.703
+    },
+    {
+      "id": "p0143",
+      "text": "His cry was brief and involuntary. Leia caught his jacket with both hands. For an instant his feet had nothing beneath them.",
+      "start": 1087.703,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1096.533
+    },
+    {
+      "id": "p0144",
+      "text": "Chewbacca reached past her, seized Lando around the waist and pulled them both into the hatch recess. Beyond it, the Far Lantern's lifting deck folded inward with a noise like an enormous door being crushed.",
+      "start": 1096.533,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1110.033
+    },
+    {
+      "id": "p0145",
+      "text": "The tender was gone as an escape route.",
+      "start": 1110.033,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1112.533
+    },
+    {
+      "id": "p0146",
+      "text": "\"Stay here,\" Leia told Lando.",
+      "start": 1112.533,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1115.673
+    },
+    {
+      "id": "p0147",
+      "text": "He was trying to rise. His left arm hung at a terrible angle. He looked at it once and stopped trying.",
+      "start": 1115.673,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1123.123
+    },
+    {
+      "id": "p0148",
+      "text": "Sovan knelt beside him. \"Don't move that shoulder. Look at me.\"",
+      "start": 1123.123,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 1128.043
+    },
+    {
+      "id": "p0149",
+      "text": "Leia turned to the others. Fourteen rescued people remained on their side of the ship. The Falcon's upper hatch was below the service recess, separated from it by a short open gap and a twisted section of the loading boom.",
+      "start": 1128.043,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1143.653
+    },
+    {
+      "id": "p0150",
+      "text": "Chewbacca had already fastened a safety line to an intact support. He tested the boom with his weight, then climbed down toward the Falcon. Han held the ship steady while the Wookiee locked a second line to the hatch rim.",
+      "start": 1143.653,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1158.243
+    },
+    {
+      "id": "p0151",
+      "text": "The work field still held air around them. There would be no broad level floor. They would lower each person individually before the drifting transport carried the recess beyond its protection.",
+      "start": 1158.243,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1171.023
+    },
+    {
+      "id": "p0152",
+      "text": "Sela went first to receive them. Then Iven, who shook so badly that he could not release the cups until Sela took the tray from his hands. Teren helped fasten the next patient's harness. His right arm had finally stopped reaching for the old instruction, but he kept it pressed beneath his left as if it might begin again.",
+      "start": 1171.023,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1191.923
+    },
+    {
+      "id": "p0153",
+      "text": "Leia sent Jessa down with the manifest. The woman tucked her knotted sleeve inside the safety strap.",
+      "start": 1191.923,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1199.313
+    },
+    {
+      "id": "p0154",
+      "text": "The quartermaster came from the gallery with two ordinary crew members. Leia pointed them toward the aft lifeboats. Luke would watch those craft until Republic security reached the berth. The man held her gaze for a moment, then took the mechanical key from his pocket and laid it beside the hatch.",
+      "start": 1199.313,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1219.223
+    },
+    {
+      "id": "p0155",
+      "text": "She did not ask him to stay where he had been afraid.",
+      "start": 1219.223,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1222.503
+    },
+    {
+      "id": "p0156",
+      "text": "Lando went down on a stretcher cut from the tender's surviving insulation frame. Sovan accompanied him. Chewbacca took the load through the most difficult part of the gap, his boots braced against the Falcon's hull, while Leia fed the line from above.",
+      "start": 1222.503,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1240.223
+    },
+    {
+      "id": "p0157",
+      "text": "By the time Artoo crossed, the service recess was filling with white vapor. The little droid's wheels spun on the tilted deck. Leia caught his tow loop and guided him onto the boom. His interface arm had jammed half open; he folded his other tools around it before dropping toward Chewbacca.",
+      "start": 1240.223,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1259.823
+    },
+    {
+      "id": "p0158",
+      "text": "She was last. Her harness caught briefly on the hatch rim. She freed it with one hand, holding the shielded case against her ribs with the other.",
+      "start": 1259.823,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1269.993
+    },
+    {
+      "id": "p0159",
+      "text": "Inside the Falcon, Chewbacca closed the upper hatch and struck the lock with his palm.",
+      "start": 1269.993,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1276.573
+    },
+    {
+      "id": "p0160",
+      "text": "Han took them out backward.",
+      "start": 1276.573,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1278.643
+    },
+    {
+      "id": "p0161",
+      "text": "The Falcon's hold had never been so crowded.",
+      "start": 1278.643,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 1281.543
+    },
+    {
+      "id": "p0162",
+      "text": "People sat against freight restraints or lay on blankets between them. Sela moved from one to the next, explaining where they were going. Nobody had the same question. One man wanted to know whether the ship had a window. A woman asked for the date three times. Teren wanted someone to check that the blue regulator had remained open for the crew who had fled by the other passage.",
+      "start": 1281.543,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1304.543
+    },
+    {
+      "id": "p0163",
+      "text": "Leia found a place beside Lando's stretcher. Sovan had immobilized his left arm and was working with the Falcon's medical kit. The supplies would keep him stable until the clinic. They would not make the shoulder usable.",
+      "start": 1304.543,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1319.343
+    },
+    {
+      "id": "p0164",
+      "text": "\"I should have read the hire agreement more carefully,\" Lando said.",
+      "start": 1319.343,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1323.283
+    },
+    {
+      "id": "p0165",
+      "text": "\"You lost the ship getting people out.\"",
+      "start": 1323.283,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1325.403
+    },
+    {
+      "id": "p0166",
+      "text": "\"Yes. I imagine they'll charge extra for that.\"",
+      "start": 1325.403,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1328.493
+    },
+    {
+      "id": "p0167",
+      "text": "He closed his eyes. She stayed until Sovan signaled that his breathing was steady.",
+      "start": 1328.493,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1335.493
+    },
+    {
+      "id": "p0168",
+      "text": "Jessa sat beneath the cargo light, holding the passenger list flat against her knees. Leia crouched beside her.",
+      "start": 1335.493,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1343.973
+    },
+    {
+      "id": "p0169",
+      "text": "\"Thirty aboard the Starling,\" Jessa said. \"Thirteen here.\"",
+      "start": 1343.973,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1348.033
+    },
+    {
+      "id": "p0170",
+      "text": "\"And Iven.\"",
+      "start": 1348.033,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1349.473
+    },
+    {
+      "id": "p0171",
+      "text": "\"He wasn't in my count.\"",
+      "start": 1349.473,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1351.303
+    },
+    {
+      "id": "p0172",
+      "text": "\"I know.\"",
+      "start": 1351.303,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1352.293
+    },
+    {
+      "id": "p0173",
+      "text": "Jessa touched the knots inside her sleeve. For the first time since they had found her, she stopped counting before she reached the end.",
+      "start": 1352.293,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1362.103
+    },
+    {
+      "id": "p0174",
+      "text": "Leia went forward. Han had the Starling on his display, moving toward the receiving approaches with Luke beside it. Republic security had acknowledged the compromised service session and assigned physical escorts to the landing sites. Orl had changed the civilian receiving addresses. The names would travel by hand.",
+      "start": 1362.103,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1383.503
+    },
+    {
+      "id": "p0175",
+      "text": "\"Forty-three?\" Han asked.",
+      "start": 1383.503,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1386.123
+    },
+    {
+      "id": "p0176",
+      "text": "She rested a hand on the back of his seat. \"All forty-three.\"",
+      "start": 1386.123,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1389.953
+    },
+    {
+      "id": "p0177",
+      "text": "He nodded once, looking through the forward window so she could not quite see his face. A security cutter had reached the Meridian. Luke confirmed that its boarding party had control of the bridge and was bringing out the remaining crew, including the restrained guards. The transport would be secured as evidence if its damaged cradle could hold long enough.",
+      "start": 1389.953,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1412.413
+    },
+    {
+      "id": "p0178",
+      "text": "Below them, Coruscant's lights spread from horizon to horizon. Somewhere inside them, a man had just learned that his prisoners were gone and that the original reference had been brought within reach.",
+      "start": 1412.413,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1424.933
+    },
+    {
+      "id": "p0179",
+      "text": "Leia tightened the harness holding the case.",
+      "start": 1424.933,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 1428.273
+    },
+    {
+      "id": "p0180",
+      "text": "\"Take us in,\" she said.",
+      "start": 1428.273,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1429.763
+    }
+  ]
+}
