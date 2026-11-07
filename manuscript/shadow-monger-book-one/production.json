@@ -17,201 +17,226 @@
         "id": "shadow-monger-book-one-01",
         "number": 1,
         "title": "A Matter of the Gate",
-        "src": "audio/shadow-monger-book-one/chapter-01.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-01.mp3",
         "duration": 1006.540125,
-        "transcript": "text/shadow-monger-book-one/chapter-01.json"
+        "transcript": "text/shadow-monger-book-one/chapter-01.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-01.mp3"
       },
       {
         "id": "shadow-monger-book-one-02",
         "number": 2,
         "title": "The Short Way Home",
-        "src": "audio/shadow-monger-book-one/chapter-02.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-02.mp3",
         "duration": 957.841958,
-        "transcript": "text/shadow-monger-book-one/chapter-02.json"
+        "transcript": "text/shadow-monger-book-one/chapter-02.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-02.mp3"
       },
       {
         "id": "shadow-monger-book-one-03",
         "number": 3,
         "title": "Notices and Corrections",
-        "src": "audio/shadow-monger-book-one/chapter-03.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-03.mp3",
         "duration": 1022.7,
-        "transcript": "text/shadow-monger-book-one/chapter-03.json"
+        "transcript": "text/shadow-monger-book-one/chapter-03.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-03.mp3"
       },
       {
         "id": "shadow-monger-book-one-04",
         "number": 4,
         "title": "The Man in Green",
-        "src": "audio/shadow-monger-book-one/chapter-04.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-04.mp3",
         "duration": 994.870042,
-        "transcript": "text/shadow-monger-book-one/chapter-04.json"
+        "transcript": "text/shadow-monger-book-one/chapter-04.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-04.mp3"
       },
       {
         "id": "shadow-monger-book-one-05",
         "number": 5,
         "title": "The Missing Step",
-        "src": "audio/shadow-monger-book-one/chapter-05.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-05.mp3",
         "duration": 996.010042,
-        "transcript": "text/shadow-monger-book-one/chapter-05.json"
+        "transcript": "text/shadow-monger-book-one/chapter-05.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-05.mp3"
       },
       {
         "id": "shadow-monger-book-one-06",
         "number": 6,
         "title": "An Independent Copy",
-        "src": "audio/shadow-monger-book-one/chapter-06.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-06.mp3",
         "duration": 959.500042,
-        "transcript": "text/shadow-monger-book-one/chapter-06.json"
+        "transcript": "text/shadow-monger-book-one/chapter-06.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-06.mp3"
       },
       {
         "id": "shadow-monger-book-one-07",
         "number": 7,
         "title": "What the Hill Remembers",
-        "src": "audio/shadow-monger-book-one/chapter-07.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-07.mp3",
         "duration": 994.470125,
-        "transcript": "text/shadow-monger-book-one/chapter-07.json"
+        "transcript": "text/shadow-monger-book-one/chapter-07.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-07.mp3"
       },
       {
         "id": "shadow-monger-book-one-08",
         "number": 8,
         "title": "The Ordinary Work",
-        "src": "audio/shadow-monger-book-one/chapter-08.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-08.mp3",
         "duration": 968.940042,
-        "transcript": "text/shadow-monger-book-one/chapter-08.json"
+        "transcript": "text/shadow-monger-book-one/chapter-08.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-08.mp3"
       },
       {
         "id": "shadow-monger-book-one-09",
         "number": 9,
         "title": "The Artist's Boundary",
-        "src": "audio/shadow-monger-book-one/chapter-09.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-09.mp3",
         "duration": 984.540042,
-        "transcript": "text/shadow-monger-book-one/chapter-09.json"
+        "transcript": "text/shadow-monger-book-one/chapter-09.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-09.mp3"
       },
       {
         "id": "shadow-monger-book-one-10",
         "number": 10,
         "title": "A Place for Everything",
-        "src": "audio/shadow-monger-book-one/chapter-10.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-10.mp3",
         "duration": 998.11025,
-        "transcript": "text/shadow-monger-book-one/chapter-10.json"
+        "transcript": "text/shadow-monger-book-one/chapter-10.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-10.mp3"
       },
       {
         "id": "shadow-monger-book-one-11",
         "number": 11,
         "title": "The Lions at the Door",
-        "src": "audio/shadow-monger-book-one/chapter-11.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-11.mp3",
         "duration": 975.800167,
-        "transcript": "text/shadow-monger-book-one/chapter-11.json"
+        "transcript": "text/shadow-monger-book-one/chapter-11.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-11.mp3"
       },
       {
         "id": "shadow-monger-book-one-12",
         "number": 12,
         "title": "The Overflow",
-        "src": "audio/shadow-monger-book-one/chapter-12.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-12.mp3",
         "duration": 934.880042,
-        "transcript": "text/shadow-monger-book-one/chapter-12.json"
+        "transcript": "text/shadow-monger-book-one/chapter-12.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-12.mp3"
       },
       {
         "id": "shadow-monger-book-one-13",
         "number": 13,
         "title": "The Shape of a Claim",
-        "src": "audio/shadow-monger-book-one/chapter-13.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-13.mp3",
         "duration": 928.310042,
-        "transcript": "text/shadow-monger-book-one/chapter-13.json"
+        "transcript": "text/shadow-monger-book-one/chapter-13.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-13.mp3"
       },
       {
         "id": "shadow-monger-book-one-14",
         "number": 14,
         "title": "The Errand",
-        "src": "audio/shadow-monger-book-one/chapter-14.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-14.mp3",
         "duration": 934.7,
-        "transcript": "text/shadow-monger-book-one/chapter-14.json"
+        "transcript": "text/shadow-monger-book-one/chapter-14.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-14.mp3"
       },
       {
         "id": "shadow-monger-book-one-15",
         "number": 15,
         "title": "In Good Keeping",
-        "src": "audio/shadow-monger-book-one/chapter-15.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-15.mp3",
         "duration": 1058.890083,
-        "transcript": "text/shadow-monger-book-one/chapter-15.json"
+        "transcript": "text/shadow-monger-book-one/chapter-15.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-15.mp3"
       },
       {
         "id": "shadow-monger-book-one-16",
         "number": 16,
         "title": "The Safe Route",
-        "src": "audio/shadow-monger-book-one/chapter-16.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-16.mp3",
         "duration": 926.11,
-        "transcript": "text/shadow-monger-book-one/chapter-16.json"
+        "transcript": "text/shadow-monger-book-one/chapter-16.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-16.mp3"
       },
       {
         "id": "shadow-monger-book-one-17",
         "number": 17,
         "title": "No Such Address",
-        "src": "audio/shadow-monger-book-one/chapter-17.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-17.mp3",
         "duration": 925.36,
-        "transcript": "text/shadow-monger-book-one/chapter-17.json"
+        "transcript": "text/shadow-monger-book-one/chapter-17.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-17.mp3"
       },
       {
         "id": "shadow-monger-book-one-18",
         "number": 18,
         "title": "The Neighbour Who Stayed",
-        "src": "audio/shadow-monger-book-one/chapter-18.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-18.mp3",
         "duration": 931.321958,
-        "transcript": "text/shadow-monger-book-one/chapter-18.json"
+        "transcript": "text/shadow-monger-book-one/chapter-18.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-18.mp3"
       },
       {
         "id": "shadow-monger-book-one-19",
         "number": 19,
         "title": "Instructions for an Opening",
-        "src": "audio/shadow-monger-book-one/chapter-19.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-19.mp3",
         "duration": 882.980083,
-        "transcript": "text/shadow-monger-book-one/chapter-19.json"
+        "transcript": "text/shadow-monger-book-one/chapter-19.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-19.mp3"
       },
       {
         "id": "shadow-monger-book-one-20",
         "number": 20,
         "title": "The Offer of Shelter",
-        "src": "audio/shadow-monger-book-one/chapter-20.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-20.mp3",
         "duration": 1017.75,
-        "transcript": "text/shadow-monger-book-one/chapter-20.json"
+        "transcript": "text/shadow-monger-book-one/chapter-20.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-20.mp3"
       },
       {
         "id": "shadow-monger-book-one-21",
         "number": 21,
         "title": "Rod Iron Manor",
-        "src": "audio/shadow-monger-book-one/chapter-21.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-21.mp3",
         "duration": 1016.800083,
-        "transcript": "text/shadow-monger-book-one/chapter-21.json"
+        "transcript": "text/shadow-monger-book-one/chapter-21.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-21.mp3"
       },
       {
         "id": "shadow-monger-book-one-22",
         "number": 22,
         "title": "The House That Kept Them",
-        "src": "audio/shadow-monger-book-one/chapter-22.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-22.mp3",
         "duration": 1020.78,
-        "transcript": "text/shadow-monger-book-one/chapter-22.json"
+        "transcript": "text/shadow-monger-book-one/chapter-22.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-22.mp3"
       },
       {
         "id": "shadow-monger-book-one-23",
         "number": 23,
         "title": "The Return Joint",
-        "src": "audio/shadow-monger-book-one/chapter-23.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-23.mp3",
         "duration": 1072.89,
-        "transcript": "text/shadow-monger-book-one/chapter-23.json"
+        "transcript": "text/shadow-monger-book-one/chapter-23.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-23.mp3"
       },
       {
         "id": "shadow-monger-book-one-24",
         "number": 24,
         "title": "What Remained",
-        "src": "audio/shadow-monger-book-one/chapter-24.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-24.mp3",
         "duration": 1002.94,
-        "transcript": "text/shadow-monger-book-one/chapter-24.json"
+        "transcript": "text/shadow-monger-book-one/chapter-24.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-24.mp3"
       },
       {
         "id": "shadow-monger-book-one-25",
         "number": 25,
         "title": "A Fresh Pair of Hands",
-        "src": "audio/shadow-monger-book-one/chapter-25.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-25.mp3",
         "duration": 1059.241958,
-        "transcript": "text/shadow-monger-book-one/chapter-25.json"
+        "transcript": "text/shadow-monger-book-one/chapter-25.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-25.mp3"
       }
     ]
   },
@@ -222,9 +247,10 @@
         "id": "shadow-monger-book-one-01",
         "number": 1,
         "title": "A Matter of the Gate",
-        "src": "audio/shadow-monger-book-one/chapter-01.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-01.mp3",
         "duration": 1006.540125,
-        "transcript": "text/shadow-monger-book-one/chapter-01.json"
+        "transcript": "text/shadow-monger-book-one/chapter-01.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-01.mp3"
       },
       "audio": {
         "sha256": "8a84d3fc4a4d6a5addec3a69e30e11d25caf6f1d849613f81f3d8b44eec89cff",
@@ -902,9 +928,10 @@
         "id": "shadow-monger-book-one-02",
         "number": 2,
         "title": "The Short Way Home",
-        "src": "audio/shadow-monger-book-one/chapter-02.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-02.mp3",
         "duration": 957.841958,
-        "transcript": "text/shadow-monger-book-one/chapter-02.json"
+        "transcript": "text/shadow-monger-book-one/chapter-02.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-02.mp3"
       },
       "audio": {
         "sha256": "bebbff5018af3b68422e2ef7fd0a987258eb5a94b528f7e2d347c73e4121fe39",
@@ -1667,9 +1694,10 @@
         "id": "shadow-monger-book-one-03",
         "number": 3,
         "title": "Notices and Corrections",
-        "src": "audio/shadow-monger-book-one/chapter-03.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-03.mp3",
         "duration": 1022.7,
-        "transcript": "text/shadow-monger-book-one/chapter-03.json"
+        "transcript": "text/shadow-monger-book-one/chapter-03.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-03.mp3"
       },
       "audio": {
         "sha256": "0e5753c911606b87f827cc0fa396b081a31f5f2992875113b3017588d4201023",
@@ -2547,9 +2575,10 @@
         "id": "shadow-monger-book-one-04",
         "number": 4,
         "title": "The Man in Green",
-        "src": "audio/shadow-monger-book-one/chapter-04.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-04.mp3",
         "duration": 994.870042,
-        "transcript": "text/shadow-monger-book-one/chapter-04.json"
+        "transcript": "text/shadow-monger-book-one/chapter-04.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-04.mp3"
       },
       "audio": {
         "sha256": "adc50b4362b956e257742d368191bcce3d49c59140e0d9af2c2b6992d0f29b7f",
@@ -3297,9 +3326,10 @@
         "id": "shadow-monger-book-one-05",
         "number": 5,
         "title": "The Missing Step",
-        "src": "audio/shadow-monger-book-one/chapter-05.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-05.mp3",
         "duration": 996.010042,
-        "transcript": "text/shadow-monger-book-one/chapter-05.json"
+        "transcript": "text/shadow-monger-book-one/chapter-05.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-05.mp3"
       },
       "audio": {
         "sha256": "edbf3a1db9f87ddbf7c4b371a7e7226758fa33a4600e3969f457c1731f7394dd",
@@ -3997,9 +4027,10 @@
         "id": "shadow-monger-book-one-06",
         "number": 6,
         "title": "An Independent Copy",
-        "src": "audio/shadow-monger-book-one/chapter-06.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-06.mp3",
         "duration": 959.500042,
-        "transcript": "text/shadow-monger-book-one/chapter-06.json"
+        "transcript": "text/shadow-monger-book-one/chapter-06.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-06.mp3"
       },
       "audio": {
         "sha256": "9bd060a15731354128a6167ab52540b71ca7806f4d29e08bacfee77e6e512f75",
@@ -4717,9 +4748,10 @@
         "id": "shadow-monger-book-one-07",
         "number": 7,
         "title": "What the Hill Remembers",
-        "src": "audio/shadow-monger-book-one/chapter-07.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-07.mp3",
         "duration": 994.470125,
-        "transcript": "text/shadow-monger-book-one/chapter-07.json"
+        "transcript": "text/shadow-monger-book-one/chapter-07.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-07.mp3"
       },
       "audio": {
         "sha256": "533a5e9b1b22aa91117ddf7188a3d4f53f7b12b9ee0e7c03e1db564e063d7564",
@@ -5522,9 +5554,10 @@
         "id": "shadow-monger-book-one-08",
         "number": 8,
         "title": "The Ordinary Work",
-        "src": "audio/shadow-monger-book-one/chapter-08.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-08.mp3",
         "duration": 968.940042,
-        "transcript": "text/shadow-monger-book-one/chapter-08.json"
+        "transcript": "text/shadow-monger-book-one/chapter-08.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-08.mp3"
       },
       "audio": {
         "sha256": "cfba5ff9378cbe32cabb0596a01ce7e81b41a8d2d99b1fe4fd688089fd4a150f",
@@ -6302,9 +6335,10 @@
         "id": "shadow-monger-book-one-09",
         "number": 9,
         "title": "The Artist's Boundary",
-        "src": "audio/shadow-monger-book-one/chapter-09.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-09.mp3",
         "duration": 984.540042,
-        "transcript": "text/shadow-monger-book-one/chapter-09.json"
+        "transcript": "text/shadow-monger-book-one/chapter-09.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-09.mp3"
       },
       "audio": {
         "sha256": "1b76773bff1820e55af1851d87035e816edfb7235d8e62d1a07fd54d4c337fd0",
@@ -7052,9 +7086,10 @@
         "id": "shadow-monger-book-one-10",
         "number": 10,
         "title": "A Place for Everything",
-        "src": "audio/shadow-monger-book-one/chapter-10.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-10.mp3",
         "duration": 998.11025,
-        "transcript": "text/shadow-monger-book-one/chapter-10.json"
+        "transcript": "text/shadow-monger-book-one/chapter-10.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-10.mp3"
       },
       "audio": {
         "sha256": "b35b9cc561fec6c13175939d60387f655811a2f20417f66d5b6bbda048993a96",
@@ -7772,9 +7807,10 @@
         "id": "shadow-monger-book-one-11",
         "number": 11,
         "title": "The Lions at the Door",
-        "src": "audio/shadow-monger-book-one/chapter-11.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-11.mp3",
         "duration": 975.800167,
-        "transcript": "text/shadow-monger-book-one/chapter-11.json"
+        "transcript": "text/shadow-monger-book-one/chapter-11.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-11.mp3"
       },
       "audio": {
         "sha256": "0fe5d70852b5de19652ff9544109395bc78e993cdb49ef35f411f0f327de553b",
@@ -8412,9 +8448,10 @@
         "id": "shadow-monger-book-one-12",
         "number": 12,
         "title": "The Overflow",
-        "src": "audio/shadow-monger-book-one/chapter-12.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-12.mp3",
         "duration": 934.880042,
-        "transcript": "text/shadow-monger-book-one/chapter-12.json"
+        "transcript": "text/shadow-monger-book-one/chapter-12.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-12.mp3"
       },
       "audio": {
         "sha256": "9890e7c0b3f4fb0282124bb92b92541446304e26f315d9618d30aea65cbf98ae",
@@ -8967,9 +9004,10 @@
         "id": "shadow-monger-book-one-13",
         "number": 13,
         "title": "The Shape of a Claim",
-        "src": "audio/shadow-monger-book-one/chapter-13.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-13.mp3",
         "duration": 928.310042,
-        "transcript": "text/shadow-monger-book-one/chapter-13.json"
+        "transcript": "text/shadow-monger-book-one/chapter-13.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-13.mp3"
       },
       "audio": {
         "sha256": "7c7c71850d831126ade5026d07e9fbeedf987e5fad0d3f5a28ed42e6c6829d33",
@@ -9482,9 +9520,10 @@
         "id": "shadow-monger-book-one-14",
         "number": 14,
         "title": "The Errand",
-        "src": "audio/shadow-monger-book-one/chapter-14.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-14.mp3",
         "duration": 934.7,
-        "transcript": "text/shadow-monger-book-one/chapter-14.json"
+        "transcript": "text/shadow-monger-book-one/chapter-14.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-14.mp3"
       },
       "audio": {
         "sha256": "696aad25f4a2b5dad31ccc7efe3f64d4a5e64171cca342513438fcd90b604dbe",
@@ -10152,9 +10191,10 @@
         "id": "shadow-monger-book-one-15",
         "number": 15,
         "title": "In Good Keeping",
-        "src": "audio/shadow-monger-book-one/chapter-15.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-15.mp3",
         "duration": 1058.890083,
-        "transcript": "text/shadow-monger-book-one/chapter-15.json"
+        "transcript": "text/shadow-monger-book-one/chapter-15.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-15.mp3"
       },
       "audio": {
         "sha256": "22e095f417fef603a9dde4509d21e185c2744bacbbcc82848b3dbed1acb6290d",
@@ -11042,9 +11082,10 @@
         "id": "shadow-monger-book-one-16",
         "number": 16,
         "title": "The Safe Route",
-        "src": "audio/shadow-monger-book-one/chapter-16.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-16.mp3",
         "duration": 926.11,
-        "transcript": "text/shadow-monger-book-one/chapter-16.json"
+        "transcript": "text/shadow-monger-book-one/chapter-16.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-16.mp3"
       },
       "audio": {
         "sha256": "1fdab0b7bcabc257cc18a5da5f158c2cf1b05bdb68e45f2b2179e6e0959f1fdf",
@@ -11702,9 +11743,10 @@
         "id": "shadow-monger-book-one-17",
         "number": 17,
         "title": "No Such Address",
-        "src": "audio/shadow-monger-book-one/chapter-17.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-17.mp3",
         "duration": 925.36,
-        "transcript": "text/shadow-monger-book-one/chapter-17.json"
+        "transcript": "text/shadow-monger-book-one/chapter-17.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-17.mp3"
       },
       "audio": {
         "sha256": "2be75d0843239a0e02737db9ccebc3cae0af2dd7a5b5602873edc965655547da",
@@ -12332,9 +12374,10 @@
         "id": "shadow-monger-book-one-18",
         "number": 18,
         "title": "The Neighbour Who Stayed",
-        "src": "audio/shadow-monger-book-one/chapter-18.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-18.mp3",
         "duration": 931.321958,
-        "transcript": "text/shadow-monger-book-one/chapter-18.json"
+        "transcript": "text/shadow-monger-book-one/chapter-18.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-18.mp3"
       },
       "audio": {
         "sha256": "d340e33f09e1a7ea8deb29fa797b1de1e19d1fe7785abcab0524521a81ddd63c",
@@ -12977,9 +13020,10 @@
         "id": "shadow-monger-book-one-19",
         "number": 19,
         "title": "Instructions for an Opening",
-        "src": "audio/shadow-monger-book-one/chapter-19.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-19.mp3",
         "duration": 882.980083,
-        "transcript": "text/shadow-monger-book-one/chapter-19.json"
+        "transcript": "text/shadow-monger-book-one/chapter-19.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-19.mp3"
       },
       "audio": {
         "sha256": "3fee0bbbbaa071902957a732b2df2a08b2cda51c33645d807512f1f24873bc0b",
@@ -13587,9 +13631,10 @@
         "id": "shadow-monger-book-one-20",
         "number": 20,
         "title": "The Offer of Shelter",
-        "src": "audio/shadow-monger-book-one/chapter-20.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-20.mp3",
         "duration": 1017.75,
-        "transcript": "text/shadow-monger-book-one/chapter-20.json"
+        "transcript": "text/shadow-monger-book-one/chapter-20.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-20.mp3"
       },
       "audio": {
         "sha256": "b4ecccc09feb0e6a4ee600fdcc9ddd37c571d9dd877285f2058026e493f32207",
@@ -14432,9 +14477,10 @@
         "id": "shadow-monger-book-one-21",
         "number": 21,
         "title": "Rod Iron Manor",
-        "src": "audio/shadow-monger-book-one/chapter-21.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-21.mp3",
         "duration": 1016.800083,
-        "transcript": "text/shadow-monger-book-one/chapter-21.json"
+        "transcript": "text/shadow-monger-book-one/chapter-21.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-21.mp3"
       },
       "audio": {
         "sha256": "140f139750e05218652d8108bfb716b29b6661252b7227790ba5b409caa285f5",
@@ -15297,9 +15343,10 @@
         "id": "shadow-monger-book-one-22",
         "number": 22,
         "title": "The House That Kept Them",
-        "src": "audio/shadow-monger-book-one/chapter-22.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-22.mp3",
         "duration": 1020.78,
-        "transcript": "text/shadow-monger-book-one/chapter-22.json"
+        "transcript": "text/shadow-monger-book-one/chapter-22.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-22.mp3"
       },
       "audio": {
         "sha256": "46971cc2044055f0164251c1e1e3801a49746e41ba9b0520873322115ac54666",
@@ -16157,9 +16204,10 @@
         "id": "shadow-monger-book-one-23",
         "number": 23,
         "title": "The Return Joint",
-        "src": "audio/shadow-monger-book-one/chapter-23.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-23.mp3",
         "duration": 1072.89,
-        "transcript": "text/shadow-monger-book-one/chapter-23.json"
+        "transcript": "text/shadow-monger-book-one/chapter-23.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-23.mp3"
       },
       "audio": {
         "sha256": "6365cdf2fa814867ad76ff879400b34e456755e96ae775988e029ba40217f1e8",
@@ -17157,9 +17205,10 @@
         "id": "shadow-monger-book-one-24",
         "number": 24,
         "title": "What Remained",
-        "src": "audio/shadow-monger-book-one/chapter-24.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-24.mp3",
         "duration": 1002.94,
-        "transcript": "text/shadow-monger-book-one/chapter-24.json"
+        "transcript": "text/shadow-monger-book-one/chapter-24.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-24.mp3"
       },
       "audio": {
         "sha256": "d2d1723afc8fdb1fe434840f6a6e91a12b1f317db1ab1d3b6f2cfc5fc0e83aa1",
@@ -17877,9 +17926,10 @@
         "id": "shadow-monger-book-one-25",
         "number": 25,
         "title": "A Fresh Pair of Hands",
-        "src": "audio/shadow-monger-book-one/chapter-25.mp3",
+        "src": "https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/10efb99ba0f45102d268424b2ece6c584b0b160a/audio/shadow-monger-book-one/chapter-25.mp3",
         "duration": 1059.241958,
-        "transcript": "text/shadow-monger-book-one/chapter-25.json"
+        "transcript": "text/shadow-monger-book-one/chapter-25.json",
+        "archiveSrc": "audio/shadow-monger-book-one/chapter-25.mp3"
       },
       "audio": {
         "sha256": "e6950aab124e68132d0157bbdd9c1eb83ef6824148820ed8822407dc6efb8c46",

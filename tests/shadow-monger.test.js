@@ -5,8 +5,11 @@ import {createHash} from 'node:crypto';
 import {nextChapter,bookResume,restoreState,completedProgress} from '../core.js';
 import {validateTranscript,paragraphIndexAt} from '../reader.js';
 import {mp3Frames,boundedMp3} from '../mp3.js';
+import {archivedAudioPaths} from '../tools/build.mjs';
 
 const id='shadow-monger-book-one';
+const mediaCommit='10efb99ba0f45102d268424b2ece6c584b0b160a';
+const mediaOrigin=`https://raw.githubusercontent.com/slopdelop/afterlight-audiobooks/${mediaCommit}/`;
 const read=path=>fs.readFileSync(new URL('../'+path,import.meta.url));
 const json=path=>JSON.parse(read(path).toString('utf8'));
 const hash=data=>createHash('sha256').update(data).digest('hex');
@@ -42,12 +45,27 @@ test('Shadow Monger reader preserves every canonical paragraph and full measured
 });
 
 test('Shadow Monger actual MP3 frames support timing and bounded sleep playback', {skip:!book},()=>{
+ const manifest=json(`manuscript/${id}/production.json`);
  for(const c of book.chapters){
-  const data=read(c.src);const parsed=mp3Frames(data.buffer.slice(data.byteOffset,data.byteOffset+data.byteLength));
+  const data=read(c.archiveSrc??c.src),row=manifest.chapters.find(r=>r.number===c.number);
+  assert.equal(data.length,row.audio.bytes);assert.equal(hash(data),row.audio.sha256);
+  const parsed=mp3Frames(data.buffer.slice(data.byteOffset,data.byteOffset+data.byteLength));
   assert.ok(Math.abs(parsed.duration-c.duration)<.2,`${c.id}: ${parsed.duration} vs ${c.duration}`);
   const target=Math.min(61,c.duration/2), bounded=boundedMp3(parsed,target);
   assert.ok(bounded.duration>=target&&bounded.duration-target<.05);assert.ok(bounded.blob.size<data.length);
  }
+});
+
+test('Shadow Monger Pages archive exclusions cover only its exact pinned chapter audio', {skip:!book},()=>{
+ const expected=book.chapters.map(c=>`audio/${id}/chapter-${String(c.number).padStart(2,'0')}.mp3`);
+ assert.deepEqual([...archivedAudioPaths(catalog)].sort(),expected);
+ book.chapters.forEach((c,i)=>{assert.equal(c.archiveSrc,expected[i]);assert.equal(c.src,mediaOrigin+expected[i]);});
+ const mixed=structuredClone(catalog),changed=mixed.books.find(b=>b.id===id);
+ delete changed.chapters.at(-1).archiveSrc;
+ assert.throws(()=>archivedAudioPaths(mixed),/coverage/);
+ changed.chapters.at(-1).archiveSrc=expected.at(-1);
+ changed.chapters.at(-1).src=mediaOrigin+expected[0];
+ assert.throws(()=>archivedAudioPaths(mixed),/pinned audio archive/);
 });
 
 test('Shadow Monger transitions and completed-book progress remain independent of earlier books', {skip:!book},()=>{
