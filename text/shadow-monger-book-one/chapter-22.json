@@ -1,0 +1,1348 @@
+{
+  "version": 1,
+  "chapterId": "shadow-monger-book-one-22",
+  "duration": 1020.78,
+  "alignment": "Canonical book paragraphs use fixed synthesis boundaries and cached local Whisper word timestamps; unmatched starts are interpolated.",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "The House That Kept Them",
+      "start": 0.0,
+      "timing": "segment",
+      "kind": "title",
+      "end": 1.61
+    },
+    {
+      "id": "p0002",
+      "text": "At first Mabel thought the root had lifted a piece of black cloth.",
+      "start": 1.61,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 5.42
+    },
+    {
+      "id": "p0003",
+      "text": "It rose from the place where living fibres passed through the iron. The wet surface separated into folds, dark on one side and faintly green on the other. Beneath them a narrow body straightened without standing up. Its feet, if it had feet, remained somewhere inside the root.",
+      "start": 5.42,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 22.2
+    },
+    {
+      "id": "p0004",
+      "text": "The hood came last.",
+      "start": 22.2,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 23.74
+    },
+    {
+      "id": "p0005",
+      "text": "It was full of small distances. A twig behind a cheekbone. A depth of water where an eye should have been. For a moment the face was almost delicate, the long, fine face of a creature made for shade among growing things. Then it turned toward her, and the delicacy became something pared down too far.",
+      "start": 23.74,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 42.93
+    },
+    {
+      "id": "p0006",
+      "text": "There were things inside him.",
+      "start": 42.93,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 44.72
+    },
+    {
+      "id": "p0007",
+      "text": "A leaf stood against the dark of his chest, its stem reaching for a branch no longer there. A small white feather turned slowly near his throat. Lower down she saw the outline of an iron fence, tiny houses beyond it, a hand still lifting to close a window. The shapes did not lie on him like ornaments. They occupied him, held at different depths.",
+      "start": 44.72,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 66.97
+    },
+    {
+      "id": "p0008",
+      "text": "The Shadow Monger bent beneath the beam.",
+      "start": 66.97,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 69.31
+    },
+    {
+      "id": "p0009",
+      "text": "The beam seemed to rise to accommodate him. Mabel's torch showed its old nail holes, only inches above Justin's head. Her eyes insisted on a height sufficient for the hood.",
+      "start": 69.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 79.63
+    },
+    {
+      "id": "p0010",
+      "text": "There was iron in him as well as root.",
+      "start": 79.63,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 81.79
+    },
+    {
+      "id": "p0011",
+      "text": "A narrow dark band crossed the place where his neck joined his shoulders. Another passed behind the feather and emerged through a fold near his wrist. The growth had gone round the metal, then over it, then made its shape part of the body. At the edges the living surface was tender and pale, like bark newly exposed.",
+      "start": 81.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 101.22
+    },
+    {
+      "id": "p0012",
+      "text": "He turned one hand palm upward. A small hollow lay in it, holding water. Something in the water tried to move toward the rim.",
+      "start": 101.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 110.12
+    },
+    {
+      "id": "p0013",
+      "text": "The fingers closed a little.",
+      "start": 110.12,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 111.8
+    },
+    {
+      "id": "p0014",
+      "text": "It stayed.",
+      "start": 111.8,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 112.88
+    },
+    {
+      "id": "p0015",
+      "text": "Mabel had the absurd impulse to put a saucer on the floor and ask him to let it go there. The thing in the palm might have been a creature, might have been only the movement of light across a memory. The care with which he stopped it leaving was real.",
+      "start": 112.88,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 127.28
+    },
+    {
+      "id": "p0016",
+      "text": "“You can put it down,” she said.",
+      "start": 127.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 129.37
+    },
+    {
+      "id": "p0017",
+      "text": "The hood turned toward her.",
+      "start": 129.37,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 131.02
+    },
+    {
+      "id": "p0018",
+      "text": "“You would leave it.”",
+      "start": 131.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 132.21
+    },
+    {
+      "id": "p0019",
+      "text": "“It might want to move.”",
+      "start": 132.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 133.58
+    },
+    {
+      "id": "p0020",
+      "text": "The fingers closed farther. Water ran between them and vanished before it reached the floor.",
+      "start": 133.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 139.46
+    },
+    {
+      "id": "p0021",
+      "text": "“Everything wants.”",
+      "start": 139.46,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 141.01
+    },
+    {
+      "id": "p0022",
+      "text": "His voice held a small, offended wonder, as though the habit still disappointed him after all the years he'd had to observe it. The fine face lengthened. For an instant she saw the shape that might have bent among stems to shelter something hurt, before the mouth pulled wide enough to make shelter seem like hunger.",
+      "start": 141.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 158.99
+    },
+    {
+      "id": "p0023",
+      "text": "She looked at the metal passing through his throat. It was part of the boundary he'd accepted, still going round him. He had made it reach out through other people's doors.",
+      "start": 158.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 168.44
+    },
+    {
+      "id": "p0024",
+      "text": "Mabel moved her injured hand away from the vision's outstretched palm. She kept it against her own body, sore, insufficient and hers.",
+      "start": 168.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 177.11
+    },
+    {
+      "id": "p0025",
+      "text": "Where the creature's sleeve brushed the upright, its shadow climbed the iron against the torchlight. It divided at each join and went along the separate rods, thin as spilled ink. Mabel could see it reaching the two collars round the root. The dark did not spill across the gap between the cradle and the house wall. It followed what had actually been joined.",
+      "start": 177.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 197.7
+    },
+    {
+      "id": "p0026",
+      "text": "The little open spaces remained open.",
+      "start": 197.7,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 200.16
+    },
+    {
+      "id": "p0027",
+      "text": "She kept one in view, the narrow triangle beside her support, while the chamber seemed to grow taller round them.",
+      "start": 200.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 207.14
+    },
+    {
+      "id": "p0028",
+      "text": "RG looked up with an expression she had never seen on him.",
+      "start": 207.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 211.08
+    },
+    {
+      "id": "p0029",
+      "text": "Wonder.",
+      "start": 211.08,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 211.88
+    },
+    {
+      "id": "p0030",
+      "text": "Then fear, quickly contained.",
+      "start": 211.88,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 214.2
+    },
+    {
+      "id": "p0031",
+      "text": "The Monger's mouth curved. “So much trouble to go somewhere else.”",
+      "start": 214.2,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 218.01
+    },
+    {
+      "id": "p0032",
+      "text": "Mabel put her left hand against the timber again. Its rough grain pressed into her skin. She had placed it. Justin had checked it. The water around it was real.",
+      "start": 218.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 228.56
+    },
+    {
+      "id": "p0033",
+      "text": "“We're opening the joint,” she said.",
+      "start": 228.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 230.86
+    },
+    {
+      "id": "p0034",
+      "text": "“I see what you're doing.”",
+      "start": 230.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 232.42
+    },
+    {
+      "id": "p0035",
+      "text": "He looked at her right hand. Pain ran through it with such precision that she nearly drew it behind her back, as though the dressing could conceal an injury he had already watched happen. The hand in his chest turned slightly, wrist bent, waiting.",
+      "start": 232.42,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 247.2
+    },
+    {
+      "id": "p0036",
+      "text": "She understood that he was showing her a place.",
+      "start": 247.2,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 249.65
+    },
+    {
+      "id": "p0037",
+      "text": "Not a room this time. A position. Someone useful who would never be too far away, never asleep when the next person needed a door opened, never unable to help because she was hurt.",
+      "start": 249.65,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 260.29
+    },
+    {
+      "id": "p0038",
+      "text": "Her shadow lay against the cradle with both hands sound.",
+      "start": 260.29,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 263.35
+    },
+    {
+      "id": "p0039",
+      "text": "It reached for the collar pin.",
+      "start": 263.35,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 265.13
+    },
+    {
+      "id": "p0040",
+      "text": "Mabel did not.",
+      "start": 265.13,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 266.27
+    },
+    {
+      "id": "p0041",
+      "text": "Beside her Justin lifted the jack handle. RG moved.",
+      "start": 266.27,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 270.83
+    },
+    {
+      "id": "p0042",
+      "text": "He kicked the near board out from its first position. The jack tilted. Justin caught it before the foot slipped from the cradle's base, taking its weight against his knee. The pain in his back came out as a short, ugly sound.",
+      "start": 270.83,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 282.8
+    },
+    {
+      "id": "p0043",
+      "text": "Mabel pushed the board under with her left hand.",
+      "start": 282.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 285.75
+    },
+    {
+      "id": "p0044",
+      "text": "“Hold it,” she said.",
+      "start": 285.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 287.68
+    },
+    {
+      "id": "p0045",
+      "text": "He held.",
+      "start": 287.68,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 288.59
+    },
+    {
+      "id": "p0046",
+      "text": "RG had one hand still on the old upright. With the other he seized the bar's exposed end and shoved it inward, though it was already seated. The iron rang. From the street came a distant crash, followed by somebody shouting a name.",
+      "start": 288.59,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 303.0
+    },
+    {
+      "id": "p0047",
+      "text": "“Don't do that,” Mabel said.",
+      "start": 303.0,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 305.08
+    },
+    {
+      "id": "p0048",
+      "text": "“Then stop trying to undo it.”",
+      "start": 305.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 307.2
+    },
+    {
+      "id": "p0049",
+      "text": "The Monger watched the two human hands at the bar with an absorbed pleasure. His own fingers lengthened into the shadow across it. The sleeve doubled before Mabel's eyes: one where the jack stood, another farther back. Justin turned his face away from the second shape and kept his knee against the jack's foot.",
+      "start": 307.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 324.98
+    },
+    {
+      "id": "p0050",
+      "text": "Mabel passed Justin her torch, then took the phone from her pocket. “Inez. Tell Mrs Lin the obstruction is inside the trench. I can get to this end.”",
+      "start": 324.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 334.12
+    },
+    {
+      "id": "p0051",
+      "text": "Her own voice answered from the low opening beyond RG: “I can get to this end.”",
+      "start": 334.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 339.37
+    },
+    {
+      "id": "p0052",
+      "text": "She put the phone closer to her ear. Inez's reply came through the device, breathless but ordinary. “She heard. She's holding.”",
+      "start": 339.37,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 348.27
+    },
+    {
+      "id": "p0053",
+      "text": "Mabel moved toward the trench.",
+      "start": 348.27,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 350.97
+    },
+    {
+      "id": "p0054",
+      "text": "The taller man stepped across her path.",
+      "start": 350.97,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 353.61
+    },
+    {
+      "id": "p0055",
+      "text": "He had left the outer clamp for one second, enough to block the narrow way. His tool was still in his hand. Mabel could smell the damp lining of his jacket.",
+      "start": 353.61,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 363.18
+    },
+    {
+      "id": "p0056",
+      "text": "“Put it down,” he said.",
+      "start": 363.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 364.61
+    },
+    {
+      "id": "p0057",
+      "text": "She held only the phone.",
+      "start": 364.61,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 366.63
+    },
+    {
+      "id": "p0058",
+      "text": "Behind him the outer plate shifted. A thin line of water spurted from beneath it. He looked back, and Justin called, “Your foot.”",
+      "start": 366.63,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 375.28
+    },
+    {
+      "id": "p0059",
+      "text": "The man turned to catch the clamp.",
+      "start": 375.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 377.64
+    },
+    {
+      "id": "p0060",
+      "text": "Mabel went past him while he reached for it. She switched the phone to speaker and returned it to her outer pocket, microphone clear, freeing her left hand.",
+      "start": 377.64,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 387.19
+    },
+    {
+      "id": "p0061",
+      "text": "The service trench ran beneath two loose boards, just as the plan showed.",
+      "start": 387.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 391.95
+    },
+    {
+      "id": "p0062",
+      "text": "Justin watched Mabel lift the nearer one with the end of a spanner, using her left forearm to move its weight. She set it flat, clear of the exit, then lowered herself into the narrow channel. Her glove stayed dry above the water for a moment before her right arm came against her chest.",
+      "start": 391.95,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 407.83
+    },
+    {
+      "id": "p0063",
+      "text": "He wanted to follow her. The jack moved beneath his knee and made the decision for him.",
+      "start": 407.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 413.71
+    },
+    {
+      "id": "p0064",
+      "text": "The Monger's hood turned with her.",
+      "start": 413.71,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 415.65
+    },
+    {
+      "id": "p0065",
+      "text": "“A place for everybody... and why not?” he said softly.",
+      "start": 415.65,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 420.37
+    },
+    {
+      "id": "p0066",
+      "text": "The shape of the room changed again. The basement stair became a row of shadowed recesses, each deep enough to hold a person standing still. In one, Justin saw a man in a loose coat with a dog's lead wound round his wrist. In another, a woman sat at a desk, eyes closed, finally sleeping through the day.",
+      "start": 420.37,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 440.77
+    },
+    {
+      "id": "p0067",
+      "text": "Ruth's quiet. Goon Man safely off the road. Ada where nobody could mislay her.",
+      "start": 440.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 447.17
+    },
+    {
+      "id": "p0068",
+      "text": "Ada was at Jo's, with a plant on the sill.",
+      "start": 447.17,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 450.35
+    },
+    {
+      "id": "p0069",
+      "text": "His shadow rose from the floor and stood at the bar.",
+      "start": 450.35,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 453.31
+    },
+    {
+      "id": "p0070",
+      "text": "It had the position exactly right. Knees clear of the jack, shoulders turned, both hands ready. It did not hesitate. It would never need another answer.",
+      "start": 453.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 463.52
+    },
+    {
+      "id": "p0071",
+      "text": "Justin put his hand on the bar and felt its cold through his fingers. The shadow's hand lay half an inch beyond his own. He moved his thumb, deliberately, out of its alignment.",
+      "start": 463.52,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 473.9
+    },
+    {
+      "id": "p0072",
+      "text": "RG saw him do it.",
+      "start": 473.9,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 475.88
+    },
+    {
+      "id": "p0073",
+      "text": "“You think this is a trick,” he said.",
+      "start": 475.88,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 478.24
+    },
+    {
+      "id": "p0074",
+      "text": "“I think you're holding a bar we need out.”",
+      "start": 478.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 480.4
+    },
+    {
+      "id": "p0075",
+      "text": "“Listen to the houses.”",
+      "start": 480.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 481.88
+    },
+    {
+      "id": "p0076",
+      "text": "Justin could hear them. A distant grind, water, footsteps where there should have been ceilings. He could also hear Inez through Mabel's phone, asking Mrs Lin to ease the gate back slightly.",
+      "start": 481.88,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 494.15
+    },
+    {
+      "id": "p0077",
+      "text": "“Help her,” he said to RG.",
+      "start": 494.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 496.207
+    },
+    {
+      "id": "p0078",
+      "text": "RG's face hardened. “She could have stayed out.”",
+      "start": 496.207,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 499.19
+    },
+    {
+      "id": "p0079",
+      "text": "He bent toward the jack. Justin shoved the tool bag into the gap between them, making him step round it. RG could kick the board or grip the bar, but not both without releasing the upright. His hand tightened on the old iron whenever he started to let go.",
+      "start": 499.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 514.63
+    },
+    {
+      "id": "p0080",
+      "text": "The Monger watched that too.",
+      "start": 514.63,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 516.38
+    },
+    {
+      "id": "p0081",
+      "text": "“My careful keeper.”",
+      "start": 516.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 517.89
+    },
+    {
+      "id": "p0082",
+      "text": "RG straightened. For the first time Justin saw him check the being's face as if he might have misheard a tone.",
+      "start": 517.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 525.15
+    },
+    {
+      "id": "p0083",
+      "text": "From the trench Mabel called for the pry bar.",
+      "start": 525.15,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 527.73
+    },
+    {
+      "id": "p0084",
+      "text": "It was outside.",
+      "start": 527.73,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 529.03
+    },
+    {
+      "id": "p0085",
+      "text": "Justin told Inez through the open line, repeating the request once so she knew which end of the trench Mabel had reached. The reply came back with the sound of moving feet. There was a scrape at the exterior access, then Mabel's voice, closer to the wall.",
+      "start": 529.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 543.75
+    },
+    {
+      "id": "p0086",
+      "text": "“I've got it.”",
+      "start": 543.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 544.92
+    },
+    {
+      "id": "p0087",
+      "text": "The support under the far end of the sleeve settled. One wedge slid a finger's width across the wet stone.",
+      "start": 544.92,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 551.92
+    },
+    {
+      "id": "p0088",
+      "text": "Justin couldn't reach it without leaving the jack. He put the toe of his shoe against the timber and stopped it moving farther.",
+      "start": 551.92,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 559.58
+    },
+    {
+      "id": "p0089",
+      "text": "RG saw the movement. He came as far as the upright allowed, dragging one foot through the water, and pushed at Justin's shoulder with his free hand. The first shove caught the bruise. Justin's leg nearly gave.",
+      "start": 559.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 572.4
+    },
+    {
+      "id": "p0090",
+      "text": "He set the heel of his other foot against the cradle's base and stayed there.",
+      "start": 572.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 576.94
+    },
+    {
+      "id": "p0091",
+      "text": "RG pushed again. Justin caught his wrist, held it for a moment and let go to keep the jack from turning. He had no spare hand with which to win a fight.",
+      "start": 576.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 587.16
+    },
+    {
+      "id": "p0092",
+      "text": "“You're hurting yourself,” RG said.",
+      "start": 587.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 589.85
+    },
+    {
+      "id": "p0093",
+      "text": "“Then move.”",
+      "start": 589.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 590.94
+    },
+    {
+      "id": "p0094",
+      "text": "The words came out through his teeth. He hadn't meant to sound brave. The jack handle lay against his forearm and the timber was moving under his shoe. There was nowhere to put the pain until one of those things stopped needing him.",
+      "start": 590.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 603.3
+    },
+    {
+      "id": "p0095",
+      "text": "Above the stair, a real voice called his name. The fire crew had reached the upper landing. He could hear the shorter man describing the water and the rear opening, then the sound of somebody finding a wall where the next tread ought to be.",
+      "start": 603.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 616.67
+    },
+    {
+      "id": "p0096",
+      "text": "“Stay at the opening,” Justin called. “Keep it there.”",
+      "start": 616.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 620.24
+    },
+    {
+      "id": "p0097",
+      "text": "RG looked toward the stair and back. He couldn't hide his alarm at another voice being answered. The Monger's held figures turned their heads together, as if somebody had spoken out of order.",
+      "start": 620.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 631.36
+    },
+    {
+      "id": "p0098",
+      "text": "Justin kept his foot against the timber, listening to Mabel move through the water beyond it.",
+      "start": 631.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 636.44
+    },
+    {
+      "id": "p0099",
+      "text": "“Mabel,” he called.",
+      "start": 636.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 638.32
+    },
+    {
+      "id": "p0100",
+      "text": "“I know. First the gate.”",
+      "start": 638.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 639.89
+    },
+    {
+      "id": "p0101",
+      "text": "He kept his foot where it was.",
+      "start": 639.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 642.29
+    },
+    {
+      "id": "p0102",
+      "text": "The obstruction was not old.",
+      "start": 642.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 644.57
+    },
+    {
+      "id": "p0103",
+      "text": "Daylight through the exterior access caught fresh tool marks on the brace laid across the runoff gate's inner edge. Somebody had wedged it against the trench wall, using the pressure of the gate itself to hold it. With the handle outside trying to lift, the brace bit harder.",
+      "start": 644.57,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 659.44
+    },
+    {
+      "id": "p0104",
+      "text": "Inez had passed the pry bar through the exterior access. For a moment Mabel saw her hand in daylight, fingers around the same metal Mabel held in the dark. The actual distance was no more than an arm's length. Then the shadow of the retaining wall lay between them again.",
+      "start": 659.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 676.24
+    },
+    {
+      "id": "p0105",
+      "text": "“Ease it back,” Mabel said toward her pocket.",
+      "start": 676.24,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 679.4
+    },
+    {
+      "id": "p0106",
+      "text": "Mrs Lin answered, “Coming down.”",
+      "start": 679.4,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 681.74
+    },
+    {
+      "id": "p0107",
+      "text": "The gate moved a little toward closed. The brace loosened.",
+      "start": 681.74,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 685.98
+    },
+    {
+      "id": "p0108",
+      "text": "Mabel put the pry bar's tip beneath its end. She couldn't use her right hand to steady it. She shifted until the tool rested against her left forearm and pushed with her shoulder. The brace lifted, scraped the wall and caught.",
+      "start": 685.98,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 698.99
+    },
+    {
+      "id": "p0109",
+      "text": "Something cold touched the back of her neck.",
+      "start": 698.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 701.71
+    },
+    {
+      "id": "p0110",
+      "text": "She froze.",
+      "start": 701.71,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 702.99
+    },
+    {
+      "id": "p0111",
+      "text": "A voice just behind her said, “Leave it. There's enough water.”",
+      "start": 702.99,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 706.98
+    },
+    {
+      "id": "p0112",
+      "text": "It sounded like Justin at the kitchen table when he was too tired to go on. He was behind her, but farther away, at the real jack. She could hear the small metallic movement of its handle.",
+      "start": 706.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 718.46
+    },
+    {
+      "id": "p0113",
+      "text": "Mabel kept the pry bar where it was.",
+      "start": 718.46,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 720.67
+    },
+    {
+      "id": "p0114",
+      "text": "“Inez,” she said, “tell me what you're holding.”",
+      "start": 720.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 723.83
+    },
+    {
+      "id": "p0115",
+      "text": "“The phone. The plan's under my arm.”",
+      "start": 723.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 726.47
+    },
+    {
+      "id": "p0116",
+      "text": "“Where's the board?”",
+      "start": 726.47,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 728.4
+    },
+    {
+      "id": "p0117",
+      "text": "“The Frog's propped it at the fence. He's holding the chair now.”",
+      "start": 728.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 732.08
+    },
+    {
+      "id": "p0118",
+      "text": "Mabel pushed again.",
+      "start": 732.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 733.64
+    },
+    {
+      "id": "p0119",
+      "text": "The brace came loose.",
+      "start": 733.64,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 735.36
+    },
+    {
+      "id": "p0120",
+      "text": "She caught its lighter end against the side of the trench before it could fall across the gate. The weight dragged at her shoulder. Her right palm struck the wall inside the glove, and she bit the sound off before it became a cry.",
+      "start": 735.36,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 747.15
+    },
+    {
+      "id": "p0121",
+      "text": "“Lift now,” she said.",
+      "start": 747.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 749.57
+    },
+    {
+      "id": "p0122",
+      "text": "Outside, the handle moved.",
+      "start": 749.57,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 752.11
+    },
+    {
+      "id": "p0123",
+      "text": "Water struck the channel hard enough to push her knee sideways. She braced against the timber edge and slid the loose iron behind her, out of the flow. It was an ordinary piece, dirty and deliberately placed. She wanted to take it out and put it in front of RG's face.",
+      "start": 752.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 768.33
+    },
+    {
+      "id": "p0124",
+      "text": "The water level dropped beneath the trench board.",
+      "start": 768.33,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 771.11
+    },
+    {
+      "id": "p0125",
+      "text": "“It's going,” Inez said.",
+      "start": 771.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 774.03
+    },
+    {
+      "id": "p0126",
+      "text": "Mabel lifted her face toward the exterior gap. For a second she could see daylight all the way through, and in it Grim's gray head above the lower wall. He was shouting something delighted about down.",
+      "start": 774.03,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 785.63
+    },
+    {
+      "id": "p0127",
+      "text": "She left the brace on the dry ledge and came back toward the joint.",
+      "start": 785.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 789.73
+    },
+    {
+      "id": "p0128",
+      "text": "Outside, the runoff gate opened too quickly.",
+      "start": 789.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 793.35
+    },
+    {
+      "id": "p0129",
+      "text": "Mrs Lin had been expecting resistance. When the brace released, the supported handle came down under her shoulder and the chair skidded. Grasshopper Man caught the wood with both hands. The right foot he had kept clear came to the ground before he could stop it.",
+      "start": 793.35,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 808.15
+    },
+    {
+      "id": "p0130",
+      "text": "Pain went white across his face.",
+      "start": 808.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 810.57
+    },
+    {
+      "id": "p0131",
+      "text": "The Frog put his whole weight against the chair. Mrs Lin kept the gate's movement inside its clear swing while Inez held the phone above the splash. They got the long handle onto the second support and held it there.",
+      "start": 810.57,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 822.91
+    },
+    {
+      "id": "p0132",
+      "text": "Grasshopper Man sat with both eyes shut.",
+      "start": 822.91,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 825.4
+    },
+    {
+      "id": "p0133",
+      "text": "“Let go,” Mrs Lin said.",
+      "start": 825.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 828.07
+    },
+    {
+      "id": "p0134",
+      "text": "He opened his hands one at a time.",
+      "start": 828.07,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 830.53
+    },
+    {
+      "id": "p0135",
+      "text": "The handle stayed.",
+      "start": 830.53,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 831.95
+    },
+    {
+      "id": "p0136",
+      "text": "From below, Grim shouted that the water was going down and that down had been neglected for far too long. The rush moved through the cleared gutter to the planted strip, spreading across ground that had room for it before reaching the drain. Mrs Lin watched the route until she was certain none was turning toward the houses.",
+      "start": 831.95,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 849.98
+    },
+    {
+      "id": "p0137",
+      "text": "Then she told the people inside.",
+      "start": 849.98,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 851.96
+    },
+    {
+      "id": "p0138",
+      "text": "The fire crew at the garden approach had found the real back door with the shorter man's help. One of them came into the kitchen and called down the stair. From the hall he could hear the joint working, but the stair beneath him appeared to split round a wall that had not been on the plan. The shorter man held a torch at the upper tread and repeated what Justin had told him: lower room, rear chamber, don't follow the voice.",
+      "start": 851.96,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 875.01
+    },
+    {
+      "id": "p0139",
+      "text": "They kept that opening.",
+      "start": 875.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 876.96
+    },
+    {
+      "id": "p0140",
+      "text": "Justin felt the pressure change before Mabel reached him.",
+      "start": 876.96,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 880.18
+    },
+    {
+      "id": "p0141",
+      "text": "The root did not shrink. The water stopped bearing against the retained ground at the same height, and the cradle ceased its slow sideways creep. He wound the jack a fraction higher. The near end of the sleeve came level.",
+      "start": 880.18,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 893.6
+    },
+    {
+      "id": "p0142",
+      "text": "“Now,” he said.",
+      "start": 893.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 895.52
+    },
+    {
+      "id": "p0143",
+      "text": "Mabel knelt at the outer support. The wedge had moved. She set the pry bar beneath the timber, lifted enough to put the wedge back with the side of her left hand, then laid the bar where she could reach it again.",
+      "start": 895.52,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 907.82
+    },
+    {
+      "id": "p0144",
+      "text": "RG shoved the closing bar inward.",
+      "start": 907.82,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 909.95
+    },
+    {
+      "id": "p0145",
+      "text": "Justin caught its exposed end with both hands. For a moment the two men worked in opposite directions, close enough to see water on one another's lashes. RG was older and tired. He was also determined, and the iron wanted the position he was defending.",
+      "start": 909.95,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 925.9
+    },
+    {
+      "id": "p0146",
+      "text": "“Let it go,” Justin said.",
+      "start": 925.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 928.14
+    },
+    {
+      "id": "p0147",
+      "text": "“You don't get to come in here and leave it to nobody.”",
+      "start": 928.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 931.19
+    },
+    {
+      "id": "p0148",
+      "text": "The Monger's hand lay across RG's shoulder.",
+      "start": 931.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 934.27
+    },
+    {
+      "id": "p0149",
+      "text": "It was not heavy. RG bent beneath it anyway.",
+      "start": 934.27,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 937.73
+    },
+    {
+      "id": "p0150",
+      "text": "“Keep,” the voice said.",
+      "start": 937.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 939.79
+    },
+    {
+      "id": "p0151",
+      "text": "The taller man forced the outer clamp down with his tool.",
+      "start": 939.79,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 943.13
+    },
+    {
+      "id": "p0152",
+      "text": "The plate rolled.",
+      "start": 943.13,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 944.45
+    },
+    {
+      "id": "p0153",
+      "text": "His left foot was still beneath its edge.",
+      "start": 944.45,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 946.78
+    },
+    {
+      "id": "p0154",
+      "text": "The sound was short. He went down hard, striking the cradle with his shoulder, his leg caught between the tilted plate and the base. His tool clattered into the water.",
+      "start": 946.78,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 957.54
+    },
+    {
+      "id": "p0155",
+      "text": "Mabel moved toward him.",
+      "start": 957.54,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 959.0
+    },
+    {
+      "id": "p0156",
+      "text": "“No,” RG said. “The support.”",
+      "start": 959.0,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 962.06
+    },
+    {
+      "id": "p0157",
+      "text": "She stopped, looking from the man's trapped shin to the timber holding the sleeve. They touched at the point where the plate had rolled. To free one, she would have to move the other.",
+      "start": 962.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 972.24
+    },
+    {
+      "id": "p0158",
+      "text": "Justin pulled.",
+      "start": 972.24,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 973.52
+    },
+    {
+      "id": "p0159",
+      "text": "The closing bar moved an inch.",
+      "start": 973.52,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 975.57
+    },
+    {
+      "id": "p0160",
+      "text": "RG's hand slid along it, trying to drive it back. The filed line emerged from the sleeve, bright in the torchlight, then stopped.",
+      "start": 975.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 984.83
+    },
+    {
+      "id": "p0161",
+      "text": "The outer end had tilted again.",
+      "start": 984.83,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 986.89
+    },
+    {
+      "id": "p0162",
+      "text": "The man's leg held the fallen plate at an angle, and the support that kept the sleeve level also kept the plate from rolling clear of him. His face was gray. He had stopped trying to get up.",
+      "start": 986.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 998.38
+    },
+    {
+      "id": "p0163",
+      "text": "“Don't move,” she told him.",
+      "start": 998.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1000.9
+    },
+    {
+      "id": "p0164",
+      "text": "He looked at the pry bar beside her knee.",
+      "start": 1000.9,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1003.25
+    },
+    {
+      "id": "p0165",
+      "text": "“Please.”",
+      "start": 1003.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1004.21
+    },
+    {
+      "id": "p0166",
+      "text": "Behind RG the Monger's chest opened onto a depth of black water. A pale wing moved inside it. The held shapes in the dark shifted toward their places.",
+      "start": 1004.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1015.01
+    },
+    {
+      "id": "p0167",
+      "text": "Justin kept both hands on the bar. Mabel set her left hand on the pry bar's grip.",
+      "start": 1015.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1020.78
+    }
+  ]
+}

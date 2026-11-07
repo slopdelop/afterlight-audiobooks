@@ -9,6 +9,7 @@ An iPhone-first audiobook PWA, published with GitHub Pages.
 ## Included
 
 - Multiple-book library with a stable, editable JSON catalog.
+- The Shadow Monger, Book One of The Shadow Monger Saga: all 25 chapters with a synthetic ensemble, Elliot Mercer narration and synchronized reading text.
 - The Hollow Throne starts at Chapter 6. Chapters 1–5 were listened to elsewhere; they are not represented as unfinished files.
 - Native HTML audio playback, Media Session metadata and play/pause/seek/skip handlers, and a playback audio session where Safari supports it.
 - Persistent position for each chapter, chapter completion, smart 10-second rewind after a long pause, playback speeds, chapter navigation and optional auto-next.

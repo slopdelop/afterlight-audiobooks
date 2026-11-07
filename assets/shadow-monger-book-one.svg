@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-40 0 720 960" role="img" aria-labelledby="title desc">
+ <title id="title">The Shadow Monger</title>
+ <desc id="desc">An ordinary green house behind elaborate ironwork, beneath a wooded San Francisco hill and drifting fog.</desc>
+ <defs>
+  <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#172f2c"/><stop offset="1" stop-color="#080f14"/></linearGradient>
+  <linearGradient id="mist" x2="1" y2="0"><stop stop-color="#d7dec6" stop-opacity=".04"/><stop offset=".48" stop-color="#d7dec6" stop-opacity=".24"/><stop offset="1" stop-color="#d7dec6" stop-opacity=".02"/></linearGradient>
+  <pattern id="rails" width="54" height="360" patternUnits="userSpaceOnUse"><path d="M27 0v360M27 27c-26 0-26 44 0 44s26-44 0-44M27 82c-22 0-22 35 0 35s22-35 0-35" fill="none" stroke="#aa9562" stroke-width="3"/><path d="m27 0-7 17h14Z" fill="#aa9562"/></pattern>
+ </defs>
+ <path fill="url(#sky)" d="M-40 0h720v960H-40z"/>
+ <circle cx="479" cy="337" r="68" fill="#d9dec6" opacity=".48"/>
+ <path d="M0 547Q149 344 294 417T640 455V960H0Z" fill="#10231f"/>
+ <g stroke="#1d3d32" stroke-width="11" fill="none">
+  <path d="M69 567 84 319m-5 72-37-48m42 9 32-55m-39 143-43-25m45-15 47-39"/>
+  <path d="m199 498-19-201m7 83-42-46m40 12 37-51m-31 129 39-37"/>
+  <path d="m530 535-16-245m7 90 42-53m-46 11-30-40m38 143 46-42"/>
+  <path d="m605 558 5-195m-2 71-30-37m31-3 26-46"/>
+ </g>
+ <path d="M-25 428Q147 380 318 419t350-20v59q-190 29-357-7T-25 478Z" fill="url(#mist)"/>
+ <path d="M-30 505q166-53 337-10t369-8v42q-201 27-366-3T-30 548Z" fill="url(#mist)"/>
+ <g>
+  <path d="m164 609 142-94 164 88-13 20H176Z" fill="#3a3026"/>
+  <path d="M184 610h262v190H184Z" fill="#365441"/>
+  <path d="M324 610h122v190H324Z" fill="#293d32"/>
+  <path d="M200 645h61v73h-61zm162 0h54v73h-54z" fill="#0c1b1c" stroke="#8e936e" stroke-width="7"/>
+  <path d="M278 670h53v130h-53z" fill="#17231f" stroke="#746147" stroke-width="7"/>
+  <path d="M210 655h41v52h-41Z" fill="#d4ab61"/>
+  <path d="M230 652v59m-24-29h48" stroke="#4e4732" stroke-width="4"/>
+  <path d="M292 737q5-15 13-18t14 18v60h-27Z" fill="#060d11"/>
+  <path d="m296 790-48 112h180l-111-112Z" fill="#050b10"/>
+ </g>
+ <path d="M0 807q150-36 308-6t332-7v166H0Z" fill="#090f12"/>
+ <path d="M24 652h592v272H24z" fill="url(#rails)" opacity=".9"/>
+ <path d="M24 738h592M24 879h592" stroke="#aa9562" stroke-width="3"/>
+ <path d="M39 30h562v900H39Z" fill="none" stroke="#b7a471" stroke-opacity=".65" stroke-width="2"/>
+ <text x="320" y="97" fill="#b8ae88" font-family="Georgia,serif" font-size="16" text-anchor="middle" letter-spacing="4">THE SHADOW MONGER SAGA</text>
+ <g fill="#f0e7c9" font-family="Georgia,serif" text-anchor="middle">
+  <text x="320" y="168" font-size="35" letter-spacing="8">THE SHADOW</text>
+  <text x="320" y="241" font-size="72" letter-spacing="3">MONGER</text>
+ </g>
+ <path d="M253 277h134" stroke="#baa878" stroke-width="2"/>
+ <text x="320" y="307" fill="#c4b58c" font-family="Georgia,serif" font-size="16" text-anchor="middle" letter-spacing="5">BOOK ONE</text>
+ <text x="320" y="918" fill="#bbae8c" font-family="Georgia,serif" font-size="15" text-anchor="middle" letter-spacing="2">A NEIGHBOURHOOD HAS ITS SECRETS</text>
+</svg>

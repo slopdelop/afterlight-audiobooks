@@ -1,0 +1,1042 @@
+{
+  "version": 1,
+  "chapterId": "shadow-monger-book-one-14",
+  "duration": 934.7,
+  "alignment": "Canonical book paragraphs use fixed synthesis boundaries and cached local Whisper word timestamps; unmatched starts are interpolated.",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "The Errand",
+      "start": 0.0,
+      "timing": "segment",
+      "kind": "title",
+      "end": 1.68
+    },
+    {
+      "id": "p0002",
+      "text": "Marion lived below Rod Iron Manor, in a house whose front steps had been painted blue to make their edges easier to see. Mabel went there on Friday morning with Ada's envelope and a bag of groceries. Justin came with her because the work schedule put the next maintenance round along the wall behind Marion's garden.",
+      "start": 1.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 19.34
+    },
+    {
+      "id": "p0003",
+      "text": "They found Grasshopper Man sitting on the lowest blue step, eating an apple. His green tabard was folded beside him. Without it he wore a gray sweater with a darned elbow and looked like a man waiting for somebody to come home.",
+      "start": 19.34,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 32.53
+    },
+    {
+      "id": "p0004",
+      "text": "“She's in the back,” he said. “I knocked.”",
+      "start": 32.53,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 35.45
+    },
+    {
+      "id": "p0005",
+      "text": "“Did you use the gate?” Justin asked.",
+      "start": 35.45,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 38.29
+    },
+    {
+      "id": "p0006",
+      "text": "Grasshopper Man glanced at him. “Yes.”",
+      "start": 38.29,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 41.15
+    },
+    {
+      "id": "p0007",
+      "text": "Mabel rang the bell. Marion opened the door almost at once, holding her right arm close to her body. Her shoulder had been giving her trouble for months, she said, but she could still drive. She took the envelope, checked the time Ada had written on the front and put it against the kitchen clock.",
+      "start": 41.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 58.81
+    },
+    {
+      "id": "p0008",
+      "text": "“Monday,” she said. “We'll be early. If you arrive on time they treat you as late.”",
+      "start": 58.81,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 64.16
+    },
+    {
+      "id": "p0009",
+      "text": "Mabel confirmed that Marion would collect Ada at her front door, on the street, with no service-walk detour. The helper and the parking space were still to be checked. Marion said RG had already called to say he would sort both. Mabel asked her to confirm with Ada or with them before accepting any change.",
+      "start": 64.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 82.02
+    },
+    {
+      "id": "p0010",
+      "text": "“What's he been changing?” Marion asked.",
+      "start": 82.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 84.83
+    },
+    {
+      "id": "p0011",
+      "text": "Mabel told her enough. She did not make a joke or ask Marion to take it on trust. She showed the photograph of Ruth's fitting, the written account of its removal and the ordinary report reference. Marion looked toward her garden door.",
+      "start": 84.83,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 97.39
+    },
+    {
+      "id": "p0012",
+      "text": "“They did ours last week.”",
+      "start": 97.39,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 98.98
+    },
+    {
+      "id": "p0013",
+      "text": "Grasshopper Man had got up from the step. He stood just inside the open front door, holding the apple by its stem. Justin asked if they could look at the garden boundary. Marion led them through, walking carefully so as not to jar her shoulder.",
+      "start": 98.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 113.5
+    },
+    {
+      "id": "p0014",
+      "text": "The garden was long and narrow, descending in two terraces toward a shared access strip. Its bottom gate was the only way through without climbing a wall. Beyond it a line of old iron ran out from beneath the Manor's retaining ground and continued along three properties. At the gate a recent black clip held two parts together. Another section farther along remained loose, its sleeve hanging from one end.",
+      "start": 113.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 135.97
+    },
+    {
+      "id": "p0015",
+      "text": "The padded men stood beside it.",
+      "start": 135.97,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 137.87
+    },
+    {
+      "id": "p0016",
+      "text": "The taller had his bag open on the ground. The shorter held a length of dark iron while his colleague adjusted a clamp at the post. They were talking quietly. At the sound of the garden door both looked up.",
+      "start": 137.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 150.02
+    },
+    {
+      "id": "p0017",
+      "text": "“Not today,” Marion called.",
+      "start": 150.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 152.45
+    },
+    {
+      "id": "p0018",
+      "text": "The taller man straightened. “Scheduled work.”",
+      "start": 152.45,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 155.44
+    },
+    {
+      "id": "p0019",
+      "text": "“I don't want anything else on my gate.”",
+      "start": 155.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 157.53
+    },
+    {
+      "id": "p0020",
+      "text": "He looked at the gate, then at the join a little farther down the shared strip. “We're not on your gate.”",
+      "start": 157.53,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 163.51
+    },
+    {
+      "id": "p0021",
+      "text": "It was true by perhaps six inches. Mabel looked at the small space between the post and the point where the iron disappeared into the soil. There was no tidy way to divide the effects at that distance, whatever the ownership allowed.",
+      "start": 163.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 176.77
+    },
+    {
+      "id": "p0022",
+      "text": "Justin came down the garden steps. “Leave it open.”",
+      "start": 176.77,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 179.65
+    },
+    {
+      "id": "p0023",
+      "text": "The taller man picked up the clamp. “You don't maintain this.”",
+      "start": 179.65,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 183.28
+    },
+    {
+      "id": "p0024",
+      "text": "“Neither of us can see what you're doing from the other end.”",
+      "start": 183.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 186.1
+    },
+    {
+      "id": "p0025",
+      "text": "“Then stand back.”",
+      "start": 186.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 187.58
+    },
+    {
+      "id": "p0026",
+      "text": "The shorter man was watching Mabel's bandage. His gaze moved to Justin, then to Grasshopper Man at the top of the steps.",
+      "start": 187.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 195.49
+    },
+    {
+      "id": "p0027",
+      "text": "“It only closes this run,” he said.",
+      "start": 195.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 198.16
+    },
+    {
+      "id": "p0028",
+      "text": "“What does that mean?” Mabel asked.",
+      "start": 198.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 200.92
+    },
+    {
+      "id": "p0029",
+      "text": "The taller man gave his companion a look. “It means the job isn't finished.”",
+      "start": 200.92,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 205.14
+    },
+    {
+      "id": "p0030",
+      "text": "Grasshopper Man passed her, his apple set on the wall. He stopped beside the upper terrace and bent slightly, listening. A thin metallic tick came from below, too soft to place. Mabel saw Justin hear it too.",
+      "start": 205.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 219.06
+    },
+    {
+      "id": "p0031",
+      "text": "“The other post,” Grasshopper Man said. “There's a way round it.”",
+      "start": 219.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 223.68
+    },
+    {
+      "id": "p0032",
+      "text": "“Wait,” Justin said.",
+      "start": 223.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 225.02
+    },
+    {
+      "id": "p0033",
+      "text": "Grasshopper Man didn't. He put one foot on the low dividing wall and jumped.",
+      "start": 225.02,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 230.15
+    },
+    {
+      "id": "p0034",
+      "text": "For an instant he crossed more air than Mabel expected a body that size to cross. Then his right foot struck a sloping patch of paving beyond the gate. His knee folded sideways. He hit the ground with a sound she felt in her own ribs.",
+      "start": 230.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 244.08
+    },
+    {
+      "id": "p0035",
+      "text": "The short length of loose iron swung down after him.",
+      "start": 244.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 247.8
+    },
+    {
+      "id": "p0036",
+      "text": "Justin ran to the gate. It wouldn't open. The new clip had drawn the two plates tight enough to pull the gate against its post. Below it Grasshopper Man lay on his side, one hand pressed round his knee. He wasn't shouting. His mouth was open and no useful sound came out.",
+      "start": 247.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 264.07
+    },
+    {
+      "id": "p0037",
+      "text": "“Don't move the bar,” Mabel called to the men.",
+      "start": 264.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 267.22
+    },
+    {
+      "id": "p0038",
+      "text": "The taller one already had a hand on it. He stopped, then looked at his bag as if the next thing he needed might be in there.",
+      "start": 267.22,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 274.21
+    },
+    {
+      "id": "p0039",
+      "text": "His companion put the loose iron down and went to Grasshopper Man. He knelt, keeping clear of the twisted leg, and put his jacket between the man's head and the wet paving. The white cuff mark disappeared beneath his cheek.",
+      "start": 274.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 288.51
+    },
+    {
+      "id": "p0040",
+      "text": "Mabel called for an ambulance, reporting the fall and the trapped access. Marion gave her own address and told the crew to come through the house and garden; she would leave the front door open. Justin put one foot against the post and pulled the gate. It moved half an inch, caught, and stopped. He looked at the smaller bolt, then the iron stretching back toward the Manor.",
+      "start": 288.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 310.49
+    },
+    {
+      "id": "p0041",
+      "text": "“There's load on it,” he said.",
+      "start": 310.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 312.7
+    },
+    {
+      "id": "p0042",
+      "text": "“Of course there is,” the taller man replied.",
+      "start": 312.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 315.98
+    },
+    {
+      "id": "p0043",
+      "text": "“Take it off.”",
+      "start": 315.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 317.03
+    },
+    {
+      "id": "p0044",
+      "text": "“You don't just pull it out.”",
+      "start": 317.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 318.65
+    },
+    {
+      "id": "p0045",
+      "text": "“Then stop touching it.”",
+      "start": 318.65,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 320.08
+    },
+    {
+      "id": "p0046",
+      "text": "The sharpness of Justin's voice silenced everybody for a moment. Mabel looked at the gate's bottom edge. A fresh pale scrape ran across the paving where it had shifted. The shared strip beyond lay several inches lower than the garden. If they could relieve the sideways pull without letting the whole thing swing, they could get the gate open and give the paramedics a level approach.",
+      "start": 320.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 341.37
+    },
+    {
+      "id": "p0047",
+      "text": "Justin looked toward their car, then back at the gate. “I've got a jack.”",
+      "start": 341.37,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 345.19
+    },
+    {
+      "id": "p0048",
+      "text": "“Get it,” Mabel said.",
+      "start": 345.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 347.1
+    },
+    {
+      "id": "p0049",
+      "text": "He went. She knelt at the upper side of the gate, using her left hand on the dry wall. The injured palm throbbed under the dressing; she kept it against her body. Grasshopper Man could see her through the bars.",
+      "start": 347.1,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 360.13
+    },
+    {
+      "id": "p0050",
+      "text": "“Don't try to stand,” she said.",
+      "start": 360.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 362.68
+    },
+    {
+      "id": "p0051",
+      "text": "“I wasn't—” He stopped to breathe. “I wasn't planning to.”",
+      "start": 362.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 366.6
+    },
+    {
+      "id": "p0052",
+      "text": "The shorter man asked whether he could feel his foot. He could. They kept talking to him while Marion fetched a blanket from the house and passed it through the bars. The shorter man spread it over him. Mabel wanted to ask why he had jumped, why he hadn't waited, why he had needed to make the whole frightening thing faster. She said none of it.",
+      "start": 366.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 386.99
+    },
+    {
+      "id": "p0053",
+      "text": "The taller man shifted the long bar against the post.",
+      "start": 386.99,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 390.05
+    },
+    {
+      "id": "p0054",
+      "text": "The rail above Grasshopper Man moved. A loose stone fell from the wall, landing beside his shoulder. The shorter man put one hand over his head and looked up at his colleague.",
+      "start": 390.05,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 400.84
+    },
+    {
+      "id": "p0055",
+      "text": "“No.”",
+      "start": 400.84,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 401.87
+    },
+    {
+      "id": "p0056",
+      "text": "“It needs seating.”",
+      "start": 401.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 403.36
+    },
+    {
+      "id": "p0057",
+      "text": "“Not while he's there.”",
+      "start": 403.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 404.81
+    },
+    {
+      "id": "p0058",
+      "text": "The two men held one another's gaze. Then the taller set the bar down. He did it slowly, with an effort that looked more like anger than weight.",
+      "start": 404.81,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 413.51
+    },
+    {
+      "id": "p0059",
+      "text": "Justin returned carrying the car's screw jack and a small board from beneath its spare wheel. Marion supplied a second piece of wood from the shed. They set the jack horizontally between the old post and a firm part of the wall, spreading its ends on the boards so it wouldn't dig into either. Justin turned the handle a little, stopped and checked the gate. Mabel watched the lower iron. It lifted away from the trapped plate by a fraction.",
+      "start": 413.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 439.21
+    },
+    {
+      "id": "p0060",
+      "text": "The wall made a small dry sound. Justin stopped turning. A flake of paint had fallen from the corner of the board; beneath it the mortar remained whole. Mabel leaned far enough to see the place where the old rail entered the soil. The root beside it had stretched taut, drawing a pale line through the dark earth.",
+      "start": 439.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 458.31
+    },
+    {
+      "id": "p0061",
+      "text": "“No more yet,” she said.",
+      "start": 458.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 461.1
+    },
+    {
+      "id": "p0062",
+      "text": "He left the handle where it was. On the other side of the gate the shorter man kept his hand against Grasshopper Man's shoulder. His own breathing was visible in the cold air. The taller man stood beyond them, looking at the screw jack as though it were an objection he hadn't anticipated.",
+      "start": 461.1,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 477.86
+    },
+    {
+      "id": "p0063",
+      "text": "Grasshopper Man tried to lift his head. “I can get—”",
+      "start": 477.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 481.38
+    },
+    {
+      "id": "p0064",
+      "text": "“Stay,” Mabel said.",
+      "start": 481.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 483.7
+    },
+    {
+      "id": "p0065",
+      "text": "She found the word coming out too loudly and lowered her voice. “They're on the way. We need the gate open for them. That's all we're doing.”",
+      "start": 483.7,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 491.12
+    },
+    {
+      "id": "p0066",
+      "text": "His head went back onto the folded jacket. The blanket slipped from one shoulder. The shorter man tucked it around him while Marion watched from the garden side of the locked gate.",
+      "start": 491.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 501.01
+    },
+    {
+      "id": "p0067",
+      "text": "Justin shifted the outer board a little, making its face lie flat. He didn't remove the pressure while he did it. Mabel watched the root and told him when its pale line stopped moving. The jack's handle rested against his wrist. He waited for her rather than testing another turn.",
+      "start": 501.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 517.02
+    },
+    {
+      "id": "p0068",
+      "text": "Beyond the shared strip, something knocked once from the direction of the Manor. The taller man's head turned. Nobody else moved.",
+      "start": 517.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 525.28
+    },
+    {
+      "id": "p0069",
+      "text": "“Again,” she said.",
+      "start": 525.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 527.42
+    },
+    {
+      "id": "p0070",
+      "text": "He turned it once more. The nut on the new clip lost its strained angle. From the far side, the shorter man reached it with his spanner. He looked at his colleague, then loosened it.",
+      "start": 527.42,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 538.88
+    },
+    {
+      "id": "p0071",
+      "text": "The gate moved.",
+      "start": 538.88,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 540.22
+    },
+    {
+      "id": "p0072",
+      "text": "Marion caught it with her good arm. Mabel pushed a pot beneath it to stop it swinging. Justin backed the jack off slowly. The rail settled without throwing the post. For a moment they all watched, as though the small relief might be taken back.",
+      "start": 540.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 555.17
+    },
+    {
+      "id": "p0073",
+      "text": "It wasn't. The shorter man slid the additional clip free and laid it on the paving. The original iron still ran toward the Manor beneath their feet. He did not touch that.",
+      "start": 555.17,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 565.97
+    },
+    {
+      "id": "p0074",
+      "text": "“You were at the house,” Mabel said to him. “On Wednesday.”",
+      "start": 565.97,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 570.05
+    },
+    {
+      "id": "p0075",
+      "text": "He looked at her hand again.",
+      "start": 570.05,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 571.81
+    },
+    {
+      "id": "p0076",
+      "text": "“They said nobody would be in the room.”",
+      "start": 571.81,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 573.71
+    },
+    {
+      "id": "p0077",
+      "text": "“Who said?”",
+      "start": 573.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 574.6
+    },
+    {
+      "id": "p0078",
+      "text": "The taller man picked up the canvas bag. “We didn't invite you there.”",
+      "start": 574.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 578.72
+    },
+    {
+      "id": "p0079",
+      "text": "“Mrs Lin did,” Justin said.",
+      "start": 578.72,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 581.99
+    },
+    {
+      "id": "p0080",
+      "text": "Neither man answered. A vehicle stopped outside Marion's house. Voices came through the open garden door. Marion went up the terrace steps to meet the crew and show them the newly opened gate.",
+      "start": 581.99,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 594.45
+    },
+    {
+      "id": "p0081",
+      "text": "The taller man left by the other end of the strip. He carried the bar and the bag with him. Justin took one step after him, then stopped when Grasshopper Man tried to sit up.",
+      "start": 594.45,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 604.84
+    },
+    {
+      "id": "p0082",
+      "text": "The shorter man stayed. He told the crew what had happened to the knee, without the impossible length of the jump, and held the blanket clear while they examined it. When they asked him to move, he stood on the opposite side of the strip with his jacket over his arm. Without it he wore a plain shirt darkened at the neck by sweat.",
+      "start": 604.84,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 622.6
+    },
+    {
+      "id": "p0083",
+      "text": "They brought a chair stretcher through the gate. Grasshopper Man closed his eyes as they moved him. His green tabard lay folded on Marion's step. Mabel went up to fetch it. The apple was still where he'd put it, one bite taken from each side.",
+      "start": 622.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 637.06
+    },
+    {
+      "id": "p0084",
+      "text": "Justin found the shorter man beside the lower wall after the ambulance had gone. He had put his jacket back on but hadn't fastened it. The loose clip lay on the paving between his shoes.",
+      "start": 637.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 647.58
+    },
+    {
+      "id": "p0085",
+      "text": "“Don't refit it,” Justin said.",
+      "start": 647.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 649.83
+    },
+    {
+      "id": "p0086",
+      "text": "“I wasn't.”",
+      "start": 649.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 650.89
+    },
+    {
+      "id": "p0087",
+      "text": "“What happens if you don't?”",
+      "start": 650.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 652.65
+    },
+    {
+      "id": "p0088",
+      "text": "The man looked along the old iron toward the Manor. “He'll send somebody.”",
+      "start": 652.65,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 656.94
+    },
+    {
+      "id": "p0089",
+      "text": "“RG?”",
+      "start": 656.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 658.06
+    },
+    {
+      "id": "p0090",
+      "text": "He said nothing.",
+      "start": 658.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 660.28
+    },
+    {
+      "id": "p0091",
+      "text": "Justin was tired enough to want to grab the jacket and make him answer. He could imagine the movement clearly, hand closing over padded cloth, the man pulled toward him. He put both hands in his own pockets instead.",
+      "start": 660.28,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 673.08
+    },
+    {
+      "id": "p0092",
+      "text": "“You helped him,” he said.",
+      "start": 673.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 675.63
+    },
+    {
+      "id": "p0093",
+      "text": "The shorter man looked at the empty place on the paving where Grasshopper Man's head had rested.",
+      "start": 675.63,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 681.0
+    },
+    {
+      "id": "p0094",
+      "text": "“He was hurt.”",
+      "start": 681.0,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 682.11
+    },
+    {
+      "id": "p0095",
+      "text": "“So was Mabel. So was Ada.”",
+      "start": 682.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 684.19
+    },
+    {
+      "id": "p0096",
+      "text": "The man swallowed. A small white thread hung from the damaged cuff. He pulled at it, failed to break it and let it hang.",
+      "start": 684.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 691.63
+    },
+    {
+      "id": "p0097",
+      "text": "“This isn't the one that does all of it,” he said.",
+      "start": 691.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 695.14
+    },
+    {
+      "id": "p0098",
+      "text": "Justin kept still.",
+      "start": 695.14,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 696.73
+    },
+    {
+      "id": "p0099",
+      "text": "“The old return. Under there.” His chin moved toward the green-and-brown house above the gardens. “You can take these off all day. The old ones still hold what they're touching.”",
+      "start": 696.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 706.21
+    },
+    {
+      "id": "p0100",
+      "text": "“Where under it?”",
+      "start": 706.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 707.31
+    },
+    {
+      "id": "p0101",
+      "text": "The man shook his head. “Don't ask me to take you.”",
+      "start": 707.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 710.25
+    },
+    {
+      "id": "p0102",
+      "text": "“Then tell me.”",
+      "start": 710.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 711.28
+    },
+    {
+      "id": "p0103",
+      "text": "“No.”",
+      "start": 711.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 712.16
+    },
+    {
+      "id": "p0104",
+      "text": "He bent, picked up the loose clip and offered it handle-first, like a knife he no longer wanted. Justin wrapped it in a scrap of packing paper Marion brought from the house. He did not put it with the unused one in the car door. This one had been connected. He wrote the location and date on the paper while the man watched.",
+      "start": 712.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 731.46
+    },
+    {
+      "id": "p0105",
+      "text": "When he looked up again, the shorter man had gone.",
+      "start": 731.46,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 734.57
+    },
+    {
+      "id": "p0106",
+      "text": "Marion stood in the gate with her phone. She had called RG and told him to send nobody else to her property. She had also called Ada, who wanted to know whether Grasshopper Man had been wearing sensible shoes. Mabel was speaking to her now from the garden bench, the green tabard across her knees.",
+      "start": 734.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 750.94
+    },
+    {
+      "id": "p0107",
+      "text": "Justin put the jack away, first checking its screw for damage. There was a fresh dent in one of the wooden boards. He kept both boards beside it. His hands were filthy; he had an appointment reminder on his phone for a conversation that had begun without him twenty minutes earlier. He sent an apology and no explanation beyond an emergency.",
+      "start": 750.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 770.55
+    },
+    {
+      "id": "p0108",
+      "text": "At the upper turn, Rod Iron Manor stood motionless behind its metal. In the daylight it looked almost vacant. Someone had moved the dead planter from the porch. The little opening beneath the twisted strip was narrower than in the Frog's drawing.",
+      "start": 770.55,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 784.51
+    },
+    {
+      "id": "p0109",
+      "text": "Justin photographed it from the same low angle he had used before. Then he went back to help Mabel carry the groceries into Marion's kitchen.",
+      "start": 784.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 792.16
+    },
+    {
+      "id": "p0110",
+      "text": "Grasshopper Man had a brace round his right knee and two crutches by the time they saw him that afternoon. The clinician wanted further assessment and had told him to keep weight off it. He repeated this last instruction with the resentment of someone whose principal equipment had been confiscated.",
+      "start": 792.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 806.8
+    },
+    {
+      "id": "p0111",
+      "text": "“The tabard,” he said when Mabel put it beside him.",
+      "start": 806.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 809.94
+    },
+    {
+      "id": "p0112",
+      "text": "“All present.”",
+      "start": 809.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 811.16
+    },
+    {
+      "id": "p0113",
+      "text": "He touched the green cloth. “Good.”",
+      "start": 811.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 813.65
+    },
+    {
+      "id": "p0114",
+      "text": "Mabel sat down. Justin remained standing until Grasshopper Man pointed at the other chair with a crutch. The room was small, bright and too warm. A child cried somewhere along the corridor, then stopped.",
+      "start": 813.65,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 827.4
+    },
+    {
+      "id": "p0115",
+      "text": "“I'm sorry,” Grasshopper Man said.",
+      "start": 827.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 830.21
+    },
+    {
+      "id": "p0116",
+      "text": "“For jumping?” Mabel asked.",
+      "start": 830.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 832.43
+    },
+    {
+      "id": "p0117",
+      "text": "“For making you stop.”",
+      "start": 832.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 834.14
+    },
+    {
+      "id": "p0118",
+      "text": "Justin looked at the brace, the foot held carefully clear of the floor. “We had to stop that join anyway.”",
+      "start": 834.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 840.83
+    },
+    {
+      "id": "p0119",
+      "text": "Grasshopper Man shook his head. “You were watching. I wanted to do something.”",
+      "start": 840.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 845.97
+    },
+    {
+      "id": "p0120",
+      "text": "Mabel left her bandaged hand on her lap. She could still feel the scrape of the culvert along her shoulder. “Next time you hear something, tell us where it is before you go toward it.”",
+      "start": 845.97,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 856.09
+    },
+    {
+      "id": "p0121",
+      "text": "He nodded. Mabel asked who could bring him food, and he gave her a neighbour's number without protesting.",
+      "start": 856.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 862.6
+    },
+    {
+      "id": "p0122",
+      "text": "Before they left, Justin showed him the new photograph of the Manor gate. Grasshopper Man put on a pair of reading glasses from his pocket. The glasses were plain and slightly crooked.",
+      "start": 862.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 872.78
+    },
+    {
+      "id": "p0123",
+      "text": "“Closer,” he said.",
+      "start": 872.78,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 874.89
+    },
+    {
+      "id": "p0124",
+      "text": "Justin enlarged the gap.",
+      "start": 874.89,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 876.92
+    },
+    {
+      "id": "p0125",
+      "text": "“Not finished,” Grasshopper Man said. “Yet.”",
+      "start": 876.92,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 880.23
+    },
+    {
+      "id": "p0126",
+      "text": "He returned the phone. The crutches slid against the chair, and Mabel caught one with her left hand before it fell.",
+      "start": 880.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 887.79
+    },
+    {
+      "id": "p0127",
+      "text": "Outside, they called Inez. She was at Mabel's office, using the promised desk with permission from the colleague. She had spent the afternoon comparing old drafts with the extra issues RG had printed. She wanted to see them on Sunday. There were things in his own annotations, she said, that neither a printer fault nor a memory problem could explain.",
+      "start": 887.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 908.26
+    },
+    {
+      "id": "p0128",
+      "text": "Justin asked whether she was safe where she was. She said yes, then checked that he meant the building rather than the accounts. He said both. She laughed once, tiredly.",
+      "start": 908.26,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 918.5
+    },
+    {
+      "id": "p0129",
+      "text": "They arranged a cab with room for the brace and his bag, helped him into it, then followed in their own car to see him through his door. Afterwards they drove to Mabel's sister's. In the boot, the used clip lay wrapped and labelled beside the jack; the unused one remained in the door pocket.",
+      "start": 918.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 934.7
+    }
+  ]
+}

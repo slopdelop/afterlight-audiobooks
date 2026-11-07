@@ -1,0 +1,1003 @@
+{
+  "version": 1,
+  "chapterId": "shadow-monger-book-one-18",
+  "duration": 931.321958,
+  "alignment": "Canonical book paragraphs use fixed synthesis boundaries and cached local Whisper word timestamps; unmatched starts are interpolated.",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "The Neighbour Who Stayed",
+      "start": 0.0,
+      "timing": "segment",
+      "kind": "title",
+      "end": 1.63
+    },
+    {
+      "id": "p0002",
+      "text": "The rail moved before the nut did.",
+      "start": 1.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 5.37
+    },
+    {
+      "id": "p0003",
+      "text": "Justin saw the small sideways give and stopped turning the jack. The firefighter beside him put a hand on the upper board, keeping it flat against the post. Beneath the window the iron had been drawn tight round a living root. Water shone in the bark's split surface.",
+      "start": 5.37,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 21.19
+    },
+    {
+      "id": "p0004",
+      "text": "“Hold there,” the firefighter said.",
+      "start": 21.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 24.43
+    },
+    {
+      "id": "p0005",
+      "text": "Justin held. He could not see Ada from this position. Above the rail the wire glass looked black and empty. Mabel, two paces to his left, was speaking to her in the voice she used for someone who had too many things to attend to at once.",
+      "start": 24.43,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 38.32
+    },
+    {
+      "id": "p0006",
+      "text": "“The window is above the blue string. Stay with that.”",
+      "start": 38.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 41.32
+    },
+    {
+      "id": "p0007",
+      "text": "Two knocks answered.",
+      "start": 41.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 42.64
+    },
+    {
+      "id": "p0008",
+      "text": "The recent sleeve's nut turned. Another firefighter worked it loose while the first kept the board steady. The iron settled a fraction lower, leaving room for the ladder's feet on the narrow paving strip. They did not dismantle the old buried line. Justin backed the jack off only when told to, a little at a time, watching the root relax without releasing its hold.",
+      "start": 42.64,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 63.92
+    },
+    {
+      "id": "p0009",
+      "text": "The ladder went up.",
+      "start": 63.92,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 65.42
+    },
+    {
+      "id": "p0010",
+      "text": "At the sill, the firefighter paused. He looked into a room Mabel could apparently see and he apparently couldn't. She shifted farther left, still holding the cord, and asked Ada to move her hand. A pale shape appeared behind the pane. He turned his head to the same angle and found it.",
+      "start": 65.42,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 81.62
+    },
+    {
+      "id": "p0011",
+      "text": "“I see her.”",
+      "start": 81.62,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 82.76
+    },
+    {
+      "id": "p0012",
+      "text": "Justin had to put his hand against the wall.",
+      "start": 82.76,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 85.6
+    },
+    {
+      "id": "p0013",
+      "text": "They removed the little window in its frame, careful of the wire-held glass. The opening was small, but no smaller than other awkward places people had got out of. The firefighter spoke to Ada, telling her what he intended to do. She answered with a clear complaint about her boot. That voice, irritated and entirely herself, made Mabel close her eyes for a second.",
+      "start": 85.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 107.69
+    },
+    {
+      "id": "p0014",
+      "text": "“She's got an injured left ankle,” she called. “And a stick, but not with her.”",
+      "start": 107.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 112.33
+    },
+    {
+      "id": "p0015",
+      "text": "Mrs Lin held up the spare. They would have it ready at the bottom.",
+      "start": 112.33,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 116.51
+    },
+    {
+      "id": "p0016",
+      "text": "Inside the room something scraped.",
+      "start": 116.51,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 118.63
+    },
+    {
+      "id": "p0017",
+      "text": "“Ada?” Mabel said.",
+      "start": 118.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 121.09
+    },
+    {
+      "id": "p0018",
+      "text": "The reply came from the door side, farther away. “I've got my bag tied on. I can't carry it.”",
+      "start": 121.09,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 127.18
+    },
+    {
+      "id": "p0019",
+      "text": "The cord ran through Mabel's fingers. Justin could see the knots now, each one holding the record of a hand deciding how far it had moved. The line paid out, stopped, moved back. On the wall above them a shadow widened into the shape of an open doorway.",
+      "start": 127.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 143.3
+    },
+    {
+      "id": "p0020",
+      "text": "Ada's face appeared at the window.",
+      "start": 143.3,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 145.21
+    },
+    {
+      "id": "p0021",
+      "text": "Behind her, through the narrow gap, Justin saw a bright room with a table laid for lunch. Somebody had set a cup beside a chair. A cardigan hung over its back, a colour Ada often wore. It was an easy room to step into. The one at the window was dark, uncomfortable and full of strangers telling her to climb.",
+      "start": 145.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 164.67
+    },
+    {
+      "id": "p0022",
+      "text": "“Don't look at that,” he said, too sharply.",
+      "start": 164.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 167.83
+    },
+    {
+      "id": "p0023",
+      "text": "Ada turned her head toward him. “I'm not.”",
+      "start": 167.83,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 170.69
+    },
+    {
+      "id": "p0024",
+      "text": "Mabel moved close enough to touch his sleeve with her good hand. “Let her see us.”",
+      "start": 170.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 175.45
+    },
+    {
+      "id": "p0025",
+      "text": "He stopped talking. He held the ladder where the firefighter directed, keeping his own body clear of its feet. From this angle Ada's face flickered between the pane's empty opening and a dark patch on plaster. Mabel went on describing what was actually there: the ladder, the man at the sill, the spare stick, Marion waiting with the car.",
+      "start": 175.45,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 196.28
+    },
+    {
+      "id": "p0026",
+      "text": "The firefighter reached through to help Ada turn. Her left leg could not bend enough in the boot. She tried once, swore quietly and sat back onto the chair inside.",
+      "start": 196.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 206.84
+    },
+    {
+      "id": "p0027",
+      "text": "“We can take the support off,” someone said.",
+      "start": 206.84,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 209.5
+    },
+    {
+      "id": "p0028",
+      "text": "“No,” Ada replied. “Give me a minute.”",
+      "start": 209.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 212.43
+    },
+    {
+      "id": "p0029",
+      "text": "They gave her one.",
+      "start": 212.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 214.33
+    },
+    {
+      "id": "p0030",
+      "text": "The root below the rail made a small wet crack. Justin felt the ladder shift against his palms. The firefighter at the bottom steadied it and moved a board. Mabel looked at the sound, then back at the window.",
+      "start": 214.33,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 227.21
+    },
+    {
+      "id": "p0031",
+      "text": "“You don't have to hurry for us,” she said.",
+      "start": 227.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 230.44
+    },
+    {
+      "id": "p0032",
+      "text": "Ada breathed out. She lifted the boot with both hands, turned it sideways and let the man at the sill take its weight. He guided it through first. Then her good leg, then her shoulders. For one terrible moment she sat across the sill with nothing beneath her that Justin could see. The firefighter could see enough. He had one arm secure round her, and his colleague came up two steps to help.",
+      "start": 230.44,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 253.7
+    },
+    {
+      "id": "p0033",
+      "text": "They brought her down slowly.",
+      "start": 253.7,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 255.6
+    },
+    {
+      "id": "p0034",
+      "text": "Mabel stood back until the last step, making space for people with uninjured hands. Then Ada was on the paving, alive and angry, leaning against the firefighter while Mrs Lin put the spare stick within reach.",
+      "start": 255.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 269.17
+    },
+    {
+      "id": "p0035",
+      "text": "“The bag,” Ada said.",
+      "start": 269.17,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 271.16
+    },
+    {
+      "id": "p0036",
+      "text": "“We'll get it,” Mabel told her.",
+      "start": 271.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 273.35
+    },
+    {
+      "id": "p0037",
+      "text": "“Don't let him—”",
+      "start": 273.35,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 274.49
+    },
+    {
+      "id": "p0038",
+      "text": "“We won't.”",
+      "start": 274.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 275.5
+    },
+    {
+      "id": "p0039",
+      "text": "She stayed beside Ada while Justin passed the blue line to the firefighter. Inside, the bag had caught beneath the chair where Ada tied it. He freed it with a hooked tool and brought it through. The blue spool followed, trailing its measured knots. One end remained attached to the pipe bracket until he reached back and cut it.",
+      "start": 275.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 294.73
+    },
+    {
+      "id": "p0040",
+      "text": "Ada watched the bag all the way into Mabel's hand.",
+      "start": 294.73,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 297.85
+    },
+    {
+      "id": "p0041",
+      "text": "Only then did she begin to shake.",
+      "start": 297.85,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 300.15
+    },
+    {
+      "id": "p0042",
+      "text": "At the street, Marion opened the car door and found she couldn't say anything.",
+      "start": 300.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 304.99
+    },
+    {
+      "id": "p0043",
+      "text": "Ada reached for her with both hands. Marion took them, bad shoulder forgotten for a moment, and bent her forehead against Ada's. Neither woman apologised. Mabel stood beside them with the canvas bag and the spare stick, feeling the cold of the wall still in her knees.",
+      "start": 304.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 320.82
+    },
+    {
+      "id": "p0044",
+      "text": "The medics wanted to check Ada before anybody drove away. She agreed, with the exhausted obedience of someone choosing which argument could wait. They helped her into a warmer place, checked the ankle and the new bruising on her upper arm, asked about water, medication, pain. She had drunk the glass left for her. She hadn't hit her head. She remembered the man taking her stick.",
+      "start": 320.82,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 342.53
+    },
+    {
+      "id": "p0045",
+      "text": "Mabel stayed where Ada could see her. Justin gave the officers the pencilled message. The fire crew went round to the court again. From there, with the recent sleeve loosened and the window open, the old store could finally be seen as a small room. Inside were two chairs, a table, a pipe bracket and a cushion. The door latch had been fastened from outside.",
+      "start": 342.53,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 364.15
+    },
+    {
+      "id": "p0046",
+      "text": "There was no laid table and no second doorway.",
+      "start": 364.15,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 366.99
+    },
+    {
+      "id": "p0047",
+      "text": "The officers photographed the room and secured it. RG was not there. Neither was the man in the jacket. The original stick lay beyond the door, out of Ada's reach, where one of them had left it.",
+      "start": 366.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 379.0
+    },
+    {
+      "id": "p0048",
+      "text": "When it was brought out, Ada looked at it for a long time.",
+      "start": 379.0,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 382.79
+    },
+    {
+      "id": "p0049",
+      "text": "“That one,” she said.",
+      "start": 382.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 384.88
+    },
+    {
+      "id": "p0050",
+      "text": "Mrs Lin exchanged it for the spare without a question.",
+      "start": 384.88,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 388.04
+    },
+    {
+      "id": "p0051",
+      "text": "The sun had gone from the upper windows. Neighbours stood outside their houses, some pretending to be occupied with bins or mail while they waited for news. Inez went to tell them Ada had been found. She did not tell them she had come home, because that was not what they had decided to do.",
+      "start": 388.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 404.62
+    },
+    {
+      "id": "p0052",
+      "text": "Mabel sat beside Ada while she gave her account. RG had said she needed somewhere the questions would stop. He had told her the others would be less frightened once they stopped trying to pull her out of places. He'd spoken as if her fear were a small defect he could correct by keeping her still.",
+      "start": 404.62,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 421.42
+    },
+    {
+      "id": "p0053",
+      "text": "“Did he tell you where you were?” an officer asked.",
+      "start": 421.42,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 424.23
+    },
+    {
+      "id": "p0054",
+      "text": "“He said safe. That's all the address he seemed to think I needed.”",
+      "start": 424.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 428.22
+    },
+    {
+      "id": "p0055",
+      "text": "The officer wrote it down.",
+      "start": 428.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 430.48
+    },
+    {
+      "id": "p0056",
+      "text": "Mabel wanted to hold Ada's hand and couldn't bear another hand being put on her without being asked. She waited. Ada reached for her left one first.",
+      "start": 430.48,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 439.46
+    },
+    {
+      "id": "p0057",
+      "text": "They stayed like that while the questions continued.",
+      "start": 439.46,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 442.07
+    },
+    {
+      "id": "p0058",
+      "text": "Later, when Ada had been checked and the arrangements made, Marion drove her away from the hill. Justin and Mabel followed. Inez took the independent statements and photographs back out of the circuit. Mrs Lin remained with the officers long enough to identify which fittings she had seen at the Chinese House, then went to her son's.",
+      "start": 442.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 461.57
+    },
+    {
+      "id": "p0059",
+      "text": "The little room was empty. Its door was open and its window boarded. The old line beneath it still ran toward the Manor.",
+      "start": 461.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 469.12
+    },
+    {
+      "id": "p0060",
+      "text": "Ada's friend Jo had a ground-floor room, a spare duvet and the useful habit of not greeting distress by demanding a full account.",
+      "start": 469.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 477.09
+    },
+    {
+      "id": "p0061",
+      "text": "She met them at the door, put the kettle on and showed Ada where the bathroom was. A low chair had been moved beside the bed. The window opened onto a small paved yard with pots in need of attention, which Ada noticed before she sat down.",
+      "start": 477.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 492.33
+    },
+    {
+      "id": "p0062",
+      "text": "“Not tonight,” Jo said.",
+      "start": 492.33,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 494.2
+    },
+    {
+      "id": "p0063",
+      "text": "Ada looked at her. Then she laughed, very briefly, and lowered herself into the chair.",
+      "start": 494.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 500.23
+    },
+    {
+      "id": "p0064",
+      "text": "They ate soup from bowls that didn't match. The plants had survived the day in Marion's car and now stood on the sill. Mabel untied the cord round their pots, winding it separately from the knotted line taken from the room. The blue spool lay on the bed beside Ada's bag.",
+      "start": 500.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 516.44
+    },
+    {
+      "id": "p0065",
+      "text": "Jo brought a soft cardigan from the cupboard. Ada looked at the one she wore, its sleeve stretched at the elbow, one button pulled halfway through the cloth.",
+      "start": 516.44,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 525.88
+    },
+    {
+      "id": "p0066",
+      "text": "“Yes,” she said. “Please.”",
+      "start": 525.88,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 528.47
+    },
+    {
+      "id": "p0067",
+      "text": "Mabel helped with the buttons using her left hand. When she reached the lower ones, Ada took over. They got the sleeve off the bruised arm slowly, turning the garment so it didn't catch. The marks were darkening above the elbow, separated enough to be counted. Mabel kept her eyes on the cuff.",
+      "start": 528.47,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 546.72
+    },
+    {
+      "id": "p0068",
+      "text": "“I've seen them,” Ada said.",
+      "start": 546.72,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 548.87
+    },
+    {
+      "id": "p0069",
+      "text": "“I know.”",
+      "start": 548.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 549.86
+    },
+    {
+      "id": "p0070",
+      "text": "“You can look.”",
+      "start": 549.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 551.09
+    },
+    {
+      "id": "p0071",
+      "text": "Mabel did. Ada's skin was cool under the loose cloth, the arm thin and entirely real. She had been afraid for a person all day, and now the person was sitting in front of her asking for a different sweater.",
+      "start": 551.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 563.79
+    },
+    {
+      "id": "p0072",
+      "text": "Jo held the clean one open. Ada put her good arm in first, then the other, and fastened the top button herself. They laid the damaged cardigan in an empty paper bag. She said she didn't want it washed yet. Mabel put it beside the canvas bag where Ada could see it.",
+      "start": 563.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 579.21
+    },
+    {
+      "id": "p0073",
+      "text": "From the kitchen Justin asked whether the bowls could go in the dishwasher.",
+      "start": 579.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 582.93
+    },
+    {
+      "id": "p0074",
+      "text": "“If it'll take them,” Jo called.",
+      "start": 582.93,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 586.07
+    },
+    {
+      "id": "p0075",
+      "text": "It was such an ordinary question, followed by a small clatter and an ordinary answer, that Ada's face crumpled without warning. Mabel sat beside her. She didn't offer the blue cord or tell her she was safe. She waited while Ada cried with one hand over her eyes and the other gripping the clean cardigan closed.",
+      "start": 586.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 605.67
+    },
+    {
+      "id": "p0076",
+      "text": "After a while Ada asked for a tissue. Then another. She blew her nose, looked at the bag containing the old sweater and told Jo she was sorry about the soup.",
+      "start": 605.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 617.49
+    },
+    {
+      "id": "p0077",
+      "text": "“It was nearly finished,” Jo said.",
+      "start": 617.49,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 620.12
+    },
+    {
+      "id": "p0078",
+      "text": "Mabel stayed until Ada's hand loosened. In the kitchen the dishwasher began to fill. It had no opinion about what sort of day they had brought into the house.",
+      "start": 620.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 630.1
+    },
+    {
+      "id": "p0079",
+      "text": "Justin put the borrowed notebook on the table. Its clean folder had a damp edge but the pages were sound. Ada watched him open it to the torn instruction.",
+      "start": 630.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 640.08
+    },
+    {
+      "id": "p0080",
+      "text": "“That's not the order,” she said.",
+      "start": 640.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 642.51
+    },
+    {
+      "id": "p0081",
+      "text": "He looked up.",
+      "start": 642.51,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 643.58
+    },
+    {
+      "id": "p0082",
+      "text": "“The water first. You can't start with the bar when it's wet round the root.”",
+      "start": 643.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 647.93
+    },
+    {
+      "id": "p0083",
+      "text": "Mabel set the cord down. She didn't ask three questions at once, though Justin could see her preparing them.",
+      "start": 647.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 654.79
+    },
+    {
+      "id": "p0084",
+      "text": "Ada pointed to the little drawing above the torn sentence. “I knew I'd seen that. I kept thinking it was the drain cover. It's the piece behind it.”",
+      "start": 654.79,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 662.93
+    },
+    {
+      "id": "p0085",
+      "text": "“At the green house?” Justin asked.",
+      "start": 662.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 665.56
+    },
+    {
+      "id": "p0086",
+      "text": "She nodded. “Jean Fenwick had the place then. I helped her clear that channel. More than twenty years ago. She couldn't get the long bar to move. We both tried. It was like trying to pull a drawer with somebody sitting in it.”",
+      "start": 665.56,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 678.53
+    },
+    {
+      "id": "p0087",
+      "text": "Her hand went to her upper arm where RG had held her. She stopped touching it and turned the page instead.",
+      "start": 678.53,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 685.94
+    },
+    {
+      "id": "p0088",
+      "text": "“What did you do?” Mabel asked.",
+      "start": 685.94,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 688.45
+    },
+    {
+      "id": "p0089",
+      "text": "“She opened the little runoff gate along the retaining wall. We let it drain. Then we supported the sleeve while she drew the bar back. There was a collar behind it you couldn't reach until the bar was out.”",
+      "start": 688.45,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 699.54
+    },
+    {
+      "id": "p0090",
+      "text": "Justin laid the Chinese House rubbing beside her. Ada studied it.",
+      "start": 699.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 704.21
+    },
+    {
+      "id": "p0091",
+      "text": "“Bigger than that. Same idea. I didn't think about what it was doing. We were getting water out of a place where it shouldn't be.”",
+      "start": 704.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 712.18
+    },
+    {
+      "id": "p0092",
+      "text": "“Was the root there?”",
+      "start": 712.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 713.51
+    },
+    {
+      "id": "p0093",
+      "text": "“Yes. She said don't cut it.”",
+      "start": 713.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 716.15
+    },
+    {
+      "id": "p0094",
+      "text": "“Why?”",
+      "start": 716.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 717.08
+    },
+    {
+      "id": "p0095",
+      "text": "Ada looked at him. “I don't know. It was alive.”",
+      "start": 717.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 720.45
+    },
+    {
+      "id": "p0096",
+      "text": "Jo came in to ask whether anyone wanted more bread. The interruption let them all move a little. Mabel took a piece for Ada and put it on a plate rather than in her hand. Justin closed the notebook for a moment.",
+      "start": 720.45,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 732.84
+    },
+    {
+      "id": "p0097",
+      "text": "“The other book,” Ada said. “In the box.”",
+      "start": 732.84,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 736.02
+    },
+    {
+      "id": "p0098",
+      "text": "They told her they could fetch it the next morning. She said she would lie awake trying to remember its words if they did. Jo offered to go, and Ada asked Justin to go with her because the cupboard door stuck and Jo would think it was locked.",
+      "start": 736.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 749.8
+    },
+    {
+      "id": "p0099",
+      "text": "Mabel looked at him. He nodded. The officers had finished at Ada's house, Marion had the spare key, and they could collect the box without going near the shared walk. He called first to tell them what he intended. Then he and Jo drove back.",
+      "start": 749.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 764.4
+    },
+    {
+      "id": "p0100",
+      "text": "They entered through the front door. Jo waited in the hall while he opened the sitting-room cupboard and moved the box out from underneath. It was heavier than it looked, full of photographs and old packets, a thin ledger laid flat beneath them. He did not sort it there. He carried the whole box to the car.",
+      "start": 764.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 781.69
+    },
+    {
+      "id": "p0101",
+      "text": "At Jo's, Ada made him put it on a chair where she could reach. She found the book under a brown envelope containing a receipt for a lawnmower she no longer owned. The cover had been repaired with cloth tape. Inside the first page she had written her own name.",
+      "start": 781.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 796.07
+    },
+    {
+      "id": "p0102",
+      "text": "The notes were hers, taken while Jean worked. The diagram was rough but clear: a runoff channel, a shallow gate, two support points under the sleeve. On the facing page, a line crossed from the iron to a small circle labelled living root. Behind it another mark showed a split collar with a pin that could be reached only from the side.",
+      "start": 796.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 816.19
+    },
+    {
+      "id": "p0103",
+      "text": "Mabel drew in a breath. The torn instruction in the other notebook had stopped after relieve. Ada's own note continued without mystery: drain wet side; support both ends; withdraw bar; separate root collars before leaving.",
+      "start": 816.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 830.86
+    },
+    {
+      "id": "p0104",
+      "text": "There was a blot beside collars where rain had struck the page. Ada had traced the word again when it dried.",
+      "start": 830.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 837.7
+    },
+    {
+      "id": "p0105",
+      "text": "“Did you do the last part?” Justin asked.",
+      "start": 837.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 840.19
+    },
+    {
+      "id": "p0106",
+      "text": "“Jean did. I held the lamp.”",
+      "start": 840.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 842.69
+    },
+    {
+      "id": "p0107",
+      "text": "“And then?”",
+      "start": 842.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 843.64
+    },
+    {
+      "id": "p0108",
+      "text": "“We left it open. She said it needed to stay that way until somebody knew what they were doing.”",
+      "start": 843.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 848.6
+    },
+    {
+      "id": "p0109",
+      "text": "Nobody spoke for a moment.",
+      "start": 848.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 850.52
+    },
+    {
+      "id": "p0110",
+      "text": "Ada shut the book, keeping a finger inside it. “You can take copies. I'm keeping this one where I can see it.”",
+      "start": 850.52,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 856.99
+    },
+    {
+      "id": "p0111",
+      "text": "“Of course,” Mabel said.",
+      "start": 856.99,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 859.87
+    },
+    {
+      "id": "p0112",
+      "text": "They copied the pages at the little table while Jo made up the bed. When Justin asked about a mark he couldn't read, Ada answered from the chair and told him when she wasn't sure.",
+      "start": 859.87,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 870.09
+    },
+    {
+      "id": "p0113",
+      "text": "Afterwards Mabel sat beside her while the others cleared the bowls. Ada took the knotted cord and began to wind it, stopping at each knot.",
+      "start": 870.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 878.9
+    },
+    {
+      "id": "p0114",
+      "text": "“I tried the door twice,” she said.",
+      "start": 878.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 881.56
+    },
+    {
+      "id": "p0115",
+      "text": "“You found the window.”",
+      "start": 881.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 882.87
+    },
+    {
+      "id": "p0116",
+      "text": "“I didn't know if anyone could see it.”",
+      "start": 882.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 885.15
+    },
+    {
+      "id": "p0117",
+      "text": "Mabel looked at the blue line between Ada's fingers. “We could.”",
+      "start": 885.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 889.33
+    },
+    {
+      "id": "p0118",
+      "text": "Ada nodded. She unwound the last foot again, checked the knot and left it loose on the bed.",
+      "start": 889.33,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 896.1
+    },
+    {
+      "id": "p0119",
+      "text": "When they went to leave, Mabel asked whether she could come back in the morning. Ada said yes, after breakfast, and asked her not to bring any more food. Jo opened the door for them.",
+      "start": 896.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 907.53
+    },
+    {
+      "id": "p0120",
+      "text": "Justin carried only the copies. Mabel had left the original book and the borrowed notebook with Ada, inside the clean folder. At the car she stopped with one hand on the roof.",
+      "start": 907.53,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 918.18
+    },
+    {
+      "id": "p0121",
+      "text": "“We got her out,” she said.",
+      "start": 918.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 920.62
+    },
+    {
+      "id": "p0122",
+      "text": "He stood beside her in the cold air.",
+      "start": 920.62,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 922.9
+    },
+    {
+      "id": "p0123",
+      "text": "“Yes.”",
+      "start": 922.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 923.78
+    },
+    {
+      "id": "p0124",
+      "text": "She leaned against him carefully, keeping her injured hand between them where neither would press it. He held her until the porch light went off.",
+      "start": 923.78,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 931.321958
+    }
+  ]
+}

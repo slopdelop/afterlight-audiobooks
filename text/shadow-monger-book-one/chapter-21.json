@@ -1,0 +1,1355 @@
+{
+  "version": 1,
+  "chapterId": "shadow-monger-book-one-21",
+  "duration": 1016.800083,
+  "alignment": "Canonical book paragraphs use fixed synthesis boundaries and cached local Whisper word timestamps; unmatched starts are interpolated.",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "Rod Iron Manor",
+      "start": 0.0,
+      "timing": "segment",
+      "kind": "title",
+      "end": 1.82
+    },
+    {
+      "id": "p0002",
+      "text": "The garden gate opened onto the front porch.",
+      "start": 1.82,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 5.21
+    },
+    {
+      "id": "p0003",
+      "text": "Justin had been watching the back of the house. He could see the brown kitchen wall, the small rear window and the strip of garden beneath it. Then the latch lifted, the gate swung inward, and the porch was beyond it instead: green paint, an empty planter, the front door with its iron grille.",
+      "start": 5.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 23.09
+    },
+    {
+      "id": "p0004",
+      "text": "The officer beside the path stopped before crossing.",
+      "start": 23.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 26.91
+    },
+    {
+      "id": "p0005",
+      "text": "“That isn't the back.”",
+      "start": 26.91,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 28.34
+    },
+    {
+      "id": "p0006",
+      "text": "“No,” Mabel said.",
+      "start": 28.34,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 30.74
+    },
+    {
+      "id": "p0007",
+      "text": "From the public side the house looked small enough to walk round in a minute. Three people had tried since the tools arrived. One had come back by the front. Another had reached the garden wall and found himself looking at the same gate from below. The third had remained where the route changed, holding a bright strip of cloth while his colleague tried to approach from the opposite direction.",
+      "start": 30.74,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 51.6
+    },
+    {
+      "id": "p0008",
+      "text": "They could see one another. They could not agree what lay between.",
+      "start": 51.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 55.7
+    },
+    {
+      "id": "p0009",
+      "text": "At the lower outlet Mrs Lin called that the water was still rising. A fire crew moved along the street to help a couple whose front passage had filled with something like exposed roots. Inez kept the printed plan on a wooden board and relayed positions to the people at the gate.",
+      "start": 55.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 70.52
+    },
+    {
+      "id": "p0010",
+      "text": "Justin put the bag down. His back ached where the gate had struck it on Monday. He had been carrying the jack with the handle against his hip, and its hard edge had found the bruise precisely.",
+      "start": 70.52,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 81.96
+    },
+    {
+      "id": "p0011",
+      "text": "Mabel called his attention to the side wall.",
+      "start": 81.96,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 84.3
+    },
+    {
+      "id": "p0012",
+      "text": "The shorter padded man stood beneath the kitchen window. He was inside the garden, one hand on a loose upright. His jacket was unfastened. The white mark on its cuff had spread into a frayed tear.",
+      "start": 84.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 95.63
+    },
+    {
+      "id": "p0013",
+      "text": "“Not that gate,” he said.",
+      "start": 95.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 98.19
+    },
+    {
+      "id": "p0014",
+      "text": "The officer turned toward him. The man flinched, then stayed.",
+      "start": 98.19,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 103.09
+    },
+    {
+      "id": "p0015",
+      "text": "“I know you're looking for me.”",
+      "start": 103.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 104.64
+    },
+    {
+      "id": "p0016",
+      "text": "“Come out here.”",
+      "start": 104.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 105.83
+    },
+    {
+      "id": "p0017",
+      "text": "“I can. After.”",
+      "start": 105.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 107.21
+    },
+    {
+      "id": "p0018",
+      "text": "The officer moved along the public side until the two of them were opposite one another. The shorter man kept his hand on the upright. He looked at the uniform, then at Mabel's dressing.",
+      "start": 107.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 118.14
+    },
+    {
+      "id": "p0019",
+      "text": "“I put the piece on the house frame,” he said.",
+      "start": 118.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 120.91
+    },
+    {
+      "id": "p0020",
+      "text": "Nobody answered him.",
+      "start": 120.91,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 122.28
+    },
+    {
+      "id": "p0021",
+      "text": "“The Wednesday before she fell. I thought they wanted the paths right.”",
+      "start": 122.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 126.01
+    },
+    {
+      "id": "p0022",
+      "text": "“You were there when we went in,” Justin said.",
+      "start": 126.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 128.85
+    },
+    {
+      "id": "p0023",
+      "text": "“I know.”",
+      "start": 128.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 129.75
+    },
+    {
+      "id": "p0024",
+      "text": "“You closed it.”",
+      "start": 129.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 130.83
+    },
+    {
+      "id": "p0025",
+      "text": "The man nodded. His face had gone pale beneath the stubble.",
+      "start": 130.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 135.15
+    },
+    {
+      "id": "p0026",
+      "text": "“I heard the glass later. They said that was the display settling. Then I saw your hand.”",
+      "start": 135.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 140.2
+    },
+    {
+      "id": "p0027",
+      "text": "Mabel stood beside the bag, her right fingers loose beneath the glove. “You can tell them everything you did.”",
+      "start": 140.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 146.35
+    },
+    {
+      "id": "p0028",
+      "text": "“I will.”",
+      "start": 146.35,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 147.34
+    },
+    {
+      "id": "p0029",
+      "text": "He said it to the officer, not to her. The officer told him to keep his hands visible and explain before moving anything. He did, pointing to the thin added strip, the pin and the original rail behind it. The modern wooden fence did not need the strip to stand. It had been added to make two separate boundaries touch.",
+      "start": 147.34,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 165.37
+    },
+    {
+      "id": "p0030",
+      "text": "“If I take this out, that part doesn't follow the other part,” he said.",
+      "start": 165.37,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 169.9
+    },
+    {
+      "id": "p0031",
+      "text": "The officer looked at the ordinary gap he indicated. “And you can hold it clear?”",
+      "start": 169.9,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 174.81
+    },
+    {
+      "id": "p0032",
+      "text": "“Yes.”",
+      "start": 174.81,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 176.47
+    },
+    {
+      "id": "p0033",
+      "text": "“You stay where we know you are when this is done.”",
+      "start": 176.47,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 179.69
+    },
+    {
+      "id": "p0034",
+      "text": "The man swallowed, then agreed.",
+      "start": 179.69,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 182.38
+    },
+    {
+      "id": "p0035",
+      "text": "He bent and took a small pin from the foot of the upright. A narrow strip of new iron fell away from the old garden-side join. Behind him the brown kitchen wall became visible through a gap which had looked like ivy.",
+      "start": 182.38,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 194.4
+    },
+    {
+      "id": "p0036",
+      "text": "“Here,” he said. “Along the wood. Don't take hold of the rail.”",
+      "start": 194.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 198.62
+    },
+    {
+      "id": "p0037",
+      "text": "With the fastening withdrawn, a person could squeeze between the wooden panels and the rooted iron without stepping over the newer contact.",
+      "start": 198.62,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 205.9
+    },
+    {
+      "id": "p0038",
+      "text": "The officer moved toward it. A cry came from the house across the street, followed by the sharp crash of breaking glass. He looked back. Another officer was already running to the front door, calling for the people inside to come where they could see him.",
+      "start": 205.9,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 220.32
+    },
+    {
+      "id": "p0039",
+      "text": "The house beneath Justin's hands gave a low, deep sound.",
+      "start": 220.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 224.38
+    },
+    {
+      "id": "p0040",
+      "text": "The shorter man looked toward the kitchen. “He's seated it.”",
+      "start": 224.38,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 227.56
+    },
+    {
+      "id": "p0041",
+      "text": "“The bar?” Justin asked.",
+      "start": 227.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 229.6
+    },
+    {
+      "id": "p0042",
+      "text": "The man nodded.",
+      "start": 229.6,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 231.22
+    },
+    {
+      "id": "p0043",
+      "text": "Water came over the top of the low outlet cover.",
+      "start": 231.22,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 234.02
+    },
+    {
+      "id": "p0044",
+      "text": "Mabel picked up the spanner roll. “Can you keep that open?”",
+      "start": 234.02,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 237.13
+    },
+    {
+      "id": "p0045",
+      "text": "“For a little.”",
+      "start": 237.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 238.2
+    },
+    {
+      "id": "p0046",
+      "text": "Justin looked at the officer. “We know the way to the joint. It's just the kitchen and the stair. You have our plan.”",
+      "start": 238.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 245.11
+    },
+    {
+      "id": "p0047",
+      "text": "“Keep the line open,” the officer said. “We'll come from this side as soon as we can.”",
+      "start": 245.11,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 251.04
+    },
+    {
+      "id": "p0048",
+      "text": "Mabel called Inez and put the phone in her outer pocket with its microphone clear. Justin took the heavier bag. He went through the gap first, shoulder against the wooden fence, eyes on the shorter man's hand. Mabel followed, keeping her right palm away from the rough boards.",
+      "start": 251.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 267.14
+    },
+    {
+      "id": "p0049",
+      "text": "The back door stood open.",
+      "start": 267.14,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 268.84
+    },
+    {
+      "id": "p0050",
+      "text": "They crossed an ordinary few feet of garden and entered the kitchen.",
+      "start": 268.84,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 272.88
+    },
+    {
+      "id": "p0051",
+      "text": "Behind them the shorter man held the loose strip clear. Through the gap Justin saw the officer turn back toward them, then saw the taller padded man appear at the kitchen's inner door.",
+      "start": 272.88,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 283.16
+    },
+    {
+      "id": "p0052",
+      "text": "“Put it back,” the taller man said.",
+      "start": 283.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 286.19
+    },
+    {
+      "id": "p0053",
+      "text": "His companion shook his head.",
+      "start": 286.19,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 288.41
+    },
+    {
+      "id": "p0054",
+      "text": "The taller one moved toward the garden. Justin put the tool bag between him and the back door. Mabel stepped beside it.",
+      "start": 288.41,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 295.89
+    },
+    {
+      "id": "p0055",
+      "text": "“You took her,” she said.",
+      "start": 295.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 298.37
+    },
+    {
+      "id": "p0056",
+      "text": "The man glanced at her hand, then at the bag.",
+      "start": 298.37,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 301.55
+    },
+    {
+      "id": "p0057",
+      "text": "“She was brought somewhere safe.”",
+      "start": 301.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 303.67
+    },
+    {
+      "id": "p0058",
+      "text": "“She was locked in.”",
+      "start": 303.67,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 305.55
+    },
+    {
+      "id": "p0059",
+      "text": "“It wasn't for you.”",
+      "start": 305.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 307.14
+    },
+    {
+      "id": "p0060",
+      "text": "He reached for the bag. Justin caught its handle with both hands and pulled it close. Pain struck across his back. The man was stronger, and for a moment the jack's weight dragged between them, neither able to move without giving the other an opening.",
+      "start": 307.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 322.12
+    },
+    {
+      "id": "p0061",
+      "text": "From below the floor RG called his name. Not a name Justin could make out, only a short urgent sound directed at the man in the doorway.",
+      "start": 322.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 330.98
+    },
+    {
+      "id": "p0062",
+      "text": "“The outer side. Now.”",
+      "start": 330.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 333.33
+    },
+    {
+      "id": "p0063",
+      "text": "The taller man released the bag. Justin staggered into the table and nearly fell. Mabel caught his sleeve with her left hand, then let him find his own footing.",
+      "start": 333.33,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 343.35
+    },
+    {
+      "id": "p0064",
+      "text": "The man went down the short hall.",
+      "start": 343.35,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 345.26
+    },
+    {
+      "id": "p0065",
+      "text": "Outside, the loose strip struck the fence. The shorter man held it off the old rail with his whole arm braced against the wood. He looked at Justin once.",
+      "start": 345.26,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 354.68
+    },
+    {
+      "id": "p0066",
+      "text": "“I can't keep him out and hold this.”",
+      "start": 354.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 356.76
+    },
+    {
+      "id": "p0067",
+      "text": "“Then keep the way,” Justin said.",
+      "start": 356.76,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 359.41
+    },
+    {
+      "id": "p0068",
+      "text": "He took the bag after the man who had hurt Ada.",
+      "start": 359.41,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 362.49
+    },
+    {
+      "id": "p0069",
+      "text": "The kitchen had been painted yellow.",
+      "start": 362.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 364.62
+    },
+    {
+      "id": "p0070",
+      "text": "Mabel noticed that before anything else: an old cheerful colour dulled by grease above the stove. Somebody had once cooked here regularly. There was a square on the floor where a refrigerator had stood, a row of cup hooks under a shelf and a curtain with a faded green border. The place smelled of wet plaster and something freshly turned in soil.",
+      "start": 364.62,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 384.73
+    },
+    {
+      "id": "p0071",
+      "text": "At the inner doorway the short hall extended toward the front room. The basement stair lay on the right, behind a plain wooden door propped open with a brick. Beyond it the front of the house shone with a soft afternoon light.",
+      "start": 384.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 398.63
+    },
+    {
+      "id": "p0072",
+      "text": "They should not have been able to see their own kitchen.",
+      "start": 398.63,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 401.09
+    },
+    {
+      "id": "p0073",
+      "text": "Mabel stopped.",
+      "start": 401.09,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 402.21
+    },
+    {
+      "id": "p0074",
+      "text": "There was a table, two mugs, a window above a narrow flowerbed. It was almost theirs. The proportions had been borrowed badly. The table was too broad, the window too low, the wall beyond it green instead of bare gray. A clean towel hung over the chair where she would have left her coat.",
+      "start": 402.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 420.07
+    },
+    {
+      "id": "p0075",
+      "text": "Justin stood beside her, watching it.",
+      "start": 420.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 423.09
+    },
+    {
+      "id": "p0076",
+      "text": "“No,” she said.",
+      "start": 423.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 425.44
+    },
+    {
+      "id": "p0077",
+      "text": "He nodded, but didn't move immediately.",
+      "start": 425.44,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 428.64
+    },
+    {
+      "id": "p0078",
+      "text": "From the apparent room came her own voice. “We can do that on a street.”",
+      "start": 428.64,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 432.68
+    },
+    {
+      "id": "p0079",
+      "text": "The words belonged to the hill, to a different frightening afternoon. They sounded wrong among the mugs. Mabel put the spanner roll against Justin's arm, a real weight in a place where he was still standing.",
+      "start": 432.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 445.64
+    },
+    {
+      "id": "p0080",
+      "text": "He took it.",
+      "start": 445.64,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 446.88
+    },
+    {
+      "id": "p0081",
+      "text": "They turned to the basement door.",
+      "start": 446.88,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 448.68
+    },
+    {
+      "id": "p0082",
+      "text": "The first step was visible. So were the second and third. Below them the stair disappeared into damp gray light. There was no reason to believe it would stay a stair once they descended.",
+      "start": 448.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 460.74
+    },
+    {
+      "id": "p0083",
+      "text": "Inez's voice came faintly from Mabel's pocket. “Kitchen?”",
+      "start": 460.74,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 464.16
+    },
+    {
+      "id": "p0084",
+      "text": "“Hall,” Mabel said. “Going down.”",
+      "start": 464.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 467.32
+    },
+    {
+      "id": "p0085",
+      "text": "“I'm at the back. I can see the fence gap.”",
+      "start": 467.32,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 470.23
+    },
+    {
+      "id": "p0086",
+      "text": "Mabel left the call running. She took the spare torch from Justin and directed it at the treads. He went first with the bag, one step at a time, turning sideways where its width caught the rail. She kept the beam on his shoes. The room with the two mugs remained behind them, offering quiet, offering a chair for her hand and a place where nobody needed her to do the next thing.",
+      "start": 470.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 491.78
+    },
+    {
+      "id": "p0087",
+      "text": "At the bottom the ceiling was low enough that Justin bent his head.",
+      "start": 491.78,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 495.63
+    },
+    {
+      "id": "p0088",
+      "text": "The basement room contained old shelves, a rusted washing-machine connection and a patched concrete floor. Light from a narrow window ended halfway across it. Beyond that, under the rear edge of the house, a low opening led to the retaining chamber.",
+      "start": 495.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 510.56
+    },
+    {
+      "id": "p0089",
+      "text": "Water lay across the floor. It was no more than ankle deep near the stair, deeper at the back. The service trench ran to their left along the garden wall, a narrow strip partly covered with boards. The smell came from there: wet bark, cold mud, iron.",
+      "start": 510.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 527.4
+    },
+    {
+      "id": "p0090",
+      "text": "RG stood inside the low chamber.",
+      "start": 527.4,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 529.45
+    },
+    {
+      "id": "p0091",
+      "text": "He had taken off his jacket and folded it over a dry crate. His scarf lay on top. In his shirtsleeves he looked less like a president than a man caught late at a repair. One hand held an old upright beside the root. The other rested on a long bar whose filed line was flush with the mouth of its sleeve.",
+      "start": 529.45,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 547.35
+    },
+    {
+      "id": "p0092",
+      "text": "Seated.",
+      "start": 547.35,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 548.29
+    },
+    {
+      "id": "p0093",
+      "text": "The return was closed.",
+      "start": 548.29,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 550.05
+    },
+    {
+      "id": "p0094",
+      "text": "The taller man knelt at the outer side of the iron cradle, working a clamp with a short tool. Water ran over his shoes. A root thick as a thigh lay through the middle, its surface pale where the iron had pressed into it.",
+      "start": 550.05,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 563.35
+    },
+    {
+      "id": "p0095",
+      "text": "The chamber held the remains of work done by people who had expected to return in daylight. A jar of screws stood on a shelf. An old lamp hung from a nail, its cord cut short. Beside the dry crate was a stack of proofs tied between two boards, raised above the water on bricks.",
+      "start": 563.35,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 580.86
+    },
+    {
+      "id": "p0096",
+      "text": "Mabel recognised the border on the top sheet. RG had brought his record into the place it described.",
+      "start": 580.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 587.87
+    },
+    {
+      "id": "p0097",
+      "text": "The sheet had slipped from its tie. One corner hung low enough for water to reach it. As the stack shifted, a line of print turned toward her: no further attendance would be required.",
+      "start": 587.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 598.54
+    },
+    {
+      "id": "p0098",
+      "text": "RG looked down at it.",
+      "start": 598.54,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 600.47
+    },
+    {
+      "id": "p0099",
+      "text": "“Keep your feet clear of those,” he said.",
+      "start": 600.47,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 603.69
+    },
+    {
+      "id": "p0100",
+      "text": "Mabel watched a drop fall from the page. The ink spread into a small gray feather.",
+      "start": 603.69,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 609.71
+    },
+    {
+      "id": "p0101",
+      "text": "“They're getting wet.”",
+      "start": 609.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 610.93
+    },
+    {
+      "id": "p0102",
+      "text": "“Then don't make it worse.”",
+      "start": 610.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 612.77
+    },
+    {
+      "id": "p0103",
+      "text": "She moved the tool bag farther from the papers and nearer the actual exit. In the shallow water her reflection did not move with her. It remained beside the crate, one arm held out as though waiting to be given something.",
+      "start": 612.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 625.87
+    },
+    {
+      "id": "p0104",
+      "text": "She looked at her real hand, empty and painful inside the glove, then at the timber in the bag. She took the timber. Justin followed her gaze to the water and shifted his board onto firmer ground without asking what she'd seen.",
+      "start": 625.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 639.86
+    },
+    {
+      "id": "p0105",
+      "text": "Mabel could see both collars. One sat close to the sleeve. The other was behind it, almost lost beneath the root's curve. The bar blocked access to their side pins exactly as Ada's drawing showed.",
+      "start": 639.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 652.73
+    },
+    {
+      "id": "p0106",
+      "text": "RG looked up.",
+      "start": 652.73,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 654.3
+    },
+    {
+      "id": "p0107",
+      "text": "“You've brought things.”",
+      "start": 654.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 655.77
+    },
+    {
+      "id": "p0108",
+      "text": "Justin set the bag on the driest part of the floor. “Open it.”",
+      "start": 655.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 659.64
+    },
+    {
+      "id": "p0109",
+      "text": "“You think it stays where you leave it?”",
+      "start": 659.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 661.71
+    },
+    {
+      "id": "p0110",
+      "text": "“Let go of the bar.”",
+      "start": 661.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 663.1
+    },
+    {
+      "id": "p0111",
+      "text": "RG kept his hand where it was.",
+      "start": 663.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 665.66
+    },
+    {
+      "id": "p0112",
+      "text": "The taller man stood too quickly and struck his shoulder against the low beam. He swore, came toward Justin and reached for the bag again.",
+      "start": 665.66,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 673.04
+    },
+    {
+      "id": "p0113",
+      "text": "“The outer side,” RG said sharply.",
+      "start": 673.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 676.07
+    },
+    {
+      "id": "p0114",
+      "text": "“They've got—”",
+      "start": 676.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 677.17
+    },
+    {
+      "id": "p0115",
+      "text": "“I can see what they've got. Hold the outer side.”",
+      "start": 677.17,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 680.72
+    },
+    {
+      "id": "p0116",
+      "text": "The man looked back. The clamp he had been tightening was moving. Its upper plate slid against the root with a slow wet sound. He returned to it and put his weight on the tool.",
+      "start": 680.72,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 692.27
+    },
+    {
+      "id": "p0117",
+      "text": "Mabel knelt beside the bag. She couldn't tell how long that work would occupy him. She knew that if the sleeve tipped, its outer side would come down across the place where he had put his foot.",
+      "start": 692.27,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 703.03
+    },
+    {
+      "id": "p0118",
+      "text": "“Step out of that,” she said.",
+      "start": 703.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 704.98
+    },
+    {
+      "id": "p0119",
+      "text": "He didn't look at her.",
+      "start": 704.98,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 706.96
+    },
+    {
+      "id": "p0120",
+      "text": "Justin took out a board and the jack. She placed the board where Ada's copied diagram showed the first support, on the independent cradle's base, clear of the house wall. He checked it with the torch before setting the jack.",
+      "start": 706.96,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 719.12
+    },
+    {
+      "id": "p0121",
+      "text": "RG pulled the bar toward himself.",
+      "start": 719.12,
+      "timing": "interpolated",
+      "kind": "paragraph",
+      "end": 721.75
+    },
+    {
+      "id": "p0122",
+      "text": "It did not move. The iron gave the low note they'd heard from the street. Above them, something rolled across the kitchen floor.",
+      "start": 721.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 729.55
+    },
+    {
+      "id": "p0123",
+      "text": "“You can't do it under that load,” Justin said.",
+      "start": 729.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 732.89
+    },
+    {
+      "id": "p0124",
+      "text": "“I know the work.”",
+      "start": 732.89,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 734.15
+    },
+    {
+      "id": "p0125",
+      "text": "“Then stop.”",
+      "start": 734.15,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 735.23
+    },
+    {
+      "id": "p0126",
+      "text": "RG looked at him with open anger. “You have no idea what I've kept from happening.”",
+      "start": 735.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 740.51
+    },
+    {
+      "id": "p0127",
+      "text": "The root shifted. The taller man put a second hand on his tool. Mabel saw his heel slide farther beneath the plate.",
+      "start": 740.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 748.65
+    },
+    {
+      "id": "p0128",
+      "text": "She called outside. “The return is closed. Water first. We're at the supports.”",
+      "start": 748.65,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 753.93
+    },
+    {
+      "id": "p0129",
+      "text": "Inez repeated the words to the people beyond her, her voice welcome through the small speaker.",
+      "start": 753.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 760.21
+    },
+    {
+      "id": "p0130",
+      "text": "Justin wound the jack up until it touched. He stopped short of lifting. Mabel slid the short timber toward the other support point and began positioning a wedge with her left hand.",
+      "start": 760.21,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 770.21
+    },
+    {
+      "id": "p0131",
+      "text": "The water deepened over her shoe.",
+      "start": 770.21,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 772.51
+    },
+    {
+      "id": "p0132",
+      "text": "Outside, Mrs Lin had the runoff cover open and could see the pull-ring beneath it.",
+      "start": 772.51,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 778.35
+    },
+    {
+      "id": "p0133",
+      "text": "She had put the chair where the ring's swing would not strike it. Grasshopper Man sat with his braced leg extended, one crutch on either side within reach. Ada's long hardwood handle lay through the ring, supported near its end. The pressure below made the wood hum against his palms.",
+      "start": 778.35,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 796.61
+    },
+    {
+      "id": "p0134",
+      "text": "“Not yet,” Mrs Lin said.",
+      "start": 796.61,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 798.49
+    },
+    {
+      "id": "p0135",
+      "text": "She cleared a wad of leaves from the hinge with the pry bar's narrow end. They had passed the tool back before Justin entered, keeping the spanners and jack inside. The opening had to stay in the right place. The cover was old enough to break in a way no one would have time to repair.",
+      "start": 798.49,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 815.77
+    },
+    {
+      "id": "p0136",
+      "text": "Grim called from below the outlet wall. Water was moving the wrong way in the lower run, slapping against his legs.",
+      "start": 815.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 823.06
+    },
+    {
+      "id": "p0137",
+      "text": "“Up is busy.”",
+      "start": 823.06,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 824.22
+    },
+    {
+      "id": "p0138",
+      "text": "“Stand clear,” Mrs Lin told him.",
+      "start": 824.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 827.37
+    },
+    {
+      "id": "p0139",
+      "text": "He scrambled onto a concrete ledge.",
+      "start": 827.37,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 829.71
+    },
+    {
+      "id": "p0140",
+      "text": "Inez came to the gate with the phone. The words from inside were faint beneath running water: closed return, water first.",
+      "start": 829.71,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 837.36
+    },
+    {
+      "id": "p0141",
+      "text": "Mrs Lin put her shoulder against the supported handle. Grasshopper Man helped with his arms, keeping his right leg out of it. The gate below shifted and held.",
+      "start": 837.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 846.71
+    },
+    {
+      "id": "p0142",
+      "text": "Along the street a man began shouting that his front door had opened onto somebody else's garden. An officer took his arm and walked him away from it. The Frog stood at the garden approach with the white-gap board, telling the people there which opening was the real one and where the new iron had fallen away.",
+      "start": 846.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 863.31
+    },
+    {
+      "id": "p0143",
+      "text": "Grasshopper Man shifted his braced leg farther from the handle. The chair scraped on the paving, leaving one foot too close to the cover. He stopped helping until Mrs Lin could move it back. Without his small share of the pressure, the wooden handle rose against her shoulder.",
+      "start": 863.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 879.36
+    },
+    {
+      "id": "p0144",
+      "text": "“Keep the chair there,” he told Inez.",
+      "start": 879.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 882.31
+    },
+    {
+      "id": "p0145",
+      "text": "She put her foot against it and held the phone higher, clear of the water. His right knee trembled inside the brace. He waited for the tremor to pass rather than pretending it hadn't happened, then set both hands on the supported wood again.",
+      "start": 882.31,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 896.73
+    },
+    {
+      "id": "p0146",
+      "text": "From beneath the wall Grim watched the three of them hold their separate parts of the same awkward thing. He moved his own feet onto a higher ledge.",
+      "start": 896.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 904.95
+    },
+    {
+      "id": "p0147",
+      "text": "“Again,” Mrs Lin said.",
+      "start": 904.95,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 907.1
+    },
+    {
+      "id": "p0148",
+      "text": "They pressed.",
+      "start": 907.1,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 908.34
+    },
+    {
+      "id": "p0149",
+      "text": "The handle moved an inch. From below came a solid rush of water, then a thud. Something was still holding the gate before it could open fully.",
+      "start": 908.34,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 917.0
+    },
+    {
+      "id": "p0150",
+      "text": "Grasshopper Man lifted his head, listening.",
+      "start": 917.0,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 919.7
+    },
+    {
+      "id": "p0151",
+      "text": "“Not the hinge.”",
+      "start": 919.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 920.93
+    },
+    {
+      "id": "p0152",
+      "text": "Mrs Lin held her pressure. He touched the handle with two fingers, felt the vibration and looked toward the house.",
+      "start": 920.93,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 928.1
+    },
+    {
+      "id": "p0153",
+      "text": "“Something's across the other side.”",
+      "start": 928.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 930.36
+    },
+    {
+      "id": "p0154",
+      "text": "She sent that through the phone.",
+      "start": 930.36,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 932.41
+    },
+    {
+      "id": "p0155",
+      "text": "Mabel heard the message while she was sliding the second wedge into place.",
+      "start": 932.41,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 936.54
+    },
+    {
+      "id": "p0156",
+      "text": "The timber was sound. The floor beneath it was not level. She moved the torch, found a shallow groove and set the broad side across it. The wedge held. Justin checked both supports, then moved his hand back to the jack.",
+      "start": 936.54,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 950.19
+    },
+    {
+      "id": "p0157",
+      "text": "“The gate won't open fully,” she told him.",
+      "start": 950.19,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 953.19
+    },
+    {
+      "id": "p0158",
+      "text": "He looked at the water line against the root. “They need the obstruction clear.”",
+      "start": 953.19,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 957.28
+    },
+    {
+      "id": "p0159",
+      "text": "RG smiled with a weariness that frightened her more than pleasure would have.",
+      "start": 957.28,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 961.78
+    },
+    {
+      "id": "p0160",
+      "text": "“You haven't got enough people for the place you've come into.”",
+      "start": 961.78,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 964.84
+    },
+    {
+      "id": "p0161",
+      "text": "Mabel looked toward the service trench. It ran along the retaining wall, under two loose boards, to the outside access. Something dark crossed it below the water. A new brace, perhaps, or a length of discarded iron carried into the channel.",
+      "start": 964.84,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 978.86
+    },
+    {
+      "id": "p0162",
+      "text": "She reached for the torch to see more clearly.",
+      "start": 978.86,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 981.22
+    },
+    {
+      "id": "p0163",
+      "text": "The low chamber became their kitchen.",
+      "start": 981.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 983.74
+    },
+    {
+      "id": "p0164",
+      "text": "For a moment her knees were on a dry floor. Justin sat at the table, unhurt. Her right hand lay on a towel without a bandage. Beyond the window the nasturtiums moved in air that smelled of warm bread.",
+      "start": 983.74,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 995.52
+    },
+    {
+      "id": "p0165",
+      "text": "She did not feel the transition. She was simply in it, with all the need to be there.",
+      "start": 995.52,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1001.3
+    },
+    {
+      "id": "p0166",
+      "text": "Then the water touched the top of her shoe.",
+      "start": 1001.3,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1003.69
+    },
+    {
+      "id": "p0167",
+      "text": "She pressed her left hand against the rough timber she had just placed and held on. The pleasant floor thinned beneath her fingers. Across the real chamber RG still had his hand on the old iron.",
+      "start": 1003.69,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 1014.63
+    },
+    {
+      "id": "p0168",
+      "text": "Behind him, something unfolded from the root.",
+      "start": 1014.63,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 1016.800083
+    }
+  ]
+}

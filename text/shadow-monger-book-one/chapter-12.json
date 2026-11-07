@@ -1,0 +1,859 @@
+{
+  "version": 1,
+  "chapterId": "shadow-monger-book-one-12",
+  "duration": 934.880042,
+  "alignment": "Canonical book paragraphs use fixed synthesis boundaries and cached local Whisper word timestamps; unmatched starts are interpolated.",
+  "paragraphs": [
+    {
+      "id": "p0001",
+      "text": "The Overflow",
+      "start": 0.0,
+      "timing": "segment",
+      "kind": "title",
+      "end": 1.52
+    },
+    {
+      "id": "p0002",
+      "text": "There were seven steps into the pump chamber. Mabel counted them with one hand on the plaster, keeping Mrs Lin close enough to touch. At the bottom her shoe went into water. It was cold and only a few inches deep, with a slow current toward a low opening in the far wall.",
+      "start": 1.52,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 17.6
+    },
+    {
+      "id": "p0003",
+      "text": "Above them, glass broke.",
+      "start": 17.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 19.74
+    },
+    {
+      "id": "p0004",
+      "text": "Mrs Lin reached for the stair rail. The sound moved through the confined space, a long brittle shower followed by the heavy scrape of the cupboard. Mabel called Justin's name before remembering where she had put her phone. The small rectangle on the desk might as well have been on a different hill.",
+      "start": 19.74,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 36.25
+    },
+    {
+      "id": "p0005",
+      "text": "“Here,” Mrs Lin said.",
+      "start": 36.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 38.63
+    },
+    {
+      "id": "p0006",
+      "text": "She had found a switch beside the bottom step. A light came on behind a wire guard, showing the chamber's low ceiling and the pipework along one wall. The water was cloudy with grit. A timber partition enclosed the pump. Beyond it, the opening led into a broad old overflow culvert, large enough for someone to get through on hands and knees.",
+      "start": 38.63,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 59.55
+    },
+    {
+      "id": "p0007",
+      "text": "“Does that reach the cover?” Mabel asked.",
+      "start": 59.55,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 62.09
+    },
+    {
+      "id": "p0008",
+      "text": "“It should.”",
+      "start": 62.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 63.08
+    },
+    {
+      "id": "p0009",
+      "text": "“Have you been through?”",
+      "start": 63.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 64.18
+    },
+    {
+      "id": "p0010",
+      "text": "“No.”",
+      "start": 64.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 65.16
+    },
+    {
+      "id": "p0011",
+      "text": "Mabel took her torch out. Its beam reached perhaps eight feet into the culvert before the passage turned. There was no obvious collapse, no grille across its mouth, no guarantee. Above them something struck the floor with a force that disturbed the surface of the water.",
+      "start": 65.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 81.14
+    },
+    {
+      "id": "p0012",
+      "text": "“We try it,” she said.",
+      "start": 81.14,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 83.31
+    },
+    {
+      "id": "p0013",
+      "text": "Mrs Lin nodded. She moved forward, and the bottom stair shifted behind her.",
+      "start": 83.31,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 88.62
+    },
+    {
+      "id": "p0014",
+      "text": "It was a small displacement, no more than an inch, but it caught the heel of her shoe between timber and the edge of the pump partition. She stumbled and put out her hands. Mabel caught her under one arm, taking most of her weight. The water slapped against their legs.",
+      "start": 88.62,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 103.09
+    },
+    {
+      "id": "p0015",
+      "text": "“Don't pull,” Mrs Lin said sharply.",
+      "start": 103.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 106.1
+    },
+    {
+      "id": "p0016",
+      "text": "Mabel stopped. The shoe had been trapped, not the foot, but the angle held her ankle twisted. Mrs Lin tried to undo its fastening and couldn't bend far enough in the narrow space. Mabel lowered her onto the next step. Through the open doorway above, a fragment of glass fell and broke on the landing.",
+      "start": 106.1,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 123.85
+    },
+    {
+      "id": "p0017",
+      "text": "Mabel got the first-aid pouch from her bag. She knew where the scissors were. She had put them there herself on an ordinary afternoon, replacing a cheap pair that wouldn't cut a dressing. Her hands shook as she opened the pouch.",
+      "start": 123.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 137.7
+    },
+    {
+      "id": "p0018",
+      "text": "“We'll cut the shoe,” she said.",
+      "start": 137.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 140.28
+    },
+    {
+      "id": "p0019",
+      "text": "Mrs Lin looked at it. “It's new.”",
+      "start": 140.28,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 142.66
+    },
+    {
+      "id": "p0020",
+      "text": "“I'm sorry.”",
+      "start": 142.66,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 143.79
+    },
+    {
+      "id": "p0021",
+      "text": "“Don't be. Cut it.”",
+      "start": 143.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 145.65
+    },
+    {
+      "id": "p0022",
+      "text": "Mabel knelt in the water, put her left hand beneath Mrs Lin's calf and worked the scissors through the strap. At the second cut the stair moved again. She reached out with her right hand to stop herself falling and found a broken piece of glass on the wet step.",
+      "start": 145.65,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 160.45
+    },
+    {
+      "id": "p0023",
+      "text": "Pain opened across the heel of her palm. She lifted it, staring for a second at the bright line, and then the blood came. Mrs Lin made a sound of dismay. Mabel pressed her hand against the cloth pouch, finished the cut with her left hand guiding the scissors, and pulled the ruined shoe free.",
+      "start": 160.45,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 178.64
+    },
+    {
+      "id": "p0024",
+      "text": "The foot came out.",
+      "start": 178.64,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 180.09
+    },
+    {
+      "id": "p0025",
+      "text": "Mrs Lin put both arms round Mabel's shoulders. They sat together on the step, wet to the waist, breathing too fast. Mabel wanted to close her eyes. She wanted someone else to decide the next thing. Above the seven steps, in the room with Mrs Lin's folded glasses, a stone object moved across the floor.",
+      "start": 180.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 198.46
+    },
+    {
+      "id": "p0026",
+      "text": "She stood. Mrs Lin used the wall to get up beside her, one foot bare in the cold water. Mabel shifted the torch into her left hand and steadied its beam on the culvert.",
+      "start": 198.46,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 209.75
+    },
+    {
+      "id": "p0027",
+      "text": "“The water,” Mrs Lin said. “Turn the pump off.”",
+      "start": 209.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 213.31
+    },
+    {
+      "id": "p0028",
+      "text": "The switch beside the light was labelled. Mabel used her elbow. The motor stopped, and beneath its absence she heard another sound: someone calling from beyond the turn in the culvert.",
+      "start": 213.31,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 224.18
+    },
+    {
+      "id": "p0029",
+      "text": "She did not go toward it. She shone the torch along the water and waited.",
+      "start": 224.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 229.58
+    },
+    {
+      "id": "p0030",
+      "text": "Outside, Justin found the hardwood handle exactly where they'd left it. He stood beside the broken side doorway with Mabel's voice coming faintly from his phone, then only scraping and a distant crash. Calling her name produced no answer. Through the phone he could hear what he could not see: something moving in the survey room, close to the microphone.",
+      "start": 229.58,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 249.57
+    },
+    {
+      "id": "p0031",
+      "text": "He ended the call. For a moment the silence in his hand seemed unbearable.",
+      "start": 249.57,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 255.09
+    },
+    {
+      "id": "p0032",
+      "text": "The side path still reached the square cover. The paving had buckled near the lion's first step, but the cover remained half hidden by the shrub. Grim stood on its far edge with both arms inside the handle loop, trying to lift it. His cloth bandage had come loose and trailed over the concrete.",
+      "start": 255.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 272.4
+    },
+    {
+      "id": "p0033",
+      "text": "“Are they down there?” Justin asked.",
+      "start": 272.4,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 274.37
+    },
+    {
+      "id": "p0034",
+      "text": "Grim pointed. “Foots and more foots. Too much wet.”",
+      "start": 274.37,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 278.75
+    },
+    {
+      "id": "p0035",
+      "text": "Justin put the long handle beside him. Grim's face changed with uncomplicated pleasure.",
+      "start": 278.75,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 284.86
+    },
+    {
+      "id": "p0036",
+      "text": "“Length.”",
+      "start": 284.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 285.81
+    },
+    {
+      "id": "p0037",
+      "text": "“Mabel brought it. Can you use it?”",
+      "start": 285.81,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 288.35
+    },
+    {
+      "id": "p0038",
+      "text": "Grim pushed the narrow end through the loop, set it against a raised stone edge and tested it. The cover shifted, then dropped. He was too light to hold the far end down alone. Justin put his weight against it. The cover lifted a few inches, enough to show dark water below, but no people. A low passage continued away beneath the house.",
+      "start": 288.35,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 307.92
+    },
+    {
+      "id": "p0039",
+      "text": "“Hold it if you can,” Justin said. “I have to find them.”",
+      "start": 307.92,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 311.56
+    },
+    {
+      "id": "p0040",
+      "text": "Grim bared his small teeth with effort. “I'll be long.”",
+      "start": 311.56,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 315.35
+    },
+    {
+      "id": "p0041",
+      "text": "Justin wedged a loose paving fragment beneath the cover so it couldn't shut completely. He didn't ask Grim to manage more than that. The gap could let voices and a little light through even if the lever slipped.",
+      "start": 315.35,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 327.04
+    },
+    {
+      "id": "p0042",
+      "text": "He went round the back of the house. Here the rising garden met the survey room's wall, bringing its high interior window to chest height. A narrow retaining shelf gave him somewhere to stand. Through the glass he could see the desk and the phone lying beside his folders. The window was shut. A brass catch held it from inside.",
+      "start": 327.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 346.42
+    },
+    {
+      "id": "p0043",
+      "text": "He called Mabel again. The phone lit up on the desk. Its sound was clear through the pane, a small familiar tune in the wrong place. There was no person beside it.",
+      "start": 346.42,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 357.18
+    },
+    {
+      "id": "p0044",
+      "text": "The window had a narrow upper section standing open for ventilation. He could not reach the catch through it. He took off his jacket, wrapped it round one hand and struck the lower pane with a loose stone from the retaining shelf. The first blow made a star. The second sent glass inward across the sill. He cleared only enough to reach the catch and opened the frame away from the broken edge.",
+      "start": 357.18,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 378.87
+    },
+    {
+      "id": "p0045",
+      "text": "There was a sound behind the cupboard, something breathing with the weight of a building. Justin climbed through.",
+      "start": 378.87,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 385.63
+    },
+    {
+      "id": "p0046",
+      "text": "His feet landed beside the root. He stood very still. The lower bar had moved across the return, but not to the filed mark. A thin space remained beneath it. The iron frame was not a picture of something any more. The rods took strain from one another, and the living fibres round them tightened when the cupboard shuddered.",
+      "start": 385.63,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 405.2
+    },
+    {
+      "id": "p0047",
+      "text": "He took Mabel's phone and the folders. One folder had slid open. The photographed old sketch lay on top, its plain, incomplete outline suddenly understandable beside the real thing.",
+      "start": 405.2,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 416.17
+    },
+    {
+      "id": "p0048",
+      "text": "The cupboard moved. A stone claw came through the splintered door behind it.",
+      "start": 416.17,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 421.03
+    },
+    {
+      "id": "p0049",
+      "text": "Justin put a loose sheet over the lower sleeve and rubbed it with the side of a thick pencil from Mrs Lin's desk. The rough iron caught the paper at two ridges. He stopped before it tore through, folded the impression once and pushed it into the folder. There was a roll of plans beneath the desk, tied with a label referring to the lower chamber. He bent to take it.",
+      "start": 421.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 442.62
+    },
+    {
+      "id": "p0050",
+      "text": "From below the pump door Mabel cried out.",
+      "start": 442.62,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 445.49
+    },
+    {
+      "id": "p0051",
+      "text": "He left the plans. The decision was made before he had time to catalogue what they might contain. He went down the steps with the folders under one arm and the two phones in his pocket.",
+      "start": 445.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 456.85
+    },
+    {
+      "id": "p0052",
+      "text": "At the bottom Mrs Lin sat against the wall, one foot bare, while Mabel held a bloodied cloth round her right hand. The scissors lay open on the step. Water moved round their legs toward the low passage. Seeing him, Mabel made a sound that was almost a laugh and wasn't.",
+      "start": 456.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 475.03
+    },
+    {
+      "id": "p0053",
+      "text": "“The cover,” he said. “It's real. Grim's there.”",
+      "start": 475.03,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 478.86
+    },
+    {
+      "id": "p0054",
+      "text": "She looked at him, then at the folders. For an instant he thought she would ask whether he'd risked himself for paper. She took the torch in her left hand instead and shone it toward the opening.",
+      "start": 478.86,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 490.37
+    },
+    {
+      "id": "p0055",
+      "text": "Mrs Lin got up. She couldn't put her bare foot down without flinching. Justin took her arm, and Mabel crouched to retrieve the scissors. A deeper crack came from the room above. The pump had stopped. The water level against Justin's trousers was already a little lower.",
+      "start": 490.37,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 506.46
+    },
+    {
+      "id": "p0056",
+      "text": "“It comes back round,” Mrs Lin said. “That's the trouble. There isn't enough fall when the run's closed.”",
+      "start": 506.46,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 513.08
+    },
+    {
+      "id": "p0057",
+      "text": "He looked up toward the iron return he had just rubbed onto paper. A circuit with no useful way out. He couldn't decide how much of the connection was engineering and how much was something older, and no longer needed to decide before moving.",
+      "start": 513.08,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 528.06
+    },
+    {
+      "id": "p0058",
+      "text": "They entered the culvert.",
+      "start": 528.06,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 529.98
+    },
+    {
+      "id": "p0059",
+      "text": "Mabel went first, holding the torch low in her left hand. The culvert was an old covered watercourse, its sides built from different ages of stone and concrete. It smelled of cold soil and rotting leaves. She kept her injured hand against her chest and moved on one knee and her left forearm, an ugly slow motion that hurt at every change of weight.",
+      "start": 529.98,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 551.3
+    },
+    {
+      "id": "p0060",
+      "text": "Behind her Mrs Lin breathed steadily through her mouth. Justin supported her where he could. The space did not allow comfort or elegant assistance. A projecting root caught Mabel's bag strap. She backed an inch, freed it without pulling the root and went on. She could hear water dripping from the folders somewhere behind her and hoped the important pages were inside their covers.",
+      "start": 551.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 572.73
+    },
+    {
+      "id": "p0061",
+      "text": "The bag caught again. This time she couldn't get her left arm far enough behind her to release it. She tried to turn and found the ceiling against her shoulder. For a moment the whole culvert seemed to tighten. She knew it might be only her body meeting its limits, but knowing made no space.",
+      "start": 572.73,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 590.22
+    },
+    {
+      "id": "p0062",
+      "text": "“Stop,” Mrs Lin said.",
+      "start": 590.22,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 592.8
+    },
+    {
+      "id": "p0063",
+      "text": "Mabel stopped. Her breath came back from the wall, hot against her face. Water soaked through the knee of her trousers. She could feel blood working into the cloth pressed round her palm and could not see how much.",
+      "start": 592.8,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 605.16
+    },
+    {
+      "id": "p0064",
+      "text": "Mrs Lin moved close enough to reach the strap. “Lift your elbow. A little.”",
+      "start": 605.16,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 610.12
+    },
+    {
+      "id": "p0065",
+      "text": "Mabel obeyed. The pressure released. Mrs Lin drew the bag backward and worked it off Mabel's shoulder without pulling her injured hand away from her chest.",
+      "start": 610.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 620.7
+    },
+    {
+      "id": "p0066",
+      "text": "“I'll push it,” she said. “You go.”",
+      "start": 620.7,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 623.46
+    },
+    {
+      "id": "p0067",
+      "text": "“Your foot—”",
+      "start": 623.46,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 624.6
+    },
+    {
+      "id": "p0068",
+      "text": "“Is still attached. Go.”",
+      "start": 624.6,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 626.96
+    },
+    {
+      "id": "p0069",
+      "text": "Mabel went. The bag scraped behind her, dipped in water, moved again. When it stopped, she waited until Mrs Lin pushed it forward. Then she crawled another few inches.",
+      "start": 626.96,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 638.85
+    },
+    {
+      "id": "p0070",
+      "text": "A line of mortar grazed her shoulder. She pressed lower and felt the cold water touch her chin. Beyond the torch beam the dark remained complete. She didn't imagine what might be in it. Keeping the beam on the few feet before her took all the concentration she had.",
+      "start": 638.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 656.12
+    },
+    {
+      "id": "p0071",
+      "text": "At the bend the torch showed two possible openings.",
+      "start": 656.12,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 659.44
+    },
+    {
+      "id": "p0072",
+      "text": "One was broad and dry. A pale strip of daylight lay beyond it. The other was narrower, with water running through it and a low ceiling that required her to lower her head almost to the surface.",
+      "start": 659.44,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 671.58
+    },
+    {
+      "id": "p0073",
+      "text": "From the dry opening Justin's voice said, “This way.”",
+      "start": 671.58,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 674.79
+    },
+    {
+      "id": "p0074",
+      "text": "He was behind her, helping Mrs Lin.",
+      "start": 674.79,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 678.05
+    },
+    {
+      "id": "p0075",
+      "text": "Mabel stopped. The water pressed against her left sleeve. Her right hand throbbed so violently it seemed to have its own pulse separate from the rest of her.",
+      "start": 678.05,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 686.71
+    },
+    {
+      "id": "p0076",
+      "text": "“There are two ways,” she said.",
+      "start": 686.71,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 689.78
+    },
+    {
+      "id": "p0077",
+      "text": "Justin moved close enough that she could feel his shoulder against her heel. “Which one has the water?”",
+      "start": 689.78,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 694.83
+    },
+    {
+      "id": "p0078",
+      "text": "She pointed the torch.",
+      "start": 694.83,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 696.45
+    },
+    {
+      "id": "p0079",
+      "text": "“The cover drains,” he said. “It was wet underneath. And there was a piece missing from one corner.”",
+      "start": 696.45,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 702.04
+    },
+    {
+      "id": "p0080",
+      "text": "She looked down the narrow opening. At its end, beyond the torch's reach, a small pale triangle showed where light passed through the wedged gap. She couldn't know whether it was the right triangle. She could hear a faint, cheerful complaint about being too short, and the complaint included a word neither of them had spoken in the house.",
+      "start": 702.04,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 721.68
+    },
+    {
+      "id": "p0081",
+      "text": "“Grim?” she called.",
+      "start": 721.68,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 723.49
+    },
+    {
+      "id": "p0082",
+      "text": "“Not yet. Still Graymish.”",
+      "start": 723.49,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 725.85
+    },
+    {
+      "id": "p0083",
+      "text": "She moved toward it. The dry opening remained at her shoulder, bright and easy and smelling faintly of cut grass. For several feet she wanted it so badly that she had to keep her eyes on the torch beam to avoid turning.",
+      "start": 725.85,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 738.8
+    },
+    {
+      "id": "p0084",
+      "text": "At the end she could see the cover's underside, the hardwood handle passing through its loop, and Grim's bandaged hand holding the wood. Above him there was a slice of sky. A stranger's voice, adult and alarmed, called down through the gap.",
+      "start": 738.8,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 754.62
+    },
+    {
+      "id": "p0085",
+      "text": "“There's someone in there.”",
+      "start": 754.62,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 756.07
+    },
+    {
+      "id": "p0086",
+      "text": "The handle moved. The cover rose higher, water falling from its edge. Grim withdrew his hand just before a gloved one took its place. Mabel passed up the bag first, then the torch. Someone told her to use her uninjured hand. She hadn't noticed she had shown them the blood.",
+      "start": 756.07,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 773.29
+    },
+    {
+      "id": "p0087",
+      "text": "They helped her onto the path. For a moment she lay on her side with the cold paving against her cheek, unable to do anything useful with the amount of air available. The sky looked too large. She heard Mrs Lin below and made herself sit up.",
+      "start": 773.29,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 787.5
+    },
+    {
+      "id": "p0088",
+      "text": "Two firefighters had the cover braced open. A third took Mrs Lin's arms while Justin lifted from beneath. The caretaker came out wet and furious, missing a shoe and still wearing the vest with her keys and notebook. Justin followed with the folders pressed flat beneath his shirt.",
+      "start": 787.5,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 803.23
+    },
+    {
+      "id": "p0089",
+      "text": "He sat beside Mabel and put her phone in her good hand.",
+      "start": 803.23,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 806.42
+    },
+    {
+      "id": "p0090",
+      "text": "“I left it,” she said.",
+      "start": 806.42,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 808.34
+    },
+    {
+      "id": "p0091",
+      "text": "“I found it.”",
+      "start": 808.34,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 809.43
+    },
+    {
+      "id": "p0092",
+      "text": "There was no room for any more of that conversation. A medic knelt in front of her and asked about her hand. Behind him Mrs Lin was telling someone not to enter through the side door. The lions stood at the front again, visible through the shrubs, both facing the street. One plinth had a fresh pale scrape and an empty dark footprint where the statue had stood.",
+      "start": 809.43,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 830.16
+    },
+    {
+      "id": "p0093",
+      "text": "The firefighters moved them clear of the damaged side door. One asked Mrs Lin whether anybody else was inside. She said no, then pointed out the broken passage glass before he could approach it. They kept the building closed pending an assessment. Mrs Lin called the owners. When she got RG's incoming call a moment later, she silenced it.",
+      "start": 830.16,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 851.3
+    },
+    {
+      "id": "p0094",
+      "text": "Grim had disappeared into the shrub. The hardwood handle lay beside the cover, wet along its lower half. Mabel pointed to it before they moved her away.",
+      "start": 851.3,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 860.97
+    },
+    {
+      "id": "p0095",
+      "text": "“That's borrowed.”",
+      "start": 860.97,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 862.09
+    },
+    {
+      "id": "p0096",
+      "text": "Justin picked it up.",
+      "start": 862.09,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 863.92
+    },
+    {
+      "id": "p0097",
+      "text": "By late afternoon Mabel had three stitches in the heel of her right palm, a large dressing and instructions she wrote down because she did not trust herself to remember them. Mrs Lin's foot was bruised, not broken. Her son had come to fetch her from the clinic. She had insisted on showing him the cut shoe before anyone threw it away.",
+      "start": 863.92,
+      "timing": "segment",
+      "kind": "paragraph",
+      "breakBefore": true,
+      "end": 883.05
+    },
+    {
+      "id": "p0098",
+      "text": "Justin waited while Mabel washed the untouched parts of her hands. His trousers had dried stiff at the knees. Every time he closed his eyes he saw the pencil moving over the iron while something stood behind the cupboard.",
+      "start": 883.05,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 895.25
+    },
+    {
+      "id": "p0099",
+      "text": "“You left some,” she said when she came out.",
+      "start": 895.25,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 898.0
+    },
+    {
+      "id": "p0100",
+      "text": "“Plans. A whole roll.”",
+      "start": 898.0,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 900.02
+    },
+    {
+      "id": "p0101",
+      "text": "“I know.”",
+      "start": 900.02,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 901.01
+    },
+    {
+      "id": "p0102",
+      "text": "“They might have—”",
+      "start": 901.01,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 902.13
+    },
+    {
+      "id": "p0103",
+      "text": "He stopped. She was looking at him with an attention that had nothing to do with proving a point.",
+      "start": 902.13,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 907.81
+    },
+    {
+      "id": "p0104",
+      "text": "“You came down,” she said.",
+      "start": 907.81,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 910.16
+    },
+    {
+      "id": "p0105",
+      "text": "He nodded. His throat hurt suddenly, as though he had swallowed something too large. She put her left hand against his cheek. He covered it with his own and stood there with her in the clinic corridor until someone needed to pass.",
+      "start": 910.16,
+      "timing": "word-aligned",
+      "kind": "paragraph",
+      "end": 922.77
+    },
+    {
+      "id": "p0106",
+      "text": "Outside, they called her sister. There was no discussion about where they would sleep. Justin put the folders on the car's back seat, beside the muddy hardwood handle, and drove away from the hill.",
+      "start": 922.77,
+      "timing": "segment",
+      "kind": "paragraph",
+      "end": 934.880042
+    }
+  ]
+}
